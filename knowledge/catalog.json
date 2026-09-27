@@ -139,6 +139,87 @@
   ],
   "reports": [
     {
+      "id": "task-evidence-controls-2026-09-27",
+      "title": "任务变化、能力证据与执行权限",
+      "summaryFile": "./knowledge/wiki/task-evidence-controls-2026-09-27.md",
+      "description": "从小厂任务调整、技能调查与官方岗位样本辨析责任、证据和授权，不将意图写成效果。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
+      "date": "2026-09-27",
+      "uploadDate": "2026-09-27",
+      "tags": [
+        "信息库",
+        "工作设计",
+        "证据边界"
+      ],
+      "related": [
+        "./knowledge/wiki/work-redesign-evidence-2026-09-25.md"
+      ],
+      "backlinks": [
+        "./daily/2026-09-27.md",
+        "./daily-report/2026-09-27.md"
+      ]
+    },
+    {
+      "id": "info-weekly-2026-W39-quick",
+      "title": "W39 信息库周报｜快速导读",
+      "summaryFile": "./daily/weekly-2026-W39.md",
+      "description": "截至9月27日晨间，覆盖本周六个信息日，明确26日缺交付；五项工作判断与三个小试验。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
+      "date": "2026-09-27",
+      "uploadDate": "2026-09-27",
+      "tags": [
+        "信息库",
+        "工作设计",
+        "证据边界"
+      ],
+      "related": [
+        "./knowledge/wiki/work-redesign-evidence-2026-09-25.md"
+      ],
+      "backlinks": [
+        "./daily/2026-09-27.md",
+        "./daily-report/2026-09-27.md"
+      ]
+    },
+    {
+      "id": "info-weekly-2026-W39-detailed",
+      "title": "W39 信息库周报｜详细资料",
+      "summaryFile": "./daily-report/weekly-2026-W39.md",
+      "description": "本周来源地图、41张卡片分类、冲突、应用边界和追踪问题；缺口不计新增。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
+      "date": "2026-09-27",
+      "uploadDate": "2026-09-27",
+      "tags": [
+        "信息库",
+        "工作设计",
+        "证据边界"
+      ],
+      "related": [
+        "./knowledge/wiki/work-redesign-evidence-2026-09-25.md"
+      ],
+      "backlinks": [
+        "./daily/2026-09-27.md",
+        "./daily-report/2026-09-27.md"
+      ]
+    },
+    {
       "id": "work-redesign-evidence-2026-09-25",
       "title": "工作重设计的责任、时间与决定权",
       "author": "OD Intelligence Center",
