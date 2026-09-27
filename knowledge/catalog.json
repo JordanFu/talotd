@@ -5083,6 +5083,30 @@
         "govinfo.gov"
       ],
       "originalUrl": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-4_22-md-03047/pdf/USCOURTS-cand-4_22-md-03047-133.pdf"
+    },
+    {
+      "id": "p095",
+      "title": "7520958",
+      "originalTitle": "7520958",
+      "author": "papers.ssrn.com",
+      "publisher": "papers.ssrn.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-09-27",
+      "description": "7520958 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-papers-ssrn-com-7520958.md",
+      "rawFile": "",
+      "fileName": "papers-ssrn-com-7520958.pdf",
+      "fileSize": "download pending",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "papers.ssrn.com"
+      ],
+      "originalUrl": "https://papers.ssrn.com/sol3/Delivery.cfm/7520958.pdf?abstractid=7520958&mirid=1"
     }
   ]
 }
