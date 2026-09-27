@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T06:48:14.365Z",
+  "generatedAt": "2026-09-27T10:21:31.448Z",
   "module": "topic-projects",
   "project": {
     "id": "ai-org-talent-mechanism",
@@ -7,11 +7,11 @@
     "root": "specials/ai-org-talent-mechanism"
   },
   "qualityStatus": "warn",
-  "latestFormalDate": "2026-09-26",
+  "latestFormalDate": "2026-09-27",
   "latestAnyDate": "2026-09-27",
   "today": "2026-09-27",
-  "todayStatus": "scheduled",
-  "latestStatus": "scheduled",
+  "todayStatus": "formal",
+  "latestStatus": "formal",
   "pendingRerunDates": [
     "2026-09-16",
     "2026-09-11",
@@ -39,8 +39,7 @@
     "2026-05-13"
   ],
   "statusCounts": {
-    "scheduled": 1,
-    "formal": 113,
+    "formal": 114,
     "fallback": 24
   },
   "statusDefinitions": {
@@ -53,8 +52,8 @@
   "dates": [
     {
       "date": "2026-09-27",
-      "status": "scheduled",
-      "isFormal": false,
+      "status": "formal",
+      "isFormal": true,
       "isFallback": false,
       "needsRerun": false,
       "overview": "specials/ai-org-talent-mechanism/2026-09-27/00-overview.html",
@@ -96,12 +95,9 @@
       "hasFormalEntry": true,
       "qualityGate": {
         "path": "specials/ai-org-talent-mechanism/quality/2026-09-27.md",
-        "status": "warn-or-unknown"
+        "status": "pass-or-warn"
       },
-      "qualityIssues": [
-        "正文包含兜底/非决策稿/待正式重跑关键词",
-        "未到今日 18:00 正式自动化运行时间；现有内容仅作状态记录"
-      ]
+      "qualityIssues": []
     },
     {
       "date": "2026-09-26",
@@ -6867,25 +6863,30 @@
   ],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-09-27T06:49:04.618Z",
+    "checkedAt": "2026-09-27T10:21:35.392Z",
     "qualityStatus": "warn",
     "firstPartyChecked": 4080,
-    "externalWarnings": 12,
+    "externalWarnings": 14,
     "brokenCount": 0,
     "publicScanBridge": [
       {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/"
+        "ok": false,
+        "hardBroken": false,
+        "status": null,
+        "url": "https://jordanfu.github.io/org-intelligence-info/",
+        "reason": "network check warning: fetch failed"
       },
       {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-09-27.html"
+        "ok": false,
+        "hardBroken": false,
+        "status": null,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-09-27.html",
+        "reason": "network check warning: fetch failed"
       }
     ]
   },
   "warnings": [
-    "external link not hard-checked in Phase 1"
+    "external link not hard-checked in Phase 1",
+    "network check warning: fetch failed"
   ]
 }
