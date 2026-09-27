@@ -40,6 +40,7 @@
 
 | 资料 | 对本专题的价值 |
 |---|---|
+| [任务变化、能力证据与执行权限](./knowledge/wiki/task-evidence-controls-2026-09-27.md) | 从小厂任务调整、技能调查与官方岗位样本辨析责任、证据和授权，不将意图写成效果。 |
 | [工作重设计的责任、时间与决定权](./knowledge/wiki/work-redesign-evidence-2026-09-25.md) | 连接流程责任、团队授权与学习机会，保留使用考核的反向检验；建议不等于成效。 |
 | [本地知识库定期 Review（2026-09-21）](./knowledge/wiki/local-knowledge-review-2026-09-21.md) | 本周知识库巡检报告，覆盖 80 个公开 PDF 来源、近期 7 张机制比较页、PDF 模板与来源类型债务、历史专题补跑、分享入口和 AI 组织研究优先级。 |
 | [人才定价与学习机会：比较口径先于AI标签](./knowledge/wiki/price-and-learning-evidence-2026-09-21.md) | 比较公开岗位薪带、研发招聘意向与新人学习机会，给出薪酬、招聘和培养的试验安排；区分字段观察、媒体引述与观点。 |
@@ -51,7 +52,6 @@
 | [人机协作演进框架：Author、Editor、Director、Orchestrator](./knowledge/wiki/human-agent-collaboration-evolution.md) | 把人机协作拆成四种模式，强调人类签核单元从单行代码扩大到 backlog，适合用于岗位重塑、AI fluency 和绩效归属研究。 |
 | [McKinsey：AI-first 时代端到端技术 workforce 设计](./knowledge/wiki/pdf-source-mckinsey-2026-ai-first-technology-workforce.md) | McKinsey Technology 文章，讨论 agentic AI 时代 CIO 如何重构技术组织的人才招聘、内部能力建设、Agent 训练和供应商策略。适合用于 AI-first 技术岗位族群和职级变化研究。 |
 | [知识库定期 Review 基线报告](./knowledge/wiki/local-knowledge-review-2026-05-22.md) | 定时任务启动前的本地知识库人工预检报告，记录 catalog、raw/wiki 引用、索引、分享能力和 Downloads 新资料处理结果，并固化后续每周 review 口径。 |
-| [本地知识库定期 Review（2026-06-29）](./knowledge/wiki/local-knowledge-review-2026-06-29.md) | 本地知识库定期巡检报告，记录 PDF 自动入库、私有路径脱敏修复、专题覆盖审计、PDF 待重试项和下一步治理建议。 |
 
 ## 当前不可越界的结论
 
