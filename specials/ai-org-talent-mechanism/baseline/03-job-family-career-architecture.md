@@ -40,6 +40,7 @@
 
 | 资料 | 对本专题的价值 |
 |---|---|
+| [学习与控制的闭环](./knowledge/wiki/learning-and-control-2026-09-28.md) | 从人才供给、事件复盘和岗位样本区分参与记录与实际结果；实践机会、停止权限与资源配套。 |
 | [任务变化、能力证据与执行权限](./knowledge/wiki/task-evidence-controls-2026-09-27.md) | 从小厂任务调整、技能调查与官方岗位样本辨析责任、证据和授权，不将意图写成效果。 |
 | [人才定价与学习机会：比较口径先于AI标签](./knowledge/wiki/price-and-learning-evidence-2026-09-21.md) | 比较公开岗位薪带、研发招聘意向与新人学习机会，给出薪酬、招聘和培养的试验安排；区分字段观察、媒体引述与观点。 |
 | [责任、能力与授权边界：试点前的三项检查](./knowledge/wiki/capability-and-authority-2026-09-20.md) | 比较专家合作、业务平台接口与数据用途边界，不把岗位和公告当成实施后效。 |
@@ -51,7 +52,6 @@
 | [AI责任与员工负担：四个实施前检查](./knowledge/wiki/ai-decision-workload-2026-09-14.md) | 从咨询建议、岗位意图与员工体验识别人工决定、维护支持和净负担问题；不把旧线或弱信号包装为新增。 |
 | [Cisco：AI 智能体如何重写网络安全岗位、技能与人才入口](./knowledge/wiki/cisco-ai-agents-cybersecurity-workforce-2026.md) | 将 G7 网络安全招聘数据、AI 技能薪酬信号、入口岗位断层、执行责任变宽和核心专家深化放入同一组织机制分析；明确 14.9% 是招聘市场横截面价差，不是企业普遍涨薪。 |
 | [人机协作演进框架：Author、Editor、Director、Orchestrator](./knowledge/wiki/human-agent-collaboration-evolution.md) | 把人机协作拆成四种模式，强调人类签核单元从单行代码扩大到 backlog，适合用于岗位重塑、AI fluency 和绩效归属研究。 |
-| [McKinsey：AI-first 时代端到端技术 workforce 设计](./knowledge/wiki/pdf-source-mckinsey-2026-ai-first-technology-workforce.md) | McKinsey Technology 文章，讨论 agentic AI 时代 CIO 如何重构技术组织的人才招聘、内部能力建设、Agent 训练和供应商策略。适合用于 AI-first 技术岗位族群和职级变化研究。 |
 
 ## 当前不可越界的结论
 

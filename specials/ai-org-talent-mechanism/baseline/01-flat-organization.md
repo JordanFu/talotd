@@ -41,6 +41,7 @@
 | 资料 | 对本专题的价值 |
 |---|---|
 | [Obsidian 本地知识库](./knowledge/wiki/obsidian-vault-full-source-map-2026-05-22.md) | 本地 Vault 当前识别 70 篇 Markdown；2026-06-30 已新增公开安全 source map（覆盖 69 篇，排除 1 篇内部敏感来源），并抽取字节跳动 AI 时代领导力原则、AI 五环协同人才体… |
+| [本地知识库定期 Review（2026-09-28）](./knowledge/wiki/local-knowledge-review-2026-09-28.md) | 本周知识库巡检报告，覆盖 87 个当前公开 PDF 来源、近期 6 张机制比较页、PDF 精读与来源分类债务、历史专题补跑、分享入口和 AI 组织研究优先级。 |
 | [组织变化与剩余工作](./knowledge/wiki/change-and-workload-2026-09-24.md) | 连接培训、组织整合、专家审核与知识传承，检验谁承接剩余工作；公开设计不等于成效。 |
 | [能力、授权与隐形劳动：组织改造前的三项区分](./knowledge/wiki/capability-authority-hidden-work-2026-09-22.md) | 连接IBM调查、支付宝组织调整和BCG行业研究，区分技能、权限及新增劳动，不把合并、培训或使用量当成效果。 |
 | [本地知识库定期 Review（2026-09-21）](./knowledge/wiki/local-knowledge-review-2026-09-21.md) | 本周知识库巡检报告，覆盖 80 个公开 PDF 来源、近期 7 张机制比较页、PDF 模板与来源类型债务、历史专题补跑、分享入口和 AI 组织研究优先级。 |
@@ -51,7 +52,6 @@
 | [AI 组织调整：责任、授权与激励对照](./knowledge/wiki/ai-organization-responsibility-boundaries-2026-09-10.md) | 比较四条组织公告与HR、薪酬、员工收益证据，明确可借鉴机制和不能下的结论，保留八组后续验证问题。 |
 | [W36 信息库周报｜快速导读](./daily/weekly-2026-W36.md) | 组织复杂度、团队交付与专业分工三项决策提示；明确结构事实与结果证据的距离。 |
 | [从‘有模型’到‘有产品’：Tibo 的研究—产品组织机制](./knowledge/wiki/tibo-research-product-org-mechanism-2026-08-26.md) | 基于 Tibo Sottiaux 2025—2026 年多次访谈、OpenAI 与 Google DeepMind 官方记录及组织研究，核验研究—产品协同、低阻力发布、资源再配置和监督瓶颈；区分个人回忆、公司事实与跨来… |
-| [微信公众号「AI组织进化论」候选来源池](./knowledge/wiki/wechat-ai-org-evolution-intake.md) | 记录用户提供的 AI组织进化论 微信原文链接，当前作为人才密度方向候选输入；原文自动访问触发微信环境验证，待读取正文后再判断进入线索层、Context 层或结论候选。 |
 
 ## 当前不可越界的结论
 

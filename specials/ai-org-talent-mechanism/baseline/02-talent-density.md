@@ -42,6 +42,7 @@ AI 时代的高人才密度不只是“更强个体”，而是能把问题定�
 |---|---|
 | [Obsidian 本地知识库](./knowledge/wiki/obsidian-vault-full-source-map-2026-05-22.md) | 本地 Vault 当前识别 70 篇 Markdown；2026-06-30 已新增公开安全 source map（覆盖 69 篇，排除 1 篇内部敏感来源），并抽取字节跳动 AI 时代领导力原则、AI 五环协同人才体… |
 | [大厂 HR：AI 时代招聘标准与人才画像变化](./knowledge/wiki/bigtech-hr-ai-era-hiring-talent-2026.md) | 基于用户提供微信文章链接，并通过腾讯新闻与 36氪转载交叉核验正文；沉淀 AI 时代大厂招聘标准从工具熟练度转向项目证据、业务闭环、多 Agent 编排和 AI 应用落地的市场观察。 |
+| [学习与控制的闭环](./knowledge/wiki/learning-and-control-2026-09-28.md) | 从人才供给、事件复盘和岗位样本区分参与记录与实际结果；实践机会、停止权限与资源配套。 |
 | [人才定价与学习机会：比较口径先于AI标签](./knowledge/wiki/price-and-learning-evidence-2026-09-21.md) | 比较公开岗位薪带、研发招聘意向与新人学习机会，给出薪酬、招聘和培养的试验安排；区分字段观察、媒体引述与观点。 |
 | [W38 信息库周报｜快速导读](./daily/weekly-2026-W38.md) | 覆盖9月14日至20日晨间已入库材料：流程、岗位、薪酬与纠错权；保留证据限制及下周验证问题。 |
 | [W38 信息库周报｜详细资料](./daily-report/weekly-2026-W38.md) | 覆盖9月14日至20日晨间已入库材料：流程、岗位、薪酬与纠错权；保留证据限制及下周验证问题。 |
@@ -51,7 +52,6 @@ AI 时代的高人才密度不只是“更强个体”，而是能把问题定�
 | [AI采用之后：责任、支持与人员去向](./knowledge/wiki/ai-work-allocation-2026-09-12.md) | 用普信、NTEN与Bridgespan、Wipro、暴雪案例比较应用责任、员工支持与人员转配；附薪酬统计年代纠偏，不把采用率或产能自述当效果证明。 |
 | [AI 组织调整：责任、授权与激励对照](./knowledge/wiki/ai-organization-responsibility-boundaries-2026-09-10.md) | 比较四条组织公告与HR、薪酬、员工收益证据，明确可借鉴机制和不能下的结论，保留八组后续验证问题。 |
 | [大厂 HR：AI 时代招聘标准与人才画像变化](./knowledge/wiki/bigtech-hr-ai-era-hiring-talent-2026.md) | 基于用户提供微信文章链接，并通过腾讯新闻与 36氪转载交叉核验正文；沉淀 AI 时代大厂招聘标准从工具熟练度转向项目证据、业务闭环、多 Agent 编排和 AI 应用落地的市场观察。 |
-| [微信公众号「AI组织进化论」候选来源池](./knowledge/wiki/wechat-ai-org-evolution-intake.md) | 记录用户提供的 AI组织进化论 微信原文链接，当前作为人才密度方向候选输入；原文自动访问触发微信环境验证，待读取正文后再判断进入线索层、Context 层或结论候选。 |
 
 ## 当前不可越界的结论
 
