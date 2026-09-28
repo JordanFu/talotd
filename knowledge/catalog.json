@@ -139,6 +139,33 @@
   ],
   "reports": [
     {
+      "id": "learning-and-control-2026-09-28",
+      "title": "学习与控制的闭环",
+      "summaryFile": "./knowledge/wiki/learning-and-control-2026-09-28.md",
+      "description": "从人才供给、事件复盘和岗位样本区分参与记录与实际结果；实践机会、停止权限与资源配套。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
+      "date": "2026-09-28",
+      "uploadDate": "2026-09-28",
+      "tags": [
+        "信息库",
+        "工作设计",
+        "证据边界"
+      ],
+      "related": [
+        "./knowledge/wiki/task-evidence-controls-2026-09-27.md"
+      ],
+      "backlinks": [
+        "./daily/2026-09-28.md",
+        "./daily-report/2026-09-28.md"
+      ]
+    },
+    {
       "id": "local-knowledge-review-2026-09-28",
       "title": "本地知识库定期 Review（2026-09-28）",
       "originalTitle": "Local Knowledge Base Review 2026-09-28",
