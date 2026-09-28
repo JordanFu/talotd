@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T17:53:42.057Z",
+  "generatedAt": "2026-09-28T01:36:19.870Z",
   "module": "info-feed",
   "qualityStatus": "warn",
   "latestDate": "2026-09-27",
@@ -424,11 +424,11 @@
   },
   "homepageBridge": {
     "digestLatestDate": "2026-09-27",
-    "latestScanDate": "2026-09-27",
+    "latestScanDate": "2026-09-28",
     "freshnessStatus": "pass",
-    "ageDays": 1,
+    "ageDays": 0,
     "maxAgeDays": 1,
-    "latestScanUrl": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-09-27.html",
+    "latestScanUrl": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-09-28.html",
     "publicMirrorUrl": "https://jordanfu.github.io/org-intelligence-info/",
     "checkedBy": "scripts/check-public-links.js",
     "status": "pending-link-check"
@@ -489,9 +489,9 @@
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-09-27T15:15:08.775Z",
+    "checkedAt": "2026-09-28T01:33:06.155Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 4082,
+    "firstPartyChecked": 4116,
     "externalWarnings": 12,
     "brokenCount": 0,
     "publicScanBridge": [
@@ -504,6 +504,11 @@
         "ok": true,
         "status": 200,
         "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-09-27.html"
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-09-28.html"
       }
     ]
   },

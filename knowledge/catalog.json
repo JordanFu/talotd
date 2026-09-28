@@ -139,6 +139,37 @@
   ],
   "reports": [
     {
+      "id": "local-knowledge-review-2026-09-28",
+      "title": "本地知识库定期 Review（2026-09-28）",
+      "originalTitle": "Local Knowledge Base Review 2026-09-28",
+      "author": "Codex",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "internal",
+      "topics": [
+        "知识管理",
+        "AI组织设计",
+        "组织机制",
+        "人才发展",
+        "晋升",
+        "People/HR",
+        "AI fluency"
+      ],
+      "date": "2026-09-28",
+      "uploadDate": "2026-09-28",
+      "description": "本周知识库巡检报告，覆盖 87 个当前公开 PDF 来源、近期 6 张机制比较页、PDF 精读与来源分类债务、历史专题补跑、分享入口和 AI 组织研究优先级。",
+      "summaryFile": "./knowledge/wiki/local-knowledge-review-2026-09-28.md",
+      "fileName": "generated review report",
+      "fileSize": "wiki page",
+      "tags": [
+        "知识管理",
+        "定期Review",
+        "资料治理",
+        "PDF入库",
+        "AI组织设计",
+        "People/HR"
+      ]
+    },
+    {
       "id": "task-evidence-controls-2026-09-27",
       "title": "任务变化、能力证据与执行权限",
       "summaryFile": "./knowledge/wiki/task-evidence-controls-2026-09-27.md",
