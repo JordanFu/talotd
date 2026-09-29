@@ -139,6 +139,21 @@
   ],
   "reports": [
     {
+      "id": "project-selection-resource-movement-2026-09-29",
+      "title": "从项目选择到资源兑现",
+      "summaryFile": "./knowledge/wiki/project-selection-resource-movement-2026-09-29.md",
+      "description": "比较场景筛选、资源转向与岗位责任，优先检验员工实际工作负担。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": ["AI组织设计", "变革管理"],
+      "date": "2026-09-29",
+      "uploadDate": "2026-09-29",
+      "tags": ["AI组织设计", "资源配置", "工作减负"],
+      "related": ["./knowledge/wiki/learning-and-control-2026-09-28.md"],
+      "backlinks": ["./daily/2026-09-29.md", "./daily-report/2026-09-29.md"]
+    },
+    {
       "id": "learning-and-control-2026-09-28",
       "title": "学习与控制的闭环",
       "summaryFile": "./knowledge/wiki/learning-and-control-2026-09-28.md",
