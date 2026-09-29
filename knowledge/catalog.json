@@ -146,12 +146,24 @@
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
-      "topics": ["AI组织设计", "变革管理"],
+      "topics": [
+        "AI组织设计",
+        "变革管理"
+      ],
       "date": "2026-09-29",
       "uploadDate": "2026-09-29",
-      "tags": ["AI组织设计", "资源配置", "工作减负"],
-      "related": ["./knowledge/wiki/learning-and-control-2026-09-28.md"],
-      "backlinks": ["./daily/2026-09-29.md", "./daily-report/2026-09-29.md"]
+      "tags": [
+        "AI组织设计",
+        "资源配置",
+        "工作减负"
+      ],
+      "related": [
+        "./knowledge/wiki/learning-and-control-2026-09-28.md"
+      ],
+      "backlinks": [
+        "./daily/2026-09-29.md",
+        "./daily-report/2026-09-29.md"
+      ]
     },
     {
       "id": "learning-and-control-2026-09-28",

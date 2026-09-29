@@ -40,6 +40,7 @@
 
 | 资料 | 对本专题的价值 |
 |---|---|
+| [从项目选择到资源兑现](./knowledge/wiki/project-selection-resource-movement-2026-09-29.md) | 比较场景筛选、资源转向与岗位责任，优先检验员工实际工作负担。 |
 | [学习与控制的闭环](./knowledge/wiki/learning-and-control-2026-09-28.md) | 从人才供给、事件复盘和岗位样本区分参与记录与实际结果；实践机会、停止权限与资源配套。 |
 | [任务变化、能力证据与执行权限](./knowledge/wiki/task-evidence-controls-2026-09-27.md) | 从小厂任务调整、技能调查与官方岗位样本辨析责任、证据和授权，不将意图写成效果。 |
 | [人才定价与学习机会：比较口径先于AI标签](./knowledge/wiki/price-and-learning-evidence-2026-09-21.md) | 比较公开岗位薪带、研发招聘意向与新人学习机会，给出薪酬、招聘和培养的试验安排；区分字段观察、媒体引述与观点。 |
@@ -51,7 +52,6 @@
 | [岗位价格与责任设计：先分问题，再选机制](./knowledge/wiki/role-price-and-control-2026-09-15.md) | 比较市场补差、复合岗位支持与人机授权，明确证据边界和可试用的工作前检查；不把建议当成企业已验证制度。 |
 | [AI责任与员工负担：四个实施前检查](./knowledge/wiki/ai-decision-workload-2026-09-14.md) | 从咨询建议、岗位意图与员工体验识别人工决定、维护支持和净负担问题；不把旧线或弱信号包装为新增。 |
 | [Cisco：AI 智能体如何重写网络安全岗位、技能与人才入口](./knowledge/wiki/cisco-ai-agents-cybersecurity-workforce-2026.md) | 将 G7 网络安全招聘数据、AI 技能薪酬信号、入口岗位断层、执行责任变宽和核心专家深化放入同一组织机制分析；明确 14.9% 是招聘市场横截面价差，不是企业普遍涨薪。 |
-| [人机协作演进框架：Author、Editor、Director、Orchestrator](./knowledge/wiki/human-agent-collaboration-evolution.md) | 把人机协作拆成四种模式，强调人类签核单元从单行代码扩大到 backlog，适合用于岗位重塑、AI fluency 和绩效归属研究。 |
 
 ## 当前不可越界的结论
 
