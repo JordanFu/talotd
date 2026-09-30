@@ -139,6 +139,36 @@
   ],
   "reports": [
     {
+      "id": "opportunity-evidence-purpose-2026-09-30",
+      "title": "机会、能力证据与用途边界",
+      "summaryFile": "./knowledge/wiki/opportunity-evidence-purpose-2026-09-30.md",
+      "description": "对照学习机会、测评整合与临时角色，保护员工发展和数据用途边界。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": ["AI组织设计", "人才发展"],
+      "date": "2026-09-30",
+      "uploadDate": "2026-09-30",
+      "tags": ["人才发展", "HR科技", "员工信任"],
+      "related": ["./knowledge/wiki/project-selection-resource-movement-2026-09-29.md"],
+      "backlinks": ["./daily/2026-09-30.md", "./daily-report/2026-09-30.md"]
+    },
+    {
+      "id": "info-monthly-2026-09",
+      "title": "9月信息库月报｜从采用工具转向可完成的工作",
+      "summaryFile": "./daily-report/monthly-2026-09.md",
+      "description": "截至9月30日晨间，聚合当月案例、机制、矛盾、弱信号与10月追踪问题。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": ["AI组织设计", "人才发展"],
+      "date": "2026-09-30",
+      "uploadDate": "2026-09-30",
+      "tags": ["月报", "工作设计", "证据边界"],
+      "related": ["./knowledge/wiki/opportunity-evidence-purpose-2026-09-30.md"],
+      "backlinks": ["./daily-report/2026-09-30.md", "./knowledge/index.md"]
+    },
+    {
       "id": "project-selection-resource-movement-2026-09-29",
       "title": "从项目选择到资源兑现",
       "summaryFile": "./knowledge/wiki/project-selection-resource-movement-2026-09-29.md",
@@ -5192,6 +5222,30 @@
         "papers.ssrn.com"
       ],
       "originalUrl": "https://papers.ssrn.com/sol3/Delivery.cfm/7520958.pdf?abstractid=7520958&mirid=1"
+    },
+    {
+      "id": "p096",
+      "title": "accord",
+      "originalTitle": "accord",
+      "author": "d3i6fh83elv35t.cloudfront.net",
+      "publisher": "d3i6fh83elv35t.cloudfront.net",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-09-30",
+      "description": "accord 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-d3i6fh83elv35t-cloudfront-net-accord.md",
+      "rawFile": "./knowledge/raw/d3i6fh83elv35t-cloudfront-net-accord.pdf",
+      "fileName": "d3i6fh83elv35t-cloudfront-net-accord.pdf",
+      "fileSize": "108470 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "d3i6fh83elv35t.cloudfront.net"
+      ],
+      "originalUrl": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/accord.pdf"
     }
   ]
 }
