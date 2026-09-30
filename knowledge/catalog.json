@@ -146,12 +146,24 @@
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
-      "topics": ["AI组织设计", "人才发展"],
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
       "date": "2026-09-30",
       "uploadDate": "2026-09-30",
-      "tags": ["人才发展", "HR科技", "员工信任"],
-      "related": ["./knowledge/wiki/project-selection-resource-movement-2026-09-29.md"],
-      "backlinks": ["./daily/2026-09-30.md", "./daily-report/2026-09-30.md"]
+      "tags": [
+        "人才发展",
+        "HR科技",
+        "员工信任"
+      ],
+      "related": [
+        "./knowledge/wiki/project-selection-resource-movement-2026-09-29.md"
+      ],
+      "backlinks": [
+        "./daily/2026-09-30.md",
+        "./daily-report/2026-09-30.md"
+      ]
     },
     {
       "id": "info-monthly-2026-09",
@@ -161,12 +173,24 @@
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
-      "topics": ["AI组织设计", "人才发展"],
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
       "date": "2026-09-30",
       "uploadDate": "2026-09-30",
-      "tags": ["月报", "工作设计", "证据边界"],
-      "related": ["./knowledge/wiki/opportunity-evidence-purpose-2026-09-30.md"],
-      "backlinks": ["./daily-report/2026-09-30.md", "./knowledge/index.md"]
+      "tags": [
+        "月报",
+        "工作设计",
+        "证据边界"
+      ],
+      "related": [
+        "./knowledge/wiki/opportunity-evidence-purpose-2026-09-30.md"
+      ],
+      "backlinks": [
+        "./daily-report/2026-09-30.md",
+        "./knowledge/index.md"
+      ]
     },
     {
       "id": "project-selection-resource-movement-2026-09-29",
