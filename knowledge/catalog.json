@@ -139,6 +139,21 @@
   ],
   "reports": [
     {
+      "id": "role-handoff-rewards-2026-10-01",
+      "title": "岗位责任、人工承接与收益分配",
+      "summaryFile": "./knowledge/wiki/role-handoff-rewards-2026-10-01.md",
+      "description": "自动化后检查岗位责任、例外承接容量与员工收益，区分调查、安排与招聘意图。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": ["AI组织设计", "人才发展"],
+      "date": "2026-10-01",
+      "uploadDate": "2026-10-01",
+      "tags": ["岗位设计", "人机协作", "收益分配"],
+      "related": ["opportunity-evidence-purpose-2026-09-30"],
+      "backlinks": ["daily/2026-10-01.md", "daily-report/2026-10-01.md"]
+    },
+    {
       "id": "opportunity-evidence-purpose-2026-09-30",
       "title": "机会、能力证据与用途边界",
       "summaryFile": "./knowledge/wiki/opportunity-evidence-purpose-2026-09-30.md",
