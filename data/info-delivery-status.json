@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-01T01:51:01.007Z",
+  "checkedAt": "2026-10-01T07:29:34.101Z",
   "module": "info-delivery",
   "date": "2026-10-01",
   "timezone": "Asia/Shanghai",
@@ -14,5 +14,5 @@
   "issues": [],
   "remoteErrors": [],
   "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
-  "runUrl": null
+  "runUrl": "https://github.com/JordanFu/talotd/actions/runs/36830293698"
 }

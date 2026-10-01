@@ -146,12 +146,24 @@
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
-      "topics": ["AI组织设计", "人才发展"],
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
       "date": "2026-10-01",
       "uploadDate": "2026-10-01",
-      "tags": ["岗位设计", "人机协作", "收益分配"],
-      "related": ["opportunity-evidence-purpose-2026-09-30"],
-      "backlinks": ["daily/2026-10-01.md", "daily-report/2026-10-01.md"]
+      "tags": [
+        "岗位设计",
+        "人机协作",
+        "收益分配"
+      ],
+      "related": [
+        "opportunity-evidence-purpose-2026-09-30"
+      ],
+      "backlinks": [
+        "daily/2026-10-01.md",
+        "daily-report/2026-10-01.md"
+      ]
     },
     {
       "id": "opportunity-evidence-purpose-2026-09-30",
