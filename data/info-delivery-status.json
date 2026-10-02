@@ -1,18 +1,23 @@
 {
-  "checkedAt": "2026-10-02T09:56:17.264Z",
+  "checkedAt": "2026-10-02T16:20:59.236Z",
   "module": "info-delivery",
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "timezone": "Asia/Shanghai",
   "scheduledAt": "09:40",
   "deadline": "11:30",
-  "status": "published",
+  "status": "scheduled",
   "qualityStatus": "warn",
-  "cardCount": 7,
-  "gapRecordCount": 1,
-  "localReady": true,
-  "publicVerified": true,
-  "issues": [],
+  "cardCount": 0,
+  "gapRecordCount": 0,
+  "localReady": false,
+  "publicVerified": false,
+  "issues": [
+    "digest 未出现当日信息卡",
+    "当日 daily 或 daily-report 缺失日期/文件",
+    "当日导读正文缺失",
+    "信息库 manifest 日期或卡片数与当日产物不符"
+  ],
   "remoteErrors": [],
   "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
-  "runUrl": "https://github.com/JordanFu/talotd/actions/runs/36992609251"
+  "runUrl": "https://github.com/JordanFu/talotd/actions/runs/37032932800"
 }
