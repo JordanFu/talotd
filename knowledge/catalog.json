@@ -139,6 +139,21 @@
   ],
   "reports": [
     {
+      "id": "review-role-support-2026-10-02",
+      "title": "复核、角色与上线支持",
+      "summaryFile": "./knowledge/wiki/review-role-support-2026-10-02.md",
+      "description": "把责任落实到核实权、任务边界、交接与员工支持，区分招聘信号和运行结果。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": ["AI组织设计", "人才发展"],
+      "date": "2026-10-02",
+      "uploadDate": "2026-10-02",
+      "tags": ["组织设计", "AI治理", "员工体验"],
+      "related": ["role-handoff-rewards-2026-10-01"],
+      "backlinks": ["daily/2026-10-02.md", "daily-report/2026-10-02.md"]
+    },
+    {
       "id": "role-handoff-rewards-2026-10-01",
       "title": "岗位责任、人工承接与收益分配",
       "summaryFile": "./knowledge/wiki/role-handoff-rewards-2026-10-01.md",
