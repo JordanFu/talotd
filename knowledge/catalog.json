@@ -146,12 +146,24 @@
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
-      "topics": ["AI组织设计", "人才发展"],
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
       "date": "2026-10-02",
       "uploadDate": "2026-10-02",
-      "tags": ["组织设计", "AI治理", "员工体验"],
-      "related": ["role-handoff-rewards-2026-10-01"],
-      "backlinks": ["daily/2026-10-02.md", "daily-report/2026-10-02.md"]
+      "tags": [
+        "组织设计",
+        "AI治理",
+        "员工体验"
+      ],
+      "related": [
+        "role-handoff-rewards-2026-10-01"
+      ],
+      "backlinks": [
+        "daily/2026-10-02.md",
+        "daily-report/2026-10-02.md"
+      ]
     },
     {
       "id": "role-handoff-rewards-2026-10-01",

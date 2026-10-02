@@ -40,6 +40,7 @@
 
 | 资料 | 对本专题的价值 |
 |---|---|
+| [复核、角色与上线支持](./knowledge/wiki/review-role-support-2026-10-02.md) | 把责任落实到核实权、任务边界、交接与员工支持，区分招聘信号和运行结果。 |
 | [机会、能力证据与用途边界](./knowledge/wiki/opportunity-evidence-purpose-2026-09-30.md) | 对照学习机会、测评整合与临时角色，保护员工发展和数据用途边界。 |
 | [本地知识库定期 Review（2026-09-28）](./knowledge/wiki/local-knowledge-review-2026-09-28.md) | 本周知识库巡检报告，覆盖 87 个当前公开 PDF 来源、近期 6 张机制比较页、PDF 精读与来源分类债务、历史专题补跑、分享入口和 AI 组织研究优先级。 |
 | [任务变化、能力证据与执行权限](./knowledge/wiki/task-evidence-controls-2026-09-27.md) | 从小厂任务调整、技能调查与官方岗位样本辨析责任、证据和授权，不将意图写成效果。 |
@@ -51,7 +52,6 @@
 | [绩效管理标杆实践：四种机制流派](./knowledge/wiki/performance-management-benchmark-patterns.md) | 公开安全版绩效机制抽象，不包含内部采集细节；将绩效管理拆成相对排名、自主发展、快照记录、分层差异四类机制流派。 |
 | [HBR：AI 时代绩效管理需要新的度量对象](./knowledge/wiki/hbr-ai-era-performance-metrics-2026.md) | 提出人的贡献、AI系统与Agent、人机组合结果三层绩效度量框架；强调速度、产出量和AI使用率不能替代边界判断、可追溯性、升级质量和共同业务结果。 |
 | [人—AI—人机系统三层绩效指标](./knowledge/concepts/human-ai-performance-metrics.md) | 把AI工作绩效拆成人的判断与编排、Agent可靠性与治理、人机组合业务结果三层，避免把共同产出错误归因给个人或系统。 |
-| [人机协作演进框架：Author、Editor、Director、Orchestrator](./knowledge/wiki/human-agent-collaboration-evolution.md) | 把人机协作拆成四种模式，强调人类签核单元从单行代码扩大到 backlog，适合用于岗位重塑、AI fluency 和绩效归属研究。 |
 
 ## 当前不可越界的结论
 
