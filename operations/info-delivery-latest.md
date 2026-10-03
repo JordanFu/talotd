@@ -2,11 +2,11 @@
 
 - 检查日期：2026-10-03（北京时间）
 - 截止时间：11:30
-- 状态：scheduled / warn
+- 状态：publish-pending / warn
 - 线上内容一致：未确认
-- 卡片数：0（缺口 0）
+- 卡片数：8（缺口 1）
 
-- digest 未出现当日信息卡
-- 当日 daily 或 daily-report 缺失日期/文件
-- 当日导读正文缺失
-- 信息库 manifest 日期或卡片数与当日产物不符
+- 线上 digest 当日内容不一致或不存在
+- 线上 daily/2026-10-03.md 不一致或不存在
+- 线上 daily-report/2026-10-03.md 不一致或不存在
+- 线上 manifest 未匹配当日内容
