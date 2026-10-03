@@ -139,6 +139,21 @@
   ],
   "reports": [
     {
+      "id": "practice-resources-2026-10-03",
+      "title": "项目实践与资源兑现",
+      "summaryFile": "./knowledge/wiki/practice-resources-2026-10-03.md",
+      "description": "培养、核验劳动和权责迁移都需实际场景、工时与资源支持。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": ["AI组织设计", "人才发展"],
+      "date": "2026-10-03",
+      "uploadDate": "2026-10-03",
+      "tags": ["人才发展", "组织转型", "员工体验"],
+      "related": ["review-role-support-2026-10-02"],
+      "backlinks": ["daily/2026-10-03.md", "daily-report/2026-10-03.md"]
+    },
+    {
       "id": "review-role-support-2026-10-02",
       "title": "复核、角色与上线支持",
       "summaryFile": "./knowledge/wiki/review-role-support-2026-10-02.md",
