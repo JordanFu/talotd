@@ -139,6 +139,21 @@
   ],
   "reports": [
     {
+      "id": "adoption-value-boundaries-2026-10-04",
+      "title": "采用、收益与兑现边界",
+      "summaryFile": "./knowledge/wiki/adoption-value-boundaries-2026-10-04.md",
+      "description": "采用与收益分开验证，透明承诺与薪酬条件追到实际工作接口。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": ["AI组织设计", "人才发展"],
+      "date": "2026-10-04",
+      "uploadDate": "2026-10-04",
+      "tags": ["人才发展", "员工体验", "组织转型"],
+      "related": ["practice-resources-2026-10-03"],
+      "backlinks": ["daily/2026-10-04.md", "daily-report/weekly-2026-W40.md"]
+    },
+    {
       "id": "practice-resources-2026-10-03",
       "title": "项目实践与资源兑现",
       "summaryFile": "./knowledge/wiki/practice-resources-2026-10-03.md",
@@ -5351,6 +5366,30 @@
         "d3i6fh83elv35t.cloudfront.net"
       ],
       "originalUrl": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/accord.pdf"
+    },
+    {
+      "id": "p097",
+      "title": "2026 10 why ai training is driving adoption but not sustainable productivity",
+      "originalTitle": "2026 10 why ai training is driving adoption but not sustainable productivity",
+      "author": "cmr.berkeley.edu",
+      "publisher": "cmr.berkeley.edu",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-10-04",
+      "description": "2026 10 why ai training is driving adoption but not sustainable productivity 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-cmr-berkeley-edu-2026-10-why-ai-training-is-driving-adoption-but-not-sustainable-productivity.md",
+      "rawFile": "./knowledge/raw/cmr-berkeley-edu-2026-10-why-ai-training-is-driving-adoption-but-not-sustainable-productivity.pdf",
+      "fileName": "cmr-berkeley-edu-2026-10-why-ai-training-is-driving-adoption-but-not-sustainable-productivity.pdf",
+      "fileSize": "657036 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "cmr.berkeley.edu"
+      ],
+      "originalUrl": "https://cmr.berkeley.edu/assets/documents/pdf/2026-10-why-ai-training-is-driving-adoption-but-not-sustainable-productivity.pdf"
     }
   ]
 }
