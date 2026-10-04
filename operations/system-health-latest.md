@@ -1,6 +1,6 @@
 # 系统健康状态
 
-> 自动生成：2026-10-04T01:53:48.037Z
+> 自动生成：2026-10-04T07:10:08.056Z
 
 ## 一眼判断
 
@@ -74,6 +74,7 @@
 - ⚠️ external link not hard-checked in Phase 1
 - ⚠️ external link not hard-checked in Phase 1
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
+- ⚠️ external link not hard-checked in Phase 1
 - ⚠️ 信息库质量为 warn
 - ⚠️ 专题研究状态为 warn
 - ⚠️ 专题待正式重跑 24 天

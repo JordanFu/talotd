@@ -146,12 +146,24 @@
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
-      "topics": ["AI组织设计", "人才发展"],
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
       "date": "2026-10-04",
       "uploadDate": "2026-10-04",
-      "tags": ["人才发展", "员工体验", "组织转型"],
-      "related": ["practice-resources-2026-10-03"],
-      "backlinks": ["daily/2026-10-04.md", "daily-report/weekly-2026-W40.md"]
+      "tags": [
+        "人才发展",
+        "员工体验",
+        "组织转型"
+      ],
+      "related": [
+        "practice-resources-2026-10-03"
+      ],
+      "backlinks": [
+        "daily/2026-10-04.md",
+        "daily-report/weekly-2026-W40.md"
+      ]
     },
     {
       "id": "practice-resources-2026-10-03",
