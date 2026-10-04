@@ -52,6 +52,7 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 ## 被引用位置
 
 - `daily/2026-10-04.md:10`：文章PDF
+- `specials/ai-org-talent-mechanism/2026-10-04/02-talent-density.md:191`：PDF
 
 ## 后续精读任务
 
