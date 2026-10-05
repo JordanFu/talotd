@@ -52,6 +52,8 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 ## 被引用位置
 
 - `daily/2026-10-05.md:10`：公开PDF
+- `specials/ai-org-talent-mechanism/2026-10-05/01-flat-organization.md:271`：同一研究：公开 PDF
+- `specials/ai-org-talent-mechanism/2026-10-05/02-talent-density.md:203`：公开 PDF
 
 ## 后续精读任务
 

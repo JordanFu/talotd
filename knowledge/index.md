@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-10-05
+> 最后更新: 2026-10-06
 
 ---
 
@@ -174,7 +174,7 @@
 | [itb lat dir ai 6454 web 0](wiki/pdf-source-ag-ny-gov-itb-lat-dir-ai-6454-web-0.md) | ag.ny.gov | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 17 次 |
 | [GoogleATLASv1](wiki/pdf-source-ai-google-googleatlasv1.md) | ai.google | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 7 次 |
 | [CWA18398 2026](wiki/pdf-source-ai4si-gzs-si-cwa18398-2026.md) | ai4si.gzs.si | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
-| [2606.17887](wiki/pdf-source-arxiv-org-2606-17887.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [2606.17887](wiki/pdf-source-arxiv-org-2606-17887.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [2607.28890](wiki/pdf-source-arxiv-org-2607-28890.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [2607.28968](wiki/pdf-source-arxiv-org-2607-28968.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [2608.05116](wiki/pdf-source-arxiv-org-2608-05116.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
