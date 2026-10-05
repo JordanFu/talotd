@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T07:21:25.715Z",
+  "generatedAt": "2026-10-05T10:27:29.990Z",
   "module": "topic-projects",
   "project": {
     "id": "ai-org-talent-mechanism",
@@ -7,11 +7,11 @@
     "root": "specials/ai-org-talent-mechanism"
   },
   "qualityStatus": "warn",
-  "latestFormalDate": "2026-10-04",
+  "latestFormalDate": "2026-10-05",
   "latestAnyDate": "2026-10-05",
   "today": "2026-10-05",
-  "todayStatus": "scheduled",
-  "latestStatus": "scheduled",
+  "todayStatus": "formal",
+  "latestStatus": "formal",
   "pendingRerunDates": [
     "2026-09-16",
     "2026-09-11",
@@ -39,8 +39,7 @@
     "2026-05-13"
   ],
   "statusCounts": {
-    "scheduled": 1,
-    "formal": 121,
+    "formal": 122,
     "fallback": 24
   },
   "statusDefinitions": {
@@ -53,8 +52,8 @@
   "dates": [
     {
       "date": "2026-10-05",
-      "status": "scheduled",
-      "isFormal": false,
+      "status": "formal",
+      "isFormal": true,
       "isFallback": false,
       "needsRerun": false,
       "overview": "specials/ai-org-talent-mechanism/2026-10-05/00-overview.html",
@@ -96,12 +95,9 @@
       "hasFormalEntry": true,
       "qualityGate": {
         "path": "specials/ai-org-talent-mechanism/quality/2026-10-05.md",
-        "status": "warn-or-unknown"
+        "status": "pass-or-warn"
       },
-      "qualityIssues": [
-        "正文包含兜底/非决策稿/待正式重跑关键词",
-        "未到今日 18:00 正式自动化运行时间；现有内容仅作状态记录"
-      ]
+      "qualityIssues": []
     },
     {
       "date": "2026-10-04",
@@ -7259,7 +7255,7 @@
   ],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-05T07:22:29.701Z",
+    "checkedAt": "2026-10-05T10:28:47.098Z",
     "qualityStatus": "warn",
     "firstPartyChecked": 4320,
     "externalWarnings": 16,
