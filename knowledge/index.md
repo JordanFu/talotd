@@ -7,6 +7,8 @@
 
 ## 来源摘要（Wiki）
 
+- [本地知识库定期 Review（2026-10-05）](wiki/local-knowledge-review-2026-10-05.md)：本周健康度 82/100；近期机制页与公开入口健康，主要债务为 PDF 精读、来源类型、生命周期口径、历史专题重跑和过时二级索引。
+
 - [采用、收益与兑现边界](wiki/adoption-value-boundaries-2026-10-04.md)：区分采用、净收益与实际工作约定，连接W40信息库周报。
 
 - [项目实践与资源兑现](wiki/practice-resources-2026-10-03.md)：把培养、核验劳动与权责迁移放到真实工作条件中检验。
@@ -114,6 +116,7 @@
 | 51 | [W36 信息库详细资料](../daily-report/weekly-2026-W36.md) | OD 情报中心 | 2026-09-07 | 周报, 案例, 应用试验 |
 | 52 | [本地知识库定期 Review（2026-09-21）](wiki/local-knowledge-review-2026-09-21.md) | OD Intelligence Center | 2026-09-21 | 知识管理, 定期Review, PDF入库, People/HR, AI fluency |
 | 53 | [本地知识库定期 Review（2026-09-28）](wiki/local-knowledge-review-2026-09-28.md) | OD Intelligence Center | 2026-09-28 | 知识管理, 定期Review, PDF入库, People/HR, AI fluency |
+| 54 | [本地知识库定期 Review（2026-10-05）](wiki/local-knowledge-review-2026-10-05.md) | OD Intelligence Center | 2026-10-05 | 知识管理, 定期Review, PDF入库, People/HR, AI fluency |
 
 ## 概念页
 
@@ -178,12 +181,14 @@
 | [2026 Work Trend Index Annual Report 050526 7 69fc5b1c4e265](wiki/pdf-source-assets-c4akfrf5b4d3f4b7-z01-azurefd-net-2026-work-trend-index-annual-report-050526-7-69fc5b1c4e2.md) | assets-c4akfrf5b4d3f4b7.z01.azurefd.net | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [ca the health productivity gap aoda en.7ae5e913bd32](wiki/pdf-source-assets-foleon-com-ca-the-health-productivity-gap-aoda-en-7ae5e913bd32.md) | assets.foleon.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [UK Standard Skills Classification Development Report](wiki/pdf-source-assets-publishing-service-gov-uk-uk-standard-skills-classification-development-report.md) | assets.publishing.service.gov.uk | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
+| [OpenAI Hugging Face Incident Technical Report](wiki/pdf-source-cdn-openai-com-openai-hugging-face-incident-technical-report.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [the participation economy](wiki/pdf-source-cdn-openai-com-the-participation-economy.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [the ai jobs transition framework report](wiki/pdf-source-cdn-openai-com-the-ai-jobs-transition-framework-report.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [2026 10 why ai training is driving adoption but not sustainable productivity](wiki/pdf-source-cmr-berkeley-edu-2026-10-why-ai-training-is-driving-adoption-but-not-sustainable-productivity.md) | cmr.berkeley.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [f232578](wiki/pdf-source-conference-nber-org-f232578.md) | conference.nber.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 24 次 |
 | [NTEN与Bridgespan：非营利组织AI采用与治理调查](wiki/pdf-source-content-nten-org-2026-state-of-nonprofit-ai.md) | NTEN / Bridgespan | 员工支持、学习发展、治理准备 | 强相关：资源有限组织的AI采用与员工支持 | 已下载原文，引用 1 次 |
 | [WP 10 26 Managers as gatekeepers comp 0](wiki/pdf-source-crawford-anu-edu-au-wp-10-26-managers-as-gatekeepers-comp-0.md) | crawford.anu.edu.au | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 9 次 |
+| [accord](wiki/pdf-source-d3i6fh83elv35t-cloudfront-net-accord.md) | d3i6fh83elv35t.cloudfront.net | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [AFGE v OPM](wiki/pdf-source-democracyforward-org-afge-v-opm.md) | democracyforward.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [Mercer and Eightfold Pay for Skills](wiki/pdf-source-eightfold-ai-mercer-and-eightfold-pay-for-skills.md) | eightfold.ai | AI组织设计、绩效管理、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [new skill price](wiki/pdf-source-elmerli-github-io-new-skill-price.md) | elmerli.github.io | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
@@ -207,29 +212,35 @@
 | [META Q2 2026 Earnings Call Transcript](wiki/pdf-source-s21-q4cdn-com-meta-q2-2026-earnings-call-transcript.md) | s21.q4cdn.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [Fannie Mae：LL-2026-04 AI/ML 治理要求](wiki/pdf-source-fannie-mae-fannie-mae-ll-2026-04-ai-ml.md) | Fannie Mae | AI治理、负责人、年度复核、供应商级联 | 强相关：正式治理规则与外部责任边界 | 已索引待重试，引用 13 次 |
 | [6277baa6 0f7b 4fbe 9c7c ceb3e0e9b325 flatland](wiki/pdf-source-static-cdn-cars24-com-6277baa6-0f7b-4fbe-9c7c-ceb3e0e9b325-flatland.md) | static-cdn.cars24.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 16 次 |
-| [47382ae415a209fd161bc19a1f9b3704](wiki/pdf-source-static-www-tencent-com-47382ae415a209fd161bc19a1f9b3704.md) | static.www.tencent.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
-| [gov.uscourts.cand.474095.38.0](wiki/pdf-source-storage-courtlistener-com-gov-uscourts-cand-474095-38-0.md) | storage.courtlistener.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
-| [gov.uscourts.cand.474095.59.0](wiki/pdf-source-storage-courtlistener-com-gov-uscourts-cand-474095-59-0.md) | storage.courtlistener.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
+| [47382ae415a209fd161bc19a1f9b3704](wiki/pdf-source-static-www-tencent-com-47382ae415a209fd161bc19a1f9b3704.md) | static.www.tencent.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
+| [e048dfed72bc718f7986a83f23c8e294](wiki/pdf-source-static-www-tencent-com-e048dfed72bc718f7986a83f23c8e294.md) | static.www.tencent.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
+| [gov.uscourts.cand.474095.38.0](wiki/pdf-source-storage-courtlistener-com-gov-uscourts-cand-474095-38-0.md) | storage.courtlistener.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
+| [gov.uscourts.cand.474095.59.0](wiki/pdf-source-storage-courtlistener-com-gov-uscourts-cand-474095-59-0.md) | storage.courtlistener.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
+| [gov.uscourts.cand.474171.1.0](wiki/pdf-source-storage-courtlistener-com-gov-uscourts-cand-474171-1-0.md) | storage.courtlistener.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [interviewing at google deepmind](wiki/pdf-source-storage-googleapis-com-interviewing-at-google-deepmind.md) | storage.googleapis.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 10 次 |
 | [everyone gets the same models the edge is your workforce](wiki/pdf-source-bcg-everyone-gets-the-same-models-the-edge-is-your-workforce.md) | BCG | AI组织设计、人才发展 | 待评估：需精读后确定 | 已索引待重试，引用 7 次 |
 | [BCG：AI Radar 2026](wiki/pdf-source-bcg-bcg-ai-radar-2026.md) | BCG | AI 投资、价值兑现、组织阻碍待核验 | 中相关：战略背景 | 已索引待重试，引用 2 次 |
 | [BCG + MIT Sloan：The Emerging Agentic Enterprise](wiki/pdf-source-bcg-bcg-mit-sloan-the-emerging-agentic-enterprise.md) | BCG | Agentic enterprise、中层层级、组织结构变量 | 强相关：扁平化与管理层级 | 已索引待重试，引用 8 次 |
 | [2026 global investor survey jul 2026](wiki/pdf-source-bcg-2026-global-investor-survey-jul-2026.md) | BCG | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
-| [Claude Opus 5 System Card](wiki/pdf-source-anthropic-claude-opus-5-system-card.md) | Anthropic | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
+| [Claude Opus 5 System Card](wiki/pdf-source-anthropic-claude-opus-5-system-card.md) | Anthropic | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
+| [8a665c85eec3a63b4d86287b9255657016f50e29](wiki/pdf-source-anthropic-8a665c85eec3a63b4d86287b9255657016f50e29.md) | Anthropic | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [AIHR：HR Priorities 2026 Report](wiki/pdf-source-aihr-aihr-hr-priorities-2026-report.md) | AIHR | 技能本位组织、HR 重构、skill count | 强相关：岗位与技能体系 | 已下载原文，引用 1 次 |
 | [Whitepaper Impact of AI on U.S. Labor Market 2026 R2 1](wiki/pdf-source-apollo-com-whitepaper-impact-of-ai-on-u-s-labor-market-2026-r2-1.md) | apollo.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 18 次 |
 | [quarterly update presentation 1q 2026](wiki/pdf-source-bny-com-quarterly-update-presentation-1q-2026.md) | bny.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 14 次 |
 | [cwa18398 2026](wiki/pdf-source-cencenelec-eu-cwa18398-2026.md) | cencenelec.eu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [draft cwa xxxx e](wiki/pdf-source-cencenelec-eu-draft-cwa-xxxx-e.md) | cencenelec.eu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [the impact of agentic ai on network operations](wiki/pdf-source-cisco-com-the-impact-of-agentic-ai-on-network-operations.md) | cisco.com | AI组织设计、变革管理 | 待评估：需精读后确定 | 已索引待重试，引用 4 次 |
+| [j rita lin order](wiki/pdf-source-courthousenews-com-j-rita-lin-order.md) | courthousenews.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [us spans and layers for the modern organization 2020](wiki/pdf-source-deloitte-us-spans-and-layers-for-the-modern-organization-2020.md) | Deloitte | AI组织设计、变革管理 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [EY：Future of Pay Report 2026](wiki/pdf-source-ey-ey-future-of-pay-report-2026.md) | EY | 技能薪酬、生产率锚点、AI 人才溢价 | 强相关：薪酬与激励机制 | 已下载原文，引用 177 次 |
 | [pip faq 2026](wiki/pdf-source-facs-org-pip-faq-2026.md) | facs.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
 | [2026081700406](wiki/pdf-source-geelyauto-com-hk-2026081700406.md) | geelyauto.com.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [USCOURTS cand 4 22 md 03047 133](wiki/pdf-source-govinfo-gov-uscourts-cand-4-22-md-03047-133.md) | govinfo.gov | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [12 087 bc50bde2 3016 457a 9bee dc988cb1056b](wiki/pdf-source-hbs-edu-12-087-bc50bde2-3016-457a-9bee-dc988cb1056b.md) | hbs.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
 | [26 090 96f92aa0 37d9 4789 beaa 5c0cb87a4032](wiki/pdf-source-hbs-edu-26-090-96f92aa0-37d9-4789-beaa-5c0cb87a4032.md) | hbs.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [HiBob 2026 report AI maturity benchmarks and where the workforce stand](wiki/pdf-source-hibob-com-hibob-2026-report-ai-maturity-benchmarks-and-where-the-workforce-stand.md) | hibob.com | AI组织设计、人才发展 | 待评估：需精读后确定 | 已索引待重试，引用 5 次 |
-| [2026090400829 c](wiki/pdf-source-hkexnews-hk-2026090400829-c.md) | hkexnews.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
+| [MiniMax：IPO 后股份激励计划授出奖励公告](wiki/pdf-source-hkexnews-hk-minimax-ipo.md) | hkexnews.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [2026090400829 c](wiki/pdf-source-hkexnews-hk-2026090400829-c.md) | hkexnews.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [cesifo1 wp12373](wiki/pdf-source-ifo-de-cesifo1-wp12373.md) | ifo.de | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [ILO Brief ASEAN AI v11 clean](wiki/pdf-source-ilo-org-ilo-brief-asean-ai-v11-clean.md) | ilo.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [0000050863 26 000011](wiki/pdf-source-intc-com-0000050863-26-000011.md) | intc.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
@@ -246,7 +257,7 @@
 | [2026 global ai jobs barometer global findings](wiki/pdf-source-pwc-com-2026-global-ai-jobs-barometer-global-findings.md) | pwc.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [20260828](wiki/pdf-source-scsk-jp-20260828.md) | scsk.jp | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 9 次 |
 | [it job family career ladder matrix software engineer](wiki/pdf-source-umassmed-edu-it-job-family-career-ladder-matrix-software-engineer.md) | umassmed.edu | AI组织设计、绩效管理 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
-| [2026072000261](wiki/pdf-source-www1-hkexnews-hk-2026072000261.md) | www1.hkexnews.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [2026072000261](wiki/pdf-source-www1-hkexnews-hk-2026072000261.md) | www1.hkexnews.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 <!-- PDF_AUTO_INDEX_END -->
 
 ## 操作日志

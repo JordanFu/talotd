@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T17:45:35.292Z",
+  "generatedAt": "2026-10-05T01:47:09.720Z",
   "module": "info-feed",
   "qualityStatus": "warn",
   "latestDate": "2026-10-04",
@@ -25,7 +25,7 @@
     "requiredFieldMissingCount": 0,
     "missingFields": []
   },
-  "sourceUrlMissingCount": 1,
+  "sourceUrlMissingCount": 0,
   "latest": {
     "date": "2026-10-04",
     "cardCount": 5,
@@ -79,10 +79,8 @@
     },
     "subtopicConcentration": 0.4,
     "privateSignalRatio": 0,
-    "sourceUrlMissingItemIds": [
-      "G1004-01"
-    ],
-    "sourceUrlMissingCount": 1,
+    "sourceUrlMissingItemIds": [],
+    "sourceUrlMissingCount": 0,
     "fieldCompleteness": {
       "requiredFieldMissingCount": 0,
       "missingFields": []
@@ -105,7 +103,7 @@
       "gapRecordCount": 1,
       "sourcePlatformCount": 5,
       "sourceUrlCount": 7,
-      "sourceUrlMissingCount": 1,
+      "sourceUrlMissingCount": 0,
       "channelTypeCount": 4,
       "channelTypes": [
         "报告学术",
@@ -136,8 +134,7 @@
         "missingFields": []
       },
       "qualityIssues": [
-        "新增事实少于 5 条，已有缺口记录",
-        "sourceUrl 缺失 1 条"
+        "新增事实少于 5 条，已有缺口记录"
       ]
     },
     {
@@ -150,7 +147,7 @@
       "gapRecordCount": 1,
       "sourcePlatformCount": 8,
       "sourceUrlCount": 8,
-      "sourceUrlMissingCount": 1,
+      "sourceUrlMissingCount": 0,
       "channelTypeCount": 4,
       "channelTypes": [
         "官方",
@@ -180,9 +177,7 @@
         "requiredFieldMissingCount": 0,
         "missingFields": []
       },
-      "qualityIssues": [
-        "sourceUrl 缺失 1 条"
-      ]
+      "qualityIssues": []
     },
     {
       "date": "2026-10-02",
@@ -194,7 +189,7 @@
       "gapRecordCount": 1,
       "sourcePlatformCount": 7,
       "sourceUrlCount": 8,
-      "sourceUrlMissingCount": 1,
+      "sourceUrlMissingCount": 0,
       "channelTypeCount": 4,
       "channelTypes": [
         "官方",
@@ -224,8 +219,7 @@
         "missingFields": []
       },
       "qualityIssues": [
-        "新增事实少于 5 条，已有缺口记录",
-        "sourceUrl 缺失 1 条"
+        "新增事实少于 5 条，已有缺口记录"
       ]
     },
     {
@@ -238,7 +232,7 @@
       "gapRecordCount": 1,
       "sourcePlatformCount": 7,
       "sourceUrlCount": 6,
-      "sourceUrlMissingCount": 1,
+      "sourceUrlMissingCount": 0,
       "channelTypeCount": 5,
       "channelTypes": [
         "报告学术",
@@ -271,8 +265,7 @@
         "missingFields": []
       },
       "qualityIssues": [
-        "新增事实少于 5 条，已有缺口记录",
-        "sourceUrl 缺失 1 条"
+        "新增事实少于 5 条，已有缺口记录"
       ]
     },
     {
@@ -285,7 +278,7 @@
       "gapRecordCount": 1,
       "sourcePlatformCount": 6,
       "sourceUrlCount": 5,
-      "sourceUrlMissingCount": 1,
+      "sourceUrlMissingCount": 0,
       "channelTypeCount": 5,
       "channelTypes": [
         "报告学术",
@@ -318,8 +311,7 @@
         "missingFields": []
       },
       "qualityIssues": [
-        "新增事实少于 5 条，已有缺口记录",
-        "sourceUrl 缺失 1 条"
+        "新增事实少于 5 条，已有缺口记录"
       ]
     },
     {
@@ -332,7 +324,7 @@
       "gapRecordCount": 1,
       "sourcePlatformCount": 8,
       "sourceUrlCount": 7,
-      "sourceUrlMissingCount": 1,
+      "sourceUrlMissingCount": 0,
       "channelTypeCount": 5,
       "channelTypes": [
         "媒体",
@@ -366,8 +358,7 @@
         "missingFields": []
       },
       "qualityIssues": [
-        "新增事实少于 5 条，已有缺口记录",
-        "sourceUrl 缺失 1 条"
+        "新增事实少于 5 条，已有缺口记录"
       ]
     },
     {
@@ -380,7 +371,7 @@
       "gapRecordCount": 1,
       "sourcePlatformCount": 5,
       "sourceUrlCount": 4,
-      "sourceUrlMissingCount": 1,
+      "sourceUrlMissingCount": 0,
       "channelTypeCount": 3,
       "channelTypes": [
         "官方",
@@ -408,8 +399,7 @@
       },
       "qualityIssues": [
         "新增事实少于 5 条，已有缺口记录",
-        "渠道类型少于 4 类",
-        "sourceUrl 缺失 1 条"
+        "渠道类型少于 4 类"
       ]
     }
   ],
@@ -423,11 +413,11 @@
   },
   "homepageBridge": {
     "digestLatestDate": "2026-10-04",
-    "latestScanDate": "2026-10-04",
+    "latestScanDate": "2026-10-05",
     "freshnessStatus": "pass",
-    "ageDays": 1,
+    "ageDays": 0,
     "maxAgeDays": 1,
-    "latestScanUrl": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-04.html",
+    "latestScanUrl": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-05.html",
     "publicMirrorUrl": "https://jordanfu.github.io/org-intelligence-info/",
     "checkedBy": "scripts/check-public-links.js",
     "status": "pending-link-check"
@@ -469,7 +459,7 @@
   "missing": {
     "summary": 0,
     "source": 1,
-    "sourceUrl": 87,
+    "sourceUrl": 56,
     "platform": 25,
     "trust": 29,
     "infoType": 0,
@@ -482,15 +472,14 @@
   },
   "warnings": [
     "最新日期非缺口信息卡少于 8 条：当前 4 条；已有缺口记录，不能用缺口记录凑数量。",
-    "最新日期有 1 条 sourceUrl 缺失：G1004-01。",
     "最新日期“新增事实”少于 5 条：当前 2 条；已有缺口记录，首页应诚实显示可信新增不足。"
   ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-04T15:26:27.645Z",
+    "checkedAt": "2026-10-05T01:41:40.040Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 4288,
+    "firstPartyChecked": 4323,
     "externalWarnings": 14,
     "brokenCount": 0,
     "publicScanBridge": [
@@ -503,6 +492,11 @@
         "ok": true,
         "status": 200,
         "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-04.html"
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-05.html"
       }
     ]
   },

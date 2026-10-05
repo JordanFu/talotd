@@ -75,7 +75,7 @@
 
 ## 8. 代表性检索账本
 
-外部检索优先使用 `python3 /Users/tal/.codex/skills/anysearch/scripts/anysearch_cli.py`，随后对关键 ATS、原始公司页和转载链定向补证。代表性搜索词：
+外部检索优先使用 AnySearch CLI（本地调用），随后对关键 ATS、原始公司页和转载链定向补证。代表性搜索词：
 
 - `AI organization layers managers September 28 2026 official`
 - `site:jobs.ashbyhq.com AI manager career growth September 28 2026`
@@ -93,4 +93,3 @@
 ## 9. 主代理交叉验证结论
 
 今日最强证据是职责、跨度、接口和治理的**设计信号**，不是结构与人才机制的**运行结果**。四份专题与总览均把事实、判断、Context、行动建议和来源分开；任何关于减层、人才密度、正式序列、即时晋升和薪酬溢价的扩张性表述均被降级或删除。
-

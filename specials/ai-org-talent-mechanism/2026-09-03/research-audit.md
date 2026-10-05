@@ -11,7 +11,7 @@
 
 ## 2. 检索工具与异常
 
-- 外部检索优先使用 `python3 /Users/tal/.codex/skills/anysearch/scripts/anysearch_cli.py`。
+- 外部检索优先使用 AnySearch CLI（本地调用）。
 - 运行时：Python 3.11.2；脚本 SHA256：`e520555be51c39e129320bbdd367ac18d6298fd854901dc81c6b8a0b3d2a5380`。
 - 按技能说明调用学术垂直域发现时，原样报错：`API Error: tool 'list_domains' not found: tool not found`。随后回退到常规 AnySearch、出版机构页面与定向站点检索；回退后仍未取得严格窗口内、能回答四专题的高质量新增学术研究。
 

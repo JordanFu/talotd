@@ -99,7 +99,7 @@
 
 ## 7. 检索留痕、工具与失败
 
-- 外部检索优先使用 `python3 /Users/tal/.codex/skills/anysearch/scripts/anysearch_cli.py`；脚本 SHA-256 为 `e520555be51c39e129320bbdd367ac18d6298fd854901dc81c6b8a0b3d2a5380`，Python 3.11.2。
+- 外部检索优先使用 AnySearch CLI（本地调用）；脚本 SHA-256 为 `e520555be51c39e129320bbdd367ac18d6298fd854901dc81c6b8a0b3d2a5380`，Python 3.11.2。
 - 代表性搜索词：`site:openai.com September 6 2026 research acceleration organization talent`、`OpenAI research acceleration 3.1 human intervention`、`2026年9月7日 AI 组织变革 人才 机制`、`site:36kr.com 2026-09-07 AI 人才 组织 岗位`、`AI promotion system handbook September 7 2026`、`AI job family salary pay band September 2026`、`site:arxiv.org AI workplace organization jobs management September 7 2026`。
 - AnySearch `list_domains --domain academic` 返回 `tool 'list_domains' not found`，依技能规则改用一般检索；未取得严格窗口新学术强根。
 - OpenAI 和 Gartner 官方页面的全文抓取受站点脚本／防护影响，使用搜索索引、公开页面和官方账号时间交叉核对；不补写不可见内容。
@@ -125,4 +125,3 @@
 ## 10. 审计结论
 
 **今天最可靠的新增不是“AI 已经替代人或管理层”，而是智能体执行容量扩大后，组织必须显式设计任务、身份、权限、人工介入、停跑恢复、知识共享和数据权利；岗位又同时出现端到端扩展与高后果深专业化。** 今日没有四专题制度后效；正式日报不宣布减层、人才密度提升、新序列成立或晋升体系成熟。
-

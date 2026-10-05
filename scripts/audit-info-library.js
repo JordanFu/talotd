@@ -286,7 +286,9 @@ function analyzeDay(day, digestText) {
     isPrivateSignal: isPrivateOrgSignal(item),
   }));
   const latestPlatforms = [...new Set(items.map((item) => item.platform || item.source).filter(Boolean))];
-  const sourceUrlMissingItemIds = items.filter((item) => !item.sourceUrl).map((item) => item.id);
+  const sourceUrlMissingItemIds = items
+    .filter((item) => item.normalizedInfoType !== '缺口记录' && !item.sourceUrl)
+    .map((item) => item.id);
   const channelTypes = [...new Set(items.map((item) => item.normalizedChannelType).filter((type) => type && type !== '未归类'))];
   const infoTypeStats = distribution(items, 'normalizedInfoType');
   const channelStats = distribution(items, 'normalizedChannelType');
@@ -486,7 +488,7 @@ function main() {
   const missing = {
     summary: countMissing(items, 'summary'),
     source: countMissing(items, 'source'),
-    sourceUrl: countMissing(items, 'sourceUrl'),
+    sourceUrl: countMissing(items.filter((item) => cardSchema.informationType(item.infoType) !== '缺口记录'), 'sourceUrl'),
     platform: countMissing(items, 'platform'),
     trust: countMissing(items, 'trust'),
     infoType: countMissing(days[0].items, 'infoType'),

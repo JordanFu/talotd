@@ -23,7 +23,7 @@
 
 ## 4. 代表性外部检索词
 
-外部检索优先使用 `python3 /Users/tal/.codex/skills/anysearch/scripts/anysearch_cli.py`；高价值候选回到官方原文、JSON-LD、官方 ATS 或方法附录。
+外部检索优先使用 AnySearch CLI（本地调用）；高价值候选回到官方原文、JSON-LD、官方 ATS 或方法附录。
 
 - `October 2 2026 AI workforce organization restructuring layoffs managers promotion job architecture talent Reuters official`
 - `2026-10-02 AI hiring skills based pay promotion workplace official company blog`

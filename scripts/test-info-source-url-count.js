@@ -13,10 +13,15 @@ const markdown = [
   '### [B] Repeated source',
   '- **来源**：[same](https://example.org/one)',
   '### [C] Missing source',
+  '- **信息类型**：新增事实',
+  '### [D] Gap record without external URL',
+  '- **来源**：本轮信息库采编记录',
+  '- **信息类型**：缺口记录',
 ].join('\n');
 context.markdown = markdown;
 const result = vm.runInContext('analyzeDay(parseDigest(markdown)[0], markdown)', context);
-assert.equal(result.cardCount, 3);
+assert.equal(result.cardCount, 4);
 assert.equal(result.sourceUrlCount, 2);
 assert.equal(result.sourceUrlMissingCount, 1);
-console.log('Source URL count: multiple links, deduplication and missing-source tests passed.');
+assert.deepEqual(Array.from(result.sourceUrlMissingItemIds), ['C']);
+console.log('Source URL count: multiple links, deduplication, gap-record exclusion and missing-source tests passed.');

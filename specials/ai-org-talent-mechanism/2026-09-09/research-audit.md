@@ -110,7 +110,7 @@ Seoul Economic Daily 页面为 2026-09-08 18:55:42 KST，换算北京时间 17:5
 
 ## 8. 检索留痕、工具与失败
 
-- 首选入口：`python3 /Users/tal/.codex/skills/anysearch/scripts/anysearch_cli.py`；脚本 SHA-256 `e520555be51c39e129320bbdd367ac18d6298fd854901dc81c6b8a0b3d2a5380`；Python 3.11.2。
+- 首选入口：AnySearch CLI（本地调用）；脚本 SHA-256 `e520555be51c39e129320bbdd367ac18d6298fd854901dc81c6b8a0b3d2a5380`；Python 3.11.2。
 - 代表性检索词：`September 9 2026 AI workforce organization managers hiring promotion official`、`Google Cloud Accenture Gemini Enterprise Business Group 1000 FDE`、`Korn Ferry Workforce 2026 managers fatigue AI workload`、`site:jobs.ashbyhq.com/openai September 9 2026 manager AI deployment`、`2026年9月9日 半导体 AI 人才 岗位 104`、`Should promotion depend on how workers use AI BBC`、`AI skills assessment hiring 2026 Xobin`、`site:arxiv.org AI organization work promotion September 2026`。
 - AnySearch `list_domains --domain academic` 返回 `API Error: tool 'list_domains' not found: tool not found`；改用一般／arXiv／SSRN 组合检索。本窗没有取得可直接支撑四专题的强学术新根。
 - 外部代理一次 AnySearch 批次出现 `Connection Error: Unable to reach the API endpoint.`；随后回到可访问原页、官方 API 与独立时间锚。连接失败和零结果均不等于没有事件。

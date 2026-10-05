@@ -111,7 +111,7 @@
 - 社媒：X、LinkedIn、Reddit、知乎、小红书的组织、岗位、晋升和员工体验词。
 - 咨询：McKinsey、BCG、Deloitte、HBR、Gartner 定向检索。
 
-AnySearch CLI：`python3 /Users/tal/.codex/skills/anysearch/scripts/anysearch_cli.py`；SHA-256：`e520555be51c39e129320bbdd367ac18d6298fd854901dc81c6b8a0b3d2a5380`；Python 3.11.2。
+AnySearch CLI：本地调用；SHA-256：`e520555be51c39e129320bbdd367ac18d6298fd854901dc81c6b8a0b3d2a5380`；Python 3.11.2。
 
 ## 7. 检索失败、访问限制与零结果
 

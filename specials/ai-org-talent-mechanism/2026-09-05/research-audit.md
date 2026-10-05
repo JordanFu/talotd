@@ -11,7 +11,7 @@
 
 ## 工具与检索审计
 
-- 优先检索工具：`python3 /Users/tal/.codex/skills/anysearch/scripts/anysearch_cli.py`；脚本 SHA256 `e520555be51c39e129320bbdd367ac18d6298fd854901dc81c6b8a0b3d2a5380`；Python 3.11.2。
+- 优先检索工具：AnySearch CLI（本地调用）；脚本 SHA256 `e520555be51c39e129320bbdd367ac18d6298fd854901dc81c6b8a0b3d2a5380`；Python 3.11.2。
 - 学术域发现按要求先执行 `list_domains --domain academic`，后端返回 `API Error: tool 'list_domains' not found: tool not found`；另一代理的同命令出现 `Connection Error: Unable to reach the API endpoint.`。因此改用通用实时搜索与官方页面复核，未把失败查询当作零结果证据。
 - 一次 `batch_search` 因超过五条查询返回 `Error: batch_search supports a maximum of 5 queries`；拆批后成功。
 - 代表检索词：

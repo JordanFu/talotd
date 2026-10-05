@@ -97,7 +97,7 @@
 
 ## 7. 检索留痕、工具与失败
 
-- AnySearch 入口：`python3 /Users/tal/.codex/skills/anysearch/scripts/anysearch_cli.py`；脚本 SHA-256 `e520555be51c39e129320bbdd367ac18d6298fd854901dc81c6b8a0b3d2a5380`；Python 3.11.2。
+- AnySearch 入口：本地调用；脚本 SHA-256 `e520555be51c39e129320bbdd367ac18d6298fd854901dc81c6b8a0b3d2a5380`；Python 3.11.2。
 - 代表性检索词：`September 8 2026 AI workforce organization restructuring management jobs official`、`September 8 2026 AI hiring talent skills promotion compensation official company`、`2026年9月8日 AI 组织 调整 人才 岗位 晋升 公司 官方`、`site:reuters.com September 8 2026 AI jobs workforce managers company`、`DeepSeek 150 HC 招聘 9月8日 2026 官方`、`site:jobs.ashbyhq.com AI salary posted September 8 2026 organization`。
 - AnySearch 学术 `list_domains --domain academic` 返回 `tool 'list_domains' not found: tool not found`；转用一般检索与 arXiv 官方 API。arXiv 对严格提交窗口和工作／组织组合词返回 0。
 - 主代理两轮 AnySearch 成功，第三轮国内媒体补充批次返回 `Connection Error: Unable to reach the API endpoint.`；随后用通用网页检索、原文页面和可核元数据补足。

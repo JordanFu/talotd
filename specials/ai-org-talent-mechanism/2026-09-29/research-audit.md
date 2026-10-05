@@ -60,7 +60,7 @@
 
 ## 6. 代表性检索账本
 
-外部检索优先使用 `python3 /Users/tal/.codex/skills/anysearch/scripts/anysearch_cli.py`，并回到官方页面、ATS JSON、具名访谈和研究方法页核实。代表性查询包括：
+外部检索优先使用 AnySearch CLI（本地调用），并回到官方页面、ATS JSON、具名访谈和研究方法页核实。代表性查询包括：
 
 - `September 29 2026 AI organization manager workforce promotion job family official company`
 - `2026年9月29日 AI 组织 调整 人才 晋升 岗位 官方`

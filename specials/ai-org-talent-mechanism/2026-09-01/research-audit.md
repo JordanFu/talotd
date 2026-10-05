@@ -56,7 +56,7 @@
 
 ## 6. 主代理交叉验证记录
 
-- AnySearch CLI：`python3 /Users/tal/.codex/skills/anysearch/scripts/anysearch_cli.py`；脚本 SHA-256 `e520555be51c39e129320bbdd367ac18d6298fd854901dc81c6b8a0b3d2a5380`；Python 3.11.2。
+- 检索工具：AnySearch CLI（本地调用）；脚本 SHA-256 `e520555be51c39e129320bbdd367ac18d6298fd854901dc81c6b8a0b3d2a5380`；Python 3.11.2。
 - 主代理直接核对 Anthropic 官方全文与站点地图、OpenAI 官方正文与产品站点地图、Atlassian 页面元数据、BCG HTML／PDF 时间冲突及 GeekWire 日期换算。
 - 动态招聘页只读取 `updated_at` 和页面责任／薪酬；不改写为首次发布、招聘完成或组织定型。
 - AnySearch 学术纵向工具准确错误为 `tool 'list_domains' not found: tool not found`；已回退常规搜索与原始页面，不伪造学术覆盖。
