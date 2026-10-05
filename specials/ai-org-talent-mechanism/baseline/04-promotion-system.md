@@ -42,6 +42,7 @@
 |---|---|
 | [复核、角色与上线支持](./knowledge/wiki/review-role-support-2026-10-02.md) | 把责任落实到核实权、任务边界、交接与员工支持，区分招聘信号和运行结果。 |
 | [机会、能力证据与用途边界](./knowledge/wiki/opportunity-evidence-purpose-2026-09-30.md) | 对照学习机会、测评整合与临时角色，保护员工发展和数据用途边界。 |
+| [本地知识库定期 Review（2026-10-05）](./knowledge/wiki/local-knowledge-review-2026-10-05.md) | 本周知识库巡检报告，覆盖 89 个当前公开 PDF 来源、近期 7 张机制比较页、PDF 精读与来源分类债务、历史专题重跑、过时二级索引、分享入口和隐私边界。 |
 | [本地知识库定期 Review（2026-09-28）](./knowledge/wiki/local-knowledge-review-2026-09-28.md) | 本周知识库巡检报告，覆盖 87 个当前公开 PDF 来源、近期 6 张机制比较页、PDF 精读与来源分类债务、历史专题补跑、分享入口和 AI 组织研究优先级。 |
 | [任务变化、能力证据与执行权限](./knowledge/wiki/task-evidence-controls-2026-09-27.md) | 从小厂任务调整、技能调查与官方岗位样本辨析责任、证据和授权，不将意图写成效果。 |
 | [工作重设计的责任、时间与决定权](./knowledge/wiki/work-redesign-evidence-2026-09-25.md) | 连接流程责任、团队授权与学习机会，保留使用考核的反向检验；建议不等于成效。 |
@@ -51,7 +52,6 @@
 | [知识库主题分类与去重治理建议](./knowledge/wiki/knowledge-taxonomy-dedup-review-2026-05-22.md) | 对当前知识库重复信息与分类体系的健康检查。结论是来源页不应删除，需新增主题导航层，将 Zapier、GitLab、AI能力盘点、AI-first operating model、技术组织、绩效薪酬等高重叠主题收敛到主题… |
 | [绩效管理标杆实践：四种机制流派](./knowledge/wiki/performance-management-benchmark-patterns.md) | 公开安全版绩效机制抽象，不包含内部采集细节；将绩效管理拆成相对排名、自主发展、快照记录、分层差异四类机制流派。 |
 | [HBR：AI 时代绩效管理需要新的度量对象](./knowledge/wiki/hbr-ai-era-performance-metrics-2026.md) | 提出人的贡献、AI系统与Agent、人机组合结果三层绩效度量框架；强调速度、产出量和AI使用率不能替代边界判断、可追溯性、升级质量和共同业务结果。 |
-| [人—AI—人机系统三层绩效指标](./knowledge/concepts/human-ai-performance-metrics.md) | 把AI工作绩效拆成人的判断与编排、Agent可靠性与治理、人机组合业务结果三层，避免把共同产出错误归因给个人或系统。 |
 
 ## 当前不可越界的结论
 

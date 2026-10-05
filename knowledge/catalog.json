@@ -146,12 +146,24 @@
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
-      "topics": ["AI组织设计", "人才发展"],
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
       "date": "2026-10-05",
       "uploadDate": "2026-10-05",
-      "tags": ["HR科技", "岗位架构", "员工体验"],
-      "related": ["adoption-value-boundaries-2026-10-04"],
-      "backlinks": ["daily/2026-10-05.md", "daily-report/2026-10-05.md"]
+      "tags": [
+        "HR科技",
+        "岗位架构",
+        "员工体验"
+      ],
+      "related": [
+        "adoption-value-boundaries-2026-10-04"
+      ],
+      "backlinks": [
+        "daily/2026-10-05.md",
+        "daily-report/2026-10-05.md"
+      ]
     },
     {
       "id": "adoption-value-boundaries-2026-10-04",
