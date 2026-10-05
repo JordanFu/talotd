@@ -139,6 +139,21 @@
   ],
   "reports": [
     {
+      "id": "hr-service-interfaces-2026-10-05",
+      "title": "HR服务与交付接口",
+      "summaryFile": "./knowledge/wiki/hr-service-interfaces-2026-10-05.md",
+      "description": "用可信任务完成、内容维护和可接手的责任替代单纯采用指标。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": ["AI组织设计", "人才发展"],
+      "date": "2026-10-05",
+      "uploadDate": "2026-10-05",
+      "tags": ["HR科技", "岗位架构", "员工体验"],
+      "related": ["adoption-value-boundaries-2026-10-04"],
+      "backlinks": ["daily/2026-10-05.md", "daily-report/2026-10-05.md"]
+    },
+    {
       "id": "adoption-value-boundaries-2026-10-04",
       "title": "采用、收益与兑现边界",
       "summaryFile": "./knowledge/wiki/adoption-value-boundaries-2026-10-04.md",
@@ -5433,6 +5448,30 @@
         "cmr.berkeley.edu"
       ],
       "originalUrl": "https://cmr.berkeley.edu/assets/documents/pdf/2026-10-why-ai-training-is-driving-adoption-but-not-sustainable-productivity.pdf"
+    },
+    {
+      "id": "p098",
+      "title": "2606.17887",
+      "originalTitle": "2606.17887",
+      "author": "arxiv.org",
+      "publisher": "arxiv.org",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-10-05",
+      "description": "2606.17887 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-arxiv-org-2606-17887.md",
+      "rawFile": "./knowledge/raw/arxiv-org-2606-17887.pdf",
+      "fileName": "arxiv-org-2606-17887.pdf",
+      "fileSize": "4650118 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "arxiv.org"
+      ],
+      "originalUrl": "https://arxiv.org/pdf/2606.17887.pdf"
     }
   ]
 }

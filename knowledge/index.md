@@ -8,6 +8,7 @@
 ## 来源摘要（Wiki）
 
 - [本地知识库定期 Review（2026-10-05）](wiki/local-knowledge-review-2026-10-05.md)：本周健康度 82/100；近期机制页与公开入口健康，主要债务为 PDF 精读、来源类型、生命周期口径、历史专题重跑和过时二级索引。
+- [HR服务与交付接口](wiki/hr-service-interfaces-2026-10-05.md)：从可信任务完成出发，区分知识维护、人工求助与交付角色责任。
 
 - [采用、收益与兑现边界](wiki/adoption-value-boundaries-2026-10-04.md)：区分采用、净收益与实际工作约定，连接W40信息库周报。
 
@@ -173,6 +174,7 @@
 | [itb lat dir ai 6454 web 0](wiki/pdf-source-ag-ny-gov-itb-lat-dir-ai-6454-web-0.md) | ag.ny.gov | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 17 次 |
 | [GoogleATLASv1](wiki/pdf-source-ai-google-googleatlasv1.md) | ai.google | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 7 次 |
 | [CWA18398 2026](wiki/pdf-source-ai4si-gzs-si-cwa18398-2026.md) | ai4si.gzs.si | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
+| [2606.17887](wiki/pdf-source-arxiv-org-2606-17887.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [2607.28890](wiki/pdf-source-arxiv-org-2607-28890.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [2607.28968](wiki/pdf-source-arxiv-org-2607-28968.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [2608.05116](wiki/pdf-source-arxiv-org-2608-05116.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
