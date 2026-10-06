@@ -55,6 +55,8 @@ gov.uscourts.cand.474095.59.0 已作为日报/周报 PDF 证据源入库，当�
 - `specials/ai-org-talent-mechanism/2026-08-07/00-overview.md:163`：法院文件
 - `specials/ai-org-talent-mechanism/2026-08-07/02-talent-density.md:40`：法院文件
 - `specials/ai-org-talent-mechanism/2026-08-07/02-talent-density.md:170`：法院文件
+- `外部公开 PDF 扫描:65`：公开安全引用：驳回动议原件
+- `外部公开 PDF 扫描:175`：公开安全引用：| CourtListener |  | OpenAI / Apple | Motion to Dismiss 原件 | A | 是 |
 
 ## 后续精读任务
 
