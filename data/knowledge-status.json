@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T16:52:02.412Z",
+  "generatedAt": "2026-10-06T19:02:27.459Z",
   "module": "knowledge-base",
   "qualityStatus": "warn",
   "latestCatalogDate": "2026-10-07",
@@ -103,21 +103,24 @@
   ],
   "warnings": [
     "knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。",
-    "external link not hard-checked in Phase 1"
+    "external link not hard-checked in Phase 1",
+    "public scan bridge returned HTTP 503"
   ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-06T16:52:02.873Z",
+    "checkedAt": "2026-10-06T19:02:27.884Z",
     "qualityStatus": "warn",
     "firstPartyChecked": 4372,
-    "externalWarnings": 12,
+    "externalWarnings": 13,
     "brokenCount": 0,
     "publicScanBridge": [
       {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/"
+        "ok": false,
+        "hardBroken": false,
+        "status": 503,
+        "url": "https://jordanfu.github.io/org-intelligence-info/",
+        "reason": "public scan bridge returned HTTP 503"
       },
       {
         "ok": true,

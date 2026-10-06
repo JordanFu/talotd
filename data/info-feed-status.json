@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T16:51:12.455Z",
+  "generatedAt": "2026-10-06T18:59:23.236Z",
   "module": "info-feed",
   "qualityStatus": "warn",
   "latestDate": "2026-10-06",
@@ -486,21 +486,24 @@
   "warnings": [
     "最新日期非缺口信息卡少于 8 条：当前 5 条；已有缺口记录，不能用缺口记录凑数量。",
     "最新日期“新增事实”少于 5 条：当前 1 条；已有缺口记录，首页应诚实显示可信新增不足。",
-    "external link not hard-checked in Phase 1"
+    "external link not hard-checked in Phase 1",
+    "public scan bridge returned HTTP 503"
   ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-06T16:52:02.873Z",
+    "checkedAt": "2026-10-06T19:02:27.884Z",
     "qualityStatus": "warn",
     "firstPartyChecked": 4372,
-    "externalWarnings": 12,
+    "externalWarnings": 13,
     "brokenCount": 0,
     "publicScanBridge": [
       {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/"
+        "ok": false,
+        "hardBroken": false,
+        "status": 503,
+        "url": "https://jordanfu.github.io/org-intelligence-info/",
+        "reason": "public scan bridge returned HTTP 503"
       },
       {
         "ok": true,
