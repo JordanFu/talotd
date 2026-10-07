@@ -1,6 +1,6 @@
 # 系统健康状态
 
-> 自动生成：2026-10-06T19:02:28.705Z
+> 自动生成：2026-10-07T01:50:27.550Z
 
 ## 一眼判断
 
@@ -14,10 +14,10 @@
 
 ## 情报流状态
 
-- 最新日期：2026-10-06
-- 今日卡片数：6
-- 今日新增事实：1
-- 旧线复核 / Context：3
+- 最新日期：2026-10-07
+- 今日卡片数：8
+- 今日新增事实：5
+- 旧线复核 / Context：1
 - 弱信号：1
 - 缺口记录：1
 - 渠道覆盖：官方、报告学术、JD薪酬、社媒公众号
@@ -56,8 +56,8 @@
 ## 链接检查
 
 - 一方断链数：0
-- 外部链接 warning：13
-- 公开扫描桥接：warn:503、ok:200
+- 外部链接 warning：24
+- 公开扫描桥接：ok:200、ok:200
 
 ## 质量语义
 
@@ -68,15 +68,11 @@
 ## 当前问题
 
 - ✅ 无 P0 fail。
-- ⚠️ 最新日期非缺口信息卡少于 8 条：当前 5 条；已有缺口记录，不能用缺口记录凑数量。
-- ⚠️ 最新日期“新增事实”少于 5 条：当前 1 条；已有缺口记录，首页应诚实显示可信新增不足。
+- ⚠️ 最新日期非缺口信息卡少于 8 条：当前 7 条；已有缺口记录，不能用缺口记录凑数量。
+- ⚠️ 最新日期同一子主题超过 40%：50%；需要关注广谱雷达覆盖。
 - ⚠️ external link not hard-checked in Phase 1
-- ⚠️ public scan bridge returned HTTP 503
 - ⚠️ external link not hard-checked in Phase 1
-- ⚠️ public scan bridge returned HTTP 503
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
-- ⚠️ external link not hard-checked in Phase 1
-- ⚠️ public scan bridge returned HTTP 503
 - ⚠️ 信息库交付待核验：scheduled
 - ⚠️ 信息库质量为 warn
 - ⚠️ 专题研究状态为 warn
