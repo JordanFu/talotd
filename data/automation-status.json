@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T01:50:27.498Z",
+  "generatedAt": "2026-10-07T01:52:00.136Z",
   "module": "automation",
   "qualityStatus": "warn",
   "chains": {
@@ -10,27 +10,22 @@
       "newFactCount": 5
     },
     "infoDelivery": {
-      "checkedAt": "2026-10-06T19:02:27.934Z",
+      "checkedAt": "2026-10-07T01:51:58.733Z",
       "module": "info-delivery",
       "date": "2026-10-07",
       "timezone": "Asia/Shanghai",
       "scheduledAt": "09:40",
       "deadline": "11:30",
-      "status": "scheduled",
+      "status": "published",
       "qualityStatus": "warn",
-      "cardCount": 0,
-      "gapRecordCount": 0,
-      "localReady": false,
-      "publicVerified": false,
-      "issues": [
-        "digest 未出现当日信息卡",
-        "当日 daily 或 daily-report 缺失日期/文件",
-        "当日导读正文缺失",
-        "信息库 manifest 日期或卡片数与当日产物不符"
-      ],
+      "cardCount": 8,
+      "gapRecordCount": 1,
+      "localReady": true,
+      "publicVerified": true,
+      "issues": [],
       "remoteErrors": [],
       "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
-      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/37515480438"
+      "runUrl": null
     },
     "topicProjects": {
       "qualityStatus": "warn",
@@ -73,7 +68,7 @@
     "linkCheck": {
       "qualityStatus": "warn",
       "brokenCount": 0,
-      "checkedAt": "2026-10-07T01:47:39.781Z"
+      "checkedAt": "2026-10-07T01:50:38.637Z"
     },
     "githubActionsFallback": {
       "status": "pass",
@@ -102,7 +97,6 @@
     }
   },
   "warnings": [
-    "信息库交付待核验：scheduled",
     "信息库质量为 warn",
     "专题研究状态为 warn",
     "专题待正式重跑 24 天"
