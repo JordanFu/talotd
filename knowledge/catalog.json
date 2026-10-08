@@ -139,6 +139,31 @@
   ],
   "reports": [
     {
+      "id": "fico-restructuring-2026-10-06",
+      "title": "FICO重组披露：层级、岗位与实施边界",
+      "summaryFile": "./knowledge/wiki/pdf-source-fico-restructuring-2026-10-06.md",
+      "sourceUrl": "https://investors.fico.com/static-files/d23035a1-351f-4018-9d75-a38ff5b84245",
+      "description": "已核读三页披露文字；公开PDF下载403待重试。区分减层与岗位计划、实施及员工净负担。",
+      "author": "FICO",
+      "publisher": "FICO",
+      "sourceType": "industry",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2026-10-06",
+      "uploadDate": "2026-10-08",
+      "tags": [
+        "组织变革",
+        "组织层级",
+        "待重试"
+      ],
+      "related": [],
+      "backlinks": [
+        "daily/2026-10-08.md",
+        "daily-report/2026-10-08.md"
+      ]
+    },
+    {
       "id": "hr-service-interfaces-2026-10-05",
       "title": "HR服务与交付接口",
       "summaryFile": "./knowledge/wiki/hr-service-interfaces-2026-10-05.md",

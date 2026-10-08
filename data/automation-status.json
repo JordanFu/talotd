@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-07T19:27:39.966Z",
+  "generatedAt": "2026-10-08T03:49:56.460Z",
   "module": "automation",
-  "qualityStatus": "warn",
+  "qualityStatus": "fail",
   "chains": {
     "infoFeed": {
-      "qualityStatus": "warn",
-      "latestDate": "2026-10-07",
-      "latestCardCount": 8,
+      "qualityStatus": "fail",
+      "latestDate": "2026-10-08",
+      "latestCardCount": 9,
       "newFactCount": 5
     },
     "infoDelivery": {
@@ -16,17 +16,14 @@
       "timezone": "Asia/Shanghai",
       "scheduledAt": "09:40",
       "deadline": "11:30",
-      "status": "scheduled",
-      "qualityStatus": "warn",
+      "status": "overdue",
+      "qualityStatus": "fail",
       "cardCount": 0,
       "gapRecordCount": 0,
       "localReady": false,
       "publicVerified": false,
       "issues": [
-        "digest 未出现当日信息卡",
-        "当日 daily 或 daily-report 缺失日期/文件",
-        "当日导读正文缺失",
-        "信息库 manifest 日期或卡片数与当日产物不符"
+        "已超过截止时间，尚无成功交付回执"
       ],
       "remoteErrors": [],
       "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
@@ -67,13 +64,13 @@
     "knowledgeLint": {
       "qualityStatus": "pass",
       "latestCatalogDate": "2026-10-08",
-      "reportCount": 201,
+      "reportCount": 202,
       "privatePathLeakCount": 0
     },
     "linkCheck": {
       "qualityStatus": "warn",
       "brokenCount": 0,
-      "checkedAt": "2026-10-07T19:27:39.023Z"
+      "checkedAt": "2026-10-08T03:49:56.399Z"
     },
     "githubActionsFallback": {
       "status": "pass",
@@ -102,11 +99,12 @@
     }
   },
   "warnings": [
-    "信息库交付待核验：scheduled",
     "信息库质量为 warn",
     "专题研究状态为 warn",
     "专题待正式重跑 24 天"
   ],
-  "criticalIssues": [],
+  "criticalIssues": [
+    "信息库当日交付未完成：overdue"
+  ],
   "operatingRule": "GitHub Actions 只能兜底、审计和记录状态；正式研究完成只能由 formal 条件确认。"
 }
