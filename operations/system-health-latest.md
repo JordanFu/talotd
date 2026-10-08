@@ -1,11 +1,11 @@
 # 系统健康状态
 
-> 自动生成：2026-10-08T03:56:02.420Z
+> 自动生成：2026-10-08T07:44:22.194Z
 
 ## 一眼判断
 
 - 总体状态：⚠️ warn
-- 情报流状态：✅ pass
+- 情报流状态：⚠️ warn
 - 专题研究状态：⚠️ warn
 - 知识库状态：⚠️ warn
 - 自动化状态：⚠️ warn
@@ -48,7 +48,7 @@
 - 本地正式任务：scheduled
 - GitHub Actions 角色：fallback-only
 - GitHub Actions 定时数：4
-- 信息库链路：✅ pass
+- 信息库链路：⚠️ warn
 - 专题链路：⚠️ warn
 - 知识库 lint 链路：✅ pass
 - 链接检查链路：⚠️ warn
@@ -69,6 +69,9 @@
 
 - ✅ 无 P0 fail。
 - ⚠️ external link not hard-checked in Phase 1
+- ⚠️ external link not hard-checked in Phase 1
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
+- ⚠️ external link not hard-checked in Phase 1
+- ⚠️ 信息库质量为 warn
 - ⚠️ 专题研究状态为 warn
 - ⚠️ 专题待正式重跑 24 天

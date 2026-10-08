@@ -40,6 +40,7 @@
 
 | 资料 | 对本专题的价值 |
 |---|---|
+| [FICO重组披露：层级、岗位与实施边界](./knowledge/wiki/pdf-source-fico-restructuring-2026-10-06.md) | 已核读三页披露文字；公开PDF下载403待重试。区分减层与岗位计划、实施及员工净负担。 |
 | [岗位责任、人工承接与收益分配](./knowledge/wiki/role-handoff-rewards-2026-10-01.md) | 自动化后检查岗位责任、例外承接容量与员工收益，区分调查、安排与招聘意图。 |
 | [从项目选择到资源兑现](./knowledge/wiki/project-selection-resource-movement-2026-09-29.md) | 比较场景筛选、资源转向与岗位责任，优先检验员工实际工作负担。 |
 | [学习与控制的闭环](./knowledge/wiki/learning-and-control-2026-09-28.md) | 从人才供给、事件复盘和岗位样本区分参与记录与实际结果；实践机会、停止权限与资源配套。 |
@@ -51,7 +52,6 @@
 | [岗位责任与证据：知识治理、薪酬比较和外部监督](./knowledge/wiki/role-charters-and-evidence-2026-09-19.md) | 比较岗位责任、薪酬结构控制与外部评估权利，区分公开安排、统计观察与待试验建议。 |
 | [交接、决策与岗位维护：AI试点的三个组织检查](./knowledge/wiki/handoffs-decisions-role-maintenance-2026-09-16.md) | 把公司案例、研发研究和岗位方法转成可复用试点检查，明确证据边界与员工收益。 |
 | [岗位价格与责任设计：先分问题，再选机制](./knowledge/wiki/role-price-and-control-2026-09-15.md) | 比较市场补差、复合岗位支持与人机授权，明确证据边界和可试用的工作前检查；不把建议当成企业已验证制度。 |
-| [AI责任与员工负担：四个实施前检查](./knowledge/wiki/ai-decision-workload-2026-09-14.md) | 从咨询建议、岗位意图与员工体验识别人工决定、维护支持和净负担问题；不把旧线或弱信号包装为新增。 |
 
 ## 当前不可越界的结论
 
