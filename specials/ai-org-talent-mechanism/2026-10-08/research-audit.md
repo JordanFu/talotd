@@ -129,4 +129,4 @@
 - [x] 根`index.html`最新卡片指向`2026-10-08/index.html`。
 - [x] 严格质量门、baseline更新、覆盖审计、状态生成和项目测试通过。
 - [x] `digest.md`、`daily/`、`daily-report/`没有被本任务改写。
-- [ ] `git diff --check`、公共链接、提交推送与线上页面验证通过。
+- [x] `git diff --check`、公共链接、提交推送与线上页面验证通过（首次发布提交 `eacf2294`；首页、当天聚合页及五份报告均返回HTTP 200，新版本标记已命中）。
