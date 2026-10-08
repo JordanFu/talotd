@@ -55,6 +55,8 @@ WEF Artificial Intelligence and the Future of Entry Level Work 2026 已作为日
 - `specials/ai-org-talent-mechanism/2026-08-07/00-overview.md:100`：报告
 - `specials/ai-org-talent-mechanism/2026-08-07/03-job-family-career-architecture.md:96`：WEF/PwC 入门岗位报告
 - `specials/ai-org-talent-mechanism/2026-08-07/03-job-family-career-architecture.md:187`：WEF/PwC｜Artificial Intelligence and the Future of Entry-Level Work
+- `specials/ai-org-talent-mechanism/2026-10-08/03-job-family-career-architecture.md:96`：WEF 报告
+- `specials/ai-org-talent-mechanism/2026-10-08/03-job-family-career-architecture.md:190`：World Economic Forum｜Artificial Intelligence and the Future of Entry-Level Work
 
 ## 后续精读任务
 

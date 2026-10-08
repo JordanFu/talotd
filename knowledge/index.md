@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-10-08
+> 最后更新: 2026-10-09
 
 ---
 
@@ -207,7 +207,7 @@
 | [7520958](wiki/pdf-source-papers-ssrn-com-7520958.md) | papers.ssrn.com | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 2 次 |
 | [H3 AP202606221823746144 1](wiki/pdf-source-pdf-dfcfw-com-h3-ap202606221823746144-1.md) | pdf.dfcfw.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [H3 AP202607011826626755 1](wiki/pdf-source-pdf-dfcfw-com-h3-ap202607011826626755-1.md) | pdf.dfcfw.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
-| [WEF Artificial Intelligence and the Future of Entry Level Work 2026](wiki/pdf-source-world-economic-forum-wef-artificial-intelligence-and-the-future-of-entry-level-work-2026.md) | World Economic Forum | AI组织设计、战略规划 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
+| [WEF Artificial Intelligence and the Future of Entry Level Work 2026](wiki/pdf-source-world-economic-forum-wef-artificial-intelligence-and-the-future-of-entry-level-work-2026.md) | World Economic Forum | AI组织设计、战略规划 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
 | [WEF：Organizational Transformation in the Age of AI](wiki/pdf-source-world-economic-forum-wef-organizational-transformation-in-the-age-of-ai.md) | World Economic Forum | 工作流重构、决策权、AI 参与执行 | 强相关：战略到组织机制 | 已下载原文，引用 3 次 |
 | [Anthropic：2026 Agentic Coding Trends Report](wiki/pdf-source-anthropic-anthropic-2026-agentic-coding-trends-report.md) | Anthropic | Agentic coding、工程师角色重塑、人机协作 | 强相关：产品工程一体化 | 已下载原文，引用 1 次 |
 | [Meta 06 30 2026 Exhibit 99 1 FINAL](wiki/pdf-source-s21-q4cdn-com-meta-06-30-2026-exhibit-99-1-final.md) | s21.q4cdn.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
