@@ -1,33 +1,31 @@
 {
-  "generatedAt": "2026-10-08T03:49:56.460Z",
+  "generatedAt": "2026-10-08T03:56:02.368Z",
   "module": "automation",
-  "qualityStatus": "fail",
+  "qualityStatus": "warn",
   "chains": {
     "infoFeed": {
-      "qualityStatus": "fail",
+      "qualityStatus": "pass",
       "latestDate": "2026-10-08",
       "latestCardCount": 9,
       "newFactCount": 5
     },
     "infoDelivery": {
-      "checkedAt": "2026-10-07T19:27:39.069Z",
+      "checkedAt": "2026-10-08T03:54:18.346Z",
       "module": "info-delivery",
       "date": "2026-10-08",
       "timezone": "Asia/Shanghai",
       "scheduledAt": "09:40",
       "deadline": "11:30",
-      "status": "overdue",
-      "qualityStatus": "fail",
-      "cardCount": 0,
-      "gapRecordCount": 0,
-      "localReady": false,
-      "publicVerified": false,
-      "issues": [
-        "已超过截止时间，尚无成功交付回执"
-      ],
+      "status": "published",
+      "qualityStatus": "pass",
+      "cardCount": 9,
+      "gapRecordCount": 1,
+      "localReady": true,
+      "publicVerified": true,
+      "issues": [],
       "remoteErrors": [],
       "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
-      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/37674488784"
+      "runUrl": null
     },
     "topicProjects": {
       "qualityStatus": "warn",
@@ -99,12 +97,9 @@
     }
   },
   "warnings": [
-    "信息库质量为 warn",
     "专题研究状态为 warn",
     "专题待正式重跑 24 天"
   ],
-  "criticalIssues": [
-    "信息库当日交付未完成：overdue"
-  ],
+  "criticalIssues": [],
   "operatingRule": "GitHub Actions 只能兜底、审计和记录状态；正式研究完成只能由 formal 条件确认。"
 }
