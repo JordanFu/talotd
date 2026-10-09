@@ -152,6 +152,7 @@ function shareAssetsTags(outputPath) {
 const markdown = fs.readFileSync(input, 'utf8');
 const title = titleFrom(markdown);
 const markdownName = path.basename(input);
+const sectionLabel = path.basename(path.dirname(input)) === 'monthly' ? '返回月报目录' : '返回周报分区';
 const output = input.replace(/\.md$/i, '.html');
 const html = `<!DOCTYPE html>
 <html lang="zh-CN">
@@ -192,7 +193,7 @@ ${shareAssetsTags(output)}
 <body>
   <main>
     <div class="toolbar">
-      <a class="btn" href="./index.html">返回周报分区</a>
+      <a class="btn" href="./index.html">${sectionLabel}</a>
       <a class="btn" href="../../../index.html">返回 OD 情报中心</a>
       <a class="btn primary" href="./${esc(markdownName)}">查看 Markdown</a>
     </div>

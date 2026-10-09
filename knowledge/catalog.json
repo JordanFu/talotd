@@ -140,9 +140,9 @@
   "reports": [
     {
       "id": "topic-monthly-2026-09-quick",
-      "title": "9月四专题阶段性月报｜先重写工作，再调整组织（速读）",
+      "title": "9月四专题阶段性月报｜AI来了，工作到底该怎么改？（速读）",
       "summaryFile": "./specials/ai-org-talent-mechanism/monthly/2026-09-quick.md",
-      "description": "研究截止9月30日18:00，10月9日补编；三项重点判断与10月最小试验，不作机制成效验证。",
+      "description": "3分钟读懂经理、团队能力、岗位和升职四个问题。研究截止9月30日18:00，10月9日补编并改写表达，事实范围不变。",
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "internal",
@@ -155,9 +155,9 @@
     },
     {
       "id": "topic-monthly-2026-09-detailed",
-      "title": "9月四专题阶段性月报｜从组织图走向责任与机会系统（详细）",
+      "title": "9月四专题阶段性月报｜AI来了，工作到底该怎么改？（详细）",
       "summaryFile": "./specials/ai-org-talent-mechanism/monthly/2026-09-detailed.md",
-      "description": "跨周比较四专题、十个公司案例、冲突、弱信号与10月行动；区分后到材料、结构门禁和机制后效。",
+      "description": "先解释四个管理问题，再看十个公司案例与10月建议；来源和研究限制移到后部，保留原事实与等级边界。",
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "internal",
