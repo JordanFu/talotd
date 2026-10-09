@@ -94,7 +94,7 @@
 - [x] 根 `index.html` 的专题项目入口由 manifest 指向 2026-10-09 `index.html`。
 - [x] `digest.md`、`daily/`、`daily-report/` 相对 `origin/main` 无专题任务改动。
 - [x] 覆盖审计、严格质量门、无头浏览器页面验证、项目测试与 `git diff --check` 通过；公开链接检查为 broken 0、外链告警30条。
-- [ ] `./sync.sh` 已提交并推送；本地 `HEAD` 与 `origin/main` 一致且工作区干净。
-- [ ] GitHub Pages 首页、日目录和五个报告返回200，关键链接线上验证通过。
+- [x] `./sync.sh` 已提交并推送；提交 `9cf40ec8` 已确认位于远端 `main`，首轮同步后工作区干净。
+- [x] GitHub Pages 首页、日目录和五个报告返回200；线上 manifest 的 `latestFormalDate=2026-10-09`、`todayStatus=formal`，首页今日入口与日目录五个 `.html` 链接验证通过。
 
 > 本清单只在对应检查真实完成后勾选；未执行的步骤不以计划替代证据。
