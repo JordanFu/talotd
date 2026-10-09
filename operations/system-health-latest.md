@@ -1,6 +1,6 @@
 # 系统健康状态
 
-> 自动生成：2026-10-09T01:50:55.003Z
+> 自动生成：2026-10-09T07:40:52.672Z
 
 ## 一眼判断
 
@@ -35,15 +35,15 @@
 
 - Catalog 日期：2026-10-09
 - 知识源：4
-- 报告 / 知识页：202
+- 报告 / 知识页：204
 - 待重试 PDF：17
 - 本地或私有路径泄露：0
 - 缺失 summaryFile：0
 
 ## 自动化状态
 
-- 信息库当日交付：publish-pending
-- 信息库线上内容一致：未确认
+- 信息库当日交付：published
+- 信息库线上内容一致：已核对
 - 信息库交付截止：北京时间 11:30；告警不等于内容补跑完成。
 - 本地正式任务：scheduled
 - GitHub Actions 角色：fallback-only
@@ -73,7 +73,6 @@
 - ⚠️ external link not hard-checked in Phase 1
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
 - ⚠️ external link not hard-checked in Phase 1
-- ⚠️ 信息库交付待核验：publish-pending
 - ⚠️ 信息库质量为 warn
 - ⚠️ 专题研究状态为 warn
 - ⚠️ 专题待正式重跑 24 天

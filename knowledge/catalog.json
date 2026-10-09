@@ -146,12 +146,24 @@
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "internal",
-      "topics": ["AI组织设计", "人才发展"],
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
       "date": "2026-09-30",
       "uploadDate": "2026-10-09",
-      "tags": ["阶段性月报", "四专题", "证据边界"],
-      "related": ["./specials/ai-org-talent-mechanism/monthly/2026-09-detailed.md"],
-      "backlinks": ["./index.html", "./knowledge/index.md"]
+      "tags": [
+        "阶段性月报",
+        "四专题",
+        "证据边界"
+      ],
+      "related": [
+        "./specials/ai-org-talent-mechanism/monthly/2026-09-detailed.md"
+      ],
+      "backlinks": [
+        "./index.html",
+        "./knowledge/index.md"
+      ]
     },
     {
       "id": "topic-monthly-2026-09-detailed",
@@ -161,12 +173,25 @@
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "internal",
-      "topics": ["AI组织设计", "人才发展"],
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
       "date": "2026-09-30",
       "uploadDate": "2026-10-09",
-      "tags": ["阶段性月报", "四专题", "责任与机会"],
-      "related": ["./specials/ai-org-talent-mechanism/monthly/2026-09-quick.md", "./daily-report/monthly-2026-09.md"],
-      "backlinks": ["./index.html", "./knowledge/index.md"]
+      "tags": [
+        "阶段性月报",
+        "四专题",
+        "责任与机会"
+      ],
+      "related": [
+        "./specials/ai-org-talent-mechanism/monthly/2026-09-quick.md",
+        "./daily-report/monthly-2026-09.md"
+      ],
+      "backlinks": [
+        "./index.html",
+        "./knowledge/index.md"
+      ]
     },
     {
       "id": "fico-restructuring-2026-10-06",
