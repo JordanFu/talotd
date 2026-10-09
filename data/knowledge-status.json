@@ -103,26 +103,31 @@
   ],
   "warnings": [
     "knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。",
-    "external link not hard-checked in Phase 1"
+    "external link not hard-checked in Phase 1",
+    "network check warning: fetch failed"
   ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-09T08:17:16.388Z",
+    "checkedAt": "2026-10-09T10:38:54.679Z",
     "qualityStatus": "warn",
     "firstPartyChecked": 4430,
-    "externalWarnings": 28,
+    "externalWarnings": 30,
     "brokenCount": 0,
     "publicScanBridge": [
       {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/"
+        "ok": false,
+        "hardBroken": false,
+        "status": null,
+        "url": "https://jordanfu.github.io/org-intelligence-info/",
+        "reason": "network check warning: fetch failed"
       },
       {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-09.html"
+        "ok": false,
+        "hardBroken": false,
+        "status": null,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-09.html",
+        "reason": "network check warning: fetch failed"
       }
     ]
   }
