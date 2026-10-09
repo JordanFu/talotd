@@ -7,6 +7,8 @@
 
 ## 来源摘要（Wiki）
 
+- [9月四专题阶段性月报（速读）](../specials/ai-org-talent-mechanism/monthly/2026-09-quick.html) · [详细版](../specials/ai-org-talent-mechanism/monthly/2026-09-detailed.html)：跨周比较组织、人才、岗位与晋升机制；9月30日截止，10月9日补编，保留状态稿与后效缺口。与信息库月报分开维护。
+
 - [FICO重组披露：层级、岗位与实施边界](wiki/pdf-source-fico-restructuring-2026-10-06.md)：已核读三页文字；公开PDF下载403待重试，区分正式计划与实际效果。
 
 - [本地知识库定期 Review（2026-10-05）](wiki/local-knowledge-review-2026-10-05.md)：本周健康度 82/100；近期机制页与公开入口健康，主要债务为 PDF 精读、来源类型、生命周期口径、历史专题重跑和过时二级索引。

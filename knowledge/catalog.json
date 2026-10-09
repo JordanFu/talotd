@@ -139,6 +139,36 @@
   ],
   "reports": [
     {
+      "id": "topic-monthly-2026-09-quick",
+      "title": "9月四专题阶段性月报｜先重写工作，再调整组织（速读）",
+      "summaryFile": "./specials/ai-org-talent-mechanism/monthly/2026-09-quick.md",
+      "description": "研究截止9月30日18:00，10月9日补编；三项重点判断与10月最小试验，不作机制成效验证。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "internal",
+      "topics": ["AI组织设计", "人才发展"],
+      "date": "2026-09-30",
+      "uploadDate": "2026-10-09",
+      "tags": ["阶段性月报", "四专题", "证据边界"],
+      "related": ["./specials/ai-org-talent-mechanism/monthly/2026-09-detailed.md"],
+      "backlinks": ["./index.html", "./knowledge/index.md"]
+    },
+    {
+      "id": "topic-monthly-2026-09-detailed",
+      "title": "9月四专题阶段性月报｜从组织图走向责任与机会系统（详细）",
+      "summaryFile": "./specials/ai-org-talent-mechanism/monthly/2026-09-detailed.md",
+      "description": "跨周比较四专题、十个公司案例、冲突、弱信号与10月行动；区分后到材料、结构门禁和机制后效。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "internal",
+      "topics": ["AI组织设计", "人才发展"],
+      "date": "2026-09-30",
+      "uploadDate": "2026-10-09",
+      "tags": ["阶段性月报", "四专题", "责任与机会"],
+      "related": ["./specials/ai-org-talent-mechanism/monthly/2026-09-quick.md", "./daily-report/monthly-2026-09.md"],
+      "backlinks": ["./index.html", "./knowledge/index.md"]
+    },
+    {
       "id": "fico-restructuring-2026-10-06",
       "title": "FICO重组披露：层级、岗位与实施边界",
       "summaryFile": "./knowledge/wiki/pdf-source-fico-restructuring-2026-10-06.md",
