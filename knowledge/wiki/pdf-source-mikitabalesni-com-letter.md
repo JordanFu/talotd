@@ -53,6 +53,8 @@ letter 已作为日报/周报 PDF 证据源入库，当前需要完成结构化�
 
 - `daily/2026-10-10.md:63`：三名前员工公开信PDF
 - `daily-report/2026-10-10.md:15`：前员工四页公开信
+- `specials/ai-org-talent-mechanism/2026-10-10/04-promotion-system.md:44`：公开信
+- `specials/ai-org-talent-mechanism/2026-10-10/04-promotion-system.md:225`：三名前OpenAI员工公开信
 
 ## 后续精读任务
 

@@ -251,7 +251,7 @@
 - 已下载：netflix culture（引用 8 次）
 - 已下载：BCG：AI-First Organization（引用 3 次）
 - 待重试：BCG Executive Perspectives AI First Companies Win the Future Issue1 10June2025（引用 3 次）
-- 已下载：letter（引用 2 次）
+- 已下载：letter（引用 4 次）
 - 已下载：engineering progression framework v2 0（引用 1 次）
 - 已下载：PAYTM 22082026104603 SEDisclosureDispatchofLettertoShareholders（引用 1 次）
 - 已下载：NIST.AI.800 2.ipd（引用 1 次）
@@ -266,7 +266,7 @@
 - 已下载：Meta 06 30 2026 Exhibit 99 1 FINAL（引用 3 次）
 - 已下载：META Q2 2026 Earnings Call Transcript（引用 2 次）
 - 待重试：Fannie Mae：LL-2026-04 AI/ML 治理要求（引用 13 次）
-- 已下载：SMG Heart of Work Key Findings（引用 2 次）
+- 已下载：SMG Heart of Work Key Findings（引用 3 次）
 - 已下载：6277baa6 0f7b 4fbe 9c7c ceb3e0e9b325 flatland（引用 16 次）
 - 已下载：47382ae415a209fd161bc19a1f9b3704（引用 1 次）
 - 已下载：gov.uscourts.cand.474095.38.0（引用 1 次）
@@ -284,7 +284,7 @@
 - 已下载：draft cwa xxxx e（引用 2 次）
 - 待重试：the impact of agentic ai on network operations（引用 4 次）
 - 已下载：us spans and layers for the modern organization 2020（引用 3 次）
-- 已下载：EY：Future of Pay Report 2026（引用 177 次）
+- 已下载：EY：Future of Pay Report 2026（引用 172 次）
 - 已下载：pip faq 2026（引用 6 次）
 - 已下载：2026081700406（引用 1 次）
 - 已下载：12 087 bc50bde2 3016 457a 9bee dc988cb1056b（引用 8 次）

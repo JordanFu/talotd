@@ -201,7 +201,7 @@
 | [netflix culture](wiki/pdf-source-jobs-netflix-com-netflix-culture.md) | jobs.netflix.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
 | [BCG：AI-First Organization](wiki/pdf-source-bcg-bcg-ai-first-organization.md) | BCG | AI 默认执行、端到端流程重构、人机编排 | 强相关：组织与岗位重构 | 已下载原文，引用 3 次 |
 | [BCG Executive Perspectives AI First Companies Win the Future Issue1 10June2025](wiki/pdf-source-bcg-bcg-executive-perspectives-ai-first-companies-win-the-future-issue1-10june2025.md) | BCG | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 3 次 |
-| [letter](wiki/pdf-source-mikitabalesni-com-letter.md) | mikitabalesni.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
+| [letter](wiki/pdf-source-mikitabalesni-com-letter.md) | mikitabalesni.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
 | [engineering progression framework v2 0](wiki/pdf-source-monzo-com-engineering-progression-framework-v2-0.md) | monzo.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [PAYTM 22082026104603 SEDisclosureDispatchofLettertoShareholders](wiki/pdf-source-nsearchives-nseindia-com-paytm-22082026104603-sedisclosuredispatchoflettertoshareholders.md) | nsearchives.nseindia.com | AI组织设计、绩效管理 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [NIST.AI.800 2.ipd](wiki/pdf-source-nvlpubs-nist-gov-nist-ai-800-2-ipd.md) | nvlpubs.nist.gov | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
@@ -216,7 +216,7 @@
 | [Meta 06 30 2026 Exhibit 99 1 FINAL](wiki/pdf-source-s21-q4cdn-com-meta-06-30-2026-exhibit-99-1-final.md) | s21.q4cdn.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [META Q2 2026 Earnings Call Transcript](wiki/pdf-source-s21-q4cdn-com-meta-q2-2026-earnings-call-transcript.md) | s21.q4cdn.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [Fannie Mae：LL-2026-04 AI/ML 治理要求](wiki/pdf-source-fannie-mae-fannie-mae-ll-2026-04-ai-ml.md) | Fannie Mae | AI治理、负责人、年度复核、供应商级联 | 强相关：正式治理规则与外部责任边界 | 已索引待重试，引用 13 次 |
-| [SMG Heart of Work Key Findings](wiki/pdf-source-staffmark-com-smg-heart-of-work-key-findings.md) | staffmark.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
+| [SMG Heart of Work Key Findings](wiki/pdf-source-staffmark-com-smg-heart-of-work-key-findings.md) | staffmark.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [6277baa6 0f7b 4fbe 9c7c ceb3e0e9b325 flatland](wiki/pdf-source-static-cdn-cars24-com-6277baa6-0f7b-4fbe-9c7c-ceb3e0e9b325-flatland.md) | static-cdn.cars24.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 16 次 |
 | [47382ae415a209fd161bc19a1f9b3704](wiki/pdf-source-static-www-tencent-com-47382ae415a209fd161bc19a1f9b3704.md) | static.www.tencent.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [gov.uscourts.cand.474095.38.0](wiki/pdf-source-storage-courtlistener-com-gov-uscourts-cand-474095-38-0.md) | storage.courtlistener.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
@@ -234,7 +234,7 @@
 | [draft cwa xxxx e](wiki/pdf-source-cencenelec-eu-draft-cwa-xxxx-e.md) | cencenelec.eu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [the impact of agentic ai on network operations](wiki/pdf-source-cisco-com-the-impact-of-agentic-ai-on-network-operations.md) | cisco.com | AI组织设计、变革管理 | 待评估：需精读后确定 | 已索引待重试，引用 4 次 |
 | [us spans and layers for the modern organization 2020](wiki/pdf-source-deloitte-us-spans-and-layers-for-the-modern-organization-2020.md) | Deloitte | AI组织设计、变革管理 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
-| [EY：Future of Pay Report 2026](wiki/pdf-source-ey-ey-future-of-pay-report-2026.md) | EY | 技能薪酬、生产率锚点、AI 人才溢价 | 强相关：薪酬与激励机制 | 已下载原文，引用 177 次 |
+| [EY：Future of Pay Report 2026](wiki/pdf-source-ey-ey-future-of-pay-report-2026.md) | EY | 技能薪酬、生产率锚点、AI 人才溢价 | 强相关：薪酬与激励机制 | 已下载原文，引用 172 次 |
 | [pip faq 2026](wiki/pdf-source-facs-org-pip-faq-2026.md) | facs.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
 | [2026081700406](wiki/pdf-source-geelyauto-com-hk-2026081700406.md) | geelyauto.com.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [12 087 bc50bde2 3016 457a 9bee dc988cb1056b](wiki/pdf-source-hbs-edu-12-087-bc50bde2-3016-457a-9bee-dc988cb1056b.md) | hbs.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |

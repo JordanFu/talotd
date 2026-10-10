@@ -53,6 +53,7 @@ SMG Heart of Work Key Findings 已作为日报/周报 PDF 证据源入库，当�
 
 - `daily/2026-10-10.md:28`：关键发现PDF
 - `daily-report/2026-10-10.md:43`：关键发现PDF地址
+- `specials/ai-org-talent-mechanism/2026-10-10/02-talent-density.md:193`：Key Findings PDF
 
 ## 后续精读任务
 
