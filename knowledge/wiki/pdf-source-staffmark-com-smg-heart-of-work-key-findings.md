@@ -51,7 +51,7 @@ SMG Heart of Work Key Findings 已作为日报/周报 PDF 证据源入库，当�
 
 ## 被引用位置
 
-- `daily/2026-10-10.md:28`：关键发现PDF（下载待重试）
+- `daily/2026-10-10.md:28`：关键发现PDF
 - `daily-report/2026-10-10.md:43`：关键发现PDF地址
 
 ## 后续精读任务

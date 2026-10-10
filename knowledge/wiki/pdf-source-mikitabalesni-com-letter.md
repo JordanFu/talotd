@@ -53,8 +53,6 @@ letter 已作为日报/周报 PDF 证据源入库，当前需要完成结构化�
 
 - `daily/2026-10-10.md:63`：三名前员工公开信PDF
 - `daily-report/2026-10-10.md:15`：前员工四页公开信
-- `外部公开 PDF 扫描:62`：公开安全引用：三名前员工公开信
-- `外部公开 PDF 扫描:159`：公开安全引用：OpenAI Safety 争议：``；`https://x.com/OpenAINewsroom/status/2108441580806025712`；`https://www.reuters.com/business/openai-says-it-has-fired-three-researchers-violating-sensitive-infor
 
 ## 后续精读任务
 
