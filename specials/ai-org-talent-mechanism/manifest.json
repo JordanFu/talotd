@@ -7504,21 +7504,21 @@
   ],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-09T18:56:02.919Z",
+    "checkedAt": "2026-10-10T02:05:20.451Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 4456,
-    "externalWarnings": 28,
+    "firstPartyChecked": 4470,
+    "externalWarnings": 42,
     "brokenCount": 0,
     "publicScanBridge": [
       {
         "ok": true,
         "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/"
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-10.html"
       },
       {
         "ok": true,
         "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-09.html"
+        "url": "https://jordanfu.github.io/org-intelligence-info/"
       }
     ]
   },

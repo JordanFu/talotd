@@ -5564,6 +5564,54 @@
         "arxiv.org"
       ],
       "originalUrl": "https://arxiv.org/pdf/2606.17887.pdf"
+    },
+    {
+      "id": "p099",
+      "title": "letter",
+      "originalTitle": "letter",
+      "author": "mikitabalesni.com",
+      "publisher": "mikitabalesni.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-10-10",
+      "description": "letter 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-mikitabalesni-com-letter.md",
+      "rawFile": "./knowledge/raw/mikitabalesni-com-letter.pdf",
+      "fileName": "mikitabalesni-com-letter.pdf",
+      "fileSize": "149938 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "mikitabalesni.com"
+      ],
+      "originalUrl": "https://mikitabalesni.com/letter/letter.pdf"
+    },
+    {
+      "id": "p100",
+      "title": "SMG Heart of Work Key Findings",
+      "originalTitle": "SMG Heart of Work Key Findings",
+      "author": "staffmark.com",
+      "publisher": "staffmark.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-10-10",
+      "description": "SMG Heart of Work Key Findings 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-staffmark-com-smg-heart-of-work-key-findings.md",
+      "rawFile": "./knowledge/raw/staffmark-com-smg-heart-of-work-key-findings.pdf",
+      "fileName": "staffmark-com-smg-heart-of-work-key-findings.pdf",
+      "fileSize": "12222050 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "staffmark.com"
+      ],
+      "originalUrl": "https://staffmark.com/wp-content/uploads/2026/09/SMG-Heart-of-Work-Key-Findings.pdf"
     }
   ]
 }
