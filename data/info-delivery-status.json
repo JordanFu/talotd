@@ -1,22 +1,17 @@
 {
-  "checkedAt": "2026-10-10T02:05:38.109Z",
+  "checkedAt": "2026-10-10T02:08:45.998Z",
   "module": "info-delivery",
   "date": "2026-10-10",
   "timezone": "Asia/Shanghai",
   "scheduledAt": "09:40",
   "deadline": "11:30",
-  "status": "publish-pending",
+  "status": "published",
   "qualityStatus": "warn",
   "cardCount": 8,
   "gapRecordCount": 1,
   "localReady": true,
-  "publicVerified": false,
-  "issues": [
-    "线上 digest 当日内容不一致或不存在",
-    "线上 daily/2026-10-10.md 不一致或不存在",
-    "线上 daily-report/2026-10-10.md 不一致或不存在",
-    "线上 manifest 未匹配当日内容"
-  ],
+  "publicVerified": true,
+  "issues": [],
   "remoteErrors": [],
   "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
   "runUrl": null
