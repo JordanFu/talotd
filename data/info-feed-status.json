@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T01:49:14.765Z",
+  "generatedAt": "2026-10-11T07:31:27.261Z",
   "module": "info-feed",
   "qualityStatus": "warn",
   "latestDate": "2026-10-11",
@@ -522,21 +522,22 @@
   "warnings": [
     "最新日期非缺口信息卡少于 8 条：当前 6 条；已有缺口记录，不能用缺口记录凑数量。",
     "最新日期“新增事实”少于 5 条：当前 2 条；已有缺口记录，首页应诚实显示可信新增不足。",
-    "最新日期同一子主题超过 40%：43%；需要关注广谱雷达覆盖。"
+    "最新日期同一子主题超过 40%：43%；需要关注广谱雷达覆盖。",
+    "external link not hard-checked in Phase 1"
   ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-10T17:57:11.992Z",
+    "checkedAt": "2026-10-11T07:32:28.189Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 4488,
-    "externalWarnings": 42,
+    "firstPartyChecked": 4493,
+    "externalWarnings": 20,
     "brokenCount": 0,
     "publicScanBridge": [
       {
         "ok": true,
         "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-10.html"
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-11.html"
       },
       {
         "ok": true,
