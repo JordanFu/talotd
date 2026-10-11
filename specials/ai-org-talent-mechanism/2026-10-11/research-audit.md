@@ -85,7 +85,7 @@
 - [x] 根首页最新专题入口指向 `2026-10-11/index.html`。
 - [x] `digest.md`、`daily/`、`daily-report/`相对 `origin/main` 无本任务改动。
 - [x] 覆盖审计、严格质量门、项目测试、链接检查、浏览器验证和 `git diff --check` 通过；站内链接4493项、broken 0，移动端无横向溢出，五份报告可读且控制台无错误。
-- [ ] `./sync.sh`完成提交与推送；远端 `main` 与本地HEAD一致。
-- [ ] GitHub Pages首页、日目录和五份报告返回200，首页入口与日目录HTML链接验证通过。
+- [x] `./sync.sh`创建提交；远端并发更新引发单个派生状态文件冲突，重建状态并完成rebase后，提交 `758ec3a5` 已推送，远端 `main` 与本地HEAD一致。冲突与恢复记录见根目录 `memory.md`。
+- [x] GitHub Pages部署作业 `38131477316` 成功；首页、日目录和五份报告均返回200，线上manifest为 `latestFormalDate=2026-10-11`、`todayStatus=formal`，首页入口、正式总览正文与日目录四个HTML链接验证通过。
 
 > 只在对应检查真实完成后将方框改为 `[x]`；不以计划替代完成证据。
