@@ -187,6 +187,7 @@
 | [2608.05116](wiki/pdf-source-arxiv-org-2608-05116.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [2608.06027](wiki/pdf-source-arxiv-org-2608-06027.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [2608.13022](wiki/pdf-source-arxiv-org-2608-13022.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
+| [2609.32030](wiki/pdf-source-arxiv-org-2609-32030.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [2026 Work Trend Index Annual Report 050526 7 69fc5b1c4e265](wiki/pdf-source-assets-c4akfrf5b4d3f4b7-z01-azurefd-net-2026-work-trend-index-annual-report-050526-7-69fc5b1c4e2.md) | assets-c4akfrf5b4d3f4b7.z01.azurefd.net | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [ca the health productivity gap aoda en.7ae5e913bd32](wiki/pdf-source-assets-foleon-com-ca-the-health-productivity-gap-aoda-en-7ae5e913bd32.md) | assets.foleon.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [UK Standard Skills Classification Development Report](wiki/pdf-source-assets-publishing-service-gov-uk-uk-standard-skills-classification-development-report.md) | assets.publishing.service.gov.uk | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |

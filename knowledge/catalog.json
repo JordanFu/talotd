@@ -5643,6 +5643,30 @@
         "staffmark.com"
       ],
       "originalUrl": "https://staffmark.com/wp-content/uploads/2026/09/SMG-Heart-of-Work-Key-Findings.pdf"
+    },
+    {
+      "id": "p101",
+      "title": "2609.32030",
+      "originalTitle": "2609.32030",
+      "author": "arxiv.org",
+      "publisher": "arxiv.org",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-10-12",
+      "description": "2609.32030 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-arxiv-org-2609-32030.md",
+      "rawFile": "./knowledge/raw/arxiv-org-2609-32030.pdf",
+      "fileName": "arxiv-org-2609-32030.pdf",
+      "fileSize": "8054452 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "arxiv.org"
+      ],
+      "originalUrl": "https://arxiv.org/pdf/2609.32030.pdf"
     }
   ]
 }

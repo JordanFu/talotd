@@ -236,7 +236,7 @@
 
 ## [2026-10-12] ingest | 日报 PDF 证据源自动入库
 - 从 daily、daily-report、specials、analysis 中扫描 PDF URL，按知识库 Raw/Wiki/Catalog 规则自动建档。
-- 本次识别 92 个唯一 PDF 来源：76 个已下载原始 PDF，16 个保留 URL 与引用上下文待重试。
+- 本次识别 93 个唯一 PDF 来源：77 个已下载原始 PDF，16 个保留 URL 与引用上下文待重试。
 - 已下载：itb dia 6351 email 0（引用 4 次）
 - 已下载：itb lat dir ai 6454 web 0（引用 17 次）
 - 已下载：GoogleATLASv1（引用 7 次）
@@ -247,6 +247,7 @@
 - 已下载：2608.05116（引用 2 次）
 - 已下载：2608.06027（引用 1 次）
 - 已下载：2608.13022（引用 2 次）
+- 已下载：2609.32030（引用 2 次）
 - 已下载：2026 Work Trend Index Annual Report 050526 7 69fc5b1c4e265（引用 1 次）
 - 已下载：ca the health productivity gap aoda en.7ae5e913bd32（引用 1 次）
 - 已下载：UK Standard Skills Classification Development Report（引用 3 次）
