@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T11:08:04.602Z",
+  "generatedAt": "2026-10-12T19:53:29.261Z",
   "module": "automation",
   "qualityStatus": "warn",
   "chains": {
@@ -10,29 +10,35 @@
       "newFactCount": 3
     },
     "infoDelivery": {
-      "checkedAt": "2026-10-12T11:08:03.960Z",
+      "checkedAt": "2026-10-12T19:53:28.521Z",
       "module": "info-delivery",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "timezone": "Asia/Shanghai",
       "scheduledAt": "09:40",
       "deadline": "11:30",
-      "status": "published",
+      "status": "scheduled",
       "qualityStatus": "warn",
-      "cardCount": 9,
-      "gapRecordCount": 1,
-      "localReady": true,
-      "publicVerified": true,
-      "issues": [],
+      "cardCount": 0,
+      "gapRecordCount": 0,
+      "localReady": false,
+      "publicVerified": false,
+      "issues": [
+        "digest 未出现当日信息卡",
+        "当日 daily 或 daily-report 缺失日期/文件",
+        "当日导读正文缺失",
+        "信息库 manifest 日期或卡片数与当日产物不符"
+      ],
       "remoteErrors": [],
       "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
-      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/38240667689"
+      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/38300485628"
     },
     "topicProjects": {
       "qualityStatus": "warn",
-      "today": "2026-10-12",
+      "today": "2026-10-13",
       "todayStatus": "scheduled",
       "latestFormalDate": "2026-10-11",
       "pendingRerunDates": [
+        "2026-10-12",
         "2026-09-16",
         "2026-09-11",
         "2026-08-30",
@@ -61,14 +67,14 @@
     },
     "knowledgeLint": {
       "qualityStatus": "pass",
-      "latestCatalogDate": "2026-10-12",
+      "latestCatalogDate": "2026-10-13",
       "reportCount": 208,
       "privatePathLeakCount": 0
     },
     "linkCheck": {
       "qualityStatus": "warn",
       "brokenCount": 0,
-      "checkedAt": "2026-10-12T07:40:28.549Z"
+      "checkedAt": "2026-10-12T19:53:28.476Z"
     },
     "githubActionsFallback": {
       "status": "pass",
@@ -97,9 +103,10 @@
     }
   },
   "warnings": [
+    "信息库交付待核验：scheduled",
     "信息库质量为 warn",
     "专题研究状态为 warn",
-    "专题待正式重跑 24 天"
+    "专题待正式重跑 25 天"
   ],
   "criticalIssues": [],
   "operatingRule": "GitHub Actions 只能兜底、审计和记录状态；正式研究完成只能由 formal 条件确认。"
