@@ -7602,9 +7602,9 @@
   ],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-11T18:19:31.263Z",
+    "checkedAt": "2026-10-12T01:32:32.543Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 4519,
+    "firstPartyChecked": 4528,
     "externalWarnings": 20,
     "brokenCount": 0,
     "publicScanBridge": [
@@ -7617,6 +7617,11 @@
         "ok": true,
         "status": 200,
         "url": "https://jordanfu.github.io/org-intelligence-info/"
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-12.html"
       }
     ]
   },

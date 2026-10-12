@@ -10,9 +10,11 @@ const status = JSON.parse(fs.readFileSync(path.join(root, 'data', 'knowledge-sta
 for (const fileName of fs.readdirSync(wikiDir).filter((name) => /^pdf-source-.*\.md$/.test(name))) {
   const markdown = fs.readFileSync(path.join(wikiDir, fileName), 'utf8');
   const match = markdown.match(/^sourceFile:[ \t]*([^\r\n]*)$/m);
-  if (!match || !match[1].trim()) continue;
-  assert.doesNotMatch(match[1], /^\.\.\/knowledge\/raw\//, `${fileName} 不得重复 knowledge/ 路径段`);
-  const resolved = path.resolve(wikiDir, match[1].trim());
+  if (!match) continue;
+  const sourceFile = match[1].trim().replace(/^(["'])(.*)\1$/, '$2').trim();
+  if (!sourceFile) continue;
+  assert.doesNotMatch(sourceFile, /^\.\.\/knowledge\/raw\//, `${fileName} 不得重复 knowledge/ 路径段`);
+  const resolved = path.resolve(wikiDir, sourceFile);
   assert.ok(fs.existsSync(resolved), `${fileName} 的 sourceFile 必须指向存在的 raw 文件`);
 }
 
