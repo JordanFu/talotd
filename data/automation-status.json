@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-12T21:49:56.874Z",
+  "generatedAt": "2026-10-13T02:00:58.111Z",
   "module": "automation",
-  "qualityStatus": "warn",
+  "qualityStatus": "fail",
   "chains": {
     "infoFeed": {
       "qualityStatus": "warn",
-      "latestDate": "2026-10-12",
+      "latestDate": "2026-10-13",
       "latestCardCount": 9,
-      "newFactCount": 3
+      "newFactCount": 4
     },
     "infoDelivery": {
       "checkedAt": "2026-10-12T21:49:56.427Z",
@@ -77,9 +77,9 @@
       "checkedAt": "2026-10-12T21:49:56.376Z"
     },
     "githubActionsFallback": {
-      "status": "pass",
+      "status": "fail",
       "role": "fallback-only",
-      "schedules": 4,
+      "schedules": 0,
       "requiredCommands": [
         "node scripts/audit-info-library.js",
         "node scripts/generate-topic-project-status.js",
@@ -88,14 +88,29 @@
         "node scripts/generate-automation-status.js",
         "node scripts/generate-system-health.js"
       ],
-      "missingCommands": [],
+      "missingCommands": [
+        "node scripts/audit-info-library.js",
+        "node scripts/generate-topic-project-status.js",
+        "node scripts/lint-knowledge-base.js",
+        "node scripts/check-public-links.js",
+        "node scripts/generate-automation-status.js",
+        "node scripts/generate-system-health.js"
+      ],
       "commitCoverage": {
-        "data": true,
-        "operations": true,
-        "newStatusScripts": true
+        "data": false,
+        "operations": false,
+        "newStatusScripts": false
       },
-      "warnings": [],
-      "criticalIssues": []
+      "warnings": [
+        "workflow 名称未显式标注 fallback",
+        "workflow git add 未覆盖 data/",
+        "workflow git add 未覆盖 operations/",
+        "workflow git add 未覆盖新增自动化聚合脚本"
+      ],
+      "criticalIssues": [
+        "workflow 缺少命令：node scripts/audit-info-library.js；node scripts/generate-topic-project-status.js；node scripts/lint-knowledge-base.js；node scripts/check-public-links.js；node scripts/generate-automation-status.js；node scripts/generate-system-health.js",
+        "workflow 缺少定时 cron"
+      ]
     },
     "localFormalTask": {
       "status": "scheduled",
@@ -104,10 +119,17 @@
   },
   "warnings": [
     "信息库交付待核验：scheduled",
+    "workflow 名称未显式标注 fallback",
+    "workflow git add 未覆盖 data/",
+    "workflow git add 未覆盖 operations/",
+    "workflow git add 未覆盖新增自动化聚合脚本",
     "信息库质量为 warn",
     "专题研究状态为 warn",
     "专题待正式重跑 25 天"
   ],
-  "criticalIssues": [],
+  "criticalIssues": [
+    "workflow 缺少命令：node scripts/audit-info-library.js；node scripts/generate-topic-project-status.js；node scripts/lint-knowledge-base.js；node scripts/check-public-links.js；node scripts/generate-automation-status.js；node scripts/generate-system-health.js",
+    "workflow 缺少定时 cron"
+  ],
   "operatingRule": "GitHub Actions 只能兜底、审计和记录状态；正式研究完成只能由 formal 条件确认。"
 }
