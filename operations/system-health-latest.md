@@ -1,26 +1,26 @@
 # 系统健康状态
 
-> 自动生成：2026-10-12T21:49:56.919Z
+> 自动生成：2026-10-13T02:14:26.941Z
 
 ## 一眼判断
 
-- 总体状态：⚠️ warn
+- 总体状态：❌ fail
 - 情报流状态：⚠️ warn
 - 专题研究状态：⚠️ warn
 - 知识库状态：⚠️ warn
-- 自动化状态：⚠️ warn
+- 自动化状态：❌ fail
 - 一方链接状态：⚠️ warn
-- 当前结论：状态链可信但仍有运营债务；允许展示 warn，不允许美化成 pass。
+- 当前结论：存在阻断项；首页和自动化不得显示已正式完成。
 
 ## 情报流状态
 
-- 最新日期：2026-10-12
+- 最新日期：2026-10-13
 - 今日卡片数：9
-- 今日新增事实：3
-- 旧线复核 / Context：3
+- 今日新增事实：4
+- 旧线复核 / Context：2
 - 弱信号：2
 - 缺口记录：1
-- 渠道覆盖：媒体、报告学术、JD薪酬、社媒公众号
+- 渠道覆盖：官方、报告学术、媒体、JD薪酬、社媒公众号
 - sourceUrl 缺失：0
 
 ## 专题研究状态
@@ -42,12 +42,12 @@
 
 ## 自动化状态
 
-- 信息库当日交付：scheduled
-- 信息库线上内容一致：未确认
+- 信息库当日交付：published
+- 信息库线上内容一致：已核对
 - 信息库交付截止：北京时间 11:30；告警不等于内容补跑完成。
 - 本地正式任务：scheduled
 - GitHub Actions 角色：fallback-only
-- GitHub Actions 定时数：4
+- GitHub Actions 定时数：0
 - 信息库链路：⚠️ warn
 - 专题链路：⚠️ warn
 - 知识库 lint 链路：✅ pass
@@ -67,13 +67,16 @@
 
 ## 当前问题
 
-- ✅ 无 P0 fail。
-- ⚠️ 最新日期“新增事实”少于 5 条：当前 3 条；已有缺口记录，首页应诚实显示可信新增不足。
-- ⚠️ external link not hard-checked in Phase 1
+- ❌ workflow 缺少命令：node scripts/audit-info-library.js；node scripts/generate-topic-project-status.js；node scripts/lint-knowledge-base.js；node scripts/check-public-links.js；node scripts/generate-automation-status.js；node scripts/generate-system-health.js
+- ❌ workflow 缺少定时 cron
+- ⚠️ 最新日期“新增事实”少于 5 条：当前 4 条；已有缺口记录，首页应诚实显示可信新增不足。
+- ⚠️ 最新日期同一子主题超过 40%：44%；需要关注广谱雷达覆盖。
 - ⚠️ external link not hard-checked in Phase 1
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
-- ⚠️ external link not hard-checked in Phase 1
-- ⚠️ 信息库交付待核验：scheduled
+- ⚠️ workflow 名称未显式标注 fallback
+- ⚠️ workflow git add 未覆盖 data/
+- ⚠️ workflow git add 未覆盖 operations/
+- ⚠️ workflow git add 未覆盖新增自动化聚合脚本
 - ⚠️ 信息库质量为 warn
 - ⚠️ 专题研究状态为 warn
 - ⚠️ 专题待正式重跑 25 天
