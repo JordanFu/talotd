@@ -1,53 +1,116 @@
-# 2026-10-13｜专题三：岗位、族群、序列持续建设
+# 2026-10-13｜专题三：岗位、族群、序列的持续建设
 
-> 语言规则：正文统一中文主叙事；必要英文术语采用“中文（English）”首次括注，禁止在中文句子中直接夹杂 manager、owner、workflow、rubric 等 ABC 表达。
+> **正式决策稿｜严格窗口：2026-10-12 18:00—2026-10-13 18:00（Asia/Shanghai）**。今日没有 L3/L4 级企业岗位架构制度；可用增量是新加坡网络安全能力标准/认证计划（L2）与银行、招聘文章、在招职位的责任信号（L1）。
+>
+> **读者应该带走什么：**岗位复合化与深专业化正在同时出现；今天真正有价值的机制不是“新增AI序列”，而是先用稳定岗位骨架承接持续责任，用动态技能层承接快变能力，用价格层承接短期稀缺。
+>
+> **质量导航：**今日一句话、核心判断、背景材料、Context与线索、证据地图、行动启发和来源索引依次见第1—9节。
 
-> 研究状态记录 / 非决策稿：本文件只用于记录“自动化已触发但尚未完成正式研究”的状态，不能作为 CEO 决策稿。正式日报必须由四课题代理、四渠道代理和主代理交叉证伪后重跑；若未完成，不用通用判断冒充结论。
+## 1. 今日一句话专题判断
 
-## 今日一句话结论
+**只有当工作使命长期稳定、形成复数岗位与多级成长、拥有独立能力根基和外部人才市场时，才应新建岗位/职族/序列；AI工具变化、短期溢价和个别员工定制诉求，应优先由技能标签和可退出的价格工具处理。**
 
-今日暂不形成正式结论：当前仅完成兜底记录，缺少当日新增一手事实、反例、薪酬/JD 信号和多源互证，不满足 CEO 决策质量门槛。
+## 2. 今日新增事实
 
-## 今日核心判断
+### 新加坡网络安全能力标准与专业认证试点（L2）
 
-1. **不升级为结论。可信度：低。** 现有来源池只能说明这些方向值得追踪，不能证明今日发生了新的岗位、职级、薪酬或组织改革事实。
-2. **必须补齐上下文后再判断。可信度：高。** 正式研究需要还原主体、时间线、改革动作、员工影响、薪酬/激励承接和争议信息，否则只是信息堆叠。
-3. **宁可标注缺口，也不输出空泛总结。可信度：高。** 兜底自动化的价值是提醒缺口与触发重跑，不是生成看似完整但不可追溯的报告。
+- 10月13日新加坡媒体报道，政府将建立国家网络安全能力标准，并计划在2027年第二季度启动自愿专业认证试点。
+- 公开领域包括网络安全运营、漏洞评估、渗透测试；标准同时覆盖知识、技能、经验和职业操守，并设计办公室、专业理事会、认证委员会、申诉、更新和公开名册等治理环节。
+- 相关样本称，在1,000名使用AI的网络安全人员中，81%表示组织使用AI安全工具，92%认为需要新技能，75%担心技能退化，77%认为机会增加。完整方法需继续核验。
+- 来源：[联合早报](https://www.zaobao.com.sg/news/singapore/story20261013-9828467)、[The Straits Times](https://www.straitstimes.com/tech/business-judgement-ai-proficiency-key-as-cyber-defender-roles-evolve-new-professional-standards)。尚未取得 CSA/MDDI 官方原文，因此不是 L3/L4。
 
-## 今日背景材料
+### 银行招聘与专业文章：复合责任向业务结果移动（L1）
 
-- 来源池中 IBM、Microsoft、Deloitte、McKinsey、Mercer、EY、Payscale 等材料仍可作为后续研究入口，但今日未完成逐条复核，暂不形成结论。
-- 继续关注 岗位与工作流重设计、智能体治理、基于技能的薪酬 和 薪酬带宽 等方向，但必须用当日新证据验证。
-- 当前最重要的缺口不是“缺文字”，而是缺新增事实、证据解释、反例、落地细节和可追溯来源之间的逻辑链。
+- 银行秋招报道强调业务理解、AI/数据、协作与风险组合，但缺逐企业岗位版本和效果数据。[证券时报](https://www.stcn.com/article/detail/4213681.html)。
+- Bristow Holland 10月13日文章主张资深度从“产出多少”迁向判断、业务结果和问责；这是招聘机构观点，不是企业岗位重构事实。[原文](https://www.bristowholland.com/insights/industry-insights/ai-wont-replace-your-technology-team-but-it-may-change-who-you-need/)。
 
-## 今日新增证据地图
+### 在招岗位同时给出“宽责任”与“深专业”信号（L1，当日观察）
 
-| 渠道 | 当前状态 | 必须补齐 |
+- Ramp `Applied AI Engineer, Fullstack`：从前端到API、数据和部署端到端交付，搜索显示 US$204.4k–352k。
+- Character.AI `Research Engineer, Post-Training`：模型后训练深专业，US$225k–400k + equity。
+- ByteDance `AI Compute Infrastructure`：全球推理基础设施，US$153,900–300,960。
+- 页面未可靠显示首发时间，只能称10月13日仍在招；地区、职级、股权和总包不同，不能比较谁“更贵”。来源：[Ramp](https://jobs.ashbyhq.com/ramp/6a7e382f-240a-4952-b9e5-7fe2b3856bc9)、[Character.AI](https://jobs.ashbyhq.com/character/449bf7c1-41d7-47a4-89a7-0ee0b31f5918)、[ByteDance](https://joinbytedance.com/search/7553580852757661960)。
+
+## 3. 今日核心判断
+
+1. **岗位宽化与深专业化是双峰，不是单向通才化。**可信度：中高。证据基础：新加坡按专业领域建标准；Ramp显示端到端角色，Character/ByteDance显示深专业角色。为什么重要：统一“AI通才序列”会同时破坏责任和专业控制。
+2. **认证可以形成可迁移证据，但不能自动兑换企业职级。**可信度：高。证据基础：新加坡计划含实操、操守、申诉和更新；尚无企业岗位/薪酬后效。为什么重要：外部职业、企业岗位、个人职级是三个对象。
+3. **业务申请新序列往往可能是定价诉求，但今日没有直接证据。**可信度：中等。证据基础：同一市场可用岗位薪带为稀缺能力定价；没有序列申请/审批记录。为什么重要：先用可退出价格工具，避免把热点固化成架构债务。
+4. **新岗位必须从工作责任出发，不从工具名称出发。**可信度：高。证据基础：银行与招聘材料都把价值放在问题定义、判断和结果，而不是单项工具。为什么重要：工具更新速度远高于岗位骨架。
+5. **复合化不得等于一人做多份工作。**可信度：规范性判断，证据基础中等。为什么重要：必须同步验证交接是否减少、学习是否在正常工时、风险责任是否有容量，否则只是强度上升。
+
+## 4. 重点案例事实还原
+
+### 新加坡网络安全标准：专业身份的“治理链”，不是企业新序列
+
+| 环节 | 公开动作 | 可借鉴点 | 不可照搬点 |
+|---|---|---|---|
+| 背景 | AI工具进入网络安全工作，判断与新技能需求上升 | 从任务与风险定义能力 | 调查自报不等于技能后效 |
+| 分类 | 运营、漏洞、渗透测试等专业域 | 深专业继续存在 | 不能一比一复制到所有企业 |
+| 标准 | 知识、技能、经验、操守 | 不只看证书和考试 | 尚无完整标准文本 |
+| 认证 | 2027Q2自愿试点 | 先试点、再扩围 | 不能称今天已运行 |
+| 治理 | 理事会、委员会、申诉、更新、名册 | 证据可纠错且定期复证 | 名册隐私字段和费用待核 |
+| 结果 | 0 | 追认可、流动、薪酬和公平 | 不宣称认证带来溢价 |
+
+**可借鉴：**能力标准—实操证据—专业头衔—多方校准—申诉/更新—试点扩围。**不可照搬：**外部认证不等于内部序列；员工学习与复证必须计入正常工时，并说明个人数据公开和保留边界。
+
+### 三个假设的今日判定
+
+- 岗位由窄分工转向粗颗粒端到端：**小幅增强，仍为L1/L2信号**，缺岗位说明前后版本与后效。
+- 某些领域更专业化且可能高溢价：**专业化增强；溢价因果未证。**
+- 新序列诉求常用于关键人才定价：**无高质量新增结论。**
+
+## 5. Context层：背景、弱信号、反例与冲突
+
+> **暂不形成结论，但提示我们关注……**OpenAI Dublin 公告中的客户现场工程、解决方案、隐私工程、销售和用户运营继续支持“前台责任变宽、控制专业变深”，但200岗与8月250岗口径未厘清，且是招聘承诺，不是架构结果。
+
+> **暂不形成结论，但提示我们关注……**Mistral 产品总监和工程负责人的页面时间为10月12日13:54/16:53（上海），明确在窗口外；只能作为责任设计背景，不能计今日新增。
+
+> **反例：**如果现有岗位允许技能标签、薪带和稀缺系数，短期热门技能无需新序列。反之，受监管专业若有持续风险、复数岗位、独立评价和市场，过度通才化会损害质量。
+
+## 6. 证据地图
+
+| 渠道 | 今日材料 | 等级与边界 |
 |---|---|---|
-| 官方/一手 | 待检索 | 公司公告、IR/SEC、官方博客、制度手册、招聘页原文 |
-| 权威媒体与案例 | 待检索 | Reuters/FT/WSJ/咨询报告中的事实、时间线、争议 |
-| 社媒/职场平台 | 待检索 | 只收线索，不当结论；记录关键词和待验证方向 |
-| 招聘 JD 与薪酬 | 待检索 | 头衔、职责、薪资区间、职级、地区、个人贡献者/管理者 边界 |
+| 官方/一手 | 新加坡官方原文未取得 | 等待升级；当前媒体互证L2 |
+| 权威媒体 | 联合早报、海峡时报、证券时报 | 支持计划/方向，不支持后效 |
+| 公司制度 | 无完整企业新制度 | 完整新增0 |
+| 学术专业 | 网安调查、招聘机构观点 | 样本自报/观点，不作因果 |
+| 招聘薪酬 | Ramp、Character、ByteDance | 当日观察L1；不可横比 |
+| 社媒职场 | 无可核实新增 | L0 |
+| 内部知识库 | `knowledge/concepts/fde-applied-ai.md`、基线03等 | 只作连续性与去重 |
 
-## 线索层
+## 7. 对我们行动的启发
 
-- 追踪 FDE、AI 工作流负责人、智能体运营、AI 治理（AI governance）、基于技能的薪酬等头衔是否形成稳定 岗位族群。
-- 追踪中国公司是否用技能标签、稀缺系数、项目激励替代新增岗位序列。
-- 追踪“执行层角色变宽”与“核心专家能力深化”是否同时出现，而不是只看单向趋势。
+| 诉求 | 优先工具 | 使用条件 | 停止线 |
+|---|---|---|---|
+| 稳定新增结果责任 | 新岗位 | 责任/产出/门槛未来12个月以上稳定 | 工具变化或单人定制不建 |
+| 多岗位共享专业根基 | 新/调职族 | 可轮岗、共同市场、足够密度 | 少数人或横向通用技能不建 |
+| 价值与晋升证据独立 | 新职业序列 | 多级标准、独立评审、跨团队校准 | 单层级、无路径、只换薪带不建 |
+| 快变横向能力 | 技能标签/徽章 | 可叠加、需复证/失效 | 不把标签当职级 |
+| 短期市场稀缺 | 稀缺系数 | 有市场数据、有效期、复核点 | 不永久固化热点 |
+| 阶段结果 | 项目激励 | 里程碑和风险明确 | 不替代长期岗位升值 |
+| 持续额外责任 | 专项津贴 | 资质、值守、监管责任存在 | 不拆正常职责压低基本薪酬 |
+| 转型期双重负担 | 临时补贴/调休 | 有到期日和退出条件 | 不把兼岗常态化 |
+| 同岗市场整体上移 | 薪带调整 | 同城同级多来源持续数据 | 不凭单个offer改全带宽 |
 
-## 待补齐的落地问题
+**坚决不新增序列：**只为少数人加薪；技能快速变化且横跨岗位；只有一个岗位/层级；名称不改变责任、决策或市场；现有薪带、稀缺系数、项目激励/津贴已能透明解决。
 
-正式重跑必须回答：是新建岗位族群、保留技能标签，还是调整薪酬带宽和项目激励；必须同时验证岗位合并与专家岗位深化。
+## 8. 待验证清单与下一步搜索路径
 
-## 来源索引
+1. 向 CSA/MDDI/SICW 追官方标准、试点、复证、费用、申诉和名册字段。
+2. 追认证前后申请完成率、跨企业认可、薪酬/流动变化和群体差异，防止认证通胀。
+3. 对银行逐家建立岗位版本库，验证基础岗、金融科技、数据和风控职责真实变化。
+4. 对复合岗追交接减少、结果责任和净工作量；对深专业岗做同城同级总包与门槛比较。
+5. 所有新序列申请须回答：不用新序列能否定价；热度下降如何退出；初级人才如何进入成长。
 
-- [IBM Think 2026 recap](https://www.ibm.com/think/news/think-2026-ai-recap)：智能体式 AI（agentic AI）规模化、Bob 工具、治理与生产率
-- [Microsoft Work Trend Index 2026](https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization)：人机协同能动性（human-agent agency）、运营模式重设计（operating model redesign）
-- [Deloitte：人机协同 AI 运营模式](https://www.deloitte.com/us/en/insights/topics/talent/operating-models-for-humans-ai-agents.html)：84% 的公司尚未围绕 AI 重新设计岗位；智能体运营模式
-- [McKinsey：AI 优先技术人才体系](https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/designing-an-end-to-end-technology-workforce-for-the-ai-first-era)：AI 优先技术人才、深度专家、产品/平台模式
-- [Mercer Global Talent Trends 2026](https://www.mercer.com/about/newsroom/mercer-s-global-talent-trends-2026-report/)：工作重设计、技能作为价值货币、人机协作
-- [EY Future of Pay 2026](https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/newsroom/2026/02/ey-future-of-pay-report-2026.pdf)：AI 技能溢价、基于技能的薪酬、退出条款（sunset clauses）
-- [Payscale 2026 薪酬最佳实践报告](https://www.payscale.com/press-releases/2026-compensation-best-practices-report)：AI 技能薪酬、薪酬公平
-- [CHRO Association 2026 Survey](https://www.chro.org/documents/d/guest/2026_chro_survey_key_findings_p)：中层阻力、CHRO 议题
-- [OD Intelligence Center 知识库](./knowledge/wiki/zhiyinlou-hr-thematic-index-2026-05-13.md)：AI+HR、薪酬福利、组织发展精读池
-- [微信公众号「AI组织进化论」](wechat:AI组织进化论)：国内垂直内容源；作为背景材料和线索源使用，拿到原文链接或多源互证后才能进入结论层
+## 9. 来源索引
+
+1. [联合早报｜新加坡网络安全专业标准](https://www.zaobao.com.sg/news/singapore/story20261013-9828467)
+2. [The Straits Times｜Cyber defender roles evolve](https://www.straitstimes.com/tech/business-judgement-ai-proficiency-key-as-cyber-defender-roles-evolve-new-professional-standards)
+3. [证券时报｜银行秋招](https://www.stcn.com/article/detail/4213681.html)
+4. [Bristow Holland｜AI changes who technology teams need](https://www.bristowholland.com/insights/industry-insights/ai-wont-replace-your-technology-team-but-it-may-change-who-you-need/)
+5. [Ramp岗位](https://jobs.ashbyhq.com/ramp/6a7e382f-240a-4952-b9e5-7fe2b3856bc9)
+6. [Character.AI岗位](https://jobs.ashbyhq.com/character/449bf7c1-41d7-47a4-89a7-0ee0b31f5918)
+7. [ByteDance岗位](https://joinbytedance.com/search/7553580852757661960)
+8. 内部补充：`digest.md`、`daily/2026-10-13.md`、`knowledge/concepts/fde-applied-ai.md`、`specials/ai-org-talent-mechanism/baseline/03-job-family-career-architecture.md`。
