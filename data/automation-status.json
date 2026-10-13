@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:59:54.349Z",
+  "generatedAt": "2026-10-13T10:41:29.909Z",
   "module": "automation",
   "qualityStatus": "warn",
   "chains": {
@@ -30,8 +30,8 @@
     "topicProjects": {
       "qualityStatus": "warn",
       "today": "2026-10-13",
-      "todayStatus": "scheduled",
-      "latestFormalDate": "2026-10-11",
+      "todayStatus": "formal",
+      "latestFormalDate": "2026-10-13",
       "pendingRerunDates": [
         "2026-10-12",
         "2026-09-16",
@@ -93,7 +93,7 @@
       "criticalIssues": []
     },
     "localFormalTask": {
-      "status": "scheduled",
+      "status": "confirmed-formal",
       "evidence": "仅根据 topic-projects manifest 判断；无法从云端伪造本地正式运行完成。"
     }
   },
