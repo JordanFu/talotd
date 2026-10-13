@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-13T02:14:00.354Z",
+  "generatedAt": "2026-10-13T07:59:54.349Z",
   "module": "automation",
-  "qualityStatus": "fail",
+  "qualityStatus": "warn",
   "chains": {
     "infoFeed": {
       "qualityStatus": "warn",
@@ -10,7 +10,7 @@
       "newFactCount": 4
     },
     "infoDelivery": {
-      "checkedAt": "2026-10-13T02:07:48.092Z",
+      "checkedAt": "2026-10-13T07:59:53.926Z",
       "module": "info-delivery",
       "date": "2026-10-13",
       "timezone": "Asia/Shanghai",
@@ -25,7 +25,7 @@
       "issues": [],
       "remoteErrors": [],
       "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
-      "runUrl": null
+      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/38366123064"
     },
     "topicProjects": {
       "qualityStatus": "warn",
@@ -69,12 +69,12 @@
     "linkCheck": {
       "qualityStatus": "warn",
       "brokenCount": 0,
-      "checkedAt": "2026-10-12T21:49:56.376Z"
+      "checkedAt": "2026-10-13T07:59:53.857Z"
     },
     "githubActionsFallback": {
-      "status": "fail",
+      "status": "pass",
       "role": "fallback-only",
-      "schedules": 0,
+      "schedules": 4,
       "requiredCommands": [
         "node scripts/audit-info-library.js",
         "node scripts/generate-topic-project-status.js",
@@ -83,29 +83,14 @@
         "node scripts/generate-automation-status.js",
         "node scripts/generate-system-health.js"
       ],
-      "missingCommands": [
-        "node scripts/audit-info-library.js",
-        "node scripts/generate-topic-project-status.js",
-        "node scripts/lint-knowledge-base.js",
-        "node scripts/check-public-links.js",
-        "node scripts/generate-automation-status.js",
-        "node scripts/generate-system-health.js"
-      ],
+      "missingCommands": [],
       "commitCoverage": {
-        "data": false,
-        "operations": false,
-        "newStatusScripts": false
+        "data": true,
+        "operations": true,
+        "newStatusScripts": true
       },
-      "warnings": [
-        "workflow 名称未显式标注 fallback",
-        "workflow git add 未覆盖 data/",
-        "workflow git add 未覆盖 operations/",
-        "workflow git add 未覆盖新增自动化聚合脚本"
-      ],
-      "criticalIssues": [
-        "workflow 缺少命令：node scripts/audit-info-library.js；node scripts/generate-topic-project-status.js；node scripts/lint-knowledge-base.js；node scripts/check-public-links.js；node scripts/generate-automation-status.js；node scripts/generate-system-health.js",
-        "workflow 缺少定时 cron"
-      ]
+      "warnings": [],
+      "criticalIssues": []
     },
     "localFormalTask": {
       "status": "scheduled",
@@ -113,17 +98,10 @@
     }
   },
   "warnings": [
-    "workflow 名称未显式标注 fallback",
-    "workflow git add 未覆盖 data/",
-    "workflow git add 未覆盖 operations/",
-    "workflow git add 未覆盖新增自动化聚合脚本",
     "信息库质量为 warn",
     "专题研究状态为 warn",
     "专题待正式重跑 25 天"
   ],
-  "criticalIssues": [
-    "workflow 缺少命令：node scripts/audit-info-library.js；node scripts/generate-topic-project-status.js；node scripts/lint-knowledge-base.js；node scripts/check-public-links.js；node scripts/generate-automation-status.js；node scripts/generate-system-health.js",
-    "workflow 缺少定时 cron"
-  ],
+  "criticalIssues": [],
   "operatingRule": "GitHub Actions 只能兜底、审计和记录状态；正式研究完成只能由 formal 条件确认。"
 }
