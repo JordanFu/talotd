@@ -1,6 +1,6 @@
 # 系统健康状态
 
-> 自动生成：2026-10-14T01:54:06.490Z
+> 自动生成：2026-10-14T01:55:45.009Z
 
 ## 一眼判断
 
@@ -42,8 +42,8 @@
 
 ## 自动化状态
 
-- 信息库当日交付：scheduled
-- 信息库线上内容一致：未确认
+- 信息库当日交付：published
+- 信息库线上内容一致：已核对
 - 信息库交付截止：北京时间 11:30；告警不等于内容补跑完成。
 - 本地正式任务：scheduled
 - GitHub Actions 角色：fallback-only
@@ -72,7 +72,6 @@
 - ⚠️ 最新日期同一子主题超过 40%：56%；需要关注广谱雷达覆盖。
 - ⚠️ external link not hard-checked in Phase 1
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
-- ⚠️ 信息库交付待核验：scheduled
 - ⚠️ workflow 名称未显式标注 fallback
 - ⚠️ workflow git add 未覆盖 data/
 - ⚠️ workflow git add 未覆盖 operations/
