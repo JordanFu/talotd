@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T01:54:06.239Z",
+  "generatedAt": "2026-10-14T06:24:47.084Z",
   "module": "info-feed",
   "qualityStatus": "warn",
   "latestDate": "2026-10-14",
@@ -421,11 +421,11 @@
   },
   "homepageBridge": {
     "digestLatestDate": "2026-10-14",
-    "latestScanDate": "2026-10-13",
+    "latestScanDate": "2026-10-14",
     "freshnessStatus": "pass",
-    "ageDays": 1,
+    "ageDays": 0,
     "maxAgeDays": 1,
-    "latestScanUrl": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-13.html",
+    "latestScanUrl": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-14.html",
     "publicMirrorUrl": "https://jordanfu.github.io/org-intelligence-info/",
     "checkedBy": "scripts/check-public-links.js",
     "status": "pending-link-check"
@@ -554,14 +554,15 @@
     "time": 24
   },
   "warnings": [
-    "最新日期同一子主题超过 40%：56%；需要关注广谱雷达覆盖。"
+    "最新日期同一子主题超过 40%：56%；需要关注广谱雷达覆盖。",
+    "external link not hard-checked in Phase 1"
   ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-13T19:58:26.299Z",
+    "checkedAt": "2026-10-14T06:25:44.448Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 4571,
+    "firstPartyChecked": 4572,
     "externalWarnings": 32,
     "brokenCount": 0,
     "publicScanBridge": [
@@ -574,6 +575,11 @@
         "ok": true,
         "status": 200,
         "url": "https://jordanfu.github.io/org-intelligence-info/"
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-14.html"
       }
     ]
   },
