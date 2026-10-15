@@ -1,6 +1,6 @@
 # 系统健康状态
 
-> 自动生成：2026-10-15T10:26:23.466Z
+> 自动生成：2026-10-15T15:07:54.114Z
 
 ## 一眼判断
 
@@ -69,6 +69,7 @@
 
 - ✅ 无 P0 fail。
 - ⚠️ 最新日期同一子主题超过 40%：80%；需要关注广谱雷达覆盖。
+- ⚠️ external link not hard-checked in Phase 1
 - ⚠️ external link not hard-checked in Phase 1
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
 - ⚠️ external link not hard-checked in Phase 1
