@@ -1,16 +1,16 @@
 # 系统健康状态
 
-> 自动生成：2026-10-15T03:44:50.133Z
+> 自动生成：2026-10-15T06:07:58.039Z
 
 ## 一眼判断
 
-- 总体状态：❌ fail
+- 总体状态：⚠️ warn
 - 情报流状态：⚠️ warn
 - 专题研究状态：⚠️ warn
 - 知识库状态：⚠️ warn
-- 自动化状态：❌ fail
+- 自动化状态：⚠️ warn
 - 一方链接状态：⚠️ warn
-- 当前结论：存在阻断项；首页和自动化不得显示已正式完成。
+- 当前结论：状态链可信但仍有运营债务；允许展示 warn，不允许美化成 pass。
 
 ## 情报流状态
 
@@ -47,7 +47,7 @@
 - 信息库交付截止：北京时间 11:30；告警不等于内容补跑完成。
 - 本地正式任务：scheduled
 - GitHub Actions 角色：fallback-only
-- GitHub Actions 定时数：0
+- GitHub Actions 定时数：4
 - 信息库链路：⚠️ warn
 - 专题链路：⚠️ warn
 - 知识库 lint 链路：✅ pass
@@ -56,8 +56,8 @@
 ## 链接检查
 
 - 一方断链数：0
-- 外部链接 warning：32
-- 公开扫描桥接：ok:200、ok:200、ok:200
+- 外部链接 warning：24
+- 公开扫描桥接：ok:200、ok:200
 
 ## 质量语义
 
@@ -67,15 +67,12 @@
 
 ## 当前问题
 
-- ❌ workflow 缺少命令：node scripts/audit-info-library.js；node scripts/generate-topic-project-status.js；node scripts/lint-knowledge-base.js；node scripts/check-public-links.js；node scripts/generate-automation-status.js；node scripts/generate-system-health.js
-- ❌ workflow 缺少定时 cron
+- ✅ 无 P0 fail。
 - ⚠️ 最新日期同一子主题超过 40%：80%；需要关注广谱雷达覆盖。
 - ⚠️ external link not hard-checked in Phase 1
+- ⚠️ external link not hard-checked in Phase 1
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
-- ⚠️ workflow 名称未显式标注 fallback
-- ⚠️ workflow git add 未覆盖 data/
-- ⚠️ workflow git add 未覆盖 operations/
-- ⚠️ workflow git add 未覆盖新增自动化聚合脚本
+- ⚠️ external link not hard-checked in Phase 1
 - ⚠️ 信息库质量为 warn
 - ⚠️ 专题研究状态为 warn
 - ⚠️ 专题待正式重跑 25 天
