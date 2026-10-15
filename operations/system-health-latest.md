@@ -1,6 +1,6 @@
 # 系统健康状态
 
-> 自动生成：2026-10-15T03:43:13.968Z
+> 自动生成：2026-10-15T03:44:50.133Z
 
 ## 一眼判断
 
@@ -42,13 +42,13 @@
 
 ## 自动化状态
 
-- 信息库当日交付：overdue
-- 信息库线上内容一致：未确认
+- 信息库当日交付：published
+- 信息库线上内容一致：已核对
 - 信息库交付截止：北京时间 11:30；告警不等于内容补跑完成。
 - 本地正式任务：scheduled
 - GitHub Actions 角色：fallback-only
 - GitHub Actions 定时数：0
-- 信息库链路：❌ fail
+- 信息库链路：⚠️ warn
 - 专题链路：⚠️ warn
 - 知识库 lint 链路：✅ pass
 - 链接检查链路：⚠️ warn
@@ -67,7 +67,6 @@
 
 ## 当前问题
 
-- ❌ 信息库当日交付未完成：overdue
 - ❌ workflow 缺少命令：node scripts/audit-info-library.js；node scripts/generate-topic-project-status.js；node scripts/lint-knowledge-base.js；node scripts/check-public-links.js；node scripts/generate-automation-status.js；node scripts/generate-system-health.js
 - ❌ workflow 缺少定时 cron
 - ⚠️ 最新日期同一子主题超过 40%：80%；需要关注广谱雷达覆盖。
