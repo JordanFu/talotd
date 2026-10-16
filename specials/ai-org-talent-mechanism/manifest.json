@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T06:03:54.430Z",
+  "generatedAt": "2026-10-16T10:17:30.204Z",
   "module": "topic-projects",
   "project": {
     "id": "ai-org-talent-mechanism",
@@ -7,11 +7,11 @@
     "root": "specials/ai-org-talent-mechanism"
   },
   "qualityStatus": "warn",
-  "latestFormalDate": "2026-10-15",
+  "latestFormalDate": "2026-10-16",
   "latestAnyDate": "2026-10-16",
   "today": "2026-10-16",
-  "todayStatus": "scheduled",
-  "latestStatus": "scheduled",
+  "todayStatus": "formal",
+  "latestStatus": "formal",
   "pendingRerunDates": [
     "2026-10-12",
     "2026-09-16",
@@ -40,8 +40,7 @@
     "2026-05-13"
   ],
   "statusCounts": {
-    "scheduled": 1,
-    "formal": 131,
+    "formal": 132,
     "fallback": 25
   },
   "statusDefinitions": {
@@ -54,8 +53,8 @@
   "dates": [
     {
       "date": "2026-10-16",
-      "status": "scheduled",
-      "isFormal": false,
+      "status": "formal",
+      "isFormal": true,
       "isFallback": false,
       "needsRerun": false,
       "overview": "specials/ai-org-talent-mechanism/2026-10-16/00-overview.html",
@@ -97,12 +96,9 @@
       "hasFormalEntry": true,
       "qualityGate": {
         "path": "specials/ai-org-talent-mechanism/quality/2026-10-16.md",
-        "status": "warn-or-unknown"
+        "status": "pass-or-warn"
       },
-      "qualityIssues": [
-        "正文包含兜底/非决策稿/待正式重跑关键词",
-        "未到今日 18:00 正式自动化运行时间；现有内容仅作状态记录"
-      ]
+      "qualityIssues": []
     },
     {
       "date": "2026-10-15",
@@ -7801,25 +7797,10 @@
   ],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-16T08:12:50.120Z",
-    "qualityStatus": "warn",
-    "firstPartyChecked": 4623,
-    "externalWarnings": 24,
-    "brokenCount": 0,
-    "publicScanBridge": [
-      {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-16.html"
-      },
-      {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/"
-      }
-    ]
-  },
-  "warnings": [
-    "external link not hard-checked in Phase 1"
-  ]
+    "checkedAt": null,
+    "qualityStatus": "pending",
+    "firstPartyChecked": 0,
+    "externalWarnings": 0,
+    "brokenCount": 0
+  }
 }
