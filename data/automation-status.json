@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-15T17:51:35.462Z",
+  "generatedAt": "2026-10-16T02:13:40.684Z",
   "module": "automation",
   "qualityStatus": "warn",
   "chains": {
     "infoFeed": {
       "qualityStatus": "warn",
-      "latestDate": "2026-10-15",
+      "latestDate": "2026-10-16",
       "latestCardCount": 10,
-      "newFactCount": 8
+      "newFactCount": 6
     },
     "infoDelivery": {
       "checkedAt": "2026-10-15T17:51:34.261Z",
@@ -74,7 +74,7 @@
     "linkCheck": {
       "qualityStatus": "warn",
       "brokenCount": 0,
-      "checkedAt": "2026-10-15T17:51:34.213Z"
+      "checkedAt": "2026-10-16T02:13:40.618Z"
     },
     "githubActionsFallback": {
       "status": "pass",
