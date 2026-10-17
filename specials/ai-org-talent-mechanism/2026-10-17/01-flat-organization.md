@@ -1,53 +1,206 @@
-# 2026-10-17｜专题一：组织扁平化与中层减少
+# 2026-10-17｜专题一：AI时代组织扁平化与中层减少
 
-> 语言规则：正文统一中文主叙事；必要英文术语采用“中文（English）”首次括注，禁止在中文句子中直接夹杂 manager、owner、workflow、rubric 等 ABC 表达。
+> **正式研究增量稿｜严格窗口：2026-10-16 18:00—2026-10-17 18:00（Asia/Shanghai）**
+> **证据等级：**L4＝一手机制、运行结果且有独立互证；L3＝强一手／监管材料、关键事实可核；L2＝可追溯公司动作或方法透明研究；L1＝供应商自述、单一访谈、日期级候选或弱线索；L0＝不可核传闻。
+> **当窗计数：**完整企业减层制度新增 **0**；减层后经营与员工结果新增 **0**；可核中国企业减层新增 **0**；与当日组织动作相连的招聘／薪酬信号新增 **0**。严格窗口内只有一条相邻的一手披露：设计服务商说明其为BNY内部AI平台做“围绕员工当前任务”的体验改版，但未披露组织图、层级、人员、管理跨度或员工后效，故不升格为减层证据。
 
-> 研究状态记录 / 非决策稿：本文件只用于记录“自动化已触发但尚未完成正式研究”的状态，不能作为 CEO 决策稿。正式日报必须由四课题代理、四渠道代理和主代理交叉证伪后重跑；若未完成，不用通用判断冒充结论。
+**读者应该带走什么：**今天没有证据支持“AI一上就应该继续砍中层”。更可靠的顺序仍是：先让工具减少切换、重复录入与低价值协调，再确认省下的时间没有被新汇报、监控和更高定额吃掉；只有决定权、异常责任、育人责任与员工收益都有人承接，才讨论减少组织层级。
 
-## 今日一句话结论
+**管理层该问：**AI平台究竟替员工取消了哪些步骤？这些步骤原由经理、员工还是支持职能承担？系统出错时谁能暂停、纠正和升级？少掉一层之后，员工是否更快得到决定与支持，还是只多了一个数字化入口？
 
-今日暂不形成正式结论：当前仅完成兜底记录，缺少当日新增一手事实、反例、薪酬/JD 信号和多源互证，不满足 CEO 决策质量门槛。
+**不要误读：**“任务中心化界面”不等于任务已经自动化；“智能体体验”不等于智能体拥有管理权；供应商案例不等于客户已确认成效；新发布的报道不等于新发生的组织事件。
 
-## 今日核心判断
+**背景材料：**BNY既有Eliza平台和HBR日期级案例只用于解释“任务重构—生产治理—组织责任”的背景链，不作为严格窗口内减层制度或效果证据。
 
-1. **不升级为结论。可信度：低。** 现有来源池只能说明这些方向值得追踪，不能证明今日发生了新的岗位、职级、薪酬或组织改革事实。
-2. **必须补齐上下文后再判断。可信度：高。** 正式研究需要还原主体、时间线、改革动作、员工影响、薪酬/激励承接和争议信息，否则只是信息堆叠。
-3. **宁可标注缺口，也不输出空泛总结。可信度：高。** 兜底自动化的价值是提醒缺口与触发重跑，不是生成看似完整但不可追溯的报告。
+**落地启发：**先用任务清单、决策权表和异常升级表验证员工究竟少做了什么、支持是否更快，再决定是否调整跨度或层级；若净负担、错误或求助时延上升，应立即回退。
 
-## 今日背景材料
+## 1. 今日一句话专题判断
 
-- 来源池中 IBM、Microsoft、Deloitte、McKinsey、Mercer、EY、Payscale 等材料仍可作为后续研究入口，但今日未完成逐条复核，暂不形成结论。
-- 继续关注 岗位与工作流重设计、智能体治理、基于技能的薪酬 和 薪酬带宽 等方向，但必须用当日新证据验证。
-- 当前最重要的缺口不是“缺文字”，而是缺新增事实、证据解释、反例、落地细节和可追溯来源之间的逻辑链。
+**严格窗口内没有新增高置信企业减层事实；今天唯一可用的相邻信号表明，AI组织设计应先从“减少员工为使用工具而付出的操作与切换成本”开始，而不是从扩大管理跨度或删除经理岗位开始。**
 
-## 今日新增证据地图
+## 2. 今日新增事实：只写可追溯事实
 
-| 渠道 | 当前状态 | 必须补齐 |
+### 2.1 Fantasy／BNY：当窗披露“围绕员工当前任务”的内部AI平台设计，但不是组织改革（L1）
+
+- 设计与产品开发公司Fantasy通过Business Wire于2026年10月16日08:00 EDT发布稿件，即北京时间10月16日20:00，处于严格窗口内。稿件宣布Fantasy被纳入Gartner一份9月16日发布的供应商观察报告；**当窗新事件是Fantasy发布这项自述，不是BNY在当日启动新组织改革。**
+- 发布稿称，Fantasy曾重新设计BNY内部AI平台Eliza，使体验围绕每位员工“眼前的任务”展开，并交付一套由BNY团队继续使用的AI原生设计系统。其余公开材料表明Eliza及其员工建智能体能力早在2025—2026年已有披露，因此不能把本次稿件写成平台首次上线或当日组织动作。
+- 发布稿没有披露：哪些旧步骤被取消、员工少切换多少系统、采用人数与岗位分布、经理角色或层级是否变化、错误率、返工、正常工时、学习时间、投诉／申诉、数据访问、保留期限或员工能否纠正系统结论。
+- Gartner免责声明明确：Gartner不为任何被描述的公司、供应商、产品或服务背书；Fantasy是项目服务商，也是发布方。该信息只能支持“服务商宣称采用任务中心化设计”，不能支持BNY减层、提效或员工受益的结论。
+- 来源：[Business Wire原始发布页](https://www.businesswire.com/news/home/20261016249940/en/Fantasy-Recognized-in-2026-Gartner-Report-Cutting-Edge-Providers-to-Watch-in-Intelligent-Products-and-Services-Innovation-Services)、[Yahoo Finance全文镜像与精确时间](https://finance.yahoo.com/technology/ai/articles/fantasy-recognized-2026-gartner-report-120000504.html)、[BNY官方AI介绍页（历史背景）](https://www.bny.com/corporate/global/en/about-us/technology-innovation/artificial-intelligence.html)。
+
+### 2.2 日期级候选：HBR的“AI原型部署缺口”案例不能计入严格窗口事实（L1／Context）
+
+- Harvard Business Review页面标注2026年10月16日，但没有可核公开时分；窗口起点是当日18:00（Asia/Shanghai），因此**不计入当窗新增事实**。
+- 文章作者称过去两年接触11家美国与欧洲企业，在多数项目中至少一名作者直接负责或担任顾问，观察期为4个月至2年以上。其欧洲银行匿名案例称：7个协同智能体的试点让客户经理每天面向客户时间增加一小时以上；银行随后组建内部团队并招聘人才，但6个月后仍只能做基础原型，未解决监管、多智能体协同和日常可靠性，最终重新聘用供应商重建。Roche案例称，一个18人数据团队中保留3名工程师，在解决方案进入生产或扩散前逐项评审。
+- 文章具有组织机制价值，却同时存在三个边界：精确发布时间未核、企业匿名、作者参与项目而非独立评估。它只提示“生成成本下降可能增加复核与维护责任”，不能证明应保留多少层经理，也不能把“每天多一小时”外推为净减负。
+- 来源：[HBR｜Turn Vibe-Coded Prototypes Into Tools Your Company Can Actually Use](https://hbr.org/2026/10/turn-vibe-coded-prototypes-into-tools-your-company-can-actually-use)。
+
+### 2.3 严格窗口零结果与剔除项
+
+- **完整减层制度0：**未发现同时披露改革前／后组织图、层级数、经理净数、管理跨度、决定权迁移、停止工作清单、经理转岗、员工沟通与申诉的公司案例。
+- **运行后效0：**未发现有可信对照的决策时延、质量、客户、风险、成本、会议／汇报、正常工时、经理可及性、心理安全、学习与离职结果。
+- **中国企业0：**第一财经10月16日15:27关于蒂姆·库克的报道早于严格窗口2小时32分16秒；其中“较低层级减少”是对职业阶梯／基础岗位的宏观表述，且没有苹果组织改革字段，故只作窗外背景，不计新增。
+- **招聘／薪酬0：**检索到CDW、Bank of America等10月16日岗位页，但只有日期、无时分，且未与任何减层动作、经理转型或薪酬承接相连；不以“当天发布职位”制造本专题信号。
+- **社媒／职场0：**LinkedIn、Facebook、Reddit出现对旧裁员与中层风险的转述，没有可核样本、公司文件或当窗新制度，全部停留在线索层。
+
+## 3. 今日核心判断
+
+### 判断一：当窗没有完整减层事实，最有价值的结论是“不升级结论”
+
+- **可信度：高。**
+- **证据基础：**官方公告、Business Wire、Reuters、咨询／学术、中文媒体、职位与社媒定向检索均未取得结构—权责—人员—后效闭环；近两日Workday、ManpowerGroup、Oliver Wyman已去重，不倒写为今日新增。
+- **为什么重要：**把产品改版、裁员汇总或高管观点拼成“AI去中层趋势”，会让组织先做不可逆的人事动作，再补设计和证据。零结果能保护决策质量。
+
+### 判断二：员工价值应从减少操作负担开始，不能从组织价值倒推员工必须使用
+
+- **可信度：中。**
+- **证据基础：**Fantasy当窗自述采用围绕员工任务的设计；但没有BNY独立结果，因此只是设计方向证据。
+- **为什么重要：**如果工具先让员工少切系统、少重复输入、少找入口，才可能形成自愿且有意义的使用；若员工把平台视为汇报或监控工具，使用数据既不真实，也不能支撑可靠的组织洞察。
+
+### 判断三：AI降低“做出原型”的门槛，可能同时提高复核、集成与异常承接的负担
+
+- **可信度：中低。**
+- **证据基础：**HBR日期级候选中的匿名欧洲银行与Roche案例；方法为作者参与式案例，不是独立因果研究，且精确窗口未核。
+- **为什么重要：**删除协调层之前，必须区分被取消的是重复行政，还是把工程、合规、风险和维护劳动推给少数专家。只有生成更快、没有复核更快，可能增加“验证税”。
+
+### 判断四：管理跨度不能只数人，还要数智能体、工作流、例外和学习责任
+
+- **可信度：中。**
+- **证据基础：**本日没有新的跨度数据；判断来自当窗相邻案例对任务界面、生产评审与复杂连接的责任要求，并与内部基线“责任迁移先于层级压缩”一致。
+- **为什么重要：**一名经理直管人数不变，也可能因要复核多个智能体、处理更多例外而实际跨度扩大；反之，工具减少行政并不自动代表可以增加直接汇报数。
+
+### 判断五：收益分配和隐私边界是扁平化的数据前提，不是上线后的沟通附件
+
+- **可信度：高（治理判断）。**
+- **证据基础：**当窗唯一公司相邻披露没有工时、收益、访问权限、数据保留和纠错字段；内部知识库持续把员工价值、纠错权与责任边界列为试点验收项。
+- **为什么重要：**如果省时只换成更多任务，或平台数据被用于隐蔽绩效排名，员工会自我审查、隐藏真实收益并制造迎合性数据；组织得到的不是洞察，而是压力下的表演。
+
+## 4. 重点案例事实还原
+
+### 4.1 Fantasy／BNY Eliza：任务中心化是产品设计信号，不是“AI减层”样本
+
+| 维度 | 当前可确认 | 缺口／不能推出 |
 |---|---|---|
-| 官方/一手 | 待检索 | 公司公告、IR/SEC、官方博客、制度手册、招聘页原文 |
-| 权威媒体与案例 | 待检索 | Reuters/FT/WSJ/咨询报告中的事实、时间线、争议 |
-| 社媒/职场平台 | 待检索 | 只收线索，不当结论；记录关键词和待验证方向 |
-| 招聘 JD 与薪酬 | 待检索 | 头衔、职责、薪资区间、职级、地区、个人贡献者/管理者 边界 |
+| 战略背景 | BNY已有内部AI平台Eliza；Fantasy当窗发布稿称其设计目标是让内部AI体验围绕员工当前任务，并交付可由BNY团队继续使用的设计系统 | 当窗稿件未说明BNY为何改版、谁批准、是否针对组织扁平化、员工痛点如何发现 |
+| 时间线 | 2025—2026：BNY、OpenAI、Google Cloud、Microsoft等已公开Eliza相关合作与用例；2026-09-16：Gartner供应商观察报告；2026-10-16 20:00北京时间：Fantasy发布被纳入报告的新闻稿 | Fantasy实际项目开始／上线日期、试点与推广阶段、何时评估、是否在当窗发生新实施 |
+| 原组织／工作形态 | 发布稿用“单一通用数字产品”作为其行业问题描述 | 未证明这就是BNY改版前状态；无原组织图、流程图、系统切换数、管理层级 |
+| 新组织／工作形态 | 服务商称Eliza变为围绕员工眼前任务的智能体体验；BNY团队可在AI原生设计系统上继续建设 | 无新组织图、团队边界、直接汇报、决定论坛、专业否决与升级路径 |
+| 减少层级／角色 | **0项可确认** | 不能推出中层减少、支持职能缩编、经理跨度扩大或员工岗位被替代 |
+| 管理者转型 | **0项可确认** | 未披露经理是否转为教练、工作流负责人、专家或个人贡献者，也没有培训和薪酬变化 |
+| 决策权与协同 | 产品层面强调“围绕任务”而非让用户自行拼接通用工具 | 谁定义任务、谁批准智能体动作、谁复核高风险输出、谁在异常时暂停和恢复均未披露 |
+| 沟通话术 | 发布稿强调个性化、适应性和快速交付；Gartner免责声明明确不构成背书 | 无BNY员工沟通、哪些旧工作停止、哪些数据被读取、能否拒绝／纠错／申诉 |
+| HR与业务执行 | Fantasy称交付设计系统并由BNY团队继续使用 | 业务与HR如何共同改岗、人员盘点、带教、绩效和工作量均未披露 |
+| 员工影响 | 设计意图是贴近员工当前任务 | 无少操作、少等待、少汇报、正常工时、学习、自主权、压力和群体差异结果 |
+| 指标 | 当窗发布稿没有组织或员工指标 | 不能用外部历史用例数字替代本次设计改版的独立成效 |
+| 争议与阻碍 | 服务商既是项目参与方又是发布方；“任务中心化”可能减少切换，也可能扩大工作上下文采集 | 数据最小化、访问范围、保留期、个人／组织使用边界、模型错误和过度依赖均未说明 |
 
-## 线索层
+**可借鉴点：**从员工要完成的任务出发，减少工具切换、重复输入和提示词负担；让统一设计系统承担一致性，而不是让每名员工学习一套新的汇报动作。
 
-- 追踪 FDE、AI 工作流负责人、智能体运营、AI 治理（AI governance）、基于技能的薪酬等头衔是否形成稳定 岗位族群。
-- 追踪中国公司是否用技能标签、稀缺系数、项目激励替代新增岗位序列。
-- 追踪“执行层角色变宽”与“核心专家能力深化”是否同时出现，而不是只看单向趋势。
+**不可照搬点：**不能把体验设计当作减层依据；不能用平台活跃度或智能体调用量评价个人；不能在没有人工升级、纠错和数据边界时采集全量工作上下文；不能用供应商速度口号代替员工净负担和业务质量结果。
 
-## 待补齐的落地问题
+### 4.2 日期级反例候选：欧洲银行“内部化失败”说明专家与治理不会随原型一起消失
 
-正式重跑必须回答：哪些管理工作被系统化、哪些仍需管理者承担、管理跨度是否变化、员工体验和晋升路径是否受影响、是否只是成本控制而非组织升级。
+- **背景：**客户经理被客户关系管理系统更新、合规材料和跟进沟通等行政工作占用；匿名银行引入7个协同智能体试点。
+- **动作：**文章称试点让客户经理每天面向客户时间增加一小时以上；管理层随后组建内部团队、招聘人才并试图自行扩展。
+- **结果：**6个月后内部团队仍停留在基础原型，无法处理监管、多智能体协同和日常可靠性，最终重新请回供应商并从原试点重建。
+- **机制含义：**AI可能减少一线行政，但规模化需要工程、合规、维护和边界管理；这类工作必须显性配置容量，不能假定“工具会做”后直接删除支持层。
+- **证据边界：**HBR页面只有日期、无时分；企业匿名；作者参与项目；“每天多一小时”未披露测量方法、样本、持续期和是否被新任务回填。因此只进入Context，不形成当窗企业结论。
 
-## 来源索引
+## 5. Context层：暂时不能形成结论但重要的背景、弱信号、反例和冲突
 
-- [IBM Think 2026 recap](https://www.ibm.com/think/news/think-2026-ai-recap)：智能体式 AI（agentic AI）规模化、Bob 工具、治理与生产率
-- [Microsoft Work Trend Index 2026](https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization)：人机协同能动性（human-agent agency）、运营模式重设计（operating model redesign）
-- [Deloitte：人机协同 AI 运营模式](https://www.deloitte.com/us/en/insights/topics/talent/operating-models-for-humans-ai-agents.html)：84% 的公司尚未围绕 AI 重新设计岗位；智能体运营模式
-- [McKinsey：AI 优先技术人才体系](https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/designing-an-end-to-end-technology-workforce-for-the-ai-first-era)：AI 优先技术人才、深度专家、产品/平台模式
-- [Mercer Global Talent Trends 2026](https://www.mercer.com/about/newsroom/mercer-s-global-talent-trends-2026-report/)：工作重设计、技能作为价值货币、人机协作
-- [EY Future of Pay 2026](https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/newsroom/2026/02/ey-future-of-pay-report-2026.pdf)：AI 技能溢价、基于技能的薪酬、退出条款（sunset clauses）
-- [Payscale 2026 薪酬最佳实践报告](https://www.payscale.com/press-releases/2026-compensation-best-practices-report)：AI 技能薪酬、薪酬公平
-- [CHRO Association 2026 Survey](https://www.chro.org/documents/d/guest/2026_chro_survey_key_findings_p)：中层阻力、CHRO 议题
-- [OD Intelligence Center 知识库](./knowledge/wiki/zhiyinlou-hr-thematic-index-2026-05-13.md)：AI+HR、薪酬福利、组织发展精读池
-- [微信公众号「AI组织进化论」](wechat:AI组织进化论)：国内垂直内容源；作为背景材料和线索源使用，拿到原文链接或多源互证后才能进入结论层
+> **暂不形成结论，但提示我们关注……**任务中心化的AI平台可能减少员工在系统之间搬运信息，却也可能把更多工作上下文集中到一个入口。若组织不公开数据来源、用途、访问者、保留期和个人纠错权，“方便”可能与更强监控同时发生。
+
+> **暂不形成结论，但提示我们关注……**HBR日期级案例显示，原型让一线少做行政，并不意味着专业支持可同步减少；连接、可靠性、监管和维护会把新劳动推向工程师、合规人员和经理。需要测“谁少做了什么、谁又多做了什么”。
+
+> **暂不形成结论，但提示我们关注……**10月16日15:27第一财经报道的职业阶梯讨论虽在窗口外，却提醒我们：当基础任务减少，人才发展入口可能变窄。组织若同时减经理与初级岗位，需要另建真实项目、导师反馈和渐进责任，否则未来管理与专家梯队会断层。
+
+> **暂不形成结论，但提示我们关注……**近两日Workday公开“正在扁平化”、ManpowerGroup披露最高层交接，方向信号变多，但三天连续检索仍没有原／新组织图、管理跨度和员工后效。这一冲突说明市场叙事跑在机制证据前面。
+
+**反例与冲突：**AI可以降低信息检索和行政成本，但连接越多、应用越广，复核、维护、合规和异常处理越重；层级少可能加快普通决定，也可能让员工更难获得支持。真正需要删除的是无价值工作，不是先预设删除哪类人。
+
+## 6. 证据地图
+
+| 渠道 | 严格窗口结果 | 等级 | 能支持 | 不能支持 |
+|---|---|---:|---|---|
+| 官方／一手 | Fantasy 10月16日08:00 EDT发布稿；BNY官方页只作历史背景 | L1 | 服务商当窗自述任务中心化设计及设计系统交付 | BNY独立确认、减层、组织图、员工结果 |
+| 权威媒体／咨询 | HBR 10月16日文章，只有日期无时分；案例为作者参与式研究 | L1／Context | 原型—生产之间存在工程、合规与维护责任 | 严格窗口归属、独立因果、最优管理跨度 |
+| 公司案例／制度 | BNY／Fantasy相邻案例 | L1 | 产品设计方向 | 组织制度与运行后效 |
+| 学术／专业研究 | 当窗直接研究新增0；BU 2月18日中层反例仅作历史校准 | 0／历史L2 | 形成反证问题：学习、协调、继任是否被削弱 | 今日新增、所有行业普遍规律 |
+| 招聘JD与薪酬 | 只有日期级岗位页，未与减层事件相连 | 0 | — | 经理／资深个人贡献者的去向、价格与AI溢价 |
+| 社媒／职场线索 | 旧裁员转述与个人观点；无可核当窗制度 | L0 | 扩展检索词 | 企业事实、员工普遍体验 |
+| 内部信息库／知识库 | `digest.md`、`daily/2026-10-17.md`、`daily-report/2026-10-17.md`、10月15—16日专题、滚动基线与责任／纠错知识页 | 去重／校准 | 避免旧闻冒充新增；保持员工价值、责任与纠错边界 | 不构成第二个外部证据根 |
+
+## 7. 对我们行动的启发
+
+1. **先做“员工少做什么”的任务清单。**试点前列出系统切换、重复录入、状态汇总、材料查找、审批等待与异常追问；每项都要有基线分钟数和停止条件。没有取消旧工作，就不能声称减负。
+2. **把管理工作拆成四类。**可停止、可由AI辅助、必须人工复核、必须由具名人类决定。人才辅导、冲突裁决、绩效校准、高风险背书和最终问责不得默认为“团队自组织”。
+3. **做8—12周可回滚试点，不先改职级和编制。**只选择一条价值流；保留人工升级与原服务入口；出现质量、工作量或心理安全恶化即可回滚。
+4. **业务与员工双账本。**业务侧看决定时延、一次解决、客户、质量、风险和全成本；员工侧看会议／汇报小时、系统切换、等待、返工、加班、学习时间、经理可及性与心理安全。
+5. **把隐私写进架构。**公开平台读取哪些系统、谁能看、用于什么、保留多久、是否进入绩效与人事决定；默认最小权限，禁止用提示词、在线时长、调用量或私人沟通做个人排名。
+6. **提前约定效率收益归属。**省下时间优先回到少汇报、正常工时学习、客户服务、自主权、调休或合理激励；若每省一小时就追加一小时任务，应报告为劳动强度增加，而非生产率提升。
+7. **经理先减旧负担再加新责任。**要求经理成为教练、工作流负责人和智能体监督者之前，明确删掉哪些会议、报表、审批与个人贡献任务，并配置工程、合规和HR支持。
+8. **沟通回答六件事。**为什么改、什么停止、谁拍板、谁承接异常、人员与职业路径怎样变化、员工如何纠错和申诉。不能只说“更敏捷”或“AI优先”。
+
+## 8. 待验证清单与下一步搜索路径
+
+1. **P0｜Workday减层机制：**继续取得改革前后组织图、层级数、经理净数、直接汇报、智能体承接任务、经理转岗与员工影响。查询：`site:workday.com flattening organization Bhusri management layers`、`Workday internal reorganization October 2026 span of control`。
+2. **P0｜BNY员工结果：**向BNY官方、监管与客户案例追“任务中心化”实际上线日、采用分母、少切换／少等待、错误与人工升级、员工工时和数据用途。查询：`site:bny.com Eliza employee task workflow metrics privacy`、`BNY Eliza employee experience design system Fantasy results`。
+3. **P0｜HBR匿名银行补证：**识别银行和供应商，取得7智能体试点测量方法、内部团队规模、6个月投入、合规缺口和重建结果；核文章精确发布时间。
+4. **P0｜管理跨度双分母：**寻找同时披露“人类直接汇报数＋智能体／工作流数＋例外量＋育人时间”的企业样本，不接受单一1:N口径。
+5. **P0｜员工净负担：**核验试点是否真正减少会议、汇报、录入、等待和加班；同时追踪工程、合规、HR与经理新增的验证／维护工时。
+6. **P1｜中国企业：**定向查公司公告、任命与一线流程案例；严格区分职业阶梯观点、裁员、产品改版和组织减层。查询：`2026年10月17日 公司 组织架构 调整 管理层 AI 官方`、`AI 平台 员工 减少 汇报 系统切换 组织`。
+7. **P1｜招聘与薪酬：**寻找与已确认减层企业同日期／同组织单元的经理、资深个人贡献者、AI工作流负责人JD，记录职级、薪带、直接汇报、决定权和岗位去向。
+8. **P1｜反例：**继续找因跨度过大、支持不足或培养断层而恢复一线经理、缩小跨度、增设专家评审的2026企业案例。
+
+## 9. 来源索引与检索记录
+
+### 9.1 当窗与核心来源
+
+1. [Fantasy／Business Wire｜Fantasy Recognized in 2026 Gartner Report](https://www.businesswire.com/news/home/20261016249940/en/Fantasy-Recognized-in-2026-Gartner-Report-Cutting-Edge-Providers-to-Watch-in-Intelligent-Products-and-Services-Innovation-Services)，2026-10-16 08:00 EDT＝2026-10-16 20:00 Asia/Shanghai；**窗口内**；L1供应商自述。
+2. [Yahoo Finance｜Business Wire全文镜像](https://finance.yahoo.com/technology/ai/articles/fantasy-recognized-2026-gartner-report-120000504.html)，同一事件根，用于核精确时间与全文；不重复计数。
+3. [BNY官方｜Artificial Intelligence](https://www.bny.com/corporate/global/en/about-us/technology-innovation/artificial-intelligence.html)，历史背景页；**不作为当窗新增**；L2官方产品背景、无本次改版结果。
+4. [HBR｜Turn Vibe-Coded Prototypes Into Tools Your Company Can Actually Use](https://hbr.org/2026/10/turn-vibe-coded-prototypes-into-tools-your-company-can-actually-use)，页面日期2026-10-16、无可核时分；**严格窗口待确认**；L1参与式案例／Context。
+5. [第一财经｜“我比去年更乐观”，库克在中国看到了什么](https://www.yicai.com/news/103396751.html)，2026-10-16 15:27:44 Asia/Shanghai；**窗外2小时32分16秒**；L2现场报道，仅作剔除说明。
+6. [Boston University Questrom｜Flattening the Firm: What We Lose When Middle Managers Disappear](https://insights.bu.edu/flattening-the-firm-what-we-lose-when-middle-managers-disappear/)，2026-02-18；历史专业观点／反例，不作当窗新增。
+
+### 9.2 内部知识源（只读、去重与校准）
+
+- `digest.md`（更新至2026-10-17）
+- `daily/2026-10-17.md`
+- `daily-report/2026-10-17.md`
+- `specials/ai-org-talent-mechanism/2026-10-15/01-flat-organization.md`
+- `specials/ai-org-talent-mechanism/2026-10-16/01-flat-organization.md`
+- `specials/ai-org-talent-mechanism/topics/flat-organization/baseline.md`
+- `specials/ai-org-talent-mechanism/topics/flat-organization/evidence-map.md`
+- `specials/ai-org-talent-mechanism/topics/flat-organization/open-questions.md`
+- `specials/ai-org-talent-mechanism/baseline/01-flat-organization.md`
+- `knowledge/wiki/ai-organization-responsibility-boundaries-2026-09-10.md`
+- `knowledge/wiki/employee-value-and-correction-2026-09-17.md`
+- `knowledge/wiki/change-and-workload-2026-09-24.md`
+
+### 9.3 AnySearch检索词（2026-10-17执行）
+
+1. `October 16 2026 company management layers restructuring official AI workforce`
+2. `October 17 2026 organizational restructuring reduce layers middle managers company`
+3. `site:reuters.com October 16 2026 layoffs managers restructuring AI workforce company`
+4. `site:businesswire.com/news/home 2026/10/16 organizational restructuring AI workforce management`
+5. `site:globenewswire.com 2026/10/16 organizational changes workforce AI management`
+6. `2026年10月16日 组织架构 调整 管理层 AI 公司 公告`
+7. `2026年10月17日 扁平化 中层 管理跨度 公司`
+8. `manager span of control AI report October 16 2026`
+9. `AI management layers company announcement October 17 2026`
+10. `middle managers AI organization study October 2026 new report`
+11. `Cisco October 16 2026 layoffs AI restructuring official`
+12. `McKinsey 200 tech jobs AI October 16 2026 source`
+13. `site:hbr.org October 16 2026 middle managers AI`
+14. `site:mckinsey.com October 16 2026 organization AI managers`
+15. `site:bcg.com October 16 2026 AI organization managers`
+16. `Fantasy Recognized 2026 Gartner Report BNY Eliza task in front employee October 16 2026`
+17. `BNY Eliza Fantasy agentic experience task employee first announced`
+18. `Tim Cook October 16 2026 lower rungs career ladder disappearing AI China interview original`
+19. `site:jobs.apple.com Oct 16 2026 manager AI salary`
+20. `posted Oct 16, 2026 AI manager salary`
+
+**检索边界：**搜索摘要、聚合转载、招聘聚合站和社媒只用于发现与时间核验；事实尽量回到公司官方页、原始发布、权威现场报道或文章正文。同一稿件镜像只算一个事件根。日期而无时分的10月16日材料不能默认落在严格窗口内；旧事件被10月17日汇总或转述也不计今日新增。
+
+> **最终边界：**截至2026-10-17 18:00，本报告支持开展“员工任务负担—责任迁移—人工升级—收益分配—隐私纠错”的窄试点；不支持立即裁撤中层、统一扩大管理跨度、把产品改版写成组织扁平化，或用员工AI行为数据做个人排名与人员决定。

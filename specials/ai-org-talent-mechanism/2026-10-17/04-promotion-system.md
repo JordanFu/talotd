@@ -1,53 +1,243 @@
 # 2026-10-17｜专题四：未来组织的晋升机制
 
-> 语言规则：正文统一中文主叙事；必要英文术语采用“中文（English）”首次括注，禁止在中文句子中直接夹杂 manager、owner、workflow、rubric 等 ABC 表达。
+> **研究窗口**：2026-10-16 18:00—2026-10-17 18:00（Asia/Shanghai）。事件或制度必须能证明首次公开时间落入窗口，才计当日新增；旧制度重读、日期不明页面与二手转载仅作背景或方法校准。
+>
+> **先报零结果**：本窗口内完整企业晋升制度新增 **0**；可核验运行后效新增 **0**；固定晋升窗口、即时/窗口外晋升、项目制晋升、岗位价值触发、能力认证/技能徽章、AI贡献度、同行评审、人才委员会、薪酬校准及绩效—晋升耦合/解耦十个维度的完整制度新增均为 **0**。
 
-> 研究状态记录 / 非决策稿：本文件只用于记录“自动化已触发但尚未完成正式研究”的状态，不能作为 CEO 决策稿。正式日报必须由四课题代理、四渠道代理和主代理交叉证伪后重跑；若未完成，不用通用判断冒充结论。
+## 1. 今日一句话专题判断
 
-## 今日一句话结论
+**今天没有证据支持把“学会 AI、拿到徽章或使用次数高”直接换成晋升；更稳妥的机制仍是让贡献持续可见、让项目贡献及时获得可逆回报，再由固定校准窗口决定永久职级，只有岗位价值已持续变化且等待会造成明显不公时，才走窄口径的窗口外晋升。**
 
-今日暂不形成正式结论：当前仅完成兜底记录，缺少当日新增一手事实、反例、薪酬/JD 信号和多源互证，不满足 CEO 决策质量门槛。
+### 读者应该带走什么
 
-## 今日核心判断
-
-1. **不升级为结论。可信度：低。** 现有来源池只能说明这些方向值得追踪，不能证明今日发生了新的岗位、职级、薪酬或组织改革事实。
-2. **必须补齐上下文后再判断。可信度：高。** 正式研究需要还原主体、时间线、改革动作、员工影响、薪酬/激励承接和争议信息，否则只是信息堆叠。
-3. **宁可标注缺口，也不输出空泛总结。可信度：高。** 兜底自动化的价值是提醒缺口与触发重跑，不是生成看似完整但不可追溯的报告。
-
-## 今日背景材料
-
-- 来源池中 IBM、Microsoft、Deloitte、McKinsey、Mercer、EY、Payscale 等材料仍可作为后续研究入口，但今日未完成逐条复核，暂不形成结论。
-- 继续关注 岗位与工作流重设计、智能体治理、基于技能的薪酬 和 薪酬带宽 等方向，但必须用当日新证据验证。
-- 当前最重要的缺口不是“缺文字”，而是缺新增事实、证据解释、反例、落地细节和可追溯来源之间的逻辑链。
-
-## 今日新增证据地图
-
-| 渠道 | 当前状态 | 必须补齐 |
+| 关键问题 | 今日答案 | 管理含义 |
 |---|---|---|
-| 官方/一手 | 待检索 | 公司公告、IR/SEC、官方博客、制度手册、招聘页原文 |
-| 权威媒体与案例 | 待检索 | Reuters/FT/WSJ/咨询报告中的事实、时间线、争议 |
-| 社媒/职场平台 | 待检索 | 只收线索，不当结论；记录关键词和待验证方向 |
-| 招聘 JD 与薪酬 | 待检索 | 头衔、职责、薪资区间、职级、地区、个人贡献者/管理者 边界 |
+| 是否应取消固定晋升窗口？ | 没有新证据支持 | 连续取证和即时回报可以快，永久职级仍需跨团队校准 |
+| 技能认证和AI使用能否直接触发晋升？ | 不能；本窗口完整制度为0 | 认证只作证据入口，必须接真实任务、质量、判断与持续责任 |
+| 如何避免“等窗口”打击员工？ | 项目奖、津贴、调休、学习资源和机会可即时决定 | 不让一次晋升承担所有奖励和市场定价需求 |
+| AI贡献怎样进入评审？ | 评价可归责结果与净负担，不评价调用量 | 最小数据、本人可见可改、申诉和收益分配是前提 |
 
-## 线索层
+**三句话收束：**第一，严格窗口内没有企业公开足以还原的晋升制度，不能用职业路径、公开薪带或培训结果替代。第二，HII 与 Apple 的当日/日期级材料恰好提醒：岗位内薪酬成长、市场加薪、内部流动和永久晋升是不同决策。第三，AI 贡献若只带来更多任务或更强监控，员工会少披露真实收益，晋升证据也会失真。
 
-- 追踪 FDE、AI 工作流负责人、智能体运营、AI 治理（AI governance）、基于技能的薪酬等头衔是否形成稳定 岗位族群。
-- 追踪中国公司是否用技能标签、稀缺系数、项目激励替代新增岗位序列。
-- 追踪“执行层角色变宽”与“核心专家能力深化”是否同时出现，而不是只看单向趋势。
+**管理层该问：**这次要解决的是项目贡献未被及时奖励、岗位价值已经持续变化、市场价格偏离，还是永久职级确实需要上移？员工是否获得同等关键项目、反馈和申诉机会？若拿掉 AI 标签，这组证据仍足以证明下一职级责任吗？
 
-## 待补齐的落地问题
+**不要误读：**“清晰职业路径”不等于公开晋升规则；“薪带内成长”不等于升职；培训后的自报晋升不是培训造成晋升；“加薪、奖金或晋升”的合并比例不能拆成单独晋升率；公开手册仍在线也不等于今天更新。
 
-正式重跑必须回答：AI 贡献如何进入晋升证据包、谁负责验证与质量、是否有校准机制、是否存在调岗降薪和劳动合规风险。
+**背景材料：**HII招聘语言、Apple日期级薪带与GitLab历史手册只用于区分项目奖励、岗位内调薪、内部流动和永久职级，均不作为今日晋升制度新增。
 
-## 来源索引
+**落地启发：**采用“连续取证、即时可逆回报、固定跨团队校准、窄口径例外”的四速机制，并让员工能查看、纠错和申诉进入高后果决策的证据；AI使用次数不得成为晋升硬门槛。
 
-- [IBM Think 2026 recap](https://www.ibm.com/think/news/think-2026-ai-recap)：智能体式 AI（agentic AI）规模化、Bob 工具、治理与生产率
-- [Microsoft Work Trend Index 2026](https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization)：人机协同能动性（human-agent agency）、运营模式重设计（operating model redesign）
-- [Deloitte：人机协同 AI 运营模式](https://www.deloitte.com/us/en/insights/topics/talent/operating-models-for-humans-ai-agents.html)：84% 的公司尚未围绕 AI 重新设计岗位；智能体运营模式
-- [McKinsey：AI 优先技术人才体系](https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/designing-an-end-to-end-technology-workforce-for-the-ai-first-era)：AI 优先技术人才、深度专家、产品/平台模式
-- [Mercer Global Talent Trends 2026](https://www.mercer.com/about/newsroom/mercer-s-global-talent-trends-2026-report/)：工作重设计、技能作为价值货币、人机协作
-- [EY Future of Pay 2026](https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/newsroom/2026/02/ey-future-of-pay-report-2026.pdf)：AI 技能溢价、基于技能的薪酬、退出条款（sunset clauses）
-- [Payscale 2026 薪酬最佳实践报告](https://www.payscale.com/press-releases/2026-compensation-best-practices-report)：AI 技能薪酬、薪酬公平
-- [CHRO Association 2026 Survey](https://www.chro.org/documents/d/guest/2026_chro_survey_key_findings_p)：中层阻力、CHRO 议题
-- [OD Intelligence Center 知识库](./knowledge/wiki/zhiyinlou-hr-thematic-index-2026-05-13.md)：AI+HR、薪酬福利、组织发展精读池
-- [微信公众号「AI组织进化论」](wechat:AI组织进化论)：国内垂直内容源；作为背景材料和线索源使用，拿到原文链接或多源互证后才能进入结论层
+## 2. 今日新增事实
+
+### 2.1 严格窗口内事实：HII 同时说职业路径与市场加薪，但没有公开晋升机制（L2）
+
+**事实。** HII 的 Ingalls Shipbuilding 于 2026-10-16 发布招聘活动公告；同源分发时间为 13:30 EDT，即北京时间 2026-10-17 01:30，严格落入本窗口。公告称活动覆盖入门、半熟练和熟练申请者，公司提供培训机会、长期职业路径、周薪、面向熟练技工的市场驱动加薪及福利。[HII 原始公告](https://www.hii.com/news/ingalls-shipbuilding-to-host-on-site-hiring-event-october-24-for-all-skill-levels-1)｜[Yahoo/GlobeNewswire 时间镜像](https://finance.yahoo.com/small-business/articles/ingalls-shipbuilding-host-hiring-event-173000885.html)
+
+**事实边界。** 公告没有给出级别、晋升窗口、评价标准、提名与校准、窗口外例外、薪酬区间、申诉或运行结果。“市场驱动加薪”可能是岗位内调薪，不是晋升；“职业路径”是招募表述，不是可审计制度。因此它只能支持“薪酬、成长和晋升不能混写”，不能作为晋升案例。
+
+### 2.2 日期级招聘信号：Apple 明确薪带内可成长，但没有说明晋升触发（L1）
+
+**事实。** Apple 美国招聘搜索页在本轮抓取时将 `Data Scientist - Intelligent Experiences, MLO` 标为 2026-10-17。职位公布库比蒂诺基本工资区间 150,400—277,600 美元，并说明基本工资会依技能、资格、经验与地点确定，薪带提供员工“在岗位内成长发展”的空间。[Apple 官方岗位](https://jobs.apple.com/en-us/details/200687787-0836/data-scientist-intelligent-experiences-mlo?team=MLAI)｜[美国职位搜索页](https://jobs.apple.com/en-us/search?location=united-states-USA)
+
+**事实。** 同一搜索池中的 `Engineering Leader, AI Safety Engineering & Evaluation` 页面公开基本工资区间 237,600—401,700 美元，并要求负责人管理人员、资源、绩效和交付；页面没有个人晋升、校准或薪酬变动规则。[Apple AI安全评估负责人岗位](https://jobs.apple.com/en-us/details/200689831-0836/engineering-leader-ai-safety-engineering-evaluation-apple-services-engineering?team=SFTWR)
+
+**时间与解释边界。** 职位详情页无小时和版本史，无法确认首次公开严格落窗，故降为 L1。不同岗位的薪带差异受地点、层级、管理范围和岗位价值影响，不能推断 AI 溢价；薪带内成长也不能解释为即时晋升或技能自动定薪。
+
+### 2.3 今日复核纠错：GitLab 的公开晋升手册不是 2026-10-17 新制度（历史 L3 基线）
+
+**事实。** AnySearch 命中 GitLab 的 `Promotions and Transfers` 手册源文件；继续读取仓库历史后，页面显示该文件最近列出的提交为 2024-01-26，而非本窗口更新。手册包含半年两次校准、晋升文档、业务需要、同行提问、不同层级人才校准、窗口外例外和薪酬审批等完整机制。[GitLab 手册](https://handbook.gitlab.com/handbook/people-group/promotions-transfers/)｜[GitLab 源文件与提交记录](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/30a81d3af79026e77ec095506a3094277e9270bf/content/handbook/people-group/promotions-transfers.md)
+
+**解释边界。** 这是高价值历史制度基线，但不能计为今日新增，也不能证明当前仍按所有旧参数运行。它可用于检验今天的机制建议，不可用于宣称 GitLab 在 2026 年新改了制度。
+
+### 2.4 窗口外口径继续有效，但不重复计新增
+
+- **Skillsoft（前一窗口）**：2,000 名受访者自报“建立一项新技能后”的职业结果，管理者比个人贡献者更常报告加薪/奖金、晋升和内部岗位；非概率、横截面、非 AI 专项，不能推因果。[报告与方法](https://www.skillsoft.com/workforce-readiness-report-execution-gap-edition)
+- **Selby Jennings / Reuters（窗口外）**：原始样本是 500 名美国金融业 HR 专业人士，不是 500 家公司或高管；25% 是加薪、奖金或晋升的合并项，没有公开具体企业、权重、申诉与结果。[原始报告](https://www.selbyjennings.com/insights/ai-talent-pulse-report/)｜[Reuters 报道](https://www.reuters.com/business/finance/wall-street-firms-tie-bonuses-promotions-ai-skills-survey-finds-2026-10-14/)
+
+### 2.5 十个制度维度的当日新增计数
+
+| 维度 | 完整制度新增 | 运行后效新增 | 今天能确认什么 |
+|---|---:|---:|---|
+| 固定晋升窗口 | 0 | 0 | GitLab 仅为历史基线 |
+| 即时/窗口外晋升 | 0 | 0 | 无新资格、审批链或复核数据 |
+| 项目制晋升/奖励 | 0 | 0 | 无项目奖与永久职级比较结果 |
+| 岗位价值变化触发 | 0 | 0 | Apple岗位价值/薪带不等于触发规则 |
+| 能力认证/技能徽章 | 0 | 0 | 无徽章进入晋升的企业制度 |
+| AI贡献度评估 | 0 | 0 | 无权重、验证、偏差或申诉规则 |
+| 同行评审 | 0 | 0 | GitLab只作历史机制参考 |
+| 人才委员会 | 0 | 0 | 无本窗口委员会章程或决策样本 |
+| 薪酬校准 | 0 | 0 | HII/Apple只有价格表述，没有校准过程 |
+| 绩效—晋升耦合/解耦 | 0 | 0 | 无新增完整规则与比较效果 |
+
+## 3. 今日核心判断
+
+### 判断一：没有证据支持“取消固定窗口”，更稳妥的是四只时钟
+
+- **可信度：中高；今日制度新增为0，主要由历史制度基线支撑。**
+- **证据基础：** GitLab 历史手册把多数永久晋升放入半年校准，同时保留开放岗位流动和窗口外例外；今天没有出现证明即时永久晋升更公平或更有效的新机制。
+- **为什么重要：**贡献等半年才得到任何回报会损害信任，但永久职级随单项目即时改变又会放大曝光度、主管偏好和短期结果。证据、奖励、职级和例外需要不同节奏。
+
+### 判断二：岗位内调薪、项目奖励、内部流动和永久晋升必须分开
+
+- **可信度：高。**
+- **证据基础：** HII 同时使用市场加薪与职业路径表述，却未把它们等同；Apple 明确薪带内成长；GitLab 历史手册把同岗晋升、开放岗位流动和薪酬审批分开。
+- **为什么重要：**市场偏离可以调薪，阶段成果可以给奖金或调休，换岗应通过岗位机会，只有持续承担更高层级责任才改变永久职级。混成一个分数会造成头衔通胀和薪酬不透明。
+
+### 判断三：能力认证与技能徽章不能成为自动晋升门槛
+
+- **可信度：高（治理判断）；当日成效证据为0。**
+- **证据基础：** 本窗口没有徽章晋升制度；前一窗口 Skillsoft 只显示技能形成后的自报关联，未记录具体证书、岗位机会和控制变量。
+- **为什么重要：**认证可说明完成了某次评估，不能证明能在真实环境持续处理更复杂责任。徽章还会受课程可及性、工具权限、时间和经理支持影响，直接用于晋升会把机会差异误记为能力差异。
+
+### 判断四：AI贡献应进入证据包，不应变成独立“AI分数”
+
+- **可信度：中高。**
+- **证据基础：** Selby 的合并指标缺权重与机制，今天也没有补出具体企业制度；内部“人—AI—系统”指标框架要求把问题定义、人工判断、质量、风险与净工作量一起评估。
+- **为什么重要：**提示词数、在线时长、调用量和模型自报节时都容易被刷，也受岗位与权限影响。晋升应看更大责任是否持续、结果是否可归责、风险是否被控制，以及团队是否被赋能。
+
+### 判断五：机会公平、纠错与收益分配比“更聪明的评分模型”更优先
+
+- **可信度：高（治理判断），当日企业后效为0。**
+- **证据基础：** Skillsoft 的角色差异提示训练后的兑现机会不均等；今天没有任何制度公开项目分配分母、员工纠错或收益分配结果。
+- **为什么重要：**若一部分人更容易获得关键项目、导师和可见成果，再准确的评分也只会复制机会差异。员工必须先从工具中获得减负、成长或回报，组织才可能得到可信的工作证据。
+
+## 4. 重点案例事实还原：GitLab 历史制度基线与今日复核
+
+> 本节是**窗口外历史制度**，用于拆解机制，不计今日新增。今日新增是“复核其源文件未在本窗口更新”的证据卫生结论。
+
+| 机制 | GitLab 历史做法 | 可借鉴点 | 不可照搬/待核 |
+|---|---|---|---|
+| 固定窗口 | 多数晋升半年两次，分规划、校准、处理 | 把跨团队一致性、预算和沟通纳入同一周期 | 旧时间表不能代表2026仍按原参数运行 |
+| 晋升证据 | 同岗晋升需晋升文档，写业务结果、价值观、业务需要与准备度 | 用少量高质量结果而非活动量堆材料 | 文档负担和曝光偏差需员工侧验证 |
+| 同行评审 | 校准会议允许同行提问、挑战与跨职能反馈 | 防止直属经理一人决定 | 评审人结构、利益冲突和反馈质量仍需核验 |
+| 人才委员会 | 不同层级在部门、事业部或高管层校准 | 高阶晋升先审角色需要，再审人 | 权力更集中不自动更公平 |
+| 窗口外晋升 | 例外需晋升文档、例外理由及多方审批 | 例外比常规路径更透明，而不是更随意 | 缺公开的例外率与群体差异后效 |
+| 岗位价值触发 | 要同时证明个人准备度和业务需要；高阶使用范围工具审角色 | 晋升不是只奖励过去成绩 | “业务需要”可能被预算或主管偏好滥用，需申诉 |
+| 薪酬校准 | Total Rewards、FP&A 和业务共同处理预算；历史目标涨幅有范围 | 薪酬与职级联动但有独立审批 | 历史百分比不能直接套用其他公司/年份 |
+| 内部流动 | 不同岗位通常走公开职位和招聘流程 | 保护所有员工获得机会 | 内部申请是否真正无惩罚、是否有隐性推荐门槛待核 |
+| 绩效与晋升 | 以已持续表现的下一层级责任为证据，同时要求岗位需要 | 高绩效不自动等于升职 | 需防止员工长期无偿“先做高级工作” |
+
+### 事实、判断与行动分离
+
+- **事实：**公开手册写有上述机制；源文件页面显示最近列出的相关提交为 2024-01-26。
+- **判断：**固定窗口与窄口径例外可以并存，且永久职级、内部流动和薪酬不是同一决定。
+- **行动：**借鉴结构，不照抄周期、涨幅或审批层级；先用本企业一轮真实校准验证员工负担、公平和申诉。
+
+## 5. Context 层：弱信号、反例与冲突信息
+
+1. **暂不形成结论，但提示我们关注……** HII 的职业路径与市场加薪同框出现，却没有晋升规则。这可能说明公司有更完整的内部体系，也可能只是招募语言；没有制度原件和员工路径前，不把“career pathways”翻译为晋升机制。
+2. **暂不形成结论，但提示我们关注……** Apple 的薪带说明员工可在岗位内成长，提示“成长不必都通过升职”；但没有实际调薪分布、时间和公平数据，不能判断薪带是否真的提供成长空间。
+3. **暂不形成结论，但提示我们关注……** GitLab 页面内容完整且可公开访问，容易被误判为当前更新；仓库历史却显示相关源文件最近列出的提交是2024年。制度研究必须核版本和时间，不能用页面可访问性替代新鲜度。
+4. **反例。** “随时识别就应随时晋升”能够减少等待，却可能让高曝光项目、强势经理和预算充足团队获得更多例外；“全部固定窗口”增强一致性，却可能让员工长期无偿承担高一级责任。更合理的是即时回报＋固定职级校准＋可审计例外。
+5. **冲突信息。** Selby/Reuters 提示 AI 技能已进入部分奖酬讨论，Payscale 历史调查又显示多数组织没有为 AI 技能给单独价格工具。口径、行业和样本不同，不能合并成趋势比例；它们共同说明“讨论 AI”远快于可审计制度成熟。
+6. **员工边界。** 发展辅导数据、练习记录和私人提示词不得未经说明转为晋升或淘汰证据；AI 推断标签必须显示来源、置信边界和纠错入口。若员工拒绝提供未授权个人数据，不应因此被评为“AI能力低”。
+
+## 6. 证据地图
+
+| 渠道 | 今日材料 | 等级 | 支持什么 | 不支持什么 |
+|---|---|---:|---|---|
+| 官方/一手 | HII公告、Apple招聘页、GitLab源文件 | HII L2事实；Apple L1招聘；GitLab历史L3制度 | 区分职业路径、岗位内成长、历史晋升制度 | 当日完整晋升制度或成效 |
+| 权威媒体/咨询 | Yahoo/GlobeNewswire时间镜像；Reuters窗口外报道 | L1时间佐证；Reuters历史L2媒体 | 锚定HII时点；校正Selby传播口径 | 独立成效互证 |
+| 公司案例/制度 | 本窗口完整制度新增0 | 零结果 | 保持不夸大 | 不用职业页面冒充制度 |
+| 学术/专业研究 | 严格窗口直接新增0 | 零结果 | — | 不建立因果 |
+| 招聘/薪酬 | Apple薪带、HII市场加薪表述 | L1 | 岗位内价格与成长线索 | 实际晋升率、AI溢价、薪酬公平 |
+| 社媒/职场平台 | 高质量可核实名员工材料新增0 | 零结果 | 仅形成待验证问题 | 不以匿名体验推制度 |
+| 内部信息库/知识库 | 10月15—17日daily、近两日专题、可审计证据、人机指标、机会用途边界 | 连续性与去重 | 校准四只时钟、三决策与员工治理 | 不作为外部独立互证 |
+
+## 7. 对我们行动的启发
+
+### 7.1 用“四只时钟”代替二选一
+
+1. **持续取证**：在授权工作中自然沉淀任务范围、难度、质量、判断、协作与复盘；不新增每日汇报。
+2. **即时回报**：项目里程碑后 1—2 周内决定奖金、调休、津贴、表扬、学习资源和下一个项目选择权；不自动改永久职级。
+3. **固定校准**：季度或半年度由跨团队人才委员会决定永久职级，比较持续责任、业务需要和群体公平。
+4. **窄口径例外**：只有岗位价值正式变化、持续承担高一级责任且等待会造成明显不公时窗口外晋升；业务、HR、薪酬共同签字，下一轮复核。
+
+### 7.2 十个维度的最小设计
+
+| 维度 | 建议设计 | 必须防止 |
+|---|---|---|
+| 固定窗口 | 统一证据截止、跨团队校准和沟通生效日 | 一年只在窗口前临时辅导 |
+| 即时晋升 | 只作窄口径例外，公开资格和复核 | 强势经理把例外变常规 |
+| 项目制 | 即时项目奖与机会，不用单项目直接定永久职级 | 高曝光项目垄断晋升证据 |
+| 岗位价值触发 | 先重评岗位范围、权限和持续期，再评人 | 用个人优秀掩盖岗位并不存在 |
+| 认证/徽章 | 真实任务验证、有效期、复证、本人纠错 | 课程签到和工具调用成为门槛 |
+| AI贡献 | 看问题定义、核验、质量、风险、团队赋能与净负担 | 数提示词、在线时长、模型自报节时 |
+| 同行评审 | 选直接合作且无利益冲突者，记录异议 | 人气投票、同温层互相背书 |
+| 人才委员会 | 跨业务/HR/薪酬校准，审机会分母和群体差异 | 黑箱否决、无理由记录 |
+| 薪酬校准 | 同岗同级同地区市场、公平与预算分开审 | 用升职绕过市场调薪 |
+| 绩效耦合/解耦 | 共享事实但分开裁决当前绩效、下一职级、市场价格 | 一个总分决定奖惩升降全部结果 |
+
+### 7.3 “三张决策单”共享事实、分开裁决
+
+- **绩效单**：当前岗位目标、质量、客户/业务结果、风险与协作。
+- **晋升单**：是否持续承担下一职级范围，是否跨场景复现，组织是否需要该岗位价值。
+- **薪酬单**：内部公平、外部市场、稀缺、留任与预算。
+
+高绩效可以不升职，市场调薪可以不改头衔，永久晋升也不能只凭一次项目。三张单允许引用同一事实，但阈值、评审人和结果不同。
+
+### 7.4 人本治理是数据进入晋升的前置条件
+
+- **员工先获益**：AI 工具先减少返工、重复汇报、无效会议或可避免加班，或提供更好的反馈和成长机会；不能只有组织看板受益。
+- **最小数据**：只使用完成已授权工作自然产生的必要证据；不采私聊、个人知识库、键鼠、屏幕或提示词全文。
+- **用途分离**：学习练习和求助记录默认用于支持，不自动进入薪酬、晋升或淘汰。
+- **本人可见与纠错**：员工可查看进入评审的事实、补充反证、纠正错误归因，并由原主管之外的人复核申诉。
+- **机会分母**：比较“有资格者中谁获得关键项目、提名、晋升和调薪”，不只比较全员晋升率。
+- **净负担**：把填报、复核、会议、AI质量检查和被追加工作计入成本；省一小时又加一小时任务不叫减负。
+- **收益分配**：明确节省时间用于调休、学习、奖金、客户价值、更多任务还是减编；只让组织获益会损害披露真实性。
+
+### 7.5 一个可逆的单周期试点
+
+1. 选两个职责相近团队，在既有项目记录中构建可审计证据包，不增加员工日报。
+2. 项目结束先发即时回报，永久职级留到同一校准窗口。
+3. 人才委员会同时审候选人证据和机会分母，检查谁没得到证明机会。
+4. 允许员工查看、纠错与申诉；记录处理时长和改判原因。
+5. 只比较过程公平、证据质量、员工净负担与申诉可用性，不用小样本晋升率宣称制度优越。
+
+## 8. 待验证清单与下一步搜索路径
+
+1. **P0｜窗口外晋升**：寻找企业原文中的资格、例外率、审批链、预算、群体差异与下一窗口复核。查询词：`out-of-cycle promotion policy exception approval compensation review employee appeal`。
+2. **P0｜岗位价值触发**：核持续承担更高职责的最低周期、岗位重评与临时代理费，防止长期无偿试岗。查询词：`acting role allowance sustained higher duties promotion job re-evaluation policy`。
+3. **P0｜AI贡献评分**：只有具名企业公开权重、人工复核、偏差测试、员工查看/申诉和运行结果才升级。查询词：`AI contribution performance review promotion rubric employee appeal privacy company policy`。
+4. **P0｜同行与委员会**：核评审人选择、利益冲突、异议记录、否决理由、校准分母和改判。查询词：`promotion committee peer review calibration conflict of interest appeal`。
+5. **P1｜徽章效度**：找同岗基线下徽章与真实任务、内部流动、调薪/晋升的纵向数据，排除课程可及性与主管赞助。查询词：`digital badge internal mobility promotion longitudinal employer study`。
+6. **P1｜薪酬校准**：分别找岗位内调薪、市场修正、项目奖励和晋升涨薪的政策，不再采用合并比例。查询词：`promotion compensation calibration market adjustment project bonus policy`。
+7. **P1｜HII与Apple补证**：核职业路径/薪带的具体等级、实际变动和员工体验；职位刷新不计制度变化。
+8. **P2｜中国企业制度**：搜索“晋升窗口/破格晋升/人才委员会/校准/项目奖/技能认证/申诉＋企业名”，只收制度原件或具名运行案例。
+9. **停止条件**：同一线索两轮仍只有招聘语言、厂商调查或二手转载，即降级 Context，不用格式制造结论。
+
+## 9. 来源索引
+
+### 9.1 严格窗口内来源
+
+1. HII, [Ingalls Shipbuilding to Host On-Site Hiring Event October 24 for All Skill Levels](https://www.hii.com/news/ingalls-shipbuilding-to-host-on-site-hiring-event-october-24-for-all-skill-levels-1)，官方日期 2026-10-16；**L2 一手事实**，不含晋升制度。
+2. Yahoo Finance / GlobeNewswire, [同源时间镜像](https://finance.yahoo.com/small-business/articles/ingalls-shipbuilding-host-hiring-event-173000885.html)，2026-10-16 13:30 EDT / 北京时间 2026-10-17 01:30；**L1 时间锚点**，非独立互证。
+
+### 9.2 日期级招聘与历史制度背景
+
+3. Apple, [Data Scientist - Intelligent Experiences, MLO](https://jobs.apple.com/en-us/details/200687787-0836/data-scientist-intelligent-experiences-mlo?team=MLAI)，搜索页显示 2026-10-17、小时未核；**L1 招聘/薪带信号**。
+4. Apple, [Engineering Leader, AI Safety Engineering & Evaluation](https://jobs.apple.com/en-us/details/200689831-0836/engineering-leader-ai-safety-engineering-evaluation-apple-services-engineering?team=SFTWR)，搜索页显示 2026-10-16、小时未核；**L1 招聘信号**。
+5. GitLab, [Promotions and Transfers Handbook](https://handbook.gitlab.com/handbook/people-group/promotions-transfers/)；**历史 L3 公司制度基线**。
+6. GitLab, [源文件与提交记录](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/30a81d3af79026e77ec095506a3094277e9270bf/content/handbook/people-group/promotions-transfers.md)，页面显示最近列出的相关提交为 2024-01-26；**版本边界证据**。
+7. Skillsoft, [Workforce Readiness Report: The Execution Gap Edition](https://www.skillsoft.com/workforce-readiness-report-execution-gap-edition)，2026-10-15；**窗口外 L2 自报调查**。
+8. Selby Jennings, [AI Talent Pulse Report](https://www.selbyjennings.com/insights/ai-talent-pulse-report/)，调查期 2026-08-19—08-26；**窗口外 L2 HR 自报调查**。
+9. Reuters, [Wall Street firms tie bonuses, promotions to AI skills, survey finds](https://www.reuters.com/business/finance/wall-street-firms-tie-bonuses-promotions-ai-skills-survey-finds-2026-10-14/)，2026-10-14；**窗口外 L2 二手报道，以原始方法校正**。
+
+### 9.3 内部知识源
+
+10. `specials/ai-org-talent-mechanism/research-protocol.md`、`operations/information-editorial-standard.md`：证据分层、反例与编辑边界。
+11. `daily/2026-10-17.md`、`daily-report/2026-10-17.md`、近两日专题四：同日信息去重与判断连续性。
+12. `knowledge/concepts/auditable-promotion-evidence.md`、`human-ai-performance-metrics.md`、`knowledge/wiki/gitlab-promotions-transfers-handbook.md`、`opportunity-evidence-purpose-2026-09-30.md`：可审计证据、人—AI—系统指标、历史制度与用途边界。
+
+### 9.4 AnySearch 查询词记录
+
+- `October 16 2026 promotion policy performance review skills badge compensation calibration official company`
+- `October 17 2026 employee promotion AI skills performance pay official announcement`
+- `2026年10月17日 晋升 制度 AI 绩效 薪酬 校准 公司`
+- `site:handbook.gitlab.com promotion calibration updated October 2026`
+- `after:2026-10-16 promotion performance review AI skills employee compensation survey 2026`
+- `October 16 2026 talent promotion review committee compensation official company policy`
+- `October 17 2026 skills credential promotion employee survey manager official report`
+- `site:newsroom.workday.com October 16 2026 performance promotion skills`
+
+**覆盖说明。** 本轮覆盖官方公司、公开制度源文件与版本史、招聘/薪酬、权威媒体、咨询/报告、中国日期检索、学术和社媒关键词。严格窗口内未取得完整晋升制度、运行后效、同行评审研究、可核实名员工材料或中国企业制度原件；明确报零，不以相邻材料和旧制度填补当日新增。
