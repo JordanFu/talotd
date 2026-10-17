@@ -1,12 +1,12 @@
 # 系统健康状态
 
-> 自动生成：2026-10-17T10:19:34.623Z
+> 自动生成：2026-10-17T13:48:55.108Z
 
 ## 一眼判断
 
 - 总体状态：❌ fail
 - 情报流状态：❌ fail
-- 专题研究状态：⚠️ warn
+- 专题研究状态：❌ fail
 - 知识库状态：❌ fail
 - 自动化状态：❌ fail
 - 一方链接状态：❌ fail
@@ -49,7 +49,7 @@
 - GitHub Actions 角色：fallback-only
 - GitHub Actions 定时数：4
 - 信息库链路：❌ fail
-- 专题链路：⚠️ warn
+- 专题链路：❌ fail
 - 知识库 lint 链路：✅ pass
 - 链接检查链路：❌ fail
 
@@ -67,11 +67,12 @@
 
 ## 当前问题
 
+- ❌ 一方内部链接存在断链：1 条；需先运行或修复链接检查。
 - ❌ 信息库当日交付未完成：quality-blocked
 - ❌ 一方链接或公开扫描桥接存在 fail
 - ⚠️ 最新日期“新增事实”少于 5 条：当前 4 条；已有缺口记录，首页应诚实显示可信新增不足。
 - ⚠️ external link not hard-checked in Phase 1
+- ⚠️ external link not hard-checked in Phase 1
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
 - ⚠️ external link not hard-checked in Phase 1
-- ⚠️ 专题研究状态为 warn
 - ⚠️ 专题待正式重跑 25 天

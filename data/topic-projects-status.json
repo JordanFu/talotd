@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-17T10:20:21.466Z",
+  "generatedAt": "2026-10-17T13:48:01.707Z",
   "module": "topic-projects",
   "project": {
     "id": "ai-org-talent-mechanism",
     "title": "AI时代组织与人才机制四课题研究",
     "root": "specials/ai-org-talent-mechanism"
   },
-  "qualityStatus": "warn",
+  "qualityStatus": "fail",
   "latestFormalDate": "2026-10-17",
   "latestAnyDate": "2026-10-17",
   "today": "2026-10-17",
@@ -7844,12 +7844,42 @@
       ]
     }
   ],
-  "brokenLinks": [],
+  "brokenLinks": [
+    {
+      "type": "public-scan",
+      "sourceFile": "data/info-feed-status.json",
+      "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-17.html",
+      "reason": "public scan bridge returned 404",
+      "status": 404
+    }
+  ],
   "links": {
-    "checkedAt": null,
-    "qualityStatus": "pending",
-    "firstPartyChecked": 0,
-    "externalWarnings": 0,
-    "brokenCount": 0
-  }
+    "checkedAt": "2026-10-17T13:48:54.316Z",
+    "qualityStatus": "fail",
+    "firstPartyChecked": 4650,
+    "externalWarnings": 26,
+    "brokenCount": 1,
+    "publicScanBridge": [
+      {
+        "ok": true,
+        "status": 200,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-16.html"
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "url": "https://jordanfu.github.io/org-intelligence-info/"
+      },
+      {
+        "ok": false,
+        "hardBroken": true,
+        "status": 404,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-17.html",
+        "reason": "public scan bridge returned 404"
+      }
+    ]
+  },
+  "warnings": [
+    "external link not hard-checked in Phase 1"
+  ]
 }
