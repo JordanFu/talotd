@@ -7850,10 +7850,10 @@
   ],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-16T17:37:55.633Z",
+    "checkedAt": "2026-10-17T02:04:56.537Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 4649,
-    "externalWarnings": 24,
+    "firstPartyChecked": 4657,
+    "externalWarnings": 26,
     "brokenCount": 0,
     "publicScanBridge": [
       {

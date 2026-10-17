@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-16T17:36:49.441Z",
+  "generatedAt": "2026-10-17T02:04:23.916Z",
   "module": "info-feed",
   "qualityStatus": "warn",
-  "latestDate": "2026-10-16",
+  "latestDate": "2026-10-17",
   "latestCardCount": 10,
-  "newFactCount": 6,
-  "contextCount": 1,
+  "newFactCount": 4,
+  "contextCount": 3,
   "weakSignalCount": 2,
   "gapRecordCount": 1,
   "sourceCount": 10,
   "channelCoverage": [
     "报告学术",
-    "媒体",
     "官方",
+    "媒体",
     "JD薪酬",
     "社媒公众号"
   ],
@@ -20,7 +20,7 @@
     "L2": 6,
     "L1": 4
   },
-  "subtopicConcentration": 0.4,
+  "subtopicConcentration": 0.3,
   "privateSignalRatio": 0,
   "fieldCompleteness": {
     "requiredFieldMissingCount": 0,
@@ -28,42 +28,42 @@
   },
   "sourceUrlMissingCount": 0,
   "latest": {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "cardCount": 10,
     "nonGapCardCount": 9,
-    "newFactCount": 6,
-    "oldLineReviewCount": 1,
-    "contextCount": 1,
+    "newFactCount": 4,
+    "oldLineReviewCount": 3,
+    "contextCount": 3,
     "weakSignalCount": 2,
     "gapCount": 1,
     "gapRecordCount": 1,
     "sourcePlatformCount": 10,
-    "sourceUrlCount": 11,
+    "sourceUrlCount": 12,
     "channelTypeCount": 5,
     "channelTypes": [
       "报告学术",
-      "媒体",
       "官方",
+      "媒体",
       "JD薪酬",
       "社媒公众号"
     ],
     "infoTypeDistribution": {
-      "新增事实": 6,
-      "旧线复核": 1,
+      "旧线复核": 3,
+      "新增事实": 4,
       "弱信号": 2,
       "缺口记录": 1
     },
     "channelTypeDistribution": {
-      "报告学术": 5,
+      "报告学术": 2,
+      "官方": 4,
       "媒体": 1,
-      "官方": 1,
       "JD薪酬": 1,
       "社媒公众号": 2
     },
     "channelCoverage": {
-      "报告学术": 5,
+      "报告学术": 2,
+      "官方": 4,
       "媒体": 1,
-      "官方": 1,
       "JD薪酬": 1,
       "社媒公众号": 2
     },
@@ -76,13 +76,12 @@
       "L1": 4
     },
     "subtopicDistribution": {
-      "AI治理与安全": 4,
-      "人才密度与流动": 1,
-      "其他": 2,
-      "AI交付与部署": 2,
-      "岗位与职业架构": 1
+      "组织层级与管理": 3,
+      "AI治理与安全": 3,
+      "其他": 1,
+      "岗位与职业架构": 3
     },
-    "subtopicConcentration": 0.4,
+    "subtopicConcentration": 0.3,
     "privateSignalRatio": 0,
     "sourceUrlMissingItemIds": [],
     "sourceUrlMissingCount": 0,
@@ -98,6 +97,52 @@
     "hasValidGapRecord": true
   },
   "recentDays": [
+    {
+      "date": "2026-10-17",
+      "cardCount": 10,
+      "nonGapCardCount": 9,
+      "newFactCount": 4,
+      "contextCount": 3,
+      "weakSignalCount": 2,
+      "gapRecordCount": 1,
+      "sourcePlatformCount": 10,
+      "sourceUrlCount": 12,
+      "sourceUrlMissingCount": 0,
+      "channelTypeCount": 5,
+      "channelTypes": [
+        "报告学术",
+        "官方",
+        "媒体",
+        "JD薪酬",
+        "社媒公众号"
+      ],
+      "channelCoverage": {
+        "报告学术": 2,
+        "官方": 4,
+        "媒体": 1,
+        "JD薪酬": 1,
+        "社媒公众号": 2
+      },
+      "confidenceDistribution": {
+        "L2": 6,
+        "L1": 4
+      },
+      "subtopicDistribution": {
+        "组织层级与管理": 3,
+        "AI治理与安全": 3,
+        "其他": 1,
+        "岗位与职业架构": 3
+      },
+      "subtopicConcentration": 0.3,
+      "privateSignalRatio": 0,
+      "fieldCompleteness": {
+        "requiredFieldMissingCount": 0,
+        "missingFields": []
+      },
+      "qualityIssues": [
+        "新增事实少于 5 条，已有缺口记录"
+      ]
+    },
     {
       "date": "2026-10-16",
       "cardCount": 10,
@@ -365,64 +410,18 @@
       "qualityIssues": [
         "新增事实少于 5 条，已有缺口记录"
       ]
-    },
-    {
-      "date": "2026-10-10",
-      "cardCount": 8,
-      "nonGapCardCount": 7,
-      "newFactCount": 3,
-      "contextCount": 3,
-      "weakSignalCount": 1,
-      "gapRecordCount": 1,
-      "sourcePlatformCount": 8,
-      "sourceUrlCount": 10,
-      "sourceUrlMissingCount": 0,
-      "channelTypeCount": 5,
-      "channelTypes": [
-        "官方",
-        "报告学术",
-        "媒体",
-        "社媒公众号",
-        "JD薪酬"
-      ],
-      "channelCoverage": {
-        "官方": 1,
-        "报告学术": 2,
-        "媒体": 2,
-        "社媒公众号": 2,
-        "JD薪酬": 1
-      },
-      "confidenceDistribution": {
-        "L2": 5,
-        "L1": 3
-      },
-      "subtopicDistribution": {
-        "AI治理与安全": 2,
-        "人才密度与流动": 3,
-        "岗位与职业架构": 2,
-        "其他": 1
-      },
-      "subtopicConcentration": 0.375,
-      "privateSignalRatio": 0,
-      "fieldCompleteness": {
-        "requiredFieldMissingCount": 0,
-        "missingFields": []
-      },
-      "qualityIssues": [
-        "新增事实少于 5 条，已有缺口记录"
-      ]
     }
   ],
   "totals": {
-    "days": 182,
-    "cards": 1807,
-    "platforms": 1025,
-    "dailyFiles": 175,
-    "dailyReportFiles": 179,
+    "days": 183,
+    "cards": 1817,
+    "platforms": 1033,
+    "dailyFiles": 176,
+    "dailyReportFiles": 180,
     "weeklyFiles": 1
   },
   "homepageBridge": {
-    "digestLatestDate": "2026-10-16",
+    "digestLatestDate": "2026-10-17",
     "latestScanDate": "2026-10-16",
     "freshnessStatus": "pass",
     "ageDays": 1,
@@ -433,6 +432,16 @@
     "status": "pending-link-check"
   },
   "trustStats": {
+    "较高；商业培训方自有研究，有产品利益": 1,
+    "高；公司阶段结果自述，未独立审计": 1,
+    "较高；具名双侧采访，非独立经营评估": 1,
+    "高；公司投入与计划披露": 1,
+    "高；合作双方公开说明，同一合作而非两次独立验证": 1,
+    "较高；直接采访，完整方法报告未取得": 1,
+    "高；供应商原文，商业效果需独立验证": 1,
+    "高；招聘条件，不是已在岗表现": 1,
+    "低；身份、公司数据与用工后果未验证": 1,
+    "过程记录，不代表全网穷尽": 1,
     "较高；咨询方原始调查发布，有福利咨询业务利益": 1,
     "高；研究者所在机构，论文全文入口本轮未取得": 1,
     "较高；委托Researchscape调查，有招聘服务业务利益": 1,
@@ -576,15 +585,16 @@
     "time": 24
   },
   "warnings": [
+    "最新日期“新增事实”少于 5 条：当前 4 条；已有缺口记录，首页应诚实显示可信新增不足。",
     "external link not hard-checked in Phase 1"
   ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-16T17:37:55.633Z",
+    "checkedAt": "2026-10-17T02:04:56.537Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 4649,
-    "externalWarnings": 24,
+    "firstPartyChecked": 4657,
+    "externalWarnings": 26,
     "brokenCount": 0,
     "publicScanBridge": [
       {
