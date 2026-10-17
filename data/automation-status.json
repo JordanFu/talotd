@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T07:56:29.796Z",
+  "generatedAt": "2026-10-17T10:20:21.520Z",
   "module": "automation",
   "qualityStatus": "fail",
   "chains": {
@@ -30,10 +30,10 @@
       "runUrl": "https://github.com/JordanFu/talotd/actions/runs/39015485392"
     },
     "topicProjects": {
-      "qualityStatus": "fail",
+      "qualityStatus": "warn",
       "today": "2026-10-17",
-      "todayStatus": "scheduled",
-      "latestFormalDate": "2026-10-16",
+      "todayStatus": "formal",
+      "latestFormalDate": "2026-10-17",
       "pendingRerunDates": [
         "2026-10-12",
         "2026-09-16",
@@ -95,11 +95,12 @@
       "criticalIssues": []
     },
     "localFormalTask": {
-      "status": "scheduled",
+      "status": "confirmed-formal",
       "evidence": "仅根据 topic-projects manifest 判断；无法从云端伪造本地正式运行完成。"
     }
   },
   "warnings": [
+    "专题研究状态为 warn",
     "专题待正式重跑 25 天"
   ],
   "criticalIssues": [

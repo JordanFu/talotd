@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-17T05:50:07.811Z",
+  "generatedAt": "2026-10-17T10:20:21.466Z",
   "module": "topic-projects",
   "project": {
     "id": "ai-org-talent-mechanism",
     "title": "AI时代组织与人才机制四课题研究",
     "root": "specials/ai-org-talent-mechanism"
   },
-  "qualityStatus": "fail",
-  "latestFormalDate": "2026-10-16",
+  "qualityStatus": "warn",
+  "latestFormalDate": "2026-10-17",
   "latestAnyDate": "2026-10-17",
   "today": "2026-10-17",
-  "todayStatus": "scheduled",
-  "latestStatus": "scheduled",
+  "todayStatus": "formal",
+  "latestStatus": "formal",
   "pendingRerunDates": [
     "2026-10-12",
     "2026-09-16",
@@ -40,8 +40,7 @@
     "2026-05-13"
   ],
   "statusCounts": {
-    "scheduled": 1,
-    "formal": 132,
+    "formal": 133,
     "fallback": 25
   },
   "statusDefinitions": {
@@ -54,8 +53,8 @@
   "dates": [
     {
       "date": "2026-10-17",
-      "status": "scheduled",
-      "isFormal": false,
+      "status": "formal",
+      "isFormal": true,
       "isFallback": false,
       "needsRerun": false,
       "overview": "specials/ai-org-talent-mechanism/2026-10-17/00-overview.html",
@@ -97,12 +96,9 @@
       "hasFormalEntry": true,
       "qualityGate": {
         "path": "specials/ai-org-talent-mechanism/quality/2026-10-17.md",
-        "status": "warn-or-unknown"
+        "status": "pass-or-warn"
       },
-      "qualityIssues": [
-        "正文包含兜底/非决策稿/待正式重跑关键词",
-        "未到今日 18:00 正式自动化运行时间；现有内容仅作状态记录"
-      ]
+      "qualityIssues": []
     },
     {
       "date": "2026-10-16",
@@ -7848,42 +7844,12 @@
       ]
     }
   ],
-  "brokenLinks": [
-    {
-      "type": "public-scan",
-      "sourceFile": "data/info-feed-status.json",
-      "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-17.html",
-      "reason": "public scan bridge returned 404",
-      "status": 404
-    }
-  ],
+  "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-17T05:51:14.439Z",
-    "qualityStatus": "fail",
-    "firstPartyChecked": 4650,
-    "externalWarnings": 26,
-    "brokenCount": 1,
-    "publicScanBridge": [
-      {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-16.html"
-      },
-      {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/"
-      },
-      {
-        "ok": false,
-        "hardBroken": true,
-        "status": 404,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-17.html",
-        "reason": "public scan bridge returned 404"
-      }
-    ]
-  },
-  "warnings": [
-    "external link not hard-checked in Phase 1"
-  ]
+    "checkedAt": null,
+    "qualityStatus": "pending",
+    "firstPartyChecked": 0,
+    "externalWarnings": 0,
+    "brokenCount": 0
+  }
 }
