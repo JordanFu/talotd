@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T13:48:55.062Z",
+  "generatedAt": "2026-10-17T16:36:06.366Z",
   "module": "automation",
   "qualityStatus": "fail",
   "chains": {
@@ -10,29 +10,32 @@
       "newFactCount": 4
     },
     "infoDelivery": {
-      "checkedAt": "2026-10-17T13:48:54.367Z",
+      "checkedAt": "2026-10-17T16:35:57.928Z",
       "module": "info-delivery",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "timezone": "Asia/Shanghai",
       "scheduledAt": "09:40",
       "deadline": "11:30",
-      "status": "quality-blocked",
-      "qualityStatus": "fail",
-      "cardCount": 10,
-      "gapRecordCount": 1,
-      "localReady": true,
+      "status": "scheduled",
+      "qualityStatus": "warn",
+      "cardCount": 0,
+      "gapRecordCount": 0,
+      "localReady": false,
       "publicVerified": false,
       "issues": [
-        "信息审计存在阻断项，不得作为成功交付"
+        "digest 未出现当日信息卡",
+        "当日 daily 或 daily-report 缺失日期/文件",
+        "当日导读正文缺失",
+        "信息库 manifest 日期或卡片数与当日产物不符"
       ],
       "remoteErrors": [],
       "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
-      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/39038019019"
+      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/39050009621"
     },
     "topicProjects": {
       "qualityStatus": "fail",
-      "today": "2026-10-17",
-      "todayStatus": "formal",
+      "today": "2026-10-18",
+      "todayStatus": "scheduled",
       "latestFormalDate": "2026-10-17",
       "pendingRerunDates": [
         "2026-10-12",
@@ -64,14 +67,14 @@
     },
     "knowledgeLint": {
       "qualityStatus": "pass",
-      "latestCatalogDate": "2026-10-17",
+      "latestCatalogDate": "2026-10-18",
       "reportCount": 208,
       "privatePathLeakCount": 0
     },
     "linkCheck": {
       "qualityStatus": "fail",
       "brokenCount": 1,
-      "checkedAt": "2026-10-17T13:48:54.316Z"
+      "checkedAt": "2026-10-17T16:35:57.889Z"
     },
     "githubActionsFallback": {
       "status": "pass",
@@ -95,15 +98,15 @@
       "criticalIssues": []
     },
     "localFormalTask": {
-      "status": "confirmed-formal",
+      "status": "scheduled",
       "evidence": "仅根据 topic-projects manifest 判断；无法从云端伪造本地正式运行完成。"
     }
   },
   "warnings": [
+    "信息库交付待核验：scheduled",
     "专题待正式重跑 25 天"
   ],
   "criticalIssues": [
-    "信息库当日交付未完成：quality-blocked",
     "一方链接或公开扫描桥接存在 fail"
   ],
   "operatingRule": "GitHub Actions 只能兜底、审计和记录状态；正式研究完成只能由 formal 条件确认。"
