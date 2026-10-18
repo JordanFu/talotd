@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T01:55:34.901Z",
+  "generatedAt": "2026-10-18T06:16:46.417Z",
   "module": "knowledge-base",
   "qualityStatus": "warn",
   "latestCatalogDate": "2026-10-18",
@@ -9,11 +9,10 @@
     "sourceTypes": {
       "industry": 58,
       "internal": 28,
-      "media": 88,
+      "media": 89,
       "concept": 10,
       "public-safe-synthesis": 11,
-      "consulting": 17,
-      "academic": 1
+      "consulting": 17
     }
   },
   "privatePathLeaks": [],
@@ -103,15 +102,28 @@
     }
   ],
   "warnings": [
-    "knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。"
+    "knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。",
+    "external link not hard-checked in Phase 1"
   ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": null,
-    "qualityStatus": "pending",
-    "firstPartyChecked": 0,
-    "externalWarnings": 0,
-    "brokenCount": 0
+    "checkedAt": "2026-10-18T06:16:46.998Z",
+    "qualityStatus": "warn",
+    "firstPartyChecked": 4689,
+    "externalWarnings": 30,
+    "brokenCount": 0,
+    "publicScanBridge": [
+      {
+        "ok": true,
+        "status": 200,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-18.html"
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "url": "https://jordanfu.github.io/org-intelligence-info/"
+      }
+    ]
   }
 }
