@@ -1,18 +1,19 @@
 {
-  "generatedAt": "2026-10-17T16:35:57.426Z",
+  "generatedAt": "2026-10-18T01:55:34.901Z",
   "module": "knowledge-base",
-  "qualityStatus": "fail",
+  "qualityStatus": "warn",
   "latestCatalogDate": "2026-10-18",
   "counts": {
-    "reports": 208,
+    "reports": 213,
     "knowledgeSources": 4,
     "sourceTypes": {
+      "industry": 58,
       "internal": 28,
-      "industry": 55,
-      "media": 87,
+      "media": 88,
       "concept": 10,
       "public-safe-synthesis": 11,
-      "consulting": 17
+      "consulting": 17,
+      "academic": 1
     }
   },
   "privatePathLeaks": [],
@@ -102,43 +103,15 @@
     }
   ],
   "warnings": [
-    "knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。",
-    "external link not hard-checked in Phase 1"
+    "knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。"
   ],
   "criticalIssues": [],
-  "brokenLinks": [
-    {
-      "type": "public-scan",
-      "sourceFile": "data/info-feed-status.json",
-      "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-17.html",
-      "reason": "public scan bridge returned 404",
-      "status": 404
-    }
-  ],
+  "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-17T16:35:57.889Z",
-    "qualityStatus": "fail",
-    "firstPartyChecked": 4676,
-    "externalWarnings": 26,
-    "brokenCount": 1,
-    "publicScanBridge": [
-      {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-16.html"
-      },
-      {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/"
-      },
-      {
-        "ok": false,
-        "hardBroken": true,
-        "status": 404,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-17.html",
-        "reason": "public scan bridge returned 404"
-      }
-    ]
+    "checkedAt": null,
+    "qualityStatus": "pending",
+    "firstPartyChecked": 0,
+    "externalWarnings": 0,
+    "brokenCount": 0
   }
 }

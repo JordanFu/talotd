@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-17T16:36:06.366Z",
+  "generatedAt": "2026-10-18T01:55:34.955Z",
   "module": "automation",
-  "qualityStatus": "fail",
+  "qualityStatus": "warn",
   "chains": {
     "infoFeed": {
-      "qualityStatus": "fail",
-      "latestDate": "2026-10-17",
-      "latestCardCount": 10,
+      "qualityStatus": "warn",
+      "latestDate": "2026-10-18",
+      "latestCardCount": 9,
       "newFactCount": 4
     },
     "infoDelivery": {
@@ -33,7 +33,7 @@
       "runUrl": "https://github.com/JordanFu/talotd/actions/runs/39050009621"
     },
     "topicProjects": {
-      "qualityStatus": "fail",
+      "qualityStatus": "warn",
       "today": "2026-10-18",
       "todayStatus": "scheduled",
       "latestFormalDate": "2026-10-17",
@@ -68,13 +68,13 @@
     "knowledgeLint": {
       "qualityStatus": "pass",
       "latestCatalogDate": "2026-10-18",
-      "reportCount": 208,
+      "reportCount": 213,
       "privatePathLeakCount": 0
     },
     "linkCheck": {
-      "qualityStatus": "fail",
-      "brokenCount": 1,
-      "checkedAt": "2026-10-17T16:35:57.889Z"
+      "qualityStatus": "warn",
+      "brokenCount": 0,
+      "checkedAt": "2026-10-18T01:55:34.709Z"
     },
     "githubActionsFallback": {
       "status": "pass",
@@ -104,10 +104,10 @@
   },
   "warnings": [
     "信息库交付待核验：scheduled",
+    "信息库质量为 warn",
+    "专题研究状态为 warn",
     "专题待正式重跑 25 天"
   ],
-  "criticalIssues": [
-    "一方链接或公开扫描桥接存在 fail"
-  ],
+  "criticalIssues": [],
   "operatingRule": "GitHub Actions 只能兜底、审计和记录状态；正式研究完成只能由 formal 条件确认。"
 }

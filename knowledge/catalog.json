@@ -139,6 +139,60 @@
   ],
   "reports": [
     {
+      "id": "info-weekly-2026-W42-quick",
+      "title": "W42 信息库周报｜快速导读",
+      "summaryFile": "./daily/weekly-2026-W42.md",
+      "description": "覆盖10月12—18日晨间：工作接手、支持与机会、评价与报酬口径；保留因果及员工净收益边界。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
+      "date": "2026-10-18",
+      "uploadDate": "2026-10-18",
+      "tags": [
+        "信息库",
+        "周报",
+        "员工体验"
+      ],
+      "related": [
+        "./knowledge/wiki/hr-service-interfaces-2026-10-05.md"
+      ],
+      "backlinks": [
+        "./daily/2026-10-18.md",
+        "./daily-report/2026-10-18.md"
+      ]
+    },
+    {
+      "id": "info-weekly-2026-W42-detailed",
+      "title": "W42 信息库周报｜详细资料",
+      "summaryFile": "./daily-report/weekly-2026-W42.md",
+      "description": "跨行业案例、证据变化、冲突、66张卡片分类、下周小范围验证及方法缺口；非日报拼接。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
+      "date": "2026-10-18",
+      "uploadDate": "2026-10-18",
+      "tags": [
+        "信息库",
+        "周报",
+        "证据边界"
+      ],
+      "related": [
+        "./knowledge/wiki/hr-service-interfaces-2026-10-05.md"
+      ],
+      "backlinks": [
+        "./daily/2026-10-18.md",
+        "./daily-report/2026-10-18.md"
+      ]
+    },
+    {
       "id": "topic-monthly-2026-09-quick",
       "title": "9月四专题阶段性月报｜AI来了，工作到底该怎么改？（速读）",
       "summaryFile": "./specials/ai-org-talent-mechanism/monthly/2026-09-quick.md",
@@ -5667,6 +5721,80 @@
         "arxiv.org"
       ],
       "originalUrl": "https://arxiv.org/pdf/2609.32030.pdf"
+    },
+    {
+      "id": "p102",
+      "title": "Canaries August2026",
+      "originalTitle": "Canaries August2026",
+      "author": "digitaleconomy.stanford.edu",
+      "publisher": "digitaleconomy.stanford.edu",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-10-18",
+      "description": "Canaries August2026 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-digitaleconomy-stanford-edu-canaries-august2026.md",
+      "rawFile": "./knowledge/raw/digitaleconomy-stanford-edu-canaries-august2026.pdf",
+      "fileName": "digitaleconomy-stanford-edu-canaries-august2026.pdf",
+      "fileSize": "3390516 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "digitaleconomy.stanford.edu"
+      ],
+      "originalUrl": "https://digitaleconomy.stanford.edu/app/uploads/2026/08/Canaries_August2026.pdf"
+    },
+    {
+      "id": "p103",
+      "title": "Wharton GBK AI Adoption Report 2026",
+      "originalTitle": "Wharton GBK AI Adoption Report 2026",
+      "author": "Wharton / GBK Collective",
+      "publisher": "Wharton / GBK Collective",
+      "sourceType": "academic",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2026-10-13",
+      "uploadDate": "2026-10-18",
+      "description": "部分核读文件第7—8页方法与研究说明，非全篇精读。美国大型企业管理者和员工两组不配对；自报回报相关性不证明权限安排带来收益。",
+      "summaryFile": "./knowledge/wiki/pdf-source-knowledge-wharton-upenn-edu-wharton-gbk-ai-adoption-report-2026.md",
+      "rawFile": "./knowledge/raw/knowledge-wharton-upenn-edu-wharton-gbk-ai-adoption-report-2026.pdf",
+      "fileName": "knowledge-wharton-upenn-edu-wharton-gbk-ai-adoption-report-2026.pdf",
+      "fileSize": "2797550 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "knowledge.wharton.upenn.edu"
+      ],
+      "originalUrl": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/10/Wharton-GBK-AI-Adoption-Report-2026.pdf"
+    },
+    {
+      "id": "p104",
+      "title": "Employment at Anthropic",
+      "originalTitle": "Employment at Anthropic",
+      "author": "Anthropic",
+      "publisher": "Anthropic",
+      "sourceType": "industry",
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
+      "date": "2026-10-16",
+      "uploadDate": "2026-10-18",
+      "description": "部分核读方法与第6、12页图表，非全篇精读。工具运行和阅读量估计不等于员工实际工时；用于讨论验收、协调与新人培养，不证明因果或净减负。",
+      "summaryFile": "./knowledge/wiki/pdf-source-anthropic-employment-at-anthropic.md",
+      "rawFile": "./knowledge/raw/anthropic-employment-at-anthropic.pdf",
+      "fileName": "anthropic-employment-at-anthropic.pdf",
+      "fileSize": "2042091 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "人才发展",
+        "Anthropic"
+      ],
+      "originalUrl": "https://www-cdn.anthropic.com/72628f1863c53432195db83279252dfd2cb53158/Employment%20at%20Anthropic.pdf"
     }
   ]
 }
