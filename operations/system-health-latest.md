@@ -1,6 +1,6 @@
 # 系统健康状态
 
-> 自动生成：2026-10-18T10:42:23.313Z
+> 自动生成：2026-10-18T14:03:51.241Z
 
 ## 一眼判断
 
@@ -69,6 +69,7 @@
 
 - ✅ 无 P0 fail。
 - ⚠️ 最新日期“新增事实”少于 5 条：当前 4 条；已有缺口记录，首页应诚实显示可信新增不足。
+- ⚠️ external link not hard-checked in Phase 1
 - ⚠️ external link not hard-checked in Phase 1
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
 - ⚠️ external link not hard-checked in Phase 1
