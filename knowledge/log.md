@@ -1,5 +1,13 @@
 # 知识库操作日志
 
+## [2026-10-19] update | 信息库晨间采编与HR服务补充
+
+- 当日9卡：3条近期首次接收、3条旧线补读、2条弱信号、1条缺口；近24—48小时强新增有限，14、15日报告按补漏说明，不把制度生效日与报道日混用。
+- 更新既有HR服务知识页：工具预算、执行权限、真人接手与省时去向分开核。保留员工支持、授权与公平比较，不新增个人日志或私聊采集。
+- 公众号原文点击失败；Talent500完整方法、独立员工后效仍缺。基金“估值基线”触发旧线关键词提示，经原文核对仍为18日新方案；保留审计说明，不宣称质量恢复。
+- W42两版周报已于18日完成，本轮不改历史汇总和独立人力项目节奏专题。首页桥接核验为19日公开日报与主页；当日交付另看发布回执。
+- 必需PDF扫描97个公开来源：81份文件可用、16份失败；新增取得295页法院文件1份，未读条款。来源卡和目录已按实际下载状态更正，不将取得文件计作精读。
+
 ## [2026-10-19] review | 本地知识库定期 Review
 
 - 新增 `knowledge/wiki/local-knowledge-review-2026-10-19.md` 并登记到 index/catalog；健康度 83/100（warn）。
@@ -265,7 +273,7 @@
 
 ## [2026-10-19] ingest | 日报 PDF 证据源自动入库
 - 从 daily、daily-report、specials、analysis 中扫描 PDF URL，按知识库 Raw/Wiki/Catalog 规则自动建档。
-- 本次识别 97 个唯一 PDF 来源：80 个已下载原始 PDF，17 个保留 URL 与引用上下文待重试。
+- 本次识别 97 个唯一 PDF 来源：81 个已下载原始 PDF，16 个保留 URL 与引用上下文待重试。
 - 已下载：itb dia 6351 email 0（引用 4 次）
 - 已下载：itb lat dir ai 6454 web 0（引用 17 次）
 - 已下载：GoogleATLASv1（引用 7 次）
@@ -280,7 +288,7 @@
 - 已下载：2026 Work Trend Index Annual Report 050526 7 69fc5b1c4e265（引用 1 次）
 - 已下载：ca the health productivity gap aoda en.7ae5e913bd32（引用 1 次）
 - 已下载：UK Standard Skills Classification Development Report（引用 3 次）
-- 待重试：Character.AI / Disney：破产交易与过渡服务法院文件（引用 2 次）
+- 已下载：Character.AI / Disney：破产交易与过渡服务法院文件（引用 2 次）
 - 已下载：OpenAI Hugging Face Incident Technical Report（引用 1 次）
 - 已下载：the participation economy（引用 5 次）
 - 已下载：the ai jobs transition framework report（引用 3 次）

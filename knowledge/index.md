@@ -7,6 +7,8 @@
 
 ## 来源摘要（Wiki）
 
+- [HR服务与交付接口](wiki/hr-service-interfaces-2026-10-05.md)：10月19日补充工具预算、权限和节省时间的去向，区分员工感受、媒体制度线索及供应商愿景，不增加个人汇报负担。
+
 - [本地知识库定期 Review（2026-10-19）](wiki/local-knowledge-review-2026-10-19.md)：本周健康度 83/100；近期内容归位与公开入口健康，主要债务为 PDF 模板卡、来源类型、生命周期口径、10 月 12 日专题重跑和重复映射。
 
 - [W42信息库周报：快速导读](../daily/weekly-2026-W42.md) · [详细资料](../daily-report/weekly-2026-W42.md)：覆盖10月12—18日晨间，比较工作接手、学习支持、职业机会与报酬口径，保留方法与净收益缺口。
@@ -196,7 +198,7 @@
 | [2026 Work Trend Index Annual Report 050526 7 69fc5b1c4e265](wiki/pdf-source-assets-c4akfrf5b4d3f4b7-z01-azurefd-net-2026-work-trend-index-annual-report-050526-7-69fc5b1c4e2.md) | assets-c4akfrf5b4d3f4b7.z01.azurefd.net | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [ca the health productivity gap aoda en.7ae5e913bd32](wiki/pdf-source-assets-foleon-com-ca-the-health-productivity-gap-aoda-en-7ae5e913bd32.md) | assets.foleon.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [UK Standard Skills Classification Development Report](wiki/pdf-source-assets-publishing-service-gov-uk-uk-standard-skills-classification-development-report.md) | assets.publishing.service.gov.uk | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
-| [Character.AI / Disney：破产交易与过渡服务法院文件](wiki/pdf-source-cases-stretto-com-character-ai-disney.md) | U.S. Bankruptcy Court / Stretto | 人才迁移、知识产权许可、资产处置、过渡服务 | 强相关但待取原文：组织边界与过渡责任 | 已索引待重试，引用 2 次 |
+| [Character.AI / Disney：破产交易与过渡服务法院文件](wiki/pdf-source-cases-stretto-com-character-ai-disney.md) | U.S. Bankruptcy Court / Stretto | 人才迁移、知识产权许可、资产处置、过渡服务 | 强相关但待取原文：组织边界与过渡责任 | 已下载原文，引用 2 次 |
 | [OpenAI Hugging Face Incident Technical Report](wiki/pdf-source-cdn-openai-com-openai-hugging-face-incident-technical-report.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [the participation economy](wiki/pdf-source-cdn-openai-com-the-participation-economy.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [the ai jobs transition framework report](wiki/pdf-source-cdn-openai-com-the-ai-jobs-transition-framework-report.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
