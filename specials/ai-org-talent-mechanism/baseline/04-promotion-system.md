@@ -42,6 +42,7 @@
 |---|---|
 | [复核、角色与上线支持](./knowledge/wiki/review-role-support-2026-10-02.md) | 把责任落实到核实权、任务边界、交接与员工支持，区分招聘信号和运行结果。 |
 | [机会、能力证据与用途边界](./knowledge/wiki/opportunity-evidence-purpose-2026-09-30.md) | 对照学习机会、测评整合与临时角色，保护员工发展和数据用途边界。 |
+| [本地知识库定期 Review（2026-10-19）](./knowledge/wiki/local-knowledge-review-2026-10-19.md) | 本周知识库巡检报告，覆盖 97 个公开 PDF 来源、近期信息流与专题连续性、PDF 阅读状态、来源分类与生命周期债务、重复映射、分享入口和隐私边界。 |
 | [本地知识库定期 Review（2026-10-12）](./knowledge/wiki/local-knowledge-review-2026-10-12.md) | 本周知识库巡检报告，覆盖 92 个公开 PDF 来源、近期信息流与专题连续性、PDF 阅读状态冲突、来源分类与生命周期债务、过时索引、分享入口和隐私边界。 |
 | [本地知识库定期 Review（2026-10-05）](./knowledge/wiki/local-knowledge-review-2026-10-05.md) | 本周知识库巡检报告，覆盖 89 个当前公开 PDF 来源、近期 7 张机制比较页、PDF 精读与来源分类债务、历史专题重跑、过时二级索引、分享入口和隐私边界。 |
 | [本地知识库定期 Review（2026-09-28）](./knowledge/wiki/local-knowledge-review-2026-09-28.md) | 本周知识库巡检报告，覆盖 87 个当前公开 PDF 来源、近期 6 张机制比较页、PDF 精读与来源分类债务、历史专题补跑、分享入口和 AI 组织研究优先级。 |
@@ -51,7 +52,6 @@
 | [人才定价与学习机会：比较口径先于AI标签](./knowledge/wiki/price-and-learning-evidence-2026-09-21.md) | 比较公开岗位薪带、研发招聘意向与新人学习机会，给出薪酬、招聘和培养的试验安排；区分字段观察、媒体引述与观点。 |
 | [岗位责任与证据：知识治理、薪酬比较和外部监督](./knowledge/wiki/role-charters-and-evidence-2026-09-19.md) | 比较岗位责任、薪酬结构控制与外部评估权利，区分公开安排、统计观察与待试验建议。 |
 | [知识库主题分类与去重治理建议](./knowledge/wiki/knowledge-taxonomy-dedup-review-2026-05-22.md) | 对当前知识库重复信息与分类体系的健康检查。结论是来源页不应删除，需新增主题导航层，将 Zapier、GitLab、AI能力盘点、AI-first operating model、技术组织、绩效薪酬等高重叠主题收敛到主题… |
-| [绩效管理标杆实践：四种机制流派](./knowledge/wiki/performance-management-benchmark-patterns.md) | 公开安全版绩效机制抽象，不包含内部采集细节；将绩效管理拆成相对排名、自主发展、快照记录、分层差异四类机制流派。 |
 
 ## 当前不可越界的结论
 
