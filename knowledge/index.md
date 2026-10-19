@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-10-19
+> 最后更新: 2026-10-20
 
 ---
 
@@ -207,6 +207,7 @@
 | [AFGE v OPM](wiki/pdf-source-democracyforward-org-afge-v-opm.md) | democracyforward.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [Mercer and Eightfold Pay for Skills](wiki/pdf-source-eightfold-ai-mercer-and-eightfold-pay-for-skills.md) | eightfold.ai | AI组织设计、绩效管理、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [new skill price](wiki/pdf-source-elmerli-github-io-new-skill-price.md) | elmerli.github.io | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
+| [workforce+architecture+for+enterprise+9+cases](wiki/pdf-source-gaeedu-public-files-s3-us-east-2-amazonaws-com-workforce-architecture-for-enterprise-9-cases.md) | gaeedu-public-files.s3.us-east-2.amazonaws.com | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [ai index report 2026 chapter 4 economy](wiki/pdf-source-hai-stanford-edu-ai-index-report-2026-chapter-4-economy.md) | hai.stanford.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [GitLab：2026 SEC 8-K Filing](wiki/pdf-source-gitlab-gitlab-2026-sec-8-k-filing.md) | GitLab | 官方披露、组织压缩、AI 智能体优先（AI-agent-first） 待核验 | 中高相关：公司案例核验 | 已索引待重试，引用 12 次 |
 | [netflix culture](wiki/pdf-source-jobs-netflix-com-netflix-culture.md) | jobs.netflix.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |

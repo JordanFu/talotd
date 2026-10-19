@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-10-19",
+  "lastUpdated": "2026-10-20",
   "mode": "karpathy-llm-wiki",
   "schema": "knowledge/CLAUDE.md",
   "categories": {
@@ -5850,6 +5850,32 @@
         "U.S. Bankruptcy Court / Stretto"
       ],
       "originalUrl": "https://cases.stretto.com/public/x936/14939/PLEADINGS/1493910132680000000114.pdf"
+    },
+    {
+      "id": "p106",
+      "title": "workforce+architecture+for+enterprise+9+cases",
+      "originalTitle": "workforce+architecture+for+enterprise+9+cases",
+      "author": "gaeedu-public-files.s3.us-east-2.amazonaws.com",
+      "publisher": "gaeedu-public-files.s3.us-east-2.amazonaws.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
+      "date": "",
+      "uploadDate": "2026-10-20",
+      "description": "workforce+architecture+for+enterprise+9+cases 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计、人才发展。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-gaeedu-public-files-s3-us-east-2-amazonaws-com-workforce-architecture-for-enterprise-9-cases.md",
+      "rawFile": "./knowledge/raw/gaeedu-public-files-s3-us-east-2-amazonaws-com-workforce-architecture-for-enterprise-9-cases.pdf",
+      "fileName": "gaeedu-public-files-s3-us-east-2-amazonaws-com-workforce-architecture-for-enterprise-9-cases.pdf",
+      "fileSize": "19450009 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "人才发展",
+        "gaeedu-public-files.s3.us-east-2.amazonaws.com"
+      ],
+      "originalUrl": "https://gaeedu-public-files.s3.us-east-2.amazonaws.com/workforce+architecture+for+enterprise+9+cases.pdf"
     }
   ]
 }
