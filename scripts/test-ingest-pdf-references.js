@@ -8,6 +8,7 @@ const {
   firstCatalogUploadDate,
   firstIngestedDate,
   isPdfFile,
+  profileFor,
 } = require('./ingest-pdf-references');
 
 const mixedMarkdown = [
@@ -55,6 +56,21 @@ assert.deepStrictEqual(dedupeCitations([
   { file: '外部公开 PDF 扫描', line: 69, context: '公开安全引用：官方技术报告 PDF' },
   { file: 'daily/2026-08-27.md', line: 26, context: '技术报告 PDF' },
 ], 'deduplicates identical public-safe citation rows without removing distinct repo citations');
+
+const partiallyReadProfile = profileFor({
+  title: 'Employment at Anthropic',
+  url: 'https://www-cdn.anthropic.com/72628f1863c53432195db83279252dfd2cb53158/Employment%20at%20Anthropic.pdf',
+});
+assert.strictEqual(
+  partiallyReadProfile.cardStatus,
+  '已下载原始PDF，已核读关键页与方法边界',
+  'preserves partial-reading evidence instead of reverting the card to an unread template',
+);
+assert.match(
+  partiallyReadProfile.evidenceLevel,
+  /^L2：/,
+  'records the evidence level for a partially read high-value PDF',
+);
 
 fs.rmSync(tempDir, { recursive: true, force: true });
 

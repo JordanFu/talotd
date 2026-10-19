@@ -27,6 +27,7 @@ const extraScanRoots = (process.env.EXTRA_PDF_SCAN_DIRS || '')
 scanRoots.push(...extraScanRoots);
 
 const knownTitles = new Map([
+  ['https://cases.stretto.com/public/x936/14939/PLEADINGS/1493910132680000000114.pdf', 'Character.AI / Disney：破产交易与过渡服务法院文件'],
   ['https://media-publications.bcg.com/AI-First-Organization.pdf', 'BCG：AI-First Organization'],
   ["https://reports.weforum.org/docs/WEF_Organizational_Transformation_in_the_Age_of_AI_How_Organizations_Maximize_AI's_Potential_2026.pdf", 'WEF：Organizational Transformation in the Age of AI'],
   ['https://www.aihr.com/resources/AIHR_HR_Priorities_2026_Report.pdf', 'AIHR：HR Priorities 2026 Report'],
@@ -43,6 +44,39 @@ const knownTitles = new Map([
 ]);
 
 const reportProfiles = new Map([
+  ['https://cases.stretto.com/public/x936/14939/PLEADINGS/1493910132680000000114.pdf', {
+    title: 'Character.AI / Disney：破产交易与过渡服务法院文件',
+    publisher: 'U.S. Bankruptcy Court / Stretto',
+    sourceType: 'regulatory',
+    cardStatus: '已索引法院文件，PDF下载待重试',
+    summary: '该法院文件是核验 Character.AI / Disney 人才、知识产权、资产与过渡服务安排的一手入口；当前本地原文下载失败，只能保留为待核事实锚点，不能凭二手摘要扩写条款。',
+    focus: '人才迁移、知识产权许可、资产处置、过渡服务',
+    relevanceLabel: '强相关但待取原文：组织边界与过渡责任',
+    evidenceLevel: '当前卡片为 L1 线索锚点；法院文件本身可成为 L3 一手事实，但必须先取得并逐条核读原文。',
+    core: [
+      '公开日报把该链接识别为 Character.AI 破产程序中的法院文件，涉及交易、员工与过渡服务材料。',
+      '本地自动下载当前失败，尚未从原文直接抽取条款、日期、定义、人数或责任边界。',
+      '同一交易的媒体、公司公告与法院材料需要按事实根去重，不能把多篇转述当作多份独立证据。',
+    ],
+    attention: [
+      '优先从法院 docket 或 Stretto 案件入口取得可验证副本，再核交易身份、知识产权范围、员工安排和过渡服务期限。',
+      '资产竞标、人员 offer、实际到岗、平台责任与整合效果是不同事实，不应合并成“收购完成”或“效率提升”。',
+      '员工负担、非获邀员工去向、用户数据与安全责任仍需独立证据。',
+    ],
+    relevance: [
+      ['组织边界', '高', '用于区分人才、知识产权、平台运营、债务和法律责任的承接主体。'],
+      ['人才迁移', '高', '取得原文后核验 offer、接受、到岗和过渡期安排。'],
+      ['员工价值与治理', '中', '追踪双重责任、工作负担、数据与用户安全边界。'],
+    ],
+    useInResearch: [
+      '在原文可读前只作为法院事实入口和验证清单，不进入强结论层。',
+      '后续与公司公告、Reuters 等独立来源交叉验证，并保留破产情境这一适用边界。',
+    ],
+    nextTasks: [
+      '从案件 docket 或官方替代入口取得原文，记录文书标题、提交日期、页码和附件关系。',
+      '逐条核验员工、知识产权、资产、过渡服务和平台责任，不复用媒体概括替代法律文本。',
+    ],
+  }],
   ['https://content.nten.org/wp-content/uploads/2026/09/2026-State-of-Nonprofit-AI.pdf', {
     title: 'NTEN与Bridgespan：非营利组织AI采用与治理调查',
     publisher: 'NTEN / Bridgespan',
@@ -319,6 +353,74 @@ const reportProfiles = new Map([
     useInResearch: [
       '与 EY Future of Pay 一起作为薪酬/激励证据组。',
       '精读后优先抽取薪酬实践数据、AI 技能溢价表述、pay equity 风险和岗位管理建议。',
+    ],
+  }],
+  ['https://www-cdn.anthropic.com/72628f1863c53432195db83279252dfd2cb53158/Employment%20at%20Anthropic.pdf', {
+    title: 'Anthropic：Employment at Anthropic',
+    publisher: 'Anthropic',
+    sourceType: 'industry',
+    date: '2026-10-16',
+    cardStatus: '已下载原始PDF，已核读关键页与方法边界',
+    summary: 'Anthropic 的内部研究显示，智能体运行量增加可能与会议、监督和资深化同时发生；它支持追踪协调负担与新人经验，但不能证明净生产率、普遍替岗或裁员。',
+    focus: '工作负担、协调劳动、新人发展、人机协作',
+    relevanceLabel: '强相关：AI 产出、监督负担与经验管线',
+    evidenceLevel: 'L2：公司内部多源描述与访谈；关键图表和方法已核，非随机实验，不能外推行业因果。',
+    core: [
+      '报告结合内部使用数据、人才数据与17次访谈；员工会议时长中位数同比增加20%，说明产出加速与协调负担可能同时上升。',
+      '智能体运行量与人员工时的比较把后者按每人每周40小时估算，不是实测有效产出或员工实际投入。',
+      '初级技术人员占比下降只描述构成变化，不能据此认定初级人数下降、裁员或AI造成替岗。',
+    ],
+    attention: [
+      '评估提效时同时核验返工、审核、异常接手、会议和员工可支配时间，不用运行量替代净收益。',
+      '新人经验是否继续形成，需要追踪练习任务、导师容量、独立承担率与第二人覆盖。',
+      '公司高速增长、自主采用和内部研究未独立审计，均限制外部推广。',
+    ],
+    relevance: [
+      ['AI组织与工作设计', '高', '用于识别智能体输出增加后的审核、协调和异常接手责任。'],
+      ['人才发展', '高', '用于追踪初级经验入口与资深化是否形成结构性断层。'],
+      ['生产率与员工价值', '高', '提醒把人的新增监督劳动计入净负担。'],
+    ],
+    useInResearch: [
+      '可进入日报/周报的 L2 事实与反证层，不能单独支持减编、去中层或行业生产率结论。',
+      '引用时保留“关键页与方法已核、未逐页精读”的阅读边界。',
+    ],
+    nextTasks: [
+      '补读其余方法附录与岗位构成口径，核对会议、代码阅读和智能体运行量的计算方式。',
+      '寻找独立研究或跨公司样本，验证监督负担、初级入口和净收益是否复现。',
+    ],
+  }],
+  ['https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/10/Wharton-GBK-AI-Adoption-Report-2026.pdf', {
+    title: 'Wharton / GBK：2026 企业 AI 采用报告',
+    publisher: 'Wharton / GBK Collective',
+    sourceType: 'academic',
+    date: '2026-10-13',
+    cardStatus: '已下载原始PDF，已核读方法页与分组边界',
+    summary: 'Wharton / GBK 的调查显示管理层对 AI 回报与支持的评价不能替代员工体验；两组样本并非同公司配对，不能把差异写成因果或“隐瞒率”。',
+    focus: 'AI采用、培训支持、员工体验、研究方法',
+    relevanceLabel: '强相关：采用增长与员工支持是否同步',
+    evidenceLevel: 'L2：大型企业在线自报调查；方法页已核，重复横截面且群体不配对，不支持因果处方。',
+    core: [
+      '调查于2026年7月9日至29日在美国大型商业组织中进行，包含管理者及以上1007人、初中级员工409人。',
+      '管理者与员工为分开样本，不是同一公司的配对观察；群体比例不可直接相减为组织内认知差。',
+      '报告指出领导者对培训充分性的评价高于员工，但自报回报、培训和治理之间的关联不证明改结构会造成回报。',
+    ],
+    attention: [
+      '采用率和管理层自报回报不能证明员工已减负、获得岗位练习或能够找到真人支持。',
+      '设计培训时应分别核经理与员工的任务支持、错误处理和正常工时学习，不新增AI使用日报。',
+      '报告共102页，目前仅核读方法与相关分组页面，不宣称完整精读。',
+    ],
+    relevance: [
+      ['AI采用与生产率', '高', '用于校准管理层回报叙事的证据边界。'],
+      ['学习与员工支持', '高', '用于比较培训是否真正帮助员工完成任务。'],
+      ['组织治理', '中', '用于追问不可逆动作、人工复核和员工求助入口。'],
+    ],
+    useInResearch: [
+      '可作为员工支持与管理层叙事差异的 L2 调查证据，不把群体差异写成配对因果。',
+      '与真实任务、返工、等待和员工净负担数据交叉验证后，再形成机制结论。',
+    ],
+    nextTasks: [
+      '精读其余章节，记录每个关键比例的题目、分母、角色和组织规模边界。',
+      '寻找员工侧纵向或同组织配对数据，验证支持差异与生产率、留任和工作负担的关系。',
     ],
   }],
   ['https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/07/competition-in-the-age-of-ai_e9f49e20/6f88a1ea-en.pdf', {
@@ -598,6 +700,14 @@ function downloadPdf(item, rawFile) {
 function wikiMarkdown(item, slug, rawRelative, status, existingMarkdown = '') {
   const profile = profileFor(item);
   const ingestedDate = firstIngestedDate(existingMarkdown, today);
+  const cardStatus = profile.cardStatus
+    || (status === 'downloaded' ? '已下载原始PDF，已生成结构化初筛卡片' : '已索引来源，PDF下载待重试');
+  const nextTasks = profile.nextTasks || [
+    '核验报告发布日期、作者/机构、样本范围和数据口径。',
+    '抽取可支撑“执行层分工合并 vs 核心专家深化”的直接证据。',
+    '抽取可支撑“岗位改革背后是激励资源再配置”的薪酬、技能溢价或预算配置证据。',
+    '判断是否需要拆成独立概念页、企业案例页或机制模板。',
+  ];
   const citations = item.citations
     .map((citation) => `- \`${citation.file}:${citation.line}\`：${citation.context || '日报/周报引用该 PDF。'}`)
     .join('\n');
@@ -608,7 +718,7 @@ function wikiMarkdown(item, slug, rawRelative, status, existingMarkdown = '') {
   const sourceFileLine = status === 'downloaded'
     ? `sourceFile: ../raw/${path.basename(rawRelative)}`
     : 'sourceFile:';
-  return `---\ntitle: ${item.title}\nsource: ${item.publisher}\ndate: ${profile.date || '待核验'}\ningested: ${ingestedDate}\n${sourceFileLine}\nsourceUrl: ${item.url}\ntags: [${topics.join(', ')}]\nstatus: ${status === 'downloaded' ? '已下载原始PDF，已生成结构化初筛卡片' : '已索引来源，PDF下载待重试'}\n---\n\n# ${item.title}\n\n## 一句话判断\n\n${profile.summary}\n\n## 入库状态\n\n- **来源机构**：${item.publisher}\n- **来源类型**：${item.sourceType}\n- **原文 URL**：${item.url}\n- **原始文件**：${status === 'downloaded' ? `\`${rawRelative}\`` : '下载失败或待重试，先保留 URL 与引用上下文'}\n- **入库日期**：${ingestedDate}\n- **证据层级**：${profile.evidenceLevel}\n\n## 核心内容\n\n${markdownList(profile.core)}\n\n## 你需要关注\n\n${markdownList(profile.attention)}\n\n## 与近期研究主题的相关性\n\n| 研究主题 | 相关性 | 可怎么用 |\n|---|---|---|\n${relevanceTable(profile.relevance)}\n\n## 对日报/周报的使用方式\n\n${markdownList(profile.useInResearch)}\n\n## 被引用位置\n\n${citations}\n\n## 后续精读任务\n\n- 核验报告发布日期、作者/机构、样本范围和数据口径。\n- 抽取可支撑“执行层分工合并 vs 核心专家深化”的直接证据。\n- 抽取可支撑“岗位改革背后是激励资源再配置”的薪酬、技能溢价或预算配置证据。\n- 判断是否需要拆成独立概念页、企业案例页或机制模板。\n\n## 与已有知识的关联\n\n- [[AI-First 运营模型]]\n- [[技能为本的组织]]\n- [[能力-判断评估矩阵]]\n`;
+  return `---\ntitle: ${item.title}\nsource: ${item.publisher}\ndate: ${profile.date || '待核验'}\ningested: ${ingestedDate}\n${sourceFileLine}\nsourceUrl: ${item.url}\ntags: [${topics.join(', ')}]\nstatus: ${cardStatus}\n---\n\n# ${item.title}\n\n## 一句话判断\n\n${profile.summary}\n\n## 入库状态\n\n- **来源机构**：${item.publisher}\n- **来源类型**：${item.sourceType}\n- **原文 URL**：${item.url}\n- **原始文件**：${status === 'downloaded' ? `\`${rawRelative}\`` : '下载失败或待重试，先保留 URL 与引用上下文'}\n- **入库日期**：${ingestedDate}\n- **证据层级**：${profile.evidenceLevel}\n\n## 核心内容\n\n${markdownList(profile.core)}\n\n## 你需要关注\n\n${markdownList(profile.attention)}\n\n## 与近期研究主题的相关性\n\n| 研究主题 | 相关性 | 可怎么用 |\n|---|---|---|\n${relevanceTable(profile.relevance)}\n\n## 对日报/周报的使用方式\n\n${markdownList(profile.useInResearch)}\n\n## 被引用位置\n\n${citations}\n\n## 后续精读任务\n\n${markdownList(nextTasks)}\n\n## 与已有知识的关联\n\n- [[AI-First 运营模型]]\n- [[技能为本的组织]]\n- [[能力-判断评估矩阵]]\n`;
 }
 
 function updateCatalog(items) {
@@ -739,4 +849,5 @@ module.exports = {
   firstCatalogUploadDate,
   firstIngestedDate,
   isPdfFile,
+  profileFor,
 };

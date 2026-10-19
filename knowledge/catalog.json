@@ -516,6 +516,37 @@
       ]
     },
     {
+      "id": "local-knowledge-review-2026-10-19",
+      "title": "本地知识库定期 Review（2026-10-19）",
+      "originalTitle": "Local Knowledge Base Review 2026-10-19",
+      "author": "Codex",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "internal",
+      "topics": [
+        "知识管理",
+        "AI组织设计",
+        "组织机制",
+        "人才发展",
+        "晋升",
+        "People/HR",
+        "AI fluency"
+      ],
+      "date": "2026-10-19",
+      "uploadDate": "2026-10-19",
+      "description": "本周知识库巡检报告，覆盖 97 个公开 PDF 来源、近期信息流与专题连续性、PDF 阅读状态、来源分类与生命周期债务、重复映射、分享入口和隐私边界。",
+      "summaryFile": "./knowledge/wiki/local-knowledge-review-2026-10-19.md",
+      "fileName": "generated review report",
+      "fileSize": "wiki page",
+      "tags": [
+        "知识管理",
+        "定期Review",
+        "资料治理",
+        "PDF入库",
+        "AI组织设计",
+        "People/HR"
+      ]
+    },
+    {
       "id": "local-knowledge-review-2026-10-12",
       "title": "本地知识库定期 Review（2026-10-12）",
       "originalTitle": "Local Knowledge Base Review 2026-10-12",
@@ -5748,17 +5779,17 @@
     },
     {
       "id": "p103",
-      "title": "Wharton GBK AI Adoption Report 2026",
-      "originalTitle": "Wharton GBK AI Adoption Report 2026",
-      "author": "knowledge.wharton.upenn.edu",
-      "publisher": "knowledge.wharton.upenn.edu",
-      "sourceType": "media",
+      "title": "Wharton / GBK：2026 企业 AI 采用报告",
+      "originalTitle": "Wharton / GBK：2026 企业 AI 采用报告",
+      "author": "Wharton / GBK Collective",
+      "publisher": "Wharton / GBK Collective",
+      "sourceType": "academic",
       "topics": [
         "AI组织设计"
       ],
-      "date": "",
+      "date": "2026-10-13",
       "uploadDate": "2026-10-18",
-      "description": "Wharton GBK AI Adoption Report 2026 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "Wharton / GBK 的调查显示管理层对 AI 回报与支持的评价不能替代员工体验；两组样本并非同公司配对，不能把差异写成因果或“隐瞒率”。 关注重点：AI采用、培训支持、员工体验、研究方法。相关性：强相关：采用增长与员工支持是否同步。",
       "summaryFile": "./knowledge/wiki/pdf-source-knowledge-wharton-upenn-edu-wharton-gbk-ai-adoption-report-2026.md",
       "rawFile": "./knowledge/raw/knowledge-wharton-upenn-edu-wharton-gbk-ai-adoption-report-2026.pdf",
       "fileName": "knowledge-wharton-upenn-edu-wharton-gbk-ai-adoption-report-2026.pdf",
@@ -5766,14 +5797,14 @@
       "tags": [
         "PDF自动入库",
         "AI组织设计",
-        "knowledge.wharton.upenn.edu"
+        "Wharton / GBK Collective"
       ],
       "originalUrl": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/10/Wharton-GBK-AI-Adoption-Report-2026.pdf"
     },
     {
       "id": "p104",
-      "title": "Employment at Anthropic",
-      "originalTitle": "Employment at Anthropic",
+      "title": "Anthropic：Employment at Anthropic",
+      "originalTitle": "Anthropic：Employment at Anthropic",
       "author": "Anthropic",
       "publisher": "Anthropic",
       "sourceType": "industry",
@@ -5781,9 +5812,9 @@
         "AI组织设计",
         "人才发展"
       ],
-      "date": "",
+      "date": "2026-10-16",
       "uploadDate": "2026-10-18",
-      "description": "Employment at Anthropic 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计、人才发展。相关性：待评估：需精读后确定。",
+      "description": "Anthropic 的内部研究显示，智能体运行量增加可能与会议、监督和资深化同时发生；它支持追踪协调负担与新人经验，但不能证明净生产率、普遍替岗或裁员。 关注重点：工作负担、协调劳动、新人发展、人机协作。相关性：强相关：AI 产出、监督负担与经验管线。",
       "summaryFile": "./knowledge/wiki/pdf-source-anthropic-employment-at-anthropic.md",
       "rawFile": "./knowledge/raw/anthropic-employment-at-anthropic.pdf",
       "fileName": "anthropic-employment-at-anthropic.pdf",
@@ -5795,6 +5826,30 @@
         "Anthropic"
       ],
       "originalUrl": "https://www-cdn.anthropic.com/72628f1863c53432195db83279252dfd2cb53158/Employment%20at%20Anthropic.pdf"
+    },
+    {
+      "id": "p105",
+      "title": "Character.AI / Disney：破产交易与过渡服务法院文件",
+      "originalTitle": "Character.AI / Disney：破产交易与过渡服务法院文件",
+      "author": "U.S. Bankruptcy Court / Stretto",
+      "publisher": "U.S. Bankruptcy Court / Stretto",
+      "sourceType": "regulatory",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-10-19",
+      "description": "该法院文件是核验 Character.AI / Disney 人才、知识产权、资产与过渡服务安排的一手入口；当前本地原文下载失败，只能保留为待核事实锚点，不能凭二手摘要扩写条款。 关注重点：人才迁移、知识产权许可、资产处置、过渡服务。相关性：强相关但待取原文：组织边界与过渡责任。",
+      "summaryFile": "./knowledge/wiki/pdf-source-cases-stretto-com-character-ai-disney.md",
+      "rawFile": "",
+      "fileName": "cases-stretto-com-character-ai-disney.pdf",
+      "fileSize": "download pending",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "U.S. Bankruptcy Court / Stretto"
+      ],
+      "originalUrl": "https://cases.stretto.com/public/x936/14939/PLEADINGS/1493910132680000000114.pdf"
     }
   ]
 }
