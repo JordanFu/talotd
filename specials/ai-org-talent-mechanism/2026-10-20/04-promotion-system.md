@@ -1,53 +1,268 @@
 # 2026-10-20｜专题四：未来组织的晋升机制
 
-> 语言规则：正文统一中文主叙事；必要英文术语采用“中文（English）”首次括注，禁止在中文句子中直接夹杂 manager、owner、workflow、rubric 等 ABC 表达。
+> **正式增量研究稿｜严格窗口：2026-10-19 18:00—2026-10-20 18:00（Asia/Shanghai）。** 只把首次公开时间可核且落入窗口的独立事实根计为新增。
+>
+> **证据结论：**窗口内确认 **2个一手邻接事实根**：Cornerstone发布人员规划与智能体评估产品；Cognizant与Google Cloud披露超过1.8万人的专项能力组和超过5.5万人完成的工作坊。两者均未公布晋升资格、窗口、评审者、证据权重、校准、定薪、申诉或群体后效。因此，完整晋升制度新增 **0**、运行后效新增 **0**。培训、产品或项目组不能冒充晋升制度。
 
-> 研究状态记录 / 非决策稿：本文件只用于记录“自动化已触发但尚未完成正式研究”的状态，不能作为 CEO 决策稿。正式日报必须由四课题代理、四渠道代理和主代理交叉证伪后重跑；若未完成，不用通用判断冒充结论。
+## 1. 今日一句话专题判断
 
-## 今日一句话结论
+**优秀贡献应随时识别和回报，但永久职级仍应以固定窗口的跨团队校准为主；证书、技能图谱、项目组身份和AI活动量只能打开机会或补充证据，不能跳过真实任务验证、机会公平、岗位需要、员工纠错申诉和薪酬校准而自动触发晋升。**
 
-今日暂不形成正式结论：当前仅完成兜底记录，缺少当日新增一手事实、反例、薪酬/JD 信号和多源互证，不满足 CEO 决策质量门槛。
+### 读者应该带走什么
 
-## 今日核心判断
-
-1. **不升级为结论。可信度：低。** 现有来源池只能说明这些方向值得追踪，不能证明今日发生了新的岗位、职级、薪酬或组织改革事实。
-2. **必须补齐上下文后再判断。可信度：高。** 正式研究需要还原主体、时间线、改革动作、员工影响、薪酬/激励承接和争议信息，否则只是信息堆叠。
-3. **宁可标注缺口，也不输出空泛总结。可信度：高。** 兜底自动化的价值是提醒缺口与触发重跑，不是生成看似完整但不可追溯的报告。
-
-## 今日背景材料
-
-- 来源池中 IBM、Microsoft、Deloitte、McKinsey、Mercer、EY、Payscale 等材料仍可作为后续研究入口，但今日未完成逐条复核，暂不形成结论。
-- 继续关注 岗位与工作流重设计、智能体治理、基于技能的薪酬 和 薪酬带宽 等方向，但必须用当日新证据验证。
-- 当前最重要的缺口不是“缺文字”，而是缺新增事实、证据解释、反例、落地细节和可追溯来源之间的逻辑链。
-
-## 今日新增证据地图
-
-| 渠道 | 当前状态 | 必须补齐 |
+| 关键问题 | 今日答案 | 管理含义 |
 |---|---|---|
-| 官方/一手 | 待检索 | 公司公告、IR/SEC、官方博客、制度手册、招聘页原文 |
-| 权威媒体与案例 | 待检索 | Reuters/FT/WSJ/咨询报告中的事实、时间线、争议 |
-| 社媒/职场平台 | 待检索 | 只收线索，不当结论；记录关键词和待验证方向 |
-| 招聘 JD 与薪酬 | 待检索 | 头衔、职责、薪资区间、职级、地区、个人贡献者/管理者 边界 |
+| 5.5万人完成工作坊，是否形成晋升通道？ | 不是；培训、凭证、进入1.8万人专项组是三个口径 | 继续核选拔、项目分配、晋升和薪酬结果 |
+| 人员规划系统能否决定谁培养、调岗或晋升？ | Cornerstone称AI给选项、人作决定；未披露员工纠错与客户后效 | 高后果决定须真人负责、资料可更正并可申诉 |
+| 认证与徽章怎样用？ | 可作真实任务验证的入口，不能直接证明下一职级能力 | 同时审学习时间、工具、导师与项目机会 |
+| 固定窗口还是即时晋升？ | 连续识别、即时可逆回报；永久晋升固定校准为主、保留窄例外 | 避免长期无偿承担高一级工作，也避免关系型特批 |
+| AI贡献怎样入证据包？ | 看人的判断、质量风险、复用、团队赋能与净负担 | 不按调用量、在线时长、提示词数或黑箱分数升降 |
 
-## 线索层
+**三句话收束：**第一，今天的两条新事实说明能力识别、培养和项目配置正在连成系统，却没有证明晋升制度改变。第二，Cognizant的5.5万人工作坊和1.8万人专项组不能相除成认证转化率、录用率或晋升率。第三，未来晋升真正缺的不是更多学习与工作数据，而是机会分母、可归责成果、岗位需要、校准、收益分配以及员工查看、纠错和申诉权。
 
-- 追踪 FDE、AI 工作流负责人、智能体运营、AI 治理（AI governance）、基于技能的薪酬等头衔是否形成稳定 岗位族群。
-- 追踪中国公司是否用技能标签、稀缺系数、项目激励替代新增岗位序列。
-- 追踪“执行层角色变宽”与“核心专家能力深化”是否同时出现，而不是只看单向趋势。
+**管理层该问：**这次动作是在提供学习、分配项目、支付阶段回报，还是改变永久职级？谁得到真实项目、导师、工具和交付时间，谁没有？员工能否更正技能与项目资料？人才委员会能否解释不晋升的理由，并把绩效、市场调薪、项目奖励和晋升分别裁决？
 
-## 待补齐的落地问题
+**不要误读：**产品发布不等于客户已改变晋升制度；结业不等于进入专项组或晋升；专项组不等于新增1.8万个岗位；双导师和周年述职不等于晋升；客户效率案例不能证明员工减负、晋升公平或薪酬改善。
 
-正式重跑必须回答：AI 贡献如何进入晋升证据包、谁负责验证与质量、是否有校准机制、是否存在调岗降薪和劳动合规风险。
+## 2. 今日新增事实
 
-## 来源索引
+### 2.1 完整晋升制度与运行后效：均为0
 
-- [IBM Think 2026 recap](https://www.ibm.com/think/news/think-2026-ai-recap)：智能体式 AI（agentic AI）规模化、Bob 工具、治理与生产率
-- [Microsoft Work Trend Index 2026](https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization)：人机协同能动性（human-agent agency）、运营模式重设计（operating model redesign）
-- [Deloitte：人机协同 AI 运营模式](https://www.deloitte.com/us/en/insights/topics/talent/operating-models-for-humans-ai-agents.html)：84% 的公司尚未围绕 AI 重新设计岗位；智能体运营模式
-- [McKinsey：AI 优先技术人才体系](https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/designing-an-end-to-end-technology-workforce-for-the-ai-first-era)：AI 优先技术人才、深度专家、产品/平台模式
-- [Mercer Global Talent Trends 2026](https://www.mercer.com/about/newsroom/mercer-s-global-talent-trends-2026-report/)：工作重设计、技能作为价值货币、人机协作
-- [EY Future of Pay 2026](https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/newsroom/2026/02/ey-future-of-pay-report-2026.pdf)：AI 技能溢价、基于技能的薪酬、退出条款（sunset clauses）
-- [Payscale 2026 薪酬最佳实践报告](https://www.payscale.com/press-releases/2026-compensation-best-practices-report)：AI 技能薪酬、薪酬公平
-- [CHRO Association 2026 Survey](https://www.chro.org/documents/d/guest/2026_chro_survey_key_findings_p)：中层阻力、CHRO 议题
-- [OD Intelligence Center 知识库](./knowledge/wiki/zhiyinlou-hr-thematic-index-2026-05-13.md)：AI+HR、薪酬福利、组织发展精读池
-- [微信公众号「AI组织进化论」](wechat:AI组织进化论)：国内垂直内容源；作为背景材料和线索源使用，拿到原文链接或多源互证后才能进入结论层
+本轮覆盖官方、权威媒体与咨询、公司案例、学术、招聘薪酬、中国企业和社媒线索，没有找到窗口内能同时回答以下问题的新材料：谁有资格、何时提名、用什么证据、谁评审、如何处理利益冲突、怎样跨团队校准、如何定薪、例外怎样审批、员工如何查看/纠错/申诉、运行后公平与业务效果如何。
+
+因此，**常规窗口、即时晋升、项目制晋升、岗位价值触发、能力认证、技能徽章、AI贡献度、同行评审、人才委员会、薪酬校准、绩效与晋升耦合/解耦**十一项机制的完整制度和后效新增均为 **0**。
+
+### 2.2 Cornerstone：规划连到培养与流动，但决定仍由人作出（L2官方产品事实）
+
+Business Wire稿于 **2026-10-19 09:00 EDT** 发布，即北京时间 **10月19日21:00**，精确落窗。Cornerstone发布Workforce Planning和Agent Ready：前者把业务需求与人员、技能和工作连接，业务在HR与财务设定的边界内规划；AI生成选项，决定保留给人。当选择内部培养时，计划可流入学习、人才发展和流动模块。后者评估HR或面客智能体的行为判断，生成证据记录和整改说明。[官方稿](https://www.cornerstoneondemand.com/company/news-room/press-releases/building-the-agentic-future-responsibly-cornerstone-unveils-cornerstone-workforce-planning-and-cornerstone-agent-ready/)｜[时间锚点](https://www.businesswire.com/news/home/20261019424802/en/Building-the-Agentic-Future-Responsibly-Cornerstone-Unveils-Cornerstone-Workforce-Planning-and-Cornerstone-Agent-Ready)
+
+**可确认：**技能与工作数据可形成规划选项，最终决定由人作出，规划、学习和流动可衔接。**不能确认：**客户已上线、员工能更正技能资料、谁批准培养/调岗/晋升、人才委员会如何校准或公平后效改善。供应商援引的投资回报和失败率未独立核验，不作为晋升证据。
+
+### 2.3 Cognizant/Google Cloud：培养与专项组同页披露，晋升桥梁未公开（L2联合官方事实）
+
+联合稿于 **2026-10-19 09:00 PDT** 发布，即北京时间 **10月20日00:00**，精确落窗。公司称新设Gemini Frontier Capability Group，由超过 **1.8万名** Cognizant员工支持，聚焦遗留系统现代化、开发者体验、业务流程智能体化和网络安全；另称超过 **5.5万名** 员工完成Build with Gemini工作坊并取得技能凭证。专项组延续4月建立的实践，并非凭空新增1.8万个岗位。[Cognizant官方稿](https://news.cognizant.com/2026-10-19-Cognizant-and-Google-Cloud-Expand-Alliance-to-Accelerate-Agentic-Enterprise-Transformation)｜[PR Newswire](https://www.prnewswire.com/news-releases/cognizant-and-google-cloud-expand-alliance-to-accelerate-agentic-enterprise-transformation-302912036.html)
+
+**可确认：**公司把大规模工作坊、技能凭证和专属交付组织放在同一能力建设叙事中。**不能确认：**两个人群有多少重合；人员是招聘、调配还是兼任；凭证效度；项目任用、绩效、晋升、薪酬、退出和工作负荷。匿名零售客户效率数据未披露样本、基线和人员结果，不能证明晋升后效。
+
+### 2.4 金诚信“双导师＋周年述职”落窗外，只作Context
+
+金诚信WordPress元数据为 `date_gmt=2026-10-19T00:13:18Z`，即北京时间 **10月19日08:13:18**，早于窗口起点。公司披露研究岗位新增设计导师，7名去年入职员工做周年述职，并称部分人可独立负责模块。[公司原文](https://www.jchxmc.com/archives/54854)
+
+它提示能力判断可放在真实工作和多视角反馈中，但未给导师分工、导师工时、独立作业标准、完整分母、评审权重、晋升、薪酬或留任结果。它不是今日新增、不是AI组织案例，也不是即时或项目制晋升制度。
+
+### 2.5 十一项机制当日计数
+
+| 机制 | 完整制度新增 | 后效新增 | 今日可确认的边界 |
+|---|---:|---:|---|
+| 常规窗口 | 0 | 0 | 无资格、节奏、预算与生效规则 |
+| 即时/窗口外晋升 | 0 | 0 | 无例外标准、审批链与复核 |
+| 项目制晋升/奖励 | 0 | 0 | Cognizant有项目组织，未披露项目奖或晋升 |
+| 岗位价值触发 | 0 | 0 | 组级职责有描述，个人岗位与职级变化未知 |
+| 能力认证 | 0 | 0 | 5.5万人取得凭证，效度和高后果用途未知 |
+| 技能徽章 | 0 | 0 | 无企业制度、有效期、复证与纠错 |
+| AI贡献评估 | 0 | 0 | Cornerstone评估智能体，不是员工贡献 |
+| 同行评审 | 0 | 0 | 多方参加述职不等于同行评审制度 |
+| 人才委员会 | 0 | 0 | 无章程、机会分母、否决理由与改判 |
+| 薪酬校准 | 0 | 0 | 无项目津贴、市场调薪或晋升涨薪 |
+| 绩效—晋升耦合/解耦 | 0 | 0 | 无权重、阈值、申诉和结果 |
+
+## 3. 今日核心判断
+
+### 判断一：培养、凭证、项目任用与晋升必须分成四道门
+
+- **可信度：高；制度新增为0。**
+- **证据基础：**Cognizant同页披露5.5万余名工作坊完成者和1.8万余名专项组成员，却未公开重合、筛选、任用与晋升规则。
+- **为什么重要：**把课程完成写成下一职级能力，会奖励学习时间、经理支持和平台权限；把热门项目身份写成晋升证据，会把机会差异包装成能力差异。
+
+### 判断二：技能图谱可以找选项，不能成为自动升降级机器
+
+- **可信度：中高。**
+- **证据基础：**Cornerstone明确AI生成选项、决定由人作出，但未披露员工资料纠错和客户公平后效。
+- **为什么重要：**技能数据来自自述、课程、岗位历史和系统推断。若员工看不见来源、用途、保留期，也不能补证或纠错，真人点击确认仍无法消除黑箱。
+
+### 判断三：连续识别与固定校准不是二选一
+
+- **可信度：中高；无新制度推翻历史基线。**
+- **证据基础：**能力建设案例会持续产生项目证据；GitLab历史制度提供半年校准、晋升文档、跨团队挑战和窄例外基线。
+- **为什么重要：**反馈和阶段回报应及时；永久职级会改变薪酬、岗位供给和跨团队公平，不能由单一项目负责人随时决定。
+
+### 判断四：AI贡献应看责任、质量、复用和净负担，而非活动量
+
+- **可信度：高；个人评价后效为0。**
+- **证据基础：**Cornerstone评估智能体行为；Cognizant披露工作坊和组规模，都未证明调用量、课程量或凭证预测个人贡献。
+- **为什么重要：**调用量、在线时长、提示词数和产出件数受岗位、工具与权限影响且容易被刷。证据应说明人的判断、核验、风险、团队复用和是否真正减少返工与加班。
+
+### 判断五：绩效、晋升和薪酬共享事实、分别裁决
+
+- **可信度：高。**
+- **证据基础：**今日材料均未把培养、专项组或技能图谱连接到绩效档位、晋升或薪酬。
+- **为什么重要：**当前岗位表现好可获绩效回报，市场偏离可调薪，高强度项目可给奖金/津贴/调休；只有持续承担下一职级责任且组织有岗位需要，才讨论永久晋升。
+
+## 4. 重点案例事实还原：Cognizant的“培训—专项组—晋升”桥梁缺哪几段
+
+### 背景与时间线
+
+1. **4月：**建立Gemini专项实践。
+2. **7月：**宣布向10万名员工部署Gemini，目标扩大到20万；工具可及不等于能力或晋升。
+3. **10月20日00:00北京时间：**披露超1.8万人专项组，以及超5.5万人完成工作坊并取得凭证。
+
+### 动作、机制与缺口
+
+| 链路 | 已披露 | 晋升机制仍缺什么 |
+|---|---|---|
+| 学习 | 5.5万余人完成工作坊 | 报名资格、工时、未完成者、补考与有效期 |
+| 验证 | 取得Gemini技能凭证 | 真实任务效度、人工复核、复证与纠错 |
+| 任用 | 1.8万余人支持专项组 | 两群体交集、选人、岗位、汇报线、退出与工作量 |
+| 贡献 | 匿名客户效率案例 | 样本、基线、人的判断、质量、返工与分配 |
+| 晋升薪酬 | 未披露 | 职级、项目奖励、技能溢价、窗口、委员会与申诉 |
+
+### 结果、争议与阻碍
+
+- **结果：**可确认大规模工作坊完成和专属能力组宣布；不能确认凭证效度、机会公平、晋升、薪酬、减负或留任。
+- **争议：**并列大数字容易造成“完成培训就进入高价值项目”的印象，转化链条和分母没有公开。
+- **阻碍：**客户保密、岗位配置、测验效度、经理赞助、项目机会、薪酬预算与地区差异均可能改变结果。
+
+### 可借鉴点
+
+1. 把学习与真实交付连接，避免课程脱离业务任务。
+2. 用真实工作形成可复核成果，而非只看签到。
+3. 让技术、领域、工程和运行支持协作，观察复合贡献。
+
+### 不可照搬点
+
+- 不以培训覆盖率代替能力、任用或晋升率；
+- 不把1.8万人视作新增岗位、新序列或同等薪酬；
+- 不把匿名客户效率分摊到个人贡献；
+- 不让学习平台、项目负责人或技能图谱自动决定晋升；
+- 不在旧任务未停、导师和时间未给时，把专项组经历变成员工额外负担。
+
+## 5. Context层：背景材料、弱信号、反例与冲突信息
+
+1. **暂不形成结论，但提示我们关注……** 人员规划、学习、发展和流动接在同一平台后，发展数据更容易进入高后果决定；用途、授权、纠错和申诉必须提前写清。
+2. **暂不形成结论，但提示我们关注……** 技能凭证与交付组织并列，说明“证书后有没有真实项目”正成为关键；仍需核项目分配、正常工时、导师和职业结果。
+3. **暂不形成结论，但提示我们关注……** 金诚信双导师和述职把专业训练、使用场景和真实工作相连，但它是窗口外培养安排，不是晋升或AI机制。
+4. **反例。** 即时晋升减少等待，却可能让强势经理、热门项目和预算充足团队获得更多例外；固定窗口提高一致性，却可能让员工无偿承担高一级职责。需要阶段回报和窄例外。
+5. **反例。** 统一认证看似公平，但工具、学习时间、导师和试错空间并不相同；不审机会分母，认证会把资源差异写成能力差异。
+6. **冲突。** 大班课程利于普及，却可能用结课数证明转型；专属组利于深度，却可能形成少数人的高曝光通道。普及与选拔应分开披露。
+7. **人本边界。** 私人提示词、个人智能体对话、求助、练习和福祉数据默认不进入晋升或淘汰；工作资料只采最少必要范围，员工应知谁能看、保存多久、如何更正与申诉。
+8. **收益边界。** 节时后若只追加任务，应描述为劳动强度增加；证据还应记录节时是否转为调休、学习、奖金、团队容量或更高价值工作。
+
+### 线索层
+
+- 追踪Cognizant认证标准、入组申请、项目分配、职级和薪酬，不用发布稿大数字推算。
+- 追踪Cornerstone客户的员工纠错、人工批准、偏差审计、申诉和数据保留。
+- 查具名企业的窗口外晋升、同行评审、人才委员会、薪酬校准和AI贡献证据包；两轮仍只有模板或合并调查则停在Context。
+
+## 6. 证据地图
+
+| 渠道 | 本轮材料 | 等级 | 支持什么 | 不支持什么 |
+|---|---|---:|---|---|
+| 官方/一手 | Cornerstone、Cognizant/Google Cloud、金诚信 | 窗内2项L2；窗外1项L2 | 产品设计、培养规模、能力组、双导师 | 晋升制度、薪酬与后效 |
+| 权威媒体/咨询 | Business Wire、PR Newswire时间锚点；Reuters/Selby历史背景 | L2时间/背景 | 精确落窗、AI技能奖酬讨论 | 具名企业晋升率与因果效果 |
+| 公司案例/制度 | Cognizant能力组；GitLab历史手册 | 邻接L2；历史L3 | 项目机会、固定校准与例外基线 | 今日晋升新规 |
+| 学术/专业研究 | 严格窗口同口径新增0 | 零结果 | 暴露认证效度与公平后效缺口 | 不用旧框架制造新结论 |
+| 招聘JD与薪酬 | 严格窗口同口径新增0 | 零结果 | 暴露任用、溢价和涨薪证据缺口 | 不以单岗薪带推晋升 |
+| 社媒/职场 | 官方社媒仅作传播核验；无实名员工制度材料 | 时间核验/零结果 | 辅助检索 | 不把转发或匿名吐槽作互证 |
+| 内部知识库 | 10月20日信息卡、10月19日正式稿、概念页与GitLab手册 | 连续性/去重 | 用途分离、归因与人本边界 | 不作为新增外部事实 |
+
+## 7. 行动启发：对我们如何落地
+
+### 7.1 用“四道门”管理认证到晋升
+
+| 门 | 决定 | 最少证据 | 不应自动导致 |
+|---|---|---|---|
+| 学习门 | 是否获得课程、工具和练习时间 | 机会开放、正常工时、支持与完成 | 绩效加分、项目优先 |
+| 验证门 | 是否能在受控任务可靠完成 | 真实任务、质量、风险、人工验收 | 永久标签、职级变化 |
+| 机会门 | 是否进入真实项目 | 公开资格、项目分配、工作量和退出 | 把被选中本身写成能力 |
+| 晋升门 | 是否持续承担下一职级且有岗位需要 | 成果、跨团队反馈、范围、校准和预算 | 一次项目或一个证书直接升职 |
+
+四道门使用不同分母；不得以培训总人数计算晋升转化，也不得以进入专项组人数推认证效度。
+
+### 7.2 四速晋升机制
+
+1. **连续识别：**从已授权的真实工作自然沉淀难度、责任、质量、判断、协作和复盘，不新增详细日报。
+2. **即时可逆回报：**里程碑后给奖金、津贴、调休、署名、学习资源或项目选择权，不自动改变职级。
+3. **固定永久校准：**季度或半年度由业务、HR、薪酬和跨团队评审者审下一职级责任、岗位需要、机会分母和群体差异。
+4. **窄口径即时晋升：**仅限范围/决策权持续改变且等待造成明显不公；业务、HR、薪酬共同签字，下一窗口复核。
+
+### 7.3 十一项机制的最小设计
+
+| 机制 | 最小设计 | 红线 |
+|---|---|---|
+| 常规窗口 | 统一截止、校准、生效、沟通和申诉期 | 临时补材料、标准不公开 |
+| 即时晋升 | 极窄例外、三方审批、下窗口复核 | 口头承诺、无记录特批 |
+| 项目制 | 项目奖/调休/署名与永久职级分开 | 一次项目定终身职级 |
+| 岗位价值触发 | 评范围、决策权、风险、持续期和岗位需要 | 用个人优秀虚构岗位 |
+| 能力认证 | 认证后真实任务验证、有效期与复证 | 按证书数排序 |
+| 技能徽章 | 本人可见可纠错，说明来源、用途和失效日 | 签到或推断生成高后果标签 |
+| AI贡献 | 结果、质量、风险、复用、团队赋能、净负担 | 调用量、在线时长、黑箱总分 |
+| 同行评审 | 直接合作且无利益冲突，保留异议 | 人气投票、互保 |
+| 人才委员会 | 业务/HR/薪酬跨团队，审机会分母与群体差异 | 黑箱否决、不给理由 |
+| 薪酬校准 | 岗位内调薪、市场修正、项目奖、晋升涨薪分开 | 用升职绕过调薪 |
+| 绩效耦合/解耦 | 共享事实，分别决定绩效、职级和市场价格 | 一个总分包办升降 |
+
+### 7.4 AI贡献证据包
+
+- 问题及价值；人的定义、判断、核验、升级和风险承担；AI完成的步骤；
+- 质量、业务结果、失败复盘、复用和团队赋能；
+- 是否减少员工净负担，还是增加返工与任务量；
+- 工具、时间、导师和项目机会；
+- 数据来源、用途、访问、保留，以及员工查看、补证、更正和申诉；
+- 节时与价值如何分配为调休、奖金、成长、容量或减编。
+
+### 7.5 三张决策单
+
+- **绩效单：**当前岗位目标、质量、协作、风险与结果；
+- **晋升单：**是否持续承担下一职级、能否跨情境复现、是否有岗位需要；
+- **薪酬单：**同岗公平、市场稀缺、地区、留任风险和预算。
+
+高绩效可不升职，市场调薪可不改头衔，项目奖可及时发但不改变职级。三张单可共享事实，阈值、评审人、结果与申诉路径必须分开。
+
+## 8. 待验证清单与下一步搜索路径
+
+1. **P0｜Cognizant：**核5.5万与1.8万两群体的交集、选拔、岗位、汇报线、工作量、退出、职级和薪酬。`Cognizant Frontier Certified Engineer criteria career level compensation promotion`
+2. **P0｜Cornerstone：**核客户配置、员工纠错、人工批准、偏差审计、申诉和保留。`Cornerstone Workforce Planning employee correction appeal promotion decision governance`
+3. **P0｜窗口外晋升：**核资格、审批、预算、例外率、群体差异和复核。`out-of-cycle promotion policy exception approval compensation employee appeal`
+4. **P0｜岗位价值触发：**核高一级职责持续期、代理津贴、岗位重评和补发。`acting allowance higher duties job reevaluation promotion policy`
+5. **P0｜AI贡献：**只有权重、人工复核、偏差测试、员工申诉和后效齐备才升级。
+6. **P0｜委员会/同行评审：**核评审人、冲突、异议、否决理由、改判率和机会分母。
+7. **P1｜认证/徽章：**找同岗纵向数据，拆课程、经理赞助、项目机会和晋升。
+8. **P1｜薪酬：**分开找岗位内调薪、技能溢价、项目奖和晋升涨薪。
+9. **P1｜中国原件：**搜索“晋升窗口、破格晋升、人才委员会、校准、技能认证、申诉＋公司名”，不把培养写成晋升。
+10. **停止条件：**两轮仍只有厂商模板、培训数字、合并调查、招聘语言或转载，就留在Context。
+
+## 9. 来源索引
+
+### 9.1 严格窗口事实根
+
+1. Cornerstone, [Building the Agentic Future, Responsibly](https://www.cornerstoneondemand.com/company/news-room/press-releases/building-the-agentic-future-responsibly-cornerstone-unveils-cornerstone-workforce-planning-and-cornerstone-agent-ready/)，2026-10-19；**L2官方产品发布**。
+2. Business Wire, [同源分发页](https://www.businesswire.com/news/home/20261019424802/en/Building-the-Agentic-Future-Responsibly-Cornerstone-Unveils-Cornerstone-Workforce-Planning-and-Cornerstone-Agent-Ready)，09:00 EDT／北京时间21:00；**时间锚点，不另计事实根**。
+3. Cognizant, [Cognizant and Google Cloud Expand Alliance](https://news.cognizant.com/2026-10-19-Cognizant-and-Google-Cloud-Expand-Alliance-to-Accelerate-Agentic-Enterprise-Transformation)，2026-10-19；**L2联合官方发布**。
+4. PR Newswire, [同源联合稿](https://www.prnewswire.com/news-releases/cognizant-and-google-cloud-expand-alliance-to-accelerate-agentic-enterprise-transformation-302912036.html)，09:00 PDT／北京时间10月20日00:00；**时间锚点，不另计事实根**。
+
+### 9.2 窗口外与历史基线
+
+5. 金诚信, [双导师与周年述职](https://www.jchxmc.com/archives/54854)，`date_gmt=2026-10-19T00:13:18Z`／北京时间08:13:18；**窗口外L2培养安排**。
+6. GitLab, [Promotions and Transfers Handbook](https://handbook.gitlab.com/handbook/people-group/promotions-transfers/)；**历史L3制度基线**。
+7. Reuters, [Wall Street firms tie bonuses, promotions to AI skills](https://www.reuters.com/business/finance/wall-street-firms-tie-bonuses-promotions-ai-skills-survey-finds-2026-10-14/)，2026-10-14；**历史L2，合并奖酬口径**。
+
+### 9.3 内部知识源
+
+8. `daily/2026-10-20.md`、`daily-report/2026-10-20.md`：今日人员规划、专项组、培训和双导师的事实边界；本专题未改正文。
+9. `specials/ai-org-talent-mechanism/2026-10-19/04-promotion-system.md`及近14日专题：窗口去重和判断连续性。
+10. `knowledge/concepts/auditable-promotion-evidence.md`、`knowledge/concepts/human-ai-performance-metrics.md`、`knowledge/wiki/gitlab-promotions-transfers-handbook.md`、`knowledge/wiki/opportunity-evidence-purpose-2026-09-30.md`：证据归因、固定校准和用途边界。
+11. `operations/information-editorial-standard.md`、`specials/ai-org-talent-mechanism/research-protocol.md`：协作、证据、反例和发布标准。
+
+### 9.4 检索词与覆盖说明
+
+- `Cornerstone Business Wire October 19 2026 Workforce Planning Agent Ready promotion skills internal mobility`
+- `Cognizant Google Cloud October 19 2026 Gemini Frontier Capability Group 18000 55000 career promotion`
+- `October 19 2026 employee promotion performance review AI skills badge talent committee compensation company`
+- `2026年10月20日 晋升 AI 技能认证 人才委员会 薪酬 校准 企业`
+- `site:businesswire.com/news/home/20261019 promotion workforce skills compensation career AI employee`
+- `site:reddit.com 2026 AI promotion skills badge performance review employees October 19`
+- `site:linkedin.com/posts October 19 2026 AI skills promotion certification employee performance`
+- `site:jobs.lever.co OR site:job-boards.greenhouse.io AI skills certification promotion pay October 2026 talent`
+- `October 19 2026 academic promotion performance AI employee skills assessment study`
+
+**覆盖说明：**严格窗口内仅取得Cornerstone与Cognizant/Google Cloud两项邻接事实；完整晋升制度、运行后效、薪酬校准、实名员工体验、人才委员会章程和同行评审研究均为0。未用金诚信窗口外培养安排、同源转载、工作坊数字、供应商产品或匿名客户效率填补晋升结论。

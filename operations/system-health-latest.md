@@ -1,6 +1,6 @@
 # 系统健康状态
 
-> 自动生成：2026-10-20T08:44:11.211Z
+> 自动生成：2026-10-20T10:18:16.118Z
 
 ## 一眼判断
 
@@ -26,8 +26,8 @@
 ## 专题研究状态
 
 - 今日日期：2026-10-20
-- 今日专题状态：scheduled
-- 最新正式日报日期：2026-10-19
+- 今日专题状态：formal
+- 最新正式日报日期：2026-10-20
 - 待正式重跑日期数：25
 - 待正式重跑日期：2026-10-12、2026-09-16、2026-09-11、2026-08-30、2026-08-29、2026-08-16、2026-08-09、2026-07-13、2026-07-12、2026-07-11、2026-07-06、2026-07-03 等 25 项
 
@@ -45,7 +45,7 @@
 - 信息库当日交付：published
 - 信息库线上内容一致：已核对
 - 信息库交付截止：北京时间 11:30；告警不等于内容补跑完成。
-- 本地正式任务：scheduled
+- 本地正式任务：confirmed-formal
 - GitHub Actions 角色：fallback-only
 - GitHub Actions 定时数：4
 - 信息库链路：⚠️ warn
@@ -68,7 +68,6 @@
 ## 当前问题
 
 - ✅ 无 P0 fail。
-- ⚠️ external link not hard-checked in Phase 1
 - ⚠️ external link not hard-checked in Phase 1
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
 - ⚠️ external link not hard-checked in Phase 1
