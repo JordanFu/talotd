@@ -52,8 +52,6 @@ Anthropic 的内部研究显示，智能体运行量增加可能与会议、监�
 ## 被引用位置
 
 - `daily/2026-10-18.md:10`：公开PDF
-- `外部公开 PDF 扫描:53`：公开安全引用：原始 PDF
-- `外部公开 PDF 扫描:125`：公开安全引用：Anthropic 就业研究：`https://www.anthropic.com/research/employment-at-anthropic`；``；`https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spendin
 
 ## 后续精读任务
 

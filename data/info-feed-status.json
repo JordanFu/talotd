@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-20T01:45:07.147Z",
+  "generatedAt": "2026-10-20T06:15:51.888Z",
   "module": "info-feed",
-  "qualityStatus": "pass",
+  "qualityStatus": "warn",
   "latestDate": "2026-10-20",
   "latestCardCount": 11,
   "newFactCount": 6,
@@ -619,13 +619,15 @@
     "tags": 21,
     "time": 24
   },
-  "warnings": [],
+  "warnings": [
+    "external link not hard-checked in Phase 1"
+  ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-20T01:45:06.984Z",
+    "checkedAt": "2026-10-20T06:18:56.719Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 4758,
+    "firstPartyChecked": 4748,
     "externalWarnings": 24,
     "brokenCount": 0,
     "publicScanBridge": [
