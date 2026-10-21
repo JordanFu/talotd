@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-21T01:49:27.898Z",
+  "generatedAt": "2026-10-21T06:15:40.157Z",
   "module": "info-feed",
-  "qualityStatus": "pass",
+  "qualityStatus": "warn",
   "latestDate": "2026-10-21",
   "latestCardCount": 11,
   "newFactCount": 7,
@@ -630,11 +630,13 @@
     "tags": 21,
     "time": 24
   },
-  "warnings": [],
+  "warnings": [
+    "external link not hard-checked in Phase 1"
+  ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-21T01:47:00.638Z",
+    "checkedAt": "2026-10-21T06:16:49.011Z",
     "qualityStatus": "warn",
     "firstPartyChecked": 4774,
     "externalWarnings": 26,

@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-10-21T01:53:10.615Z",
+  "checkedAt": "2026-10-21T06:16:49.091Z",
   "module": "info-delivery",
   "date": "2026-10-21",
   "timezone": "Asia/Shanghai",
   "scheduledAt": "09:40",
   "deadline": "11:30",
   "status": "published",
-  "qualityStatus": "pass",
+  "qualityStatus": "warn",
   "cardCount": 11,
   "gapRecordCount": 1,
   "localReady": true,
@@ -14,5 +14,5 @@
   "issues": [],
   "remoteErrors": [],
   "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
-  "runUrl": null
+  "runUrl": "https://github.com/JordanFu/talotd/actions/runs/39554288526"
 }
