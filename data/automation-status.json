@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-20T18:05:24.387Z",
+  "generatedAt": "2026-10-21T01:48:44.418Z",
   "module": "automation",
   "qualityStatus": "warn",
   "chains": {
     "infoFeed": {
       "qualityStatus": "warn",
-      "latestDate": "2026-10-20",
+      "latestDate": "2026-10-21",
       "latestCardCount": 11,
-      "newFactCount": 6
+      "newFactCount": 7
     },
     "infoDelivery": {
       "checkedAt": "2026-10-20T18:05:23.877Z",
@@ -74,7 +74,7 @@
     "linkCheck": {
       "qualityStatus": "warn",
       "brokenCount": 0,
-      "checkedAt": "2026-10-20T18:05:23.817Z"
+      "checkedAt": "2026-10-21T01:47:00.638Z"
     },
     "githubActionsFallback": {
       "status": "pass",
@@ -104,7 +104,6 @@
   },
   "warnings": [
     "信息库交付待核验：scheduled",
-    "信息库质量为 warn",
     "专题研究状态为 warn",
     "专题待正式重跑 25 天"
   ],

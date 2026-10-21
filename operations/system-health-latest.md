@@ -1,11 +1,11 @@
 # 系统健康状态
 
-> 自动生成：2026-10-20T18:05:24.436Z
+> 自动生成：2026-10-21T01:48:44.476Z
 
 ## 一眼判断
 
 - 总体状态：⚠️ warn
-- 情报流状态：⚠️ warn
+- 情报流状态：✅ pass
 - 专题研究状态：⚠️ warn
 - 知识库状态：⚠️ warn
 - 自动化状态：⚠️ warn
@@ -14,13 +14,13 @@
 
 ## 情报流状态
 
-- 最新日期：2026-10-20
+- 最新日期：2026-10-21
 - 今日卡片数：11
-- 今日新增事实：6
-- 旧线复核 / Context：2
+- 今日新增事实：7
+- 旧线复核 / Context：1
 - 弱信号：2
 - 缺口记录：1
-- 渠道覆盖：媒体、官方、报告学术、JD薪酬、社媒公众号
+- 渠道覆盖：官方、报告学术、媒体、JD薪酬、社媒公众号
 - sourceUrl 缺失：0
 
 ## 专题研究状态
@@ -56,7 +56,7 @@
 ## 链接检查
 
 - 一方断链数：0
-- 外部链接 warning：24
+- 外部链接 warning：26
 - 公开扫描桥接：ok:200、ok:200
 
 ## 质量语义
@@ -69,10 +69,7 @@
 
 - ✅ 无 P0 fail。
 - ⚠️ external link not hard-checked in Phase 1
-- ⚠️ external link not hard-checked in Phase 1
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
-- ⚠️ external link not hard-checked in Phase 1
 - ⚠️ 信息库交付待核验：scheduled
-- ⚠️ 信息库质量为 warn
 - ⚠️ 专题研究状态为 warn
 - ⚠️ 专题待正式重跑 25 天

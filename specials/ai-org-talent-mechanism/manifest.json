@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:04:17.813Z",
+  "generatedAt": "2026-10-21T01:46:51.361Z",
   "module": "topic-projects",
   "project": {
     "id": "ai-org-talent-mechanism",
@@ -8046,16 +8046,16 @@
   ],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-20T18:05:23.817Z",
+    "checkedAt": "2026-10-21T01:47:00.638Z",
     "qualityStatus": "warn",
     "firstPartyChecked": 4774,
-    "externalWarnings": 24,
+    "externalWarnings": 26,
     "brokenCount": 0,
     "publicScanBridge": [
       {
         "ok": true,
         "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-20.html"
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-21.html"
       },
       {
         "ok": true,
