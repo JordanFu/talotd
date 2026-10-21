@@ -1,6 +1,6 @@
 # 系统健康状态
 
-> 自动生成：2026-10-21T10:14:20.819Z
+> 自动生成：2026-10-21T15:22:53.656Z
 
 ## 一眼判断
 
@@ -35,7 +35,7 @@
 
 - Catalog 日期：2026-10-21
 - 知识源：4
-- 报告 / 知识页：216
+- 报告 / 知识页：217
 - 待重试 PDF：17
 - 本地或私有路径泄露：0
 - 缺失 summaryFile：0
@@ -68,6 +68,7 @@
 ## 当前问题
 
 - ✅ 无 P0 fail。
+- ⚠️ external link not hard-checked in Phase 1
 - ⚠️ external link not hard-checked in Phase 1
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
 - ⚠️ external link not hard-checked in Phase 1

@@ -188,6 +188,7 @@
 | [itb lat dir ai 6454 web 0](wiki/pdf-source-ag-ny-gov-itb-lat-dir-ai-6454-web-0.md) | ag.ny.gov | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 17 次 |
 | [GoogleATLASv1](wiki/pdf-source-ai-google-googleatlasv1.md) | ai.google | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 7 次 |
 | [CWA18398 2026](wiki/pdf-source-ai4si-gzs-si-cwa18398-2026.md) | ai4si.gzs.si | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
+| [075j9bxq1wc620](wiki/pdf-source-announcements-asx-com-au-075j9bxq1wc620.md) | announcements.asx.com.au | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [2606.17887](wiki/pdf-source-arxiv-org-2606-17887.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [2607.28890](wiki/pdf-source-arxiv-org-2607-28890.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [2607.28968](wiki/pdf-source-arxiv-org-2607-28968.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
@@ -248,7 +249,7 @@
 | [draft cwa xxxx e](wiki/pdf-source-cencenelec-eu-draft-cwa-xxxx-e.md) | cencenelec.eu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [the impact of agentic ai on network operations](wiki/pdf-source-cisco-com-the-impact-of-agentic-ai-on-network-operations.md) | cisco.com | AI组织设计、变革管理 | 待评估：需精读后确定 | 已索引待重试，引用 4 次 |
 | [us spans and layers for the modern organization 2020](wiki/pdf-source-deloitte-us-spans-and-layers-for-the-modern-organization-2020.md) | Deloitte | AI组织设计、变革管理 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
-| [EY：Future of Pay Report 2026](wiki/pdf-source-ey-ey-future-of-pay-report-2026.md) | EY | 技能薪酬、生产率锚点、AI 人才溢价 | 强相关：薪酬与激励机制 | 已下载原文，引用 182 次 |
+| [EY：Future of Pay Report 2026](wiki/pdf-source-ey-ey-future-of-pay-report-2026.md) | EY | 技能薪酬、生产率锚点、AI 人才溢价 | 强相关：薪酬与激励机制 | 已下载原文，引用 177 次 |
 | [pip faq 2026](wiki/pdf-source-facs-org-pip-faq-2026.md) | facs.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
 | [2026081700406](wiki/pdf-source-geelyauto-com-hk-2026081700406.md) | geelyauto.com.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [12 087 bc50bde2 3016 457a 9bee dc988cb1056b](wiki/pdf-source-hbs-edu-12-087-bc50bde2-3016-457a-9bee-dc988cb1056b.md) | hbs.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |

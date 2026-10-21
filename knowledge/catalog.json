@@ -5876,6 +5876,30 @@
         "gaeedu-public-files.s3.us-east-2.amazonaws.com"
       ],
       "originalUrl": "https://gaeedu-public-files.s3.us-east-2.amazonaws.com/workforce+architecture+for+enterprise+9+cases.pdf"
+    },
+    {
+      "id": "p107",
+      "title": "075j9bxq1wc620",
+      "originalTitle": "075j9bxq1wc620",
+      "author": "announcements.asx.com.au",
+      "publisher": "announcements.asx.com.au",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-10-21",
+      "description": "075j9bxq1wc620 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-announcements-asx-com-au-075j9bxq1wc620.md",
+      "rawFile": "./knowledge/raw/announcements-asx-com-au-075j9bxq1wc620.pdf",
+      "fileName": "announcements-asx-com-au-075j9bxq1wc620.pdf",
+      "fileSize": "109629 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "announcements.asx.com.au"
+      ],
+      "originalUrl": "https://announcements.asx.com.au/asxpdf/20261020/pdf/075j9bxq1wc620.pdf"
     }
   ]
 }
