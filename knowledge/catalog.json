@@ -5926,6 +5926,30 @@
         "Anthropic"
       ],
       "originalUrl": "https://www-cdn.anthropic.com/a9ceec76a54d28d27affffcdab6faf7c142cd587.pdf"
+    },
+    {
+      "id": "p109",
+      "title": "pearson 2026 nine month trading update 22 october 2026",
+      "originalTitle": "pearson 2026 nine month trading update 22 october 2026",
+      "author": "plc.pearson.com",
+      "publisher": "plc.pearson.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-10-22",
+      "description": "pearson 2026 nine month trading update 22 october 2026 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-plc-pearson-com-pearson-2026-nine-month-trading-update-22-october-2026.md",
+      "rawFile": "./knowledge/raw/plc-pearson-com-pearson-2026-nine-month-trading-update-22-october-2026.pdf",
+      "fileName": "plc-pearson-com-pearson-2026-nine-month-trading-update-22-october-2026.pdf",
+      "fileSize": "181804 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "plc.pearson.com"
+      ],
+      "originalUrl": "https://plc.pearson.com/sites/pearson-corp/files/2026-10/pearson-2026-nine-month-trading-update-22-october-2026.pdf"
     }
   ]
 }
