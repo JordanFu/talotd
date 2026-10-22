@@ -276,7 +276,7 @@
       "id": "hr-service-interfaces-2026-10-05",
       "title": "HR服务与交付接口",
       "summaryFile": "./knowledge/wiki/hr-service-interfaces-2026-10-05.md",
-      "description": "用任务完成和实际支持替代采用次数；10月21日补充分阶段计划、修正批准和收益估算边界，保留员工参与、正常工时和真人接手。",
+      "description": "用任务完成和实际支持替代采用次数；10月22日补充复合岗位的承诺、验收、维护和奖励分工，保留员工参与、正常工时和真人接手。",
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
@@ -5839,7 +5839,7 @@
       ],
       "date": "",
       "uploadDate": "2026-10-19",
-      "description": "19日已取得295页法院文件，21日缓存可用，尚未核读条款；仅作为人才、知识产权、资产与过渡责任的验证入口，不凭媒体摘要提高结论等级。",
+      "description": "19日已取得295页法院文件，22日缓存可用，尚未核读条款；仅作为人才、知识产权、资产与过渡责任的验证入口，不凭媒体摘要提高结论等级。",
       "summaryFile": "./knowledge/wiki/pdf-source-cases-stretto-com-character-ai-disney.md",
       "rawFile": "./knowledge/raw/cases-stretto-com-character-ai-disney.pdf",
       "fileName": "cases-stretto-com-character-ai-disney.pdf",
@@ -5900,6 +5900,32 @@
         "announcements.asx.com.au"
       ],
       "originalUrl": "https://announcements.asx.com.au/asxpdf/20261020/pdf/075j9bxq1wc620.pdf"
+    },
+    {
+      "id": "p108",
+      "title": "Anthropic公共利益报告相关PDF（正文待核读）",
+      "originalTitle": "文件原题待核验",
+      "author": "Anthropic",
+      "publisher": "Anthropic",
+      "sourceType": "industry",
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
+      "date": "",
+      "uploadDate": "2026-10-22",
+      "description": "已下载组织扫描所引公开PDF，已读官方公共利益报告入口；下载副本标题、页码与正文未核读，不计报告精读或新结论。题名只说明来源关联。",
+      "summaryFile": "./knowledge/wiki/pdf-source-anthropic-a9ceec76a54d28d27affffcdab6faf7c142cd587.md",
+      "rawFile": "./knowledge/raw/anthropic-a9ceec76a54d28d27affffcdab6faf7c142cd587.pdf",
+      "fileName": "anthropic-a9ceec76a54d28d27affffcdab6faf7c142cd587.pdf",
+      "fileSize": "1272863 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "人才发展",
+        "Anthropic"
+      ],
+      "originalUrl": "https://www-cdn.anthropic.com/a9ceec76a54d28d27affffcdab6faf7c142cd587.pdf"
     }
   ]
 }
