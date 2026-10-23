@@ -210,6 +210,7 @@
 | [new skill price](wiki/pdf-source-elmerli-github-io-new-skill-price.md) | elmerli.github.io | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [workforce+architecture+for+enterprise+9+cases](wiki/pdf-source-gaeedu-public-files-s3-us-east-2-amazonaws-com-workforce-architecture-for-enterprise-9-cases.md) | gaeedu-public-files.s3.us-east-2.amazonaws.com | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [ai index report 2026 chapter 4 economy](wiki/pdf-source-hai-stanford-edu-ai-index-report-2026-chapter-4-economy.md) | hai.stanford.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
+| [Q326 Results Call Management Speech](wiki/pdf-source-home-barclays-q326-results-call-management-speech.md) | home.barclays | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [GitLab：2026 SEC 8-K Filing](wiki/pdf-source-gitlab-gitlab-2026-sec-8-k-filing.md) | GitLab | 官方披露、组织压缩、AI 智能体优先（AI-agent-first） 待核验 | 中高相关：公司案例核验 | 已索引待重试，引用 12 次 |
 | [netflix culture](wiki/pdf-source-jobs-netflix-com-netflix-culture.md) | jobs.netflix.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
 | [Wharton / GBK：2026 企业 AI 采用报告](wiki/pdf-source-knowledge-wharton-upenn-edu-wharton-gbk-ai-adoption-report-2026.md) | Wharton / GBK Collective | AI采用、培训支持、员工体验、研究方法 | 强相关：采用增长与员工支持是否同步 | 已下载原文，引用 1 次 |
@@ -224,7 +225,7 @@
 | [7520958](wiki/pdf-source-papers-ssrn-com-7520958.md) | papers.ssrn.com | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 2 次 |
 | [H3 AP202606221823746144 1](wiki/pdf-source-pdf-dfcfw-com-h3-ap202606221823746144-1.md) | pdf.dfcfw.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [H3 AP202607011826626755 1](wiki/pdf-source-pdf-dfcfw-com-h3-ap202607011826626755-1.md) | pdf.dfcfw.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
-| [pearson 2026 nine month trading update 22 october 2026](wiki/pdf-source-plc-pearson-com-pearson-2026-nine-month-trading-update-22-october-2026.md) | plc.pearson.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
+| [pearson 2026 nine month trading update 22 october 2026](wiki/pdf-source-plc-pearson-com-pearson-2026-nine-month-trading-update-22-october-2026.md) | plc.pearson.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
 | [WEF Artificial Intelligence and the Future of Entry Level Work 2026](wiki/pdf-source-world-economic-forum-wef-artificial-intelligence-and-the-future-of-entry-level-work-2026.md) | World Economic Forum | AI组织设计、战略规划 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
 | [WEF：Organizational Transformation in the Age of AI](wiki/pdf-source-world-economic-forum-wef-organizational-transformation-in-the-age-of-ai.md) | World Economic Forum | 工作流重构、决策权、AI 参与执行 | 强相关：战略到组织机制 | 已下载原文，引用 3 次 |
 | [Anthropic：2026 Agentic Coding Trends Report](wiki/pdf-source-anthropic-anthropic-2026-agentic-coding-trends-report.md) | Anthropic | Agentic coding、工程师角色重塑、人机协作 | 强相关：产品工程一体化 | 已下载原文，引用 1 次 |
@@ -250,7 +251,7 @@
 | [draft cwa xxxx e](wiki/pdf-source-cencenelec-eu-draft-cwa-xxxx-e.md) | cencenelec.eu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [the impact of agentic ai on network operations](wiki/pdf-source-cisco-com-the-impact-of-agentic-ai-on-network-operations.md) | cisco.com | AI组织设计、变革管理 | 待评估：需精读后确定 | 已索引待重试，引用 4 次 |
 | [us spans and layers for the modern organization 2020](wiki/pdf-source-deloitte-us-spans-and-layers-for-the-modern-organization-2020.md) | Deloitte | AI组织设计、变革管理 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
-| [EY：Future of Pay Report 2026](wiki/pdf-source-ey-ey-future-of-pay-report-2026.md) | EY | 技能薪酬、生产率锚点、AI 人才溢价 | 强相关：薪酬与激励机制 | 已下载原文，引用 182 次 |
+| [EY：Future of Pay Report 2026](wiki/pdf-source-ey-ey-future-of-pay-report-2026.md) | EY | 技能薪酬、生产率锚点、AI 人才溢价 | 强相关：薪酬与激励机制 | 已下载原文，引用 177 次 |
 | [pip faq 2026](wiki/pdf-source-facs-org-pip-faq-2026.md) | facs.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
 | [2026081700406](wiki/pdf-source-geelyauto-com-hk-2026081700406.md) | geelyauto.com.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [12 087 bc50bde2 3016 457a 9bee dc988cb1056b](wiki/pdf-source-hbs-edu-12-087-bc50bde2-3016-457a-9bee-dc988cb1056b.md) | hbs.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |

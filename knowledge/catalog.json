@@ -5950,6 +5950,30 @@
         "plc.pearson.com"
       ],
       "originalUrl": "https://plc.pearson.com/sites/pearson-corp/files/2026-10/pearson-2026-nine-month-trading-update-22-october-2026.pdf"
+    },
+    {
+      "id": "p110",
+      "title": "Q326 Results Call Management Speech",
+      "originalTitle": "Q326 Results Call Management Speech",
+      "author": "home.barclays",
+      "publisher": "home.barclays",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-10-23",
+      "description": "Q326 Results Call Management Speech 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-home-barclays-q326-results-call-management-speech.md",
+      "rawFile": "./knowledge/raw/home-barclays-q326-results-call-management-speech.pdf",
+      "fileName": "home-barclays-q326-results-call-management-speech.pdf",
+      "fileSize": "671355 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "home.barclays"
+      ],
+      "originalUrl": "https://home.barclays/content/dam/home-barclays/documents/investor-relations/ResultAnnouncements/Q32026Results/Q326%20Results%20Call%20Management%20Speech.pdf"
     }
   ]
 }
