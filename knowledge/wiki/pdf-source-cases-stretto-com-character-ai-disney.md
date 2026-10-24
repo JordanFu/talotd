@@ -6,14 +6,14 @@ ingested: 2026-10-19
 sourceFile: ../raw/cases-stretto-com-character-ai-disney.pdf
 sourceUrl: https://cases.stretto.com/public/x936/14939/PLEADINGS/1493910132680000000114.pdf
 tags: [AI组织设计]
-status: 19日下载成功，23日缓存可用；295页文件未核读条款
+status: 19日下载成功，24日缓存可用；295页文件未核读条款
 ---
 
 # Character.AI / Disney：破产交易与过渡服务法院文件
 
 ## 一句话判断
 
-该法院文件是核验 Character.AI / Disney 人才、知识产权、资产与过渡服务安排的一手入口；19日已下载，23日缓存可用，但本轮尚未核读条款，只保留为待核事实锚点，不能凭二手摘要扩写。
+该法院文件是核验 Character.AI / Disney 人才、知识产权、资产与过渡服务安排的一手入口；19日已下载，24日缓存可用，但本轮尚未核读条款，只保留为待核事实锚点，不能凭二手摘要扩写。
 
 ## 入库状态
 

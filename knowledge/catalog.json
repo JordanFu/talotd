@@ -139,6 +139,31 @@
   ],
   "reports": [
     {
+      "id": "jobstreet-ai-gauge-sg-2026",
+      "title": "Jobstreet新加坡AI招聘广告：职责样例与方法",
+      "originalTitle": "Jobstreet AI Gauge - SG",
+      "author": "SEEK Economics",
+      "publisher": "Jobstreet / SEEK",
+      "sourceType": "industry",
+      "topics": [
+        "人才发展",
+        "AI组织设计"
+      ],
+      "date": "2026-10-21",
+      "uploadDate": "2026-10-24",
+      "description": "已保存25页公开PDF，核指定职责样例与方法；广告文本不等于实际聘用或薪酬，非全文精读。",
+      "summaryFile": "./knowledge/wiki/jobstreet-ai-gauge-sg-2026.md",
+      "rawFile": "./knowledge/raw/jobstreet-ai-gauge-sg-2026.pdf",
+      "fileName": "jobstreet-ai-gauge-sg-2026.pdf",
+      "fileSize": "8224000 bytes",
+      "originalUrl": "https://ap-southeast-2-seek-apac.graphassets.com/AEzBCRO50TYyqbV6XzRDQz/cmvgevafjn1l0063uqczi4ooi",
+      "tags": [
+        "招聘信号",
+        "人工核验",
+        "方法边界"
+      ]
+    },
+    {
       "id": "info-weekly-2026-W42-quick",
       "title": "W42 信息库周报｜快速导读",
       "summaryFile": "./daily/weekly-2026-W42.md",
@@ -276,7 +301,7 @@
       "id": "hr-service-interfaces-2026-10-05",
       "title": "HR服务与交付接口",
       "summaryFile": "./knowledge/wiki/hr-service-interfaces-2026-10-05.md",
-      "description": "用任务完成和实际支持替代采用次数；10月23日补充知识验证资源、学习选择和员工适应边界，保留员工参与、正常工时和真人接手。",
+      "description": "用任务完成和实际支持替代采用次数；10月24日补充旧任务退出、双轨负担与培养时间，保留员工参与、正常工时和真人接手。",
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
@@ -5839,7 +5864,7 @@
       ],
       "date": "",
       "uploadDate": "2026-10-19",
-      "description": "19日已取得295页法院文件，23日缓存可用，尚未核读条款；仅作为人才、知识产权、资产与过渡责任的验证入口，不凭媒体摘要提高结论等级。",
+      "description": "19日已取得295页法院文件，24日缓存可用，尚未核读条款；仅作为人才、知识产权、资产与过渡责任的验证入口，不凭媒体摘要提高结论等级。",
       "summaryFile": "./knowledge/wiki/pdf-source-cases-stretto-com-character-ai-disney.md",
       "rawFile": "./knowledge/raw/cases-stretto-com-character-ai-disney.pdf",
       "fileName": "cases-stretto-com-character-ai-disney.pdf",
@@ -5974,6 +5999,31 @@
         "home.barclays"
       ],
       "originalUrl": "https://home.barclays/content/dam/home-barclays/documents/investor-relations/ResultAnnouncements/Q32026Results/Q326%20Results%20Call%20Management%20Speech.pdf"
+    },
+    {
+      "id": "p111",
+      "title": "护士实践培养：组织支持与时间条件",
+      "originalTitle": "Professional development of nurses through participatory action research: a focus group study",
+      "author": "De Vos 等",
+      "publisher": "BMC Nursing / Springer Nature",
+      "sourceType": "academic",
+      "topics": [
+        "人才发展",
+        "变革管理"
+      ],
+      "date": "2026-10-23",
+      "uploadDate": "2026-10-24",
+      "description": "已核18页提前版指定方法、局限与建议页；L2质性经验，非全文精读。本地下载失败待重试，远程指定段阅读不等于缓存成功。",
+      "summaryFile": "./knowledge/wiki/pdf-source-link-springer-com-s12912-026-05545-4-reference.md",
+      "rawFile": "",
+      "fileName": "link-springer-com-s12912-026-05545-4-reference.pdf",
+      "fileSize": "download pending",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "link.springer.com"
+      ],
+      "originalUrl": "https://link.springer.com/content/pdf/10.1186/s12912-026-05545-4_reference.pdf"
     }
   ]
 }
