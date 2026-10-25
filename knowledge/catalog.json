@@ -139,6 +139,60 @@
   ],
   "reports": [
     {
+      "id": "info-weekly-2026-W43-quick",
+      "title": "W43 信息库周报｜快速导读",
+      "summaryFile": "./daily/weekly-2026-W43.md",
+      "description": "覆盖19—25日晨间67卡：比较支持、旧任务退出、阶段区分与复杂度考核；保留方法和员工结果缺口。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
+      "date": "2026-10-25",
+      "uploadDate": "2026-10-25",
+      "tags": [
+        "信息库",
+        "周报",
+        "员工体验"
+      ],
+      "related": [
+        "./knowledge/wiki/hr-service-interfaces-2026-10-05.md"
+      ],
+      "backlinks": [
+        "./daily/2026-10-25.md",
+        "./daily-report/2026-10-25.md"
+      ]
+    },
+    {
+      "id": "info-weekly-2026-W43-detailed",
+      "title": "W43 信息库周报｜详细资料",
+      "summaryFile": "./daily-report/weekly-2026-W43.md",
+      "description": "跨行业证据变化、案例对比、冲突、67卡分类与下周验证；非日报拼接，与专题周报独立。",
+      "author": "OD 情报中心",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "industry",
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
+      "date": "2026-10-25",
+      "uploadDate": "2026-10-25",
+      "tags": [
+        "信息库",
+        "周报",
+        "员工体验"
+      ],
+      "related": [
+        "./knowledge/wiki/hr-service-interfaces-2026-10-05.md"
+      ],
+      "backlinks": [
+        "./daily/2026-10-25.md",
+        "./daily-report/2026-10-25.md"
+      ]
+    },
+    {
       "id": "jobstreet-ai-gauge-sg-2026",
       "title": "Jobstreet新加坡AI招聘广告：职责样例与方法",
       "originalTitle": "Jobstreet AI Gauge - SG",
@@ -301,7 +355,7 @@
       "id": "hr-service-interfaces-2026-10-05",
       "title": "HR服务与交付接口",
       "summaryFile": "./knowledge/wiki/hr-service-interfaces-2026-10-05.md",
-      "description": "用任务完成和实际支持替代采用次数；10月24日补充旧任务退出、双轨负担与培养时间，保留员工参与、正常工时和真人接手。",
+      "description": "用任务完成和实际支持替代采用次数；10月25日补配置、验收、复杂例外与报酬执行，W43比较旧任务退出及支持。",
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
@@ -5864,7 +5918,7 @@
       ],
       "date": "",
       "uploadDate": "2026-10-19",
-      "description": "19日已取得295页法院文件，24日缓存可用，尚未核读条款；仅作为人才、知识产权、资产与过渡责任的验证入口，不凭媒体摘要提高结论等级。",
+      "description": "19日已取得295页法院文件，25日缓存可用，尚未核读条款；仅作为人才、知识产权、资产与过渡责任的验证入口，不凭媒体摘要提高结论等级。",
       "summaryFile": "./knowledge/wiki/pdf-source-cases-stretto-com-character-ai-disney.md",
       "rawFile": "./knowledge/raw/cases-stretto-com-character-ai-disney.pdf",
       "fileName": "cases-stretto-com-character-ai-disney.pdf",
@@ -6002,17 +6056,18 @@
     },
     {
       "id": "p111",
-      "title": "s12912 026 05545 4 reference",
-      "originalTitle": "s12912 026 05545 4 reference",
-      "author": "link.springer.com",
-      "publisher": "link.springer.com",
-      "sourceType": "media",
+      "title": "护士实践培养：组织支持与时间条件",
+      "originalTitle": "Professional development of nurses through participatory action research: a focus group study",
+      "author": "De Vos 等",
+      "publisher": "BMC Nursing / Springer Nature",
+      "sourceType": "academic",
       "topics": [
-        "AI组织设计"
+        "人才发展",
+        "变革管理"
       ],
-      "date": "",
+      "date": "2026-10-23",
       "uploadDate": "2026-10-24",
-      "description": "s12912 026 05545 4 reference 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "24日已核18页提前版指定方法与局限；25日本地重试仍失败。L2质性经验，非全文精读，远程指定段阅读不等于缓存成功。",
       "summaryFile": "./knowledge/wiki/pdf-source-link-springer-com-s12912-026-05545-4-reference.md",
       "rawFile": "",
       "fileName": "link-springer-com-s12912-026-05545-4-reference.pdf",
