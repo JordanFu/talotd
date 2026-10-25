@@ -353,7 +353,7 @@
 - 已下载：Q326 Results Call Management Speech（引用 2 次）
 - 待重试：GitLab：2026 SEC 8-K Filing（引用 12 次）
 - 已下载：netflix culture（引用 8 次）
-- 已下载：Wharton / GBK：2026 企业 AI 采用报告（引用 1 次）
+- 已下载：Wharton / GBK：2026 企业 AI 采用报告（引用 3 次）
 - 待重试：s12912 026 05545 4 reference（引用 1 次）
 - 已下载：BCG：AI-First Organization（引用 3 次）
 - 待重试：BCG Executive Perspectives AI First Companies Win the Future Issue1 10June2025（引用 3 次）
@@ -392,7 +392,7 @@
 - 已下载：draft cwa xxxx e（引用 2 次）
 - 待重试：the impact of agentic ai on network operations（引用 4 次）
 - 已下载：us spans and layers for the modern organization 2020（引用 3 次）
-- 已下载：EY：Future of Pay Report 2026（引用 182 次）
+- 已下载：EY：Future of Pay Report 2026（引用 177 次）
 - 已下载：pip faq 2026（引用 6 次）
 - 已下载：2026081700406（引用 1 次）
 - 已下载：12 087 bc50bde2 3016 457a 9bee dc988cb1056b（引用 8 次）

@@ -215,7 +215,7 @@
 | [Q326 Results Call Management Speech](wiki/pdf-source-home-barclays-q326-results-call-management-speech.md) | home.barclays | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [GitLab：2026 SEC 8-K Filing](wiki/pdf-source-gitlab-gitlab-2026-sec-8-k-filing.md) | GitLab | 官方披露、组织压缩、AI 智能体优先（AI-agent-first） 待核验 | 中高相关：公司案例核验 | 已索引待重试，引用 12 次 |
 | [netflix culture](wiki/pdf-source-jobs-netflix-com-netflix-culture.md) | jobs.netflix.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
-| [Wharton / GBK：2026 企业 AI 采用报告](wiki/pdf-source-knowledge-wharton-upenn-edu-wharton-gbk-ai-adoption-report-2026.md) | Wharton / GBK Collective | AI采用、培训支持、员工体验、研究方法 | 强相关：采用增长与员工支持是否同步 | 已下载原文，引用 1 次 |
+| [Wharton / GBK：2026 企业 AI 采用报告](wiki/pdf-source-knowledge-wharton-upenn-edu-wharton-gbk-ai-adoption-report-2026.md) | Wharton / GBK Collective | AI采用、培训支持、员工体验、研究方法 | 强相关：采用增长与员工支持是否同步 | 已下载原文，引用 3 次 |
 | [s12912 026 05545 4 reference](wiki/pdf-source-link-springer-com-s12912-026-05545-4-reference.md) | link.springer.com | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
 | [BCG：AI-First Organization](wiki/pdf-source-bcg-bcg-ai-first-organization.md) | BCG | AI 默认执行、端到端流程重构、人机编排 | 强相关：组织与岗位重构 | 已下载原文，引用 3 次 |
 | [BCG Executive Perspectives AI First Companies Win the Future Issue1 10June2025](wiki/pdf-source-bcg-bcg-executive-perspectives-ai-first-companies-win-the-future-issue1-10june2025.md) | BCG | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 3 次 |
@@ -254,7 +254,7 @@
 | [draft cwa xxxx e](wiki/pdf-source-cencenelec-eu-draft-cwa-xxxx-e.md) | cencenelec.eu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [the impact of agentic ai on network operations](wiki/pdf-source-cisco-com-the-impact-of-agentic-ai-on-network-operations.md) | cisco.com | AI组织设计、变革管理 | 待评估：需精读后确定 | 已索引待重试，引用 4 次 |
 | [us spans and layers for the modern organization 2020](wiki/pdf-source-deloitte-us-spans-and-layers-for-the-modern-organization-2020.md) | Deloitte | AI组织设计、变革管理 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
-| [EY：Future of Pay Report 2026](wiki/pdf-source-ey-ey-future-of-pay-report-2026.md) | EY | 技能薪酬、生产率锚点、AI 人才溢价 | 强相关：薪酬与激励机制 | 已下载原文，引用 182 次 |
+| [EY：Future of Pay Report 2026](wiki/pdf-source-ey-ey-future-of-pay-report-2026.md) | EY | 技能薪酬、生产率锚点、AI 人才溢价 | 强相关：薪酬与激励机制 | 已下载原文，引用 177 次 |
 | [pip faq 2026](wiki/pdf-source-facs-org-pip-faq-2026.md) | facs.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
 | [2026081700406](wiki/pdf-source-geelyauto-com-hk-2026081700406.md) | geelyauto.com.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [12 087 bc50bde2 3016 457a 9bee dc988cb1056b](wiki/pdf-source-hbs-edu-12-087-bc50bde2-3016-457a-9bee-dc988cb1056b.md) | hbs.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |

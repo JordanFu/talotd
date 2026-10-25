@@ -52,6 +52,8 @@ Wharton / GBK 的调查显示管理层对 AI 回报与支持的评价不能替�
 ## 被引用位置
 
 - `daily/2026-10-18.md:28`：报告PDF方法页
+- `specials/ai-org-talent-mechanism/2026-10-25/01-flat-organization.md:47`：Wharton-GBK原始报告
+- `specials/ai-org-talent-mechanism/2026-10-25/01-flat-organization.md:243`：Wharton-GBK AI Adoption Report 2026 PDF
 
 ## 后续精读任务
 
