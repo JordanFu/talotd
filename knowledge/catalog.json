@@ -595,6 +595,37 @@
       ]
     },
     {
+      "id": "local-knowledge-review-2026-10-26",
+      "title": "本地知识库定期 Review（2026-10-26）",
+      "originalTitle": "Local Knowledge Base Review 2026-10-26",
+      "author": "Codex",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "internal",
+      "topics": [
+        "知识管理",
+        "AI组织设计",
+        "组织机制",
+        "人才发展",
+        "晋升",
+        "People/HR",
+        "AI fluency"
+      ],
+      "date": "2026-10-26",
+      "uploadDate": "2026-10-26",
+      "description": "本周知识库巡检报告，覆盖 103 个公开 PDF 来源、近期信息流与专题连续性、PDF 阅读状态、来源分类、日期与生命周期债务、重复映射、分享入口和隐私边界。",
+      "summaryFile": "./knowledge/wiki/local-knowledge-review-2026-10-26.md",
+      "fileName": "generated review report",
+      "fileSize": "wiki page",
+      "tags": [
+        "知识管理",
+        "定期Review",
+        "资料治理",
+        "PDF入库",
+        "AI组织设计",
+        "People/HR"
+      ]
+    },
+    {
       "id": "local-knowledge-review-2026-10-19",
       "title": "本地知识库定期 Review（2026-10-19）",
       "originalTitle": "Local Knowledge Base Review 2026-10-19",
@@ -5932,51 +5963,54 @@
     },
     {
       "id": "p106",
-      "title": "workforce+architecture+for+enterprise+9+cases",
-      "originalTitle": "workforce+architecture+for+enterprise+9+cases",
-      "author": "gaeedu-public-files.s3.us-east-2.amazonaws.com",
-      "publisher": "gaeedu-public-files.s3.us-east-2.amazonaws.com",
-      "sourceType": "media",
+      "title": "AIGW：AI 企业劳动力架构九案例",
+      "originalTitle": "Workforce Architecture for the AI Enterprise: What Nine Enterprise Transitions Reveal About Redesigning Work, Roles, Capability, Authority and Careers",
+      "author": "Global AI Governance and Workforce Transformation Policy Observatory",
+      "publisher": "Global AI Governance and Workforce Transformation Policy Observatory",
+      "sourceType": "industry",
       "topics": [
         "AI组织设计",
         "人才发展"
       ],
-      "date": "",
+      "date": "2026-10",
       "uploadDate": "2026-10-20",
-      "description": "workforce+architecture+for+enterprise+9+cases 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计、人才发展。相关性：待评估：需精读后确定。",
+      "description": "已核读执行摘要、跨案例结论、九域劳动力架构框架、路线图与方法边界。核心判断：AI 采用必须与任务、流程、角色、能力、学习、权责、职业、人员流动和测量一起设计。",
       "summaryFile": "./knowledge/wiki/pdf-source-gaeedu-public-files-s3-us-east-2-amazonaws-com-workforce-architecture-for-enterprise-9-cases.md",
       "rawFile": "./knowledge/raw/gaeedu-public-files-s3-us-east-2-amazonaws-com-workforce-architecture-for-enterprise-9-cases.pdf",
       "fileName": "gaeedu-public-files-s3-us-east-2-amazonaws-com-workforce-architecture-for-enterprise-9-cases.pdf",
       "fileSize": "19450009 bytes",
       "tags": [
-        "PDF自动入库",
         "AI组织设计",
+        "工作架构",
         "人才发展",
-        "gaeedu-public-files.s3.us-east-2.amazonaws.com"
+        "决策权",
+        "员工净收益"
       ],
       "originalUrl": "https://gaeedu-public-files.s3.us-east-2.amazonaws.com/workforce+architecture+for+enterprise+9+cases.pdf"
     },
     {
       "id": "p107",
-      "title": "075j9bxq1wc620",
-      "originalTitle": "075j9bxq1wc620",
-      "author": "announcements.asx.com.au",
-      "publisher": "announcements.asx.com.au",
-      "sourceType": "media",
+      "title": "NAB：简化运营模式与 FY27 人员调整公告",
+      "originalTitle": "NAB simplifying operating model and improving alignment to customer priorities",
+      "author": "National Australia Bank",
+      "publisher": "National Australia Bank / ASX",
+      "sourceType": "company-primary",
       "topics": [
         "AI组织设计"
       ],
-      "date": "",
+      "date": "2026-10-20",
       "uploadDate": "2026-10-21",
-      "description": "075j9bxq1wc620 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "已核读完整两页 ASX 公告。核心判断：NAB 的 FY27 人员调整是运营模式、企业职能、管理责任和人员流动计划，不能归因为 AI 已产生可验证生产率。",
       "summaryFile": "./knowledge/wiki/pdf-source-announcements-asx-com-au-075j9bxq1wc620.md",
       "rawFile": "./knowledge/raw/announcements-asx-com-au-075j9bxq1wc620.pdf",
       "fileName": "announcements-asx-com-au-075j9bxq1wc620.pdf",
       "fileSize": "109629 bytes",
       "tags": [
-        "PDF自动入库",
-        "AI组织设计",
-        "announcements.asx.com.au"
+        "组织简化",
+        "管理层级",
+        "人员流动",
+        "工会协商",
+        "重组成本"
       ],
       "originalUrl": "https://announcements.asx.com.au/asxpdf/20261020/pdf/075j9bxq1wc620.pdf"
     },

@@ -629,6 +629,59 @@ function firstCatalogUploadDate(existingRecord, fallbackDate) {
     : fallbackDate;
 }
 
+const generatedTemplateStatuses = new Set([
+  '已下载原始PDF，已生成结构化初筛卡片',
+  '已索引来源，PDF下载待重试',
+]);
+
+function frontmatterValue(markdown, field) {
+  const match = markdown.match(new RegExp(`^${field}:\\s*(.+?)\\s*$`, 'm'));
+  return match ? match[1].trim() : '';
+}
+
+function isGeneratedTemplateCard(markdown) {
+  if (!markdown.trim()) return true;
+  return generatedTemplateStatuses.has(frontmatterValue(markdown, 'status'));
+}
+
+function citationLines(item) {
+  return item.citations
+    .map((citation) => `- \`${citation.file}:${citation.line}\`：${citation.context || '日报/周报引用该 PDF。'}`)
+    .join('\n');
+}
+
+function refreshCitations(existingMarkdown, item) {
+  const replacement = `## 被引用位置\n\n${citationLines(item)}`;
+  const sectionStart = existingMarkdown.indexOf('## 被引用位置');
+  if (sectionStart >= 0) {
+    const nextSection = existingMarkdown.indexOf('\n## ', sectionStart + '## 被引用位置'.length);
+    const suffix = nextSection >= 0 ? existingMarkdown.slice(nextSection + 1) : '';
+    return `${existingMarkdown.slice(0, sectionStart)}${replacement}\n\n${suffix}`.trimEnd() + '\n';
+  }
+  return `${existingMarkdown.trimEnd()}\n\n${replacement}\n`;
+}
+
+function mergeCatalogRecord(existingRecord, generatedRecord, preserveCuratedFields) {
+  if (!preserveCuratedFields) {
+    return {
+      ...existingRecord,
+      ...generatedRecord,
+      id: existingRecord.id,
+      uploadDate: firstCatalogUploadDate(existingRecord, generatedRecord.uploadDate),
+    };
+  }
+  return {
+    ...existingRecord,
+    summaryFile: generatedRecord.summaryFile,
+    rawFile: generatedRecord.rawFile,
+    fileName: generatedRecord.fileName,
+    fileSize: generatedRecord.fileSize,
+    originalUrl: generatedRecord.originalUrl,
+    id: existingRecord.id,
+    uploadDate: firstCatalogUploadDate(existingRecord, generatedRecord.uploadDate),
+  };
+}
+
 function collectPdfReferences() {
   const references = new Map();
   for (const file of scanRoots.flatMap(walk)) {
@@ -698,6 +751,9 @@ function downloadPdf(item, rawFile) {
 }
 
 function wikiMarkdown(item, slug, rawRelative, status, existingMarkdown = '') {
+  if (existingMarkdown.trim() && !isGeneratedTemplateCard(existingMarkdown)) {
+    return refreshCitations(existingMarkdown, item);
+  }
   const profile = profileFor(item);
   const ingestedDate = firstIngestedDate(existingMarkdown, today);
   const cardStatus = profile.cardStatus
@@ -708,9 +764,7 @@ function wikiMarkdown(item, slug, rawRelative, status, existingMarkdown = '') {
     '抽取可支撑“岗位改革背后是激励资源再配置”的薪酬、技能溢价或预算配置证据。',
     '判断是否需要拆成独立概念页、企业案例页或机制模板。',
   ];
-  const citations = item.citations
-    .map((citation) => `- \`${citation.file}:${citation.line}\`：${citation.context || '日报/周报引用该 PDF。'}`)
-    .join('\n');
+  const citations = citationLines(item);
   const topics = topicsFor(item.title, item.url);
   // Wiki cards live in knowledge/wiki/, while raw PDFs live in knowledge/raw/.
   // Keep this frontmatter path relative to the card so schema-aware readers do
@@ -753,12 +807,11 @@ function updateCatalog(items) {
     };
     if (existingByUrl.has(item.url)) {
       const index = existingByUrl.get(item.url);
-      record.uploadDate = firstCatalogUploadDate(catalog.reports[index], today);
-      catalog.reports[index] = {
-        ...catalog.reports[index],
-        ...record,
-        id: catalog.reports[index].id,
-      };
+      catalog.reports[index] = mergeCatalogRecord(
+        catalog.reports[index],
+        record,
+        item.preserveCuratedFields,
+      );
       continue;
     }
     const id = `p${String(nextNumber++).padStart(3, '0')}`;
@@ -774,7 +827,19 @@ function updateIndex(items) {
   const indexPath = path.join(root, 'knowledge/index.md');
   let content = fs.readFileSync(indexPath, 'utf8');
   content = content.replace(/最后更新: \d{4}-\d{2}-\d{2}/, `最后更新: ${today}`);
+  const existingRows = new Map();
+  const existingBlock = content.match(/<!-- PDF_AUTO_INDEX_START -->[\s\S]*?<!-- PDF_AUTO_INDEX_END -->/);
+  if (existingBlock) {
+    for (const row of existingBlock[0].split(/\r?\n/)) {
+      const match = row.match(/\(wiki\/(pdf-source-[^)]+\.md)\)/);
+      if (match) existingRows.set(match[1], row);
+    }
+  }
   const rows = items.map((item) => {
+    if (item.preserveCuratedFields && existingRows.has(item.wikiName)) {
+      return existingRows.get(item.wikiName)
+        .replace(/引用 \d+ 次/, `引用 ${item.citations.length} 次`);
+    }
     const profile = profileFor(item);
     const status = item.status === 'downloaded' ? '已下载原文' : '已索引待重试';
     return `| [${item.title}](wiki/${item.wikiName}) | ${item.publisher} | ${profile.focus} | ${profile.relevanceLabel} | ${status}，引用 ${item.citations.length} 次 |`;
@@ -824,6 +889,11 @@ function main() {
     const status = downloadPdf(item, rawFile);
     const wikiFile = path.join(wikiDir, wikiName);
     const existingMarkdown = fs.existsSync(wikiFile) ? fs.readFileSync(wikiFile, 'utf8') : '';
+    item.preserveCuratedFields = Boolean(existingMarkdown.trim()) && !isGeneratedTemplateCard(existingMarkdown);
+    if (item.preserveCuratedFields) {
+      item.title = frontmatterValue(existingMarkdown, 'title') || item.title;
+      item.publisher = frontmatterValue(existingMarkdown, 'source') || item.publisher;
+    }
     fs.writeFileSync(wikiFile, wikiMarkdown(item, slug, rawRelative, status, existingMarkdown));
     item.slug = slug;
     item.status = status;
@@ -848,6 +918,10 @@ module.exports = {
   extractPdfUrls,
   firstCatalogUploadDate,
   firstIngestedDate,
+  isGeneratedTemplateCard,
   isPdfFile,
+  mergeCatalogRecord,
   profileFor,
+  refreshCitations,
+  wikiMarkdown,
 };

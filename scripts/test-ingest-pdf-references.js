@@ -7,8 +7,11 @@ const {
   extractPdfUrls,
   firstCatalogUploadDate,
   firstIngestedDate,
+  isGeneratedTemplateCard,
   isPdfFile,
+  mergeCatalogRecord,
   profileFor,
+  wikiMarkdown,
 } = require('./ingest-pdf-references');
 
 const mixedMarkdown = [
@@ -71,6 +74,88 @@ assert.match(
   /^L2：/,
   'records the evidence level for a partially read high-value PDF',
 );
+
+const curatedCard = `---
+title: 人编可检索标题
+source: 一手机构
+date: 2026-10-20
+ingested: 2026-10-21
+sourceFile: ../raw/example.pdf
+sourceUrl: https://example.com/example.pdf
+tags: [组织设计]
+status: 已完成全文核读并形成人编结论
+---
+
+# 人编可检索标题
+
+## 一句话判断
+
+这是一条不会被扫描器覆盖的人编判断。
+
+## 被引用位置
+
+- \`daily/old.md:1\`：旧引用
+
+## 后续验证问题
+
+- 保留这一节。
+`;
+const curatedItem = {
+  title: 'example',
+  publisher: 'example.com',
+  sourceType: 'media',
+  url: 'https://example.com/example.pdf',
+  citations: [{ file: 'daily/2026-10-26.md', line: 12, context: '新引用' }],
+};
+assert.strictEqual(isGeneratedTemplateCard(curatedCard), false, 'recognizes a curated card');
+const refreshedCuratedCard = wikiMarkdown(
+  curatedItem,
+  'example',
+  'knowledge/raw/example.pdf',
+  'downloaded',
+  curatedCard,
+);
+assert.match(refreshedCuratedCard, /title: 人编可检索标题/, 'preserves the curated title');
+assert.match(refreshedCuratedCard, /这是一条不会被扫描器覆盖的人编判断。/, 'preserves the curated judgment');
+assert.match(refreshedCuratedCard, /daily\/2026-10-26\.md:12/, 'refreshes citations');
+assert.doesNotMatch(refreshedCuratedCard, /daily\/old\.md:1/, 'removes stale citation rows');
+assert.match(refreshedCuratedCard, /保留这一节。/, 'preserves sections after citations');
+
+const templateCard = curatedCard.replace(
+  'status: 已完成全文核读并形成人编结论',
+  'status: 已下载原始PDF，已生成结构化初筛卡片',
+);
+assert.strictEqual(isGeneratedTemplateCard(templateCard), true, 'recognizes an auto-generated template card');
+
+const existingCatalogRecord = {
+  id: 'p999',
+  title: '人编标题',
+  publisher: '一手机构',
+  sourceType: 'company-primary',
+  date: '2026-10-20',
+  description: '人编中文判断',
+  uploadDate: '2026-10-21',
+  rawFile: '',
+};
+const generatedCatalogRecord = {
+  title: 'example',
+  publisher: 'example.com',
+  sourceType: 'media',
+  date: '',
+  description: '模板描述',
+  uploadDate: '2026-10-26',
+  summaryFile: './knowledge/wiki/pdf-source-example.md',
+  rawFile: './knowledge/raw/example.pdf',
+  fileName: 'example.pdf',
+  fileSize: '2048 bytes',
+  originalUrl: 'https://example.com/example.pdf',
+};
+const mergedCatalogRecord = mergeCatalogRecord(existingCatalogRecord, generatedCatalogRecord, true);
+assert.strictEqual(mergedCatalogRecord.title, '人编标题', 'preserves the curated catalog title');
+assert.strictEqual(mergedCatalogRecord.sourceType, 'company-primary', 'preserves the curated source type');
+assert.strictEqual(mergedCatalogRecord.description, '人编中文判断', 'preserves the curated description');
+assert.strictEqual(mergedCatalogRecord.rawFile, './knowledge/raw/example.pdf', 'refreshes operational raw-file state');
+assert.strictEqual(mergedCatalogRecord.uploadDate, '2026-10-21', 'preserves first catalog upload date');
 
 fs.rmSync(tempDir, { recursive: true, force: true });
 

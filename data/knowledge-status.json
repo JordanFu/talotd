@@ -1,20 +1,21 @@
 {
-  "generatedAt": "2026-10-25T17:11:02.311Z",
+  "generatedAt": "2026-10-26T01:33:27.589Z",
   "module": "knowledge-base",
   "qualityStatus": "warn",
   "latestCatalogDate": "2026-10-26",
   "counts": {
-    "reports": 224,
+    "reports": 225,
     "knowledgeSources": 4,
     "sourceTypes": {
-      "industry": 62,
-      "internal": 29,
-      "media": 93,
+      "industry": 63,
+      "internal": 30,
+      "media": 91,
       "concept": 10,
       "public-safe-synthesis": 11,
       "consulting": 17,
       "academic": 1,
-      "regulatory": 1
+      "regulatory": 1,
+      "company-primary": 1
     }
   },
   "privatePathLeaks": [],
@@ -105,15 +106,16 @@
   ],
   "warnings": [
     "knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。",
-    "external link not hard-checked in Phase 1"
+    "external link not hard-checked in Phase 1",
+    "network check warning: This operation was aborted"
   ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-25T17:11:02.704Z",
+    "checkedAt": "2026-10-26T01:33:36.631Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 4926,
-    "externalWarnings": 20,
+    "firstPartyChecked": 4943,
+    "externalWarnings": 21,
     "brokenCount": 0,
     "publicScanBridge": [
       {
@@ -122,9 +124,16 @@
         "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-25.html"
       },
       {
+        "ok": false,
+        "hardBroken": false,
+        "status": null,
+        "url": "https://jordanfu.github.io/org-intelligence-info/",
+        "reason": "network check warning: This operation was aborted"
+      },
+      {
         "ok": true,
         "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/"
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-26.html"
       }
     ]
   }
