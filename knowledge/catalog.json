@@ -6127,9 +6127,9 @@
       "uploadDate": "2026-10-26",
       "description": "34页提前版远程文本指定页已读，非全文精读；公开数据来源不可核，应用段与部署限制有张力，不用于员工排名或晋升。26日本地下载失败待重试。",
       "summaryFile": "./knowledge/wiki/pdf-source-nature-com-s41598-026-76297-z-reference.md",
-      "rawFile": "",
+      "rawFile": "./knowledge/raw/nature-com-s41598-026-76297-z-reference.pdf",
       "fileName": "nature-com-s41598-026-76297-z-reference.pdf",
-      "fileSize": "download pending",
+      "fileSize": "3518269 bytes",
       "tags": [
         "绩效管理",
         "AI治理",
