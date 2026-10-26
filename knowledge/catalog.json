@@ -355,7 +355,7 @@
       "id": "hr-service-interfaces-2026-10-05",
       "title": "HR服务与交付接口",
       "summaryFile": "./knowledge/wiki/hr-service-interfaces-2026-10-05.md",
-      "description": "用任务完成和实际支持替代采用次数；10月25日补配置、验收、复杂例外与报酬执行，W43比较旧任务退出及支持。",
+      "description": "用任务完成和实际支持替代采用次数；10月26日补员工发声、评价用途、招聘建议权及治理人员保护，区分预测与人事决定。",
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
@@ -6090,27 +6090,52 @@
     },
     {
       "id": "p111",
-      "title": "s12912 026 05545 4 reference",
-      "originalTitle": "s12912 026 05545 4 reference",
-      "author": "link.springer.com",
-      "publisher": "link.springer.com",
-      "sourceType": "media",
+      "title": "护士实践培养：组织支持与时间条件",
+      "originalTitle": "论文英文原题待核验",
+      "author": "BMC Nursing / Springer Nature",
+      "publisher": "BMC Nursing / Springer Nature",
+      "sourceType": "academic",
       "topics": [
-        "AI组织设计"
+        "人才发展"
       ],
-      "date": "",
+      "date": "2026-10-23",
       "uploadDate": "2026-10-24",
-      "description": "s12912 026 05545 4 reference 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "24日远程核18页提前版物理3—5、14—15页；单院两病区质性经验，非效果验证。26日本地下载仍失败，保留指定段已读状态。",
       "summaryFile": "./knowledge/wiki/pdf-source-link-springer-com-s12912-026-05545-4-reference.md",
       "rawFile": "",
       "fileName": "link-springer-com-s12912-026-05545-4-reference.pdf",
       "fileSize": "download pending",
       "tags": [
-        "PDF自动入库",
-        "AI组织设计",
-        "link.springer.com"
+        "人才发展",
+        "在岗学习",
+        "方法边界"
       ],
       "originalUrl": "https://link.springer.com/content/pdf/10.1186/s12912-026-05545-4_reference.pdf"
+    },
+    {
+      "id": "p112",
+      "title": "绩效预测论文：模型分数不等于用工依据",
+      "originalTitle": "An explainable and fair TabNet framework for remote employee performance prediction using multidimensional workplace data",
+      "author": "Zihe Zhu、Guangsen Wei、XiaoQian Bian、Sihui Yu",
+      "publisher": "Scientific Reports / Springer Nature",
+      "sourceType": "academic",
+      "topics": [
+        "绩效管理",
+        "AI组织设计"
+      ],
+      "date": "2026-10-25",
+      "uploadDate": "2026-10-26",
+      "description": "34页提前版远程文本指定页已读，非全文精读；公开数据来源不可核，应用段与部署限制有张力，不用于员工排名或晋升。26日本地下载失败待重试。",
+      "summaryFile": "./knowledge/wiki/pdf-source-nature-com-s41598-026-76297-z-reference.md",
+      "rawFile": "",
+      "fileName": "nature-com-s41598-026-76297-z-reference.pdf",
+      "fileSize": "download pending",
+      "tags": [
+        "绩效管理",
+        "AI治理",
+        "方法边界"
+      ],
+      "originalUrl": "https://www.nature.com/articles/s41598-026-76297-z_reference.pdf"
     }
   ]
 }

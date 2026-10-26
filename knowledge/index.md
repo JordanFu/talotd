@@ -11,7 +11,7 @@
 - [AIGW：AI 企业劳动力架构九案例](wiki/pdf-source-gaeedu-public-files-s3-us-east-2-amazonaws-com-workforce-architecture-for-enterprise-9-cases.md)：九域工作架构诊断；已核读关键章节并保留目的性样本、员工结果和底层来源边界。
 - [NAB：简化运营模式与 FY27 人员调整公告](wiki/pdf-source-announcements-asx-com-au-075j9bxq1wc620.md)：正式计划可支持人员流动、员工支持和重组成本，不支持 AI 归因或实施成效。
 
-- [HR服务与交付接口](wiki/hr-service-interfaces-2026-10-05.md)：10月25日补充配置、验收、维护、复杂例外与工资执行分工；先核旧任务退出，不把数量和预测当净收益。
+- [HR服务与交付接口](wiki/hr-service-interfaces-2026-10-05.md)：10月26日补充员工发声、评价用途、招聘建议与治理支持；不把预测和岗位要求当人事决定依据。
 - [W43信息库周报：快速导读](../daily/weekly-2026-W43.md) · [详细资料](../daily-report/weekly-2026-W43.md)：覆盖19—25日晨间，比较资源、旧任务退出、阶段区分和复杂度考核；与专题周报独立。
 - [Jobstreet新加坡AI招聘广告：职责样例与方法](wiki/jobstreet-ai-gauge-sg-2026.md)：已核25页报告指定职责样例与方法页，广告词频不等于实际聘用或工资；非全文精读。
 
@@ -225,7 +225,7 @@
 | [GitLab：2026 SEC 8-K Filing](wiki/pdf-source-gitlab-gitlab-2026-sec-8-k-filing.md) | GitLab | 官方披露、组织压缩、AI 智能体优先（AI-agent-first） 待核验 | 中高相关：公司案例核验 | 已索引待重试，引用 12 次 |
 | [netflix culture](wiki/pdf-source-jobs-netflix-com-netflix-culture.md) | jobs.netflix.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
 | [Wharton / GBK：2026 企业 AI 采用报告](wiki/pdf-source-knowledge-wharton-upenn-edu-wharton-gbk-ai-adoption-report-2026.md) | Wharton / GBK Collective | AI采用、培训支持、员工体验、研究方法 | 强相关：采用增长与员工支持是否同步 | 已下载原文，引用 3 次 |
-| [s12912 026 05545 4 reference](wiki/pdf-source-link-springer-com-s12912-026-05545-4-reference.md) | link.springer.com | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
+| [护士实践培养：组织支持与时间条件](wiki/pdf-source-link-springer-com-s12912-026-05545-4-reference.md) | BMC Nursing / Springer Nature | 培养工时与支持 | L2质性经验，非效果 | 指定页文本已核，本地下载重试，引用 1 次 |
 | [BCG：AI-First Organization](wiki/pdf-source-bcg-bcg-ai-first-organization.md) | BCG | AI 默认执行、端到端流程重构、人机编排 | 强相关：组织与岗位重构 | 已下载原文，引用 3 次 |
 | [BCG Executive Perspectives AI First Companies Win the Future Issue1 10June2025](wiki/pdf-source-bcg-bcg-executive-perspectives-ai-first-companies-win-the-future-issue1-10june2025.md) | BCG | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 3 次 |
 | [letter](wiki/pdf-source-mikitabalesni-com-letter.md) | mikitabalesni.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 7 次 |
@@ -284,6 +284,7 @@
 | [McKinsey：The State of Organizations 2026](wiki/pdf-source-mckinsey-company-mckinsey-the-state-of-organizations-2026.md) | McKinsey & Company | AI组织设计、人才发展、变革管理 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
 | [DWN.jsp](wiki/pdf-source-molit-go-kr-dwn-jsp.md) | molit.go.kr | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
 | [DWN.jsp](wiki/pdf-source-molit-go-kr-dwn-jsp.md) | molit.go.kr | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
+| [绩效预测论文：模型分数不等于用工依据](wiki/pdf-source-nature-com-s41598-026-76297-z-reference.md) | Scientific Reports / Springer Nature | 绩效模型用途边界 | L2方法，不作人事依据 | 指定页文本已核，本地下载重试，引用 1 次 |
 | [OECD：Competition in the Age of AI](wiki/pdf-source-oecd-oecd-competition-in-the-age-of-ai.md) | OECD | 组织吸收能力、高技能人才、市场结构、企业边界 | 强相关：组织能力与人才结构 | 已下载原文，引用 2 次 |
 | [c0ffced7 en](wiki/pdf-source-oecd-org-c0ffced7-en.md) | oecd.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
 | [orgvue ai research ebook 2026 final](wiki/pdf-source-orgvue-com-orgvue-ai-research-ebook-2026-final.md) | orgvue.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
