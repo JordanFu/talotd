@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-10-26
+> 最后更新: 2026-10-27
 
 ---
 
@@ -282,6 +282,7 @@
 | [2026 global ai jobs barometer full report](wiki/pdf-source-pwc-com-2026-global-ai-jobs-barometer-full-report.md) | pwc.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [2026 global ai jobs barometer global findings](wiki/pdf-source-pwc-com-2026-global-ai-jobs-barometer-global-findings.md) | pwc.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [20260828](wiki/pdf-source-scsk-jp-20260828.md) | scsk.jp | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 9 次 |
+| [SKT AI Governance Report](wiki/pdf-source-sktelecom-com-skt-ai-governance-report.md) | sktelecom.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
 | [it job family career ladder matrix software engineer](wiki/pdf-source-umassmed-edu-it-job-family-career-ladder-matrix-software-engineer.md) | umassmed.edu | AI组织设计、绩效管理 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
 | [2026072000261](wiki/pdf-source-www1-hkexnews-hk-2026072000261.md) | www1.hkexnews.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 <!-- PDF_AUTO_INDEX_END -->

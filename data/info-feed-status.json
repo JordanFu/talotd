@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T06:38:00.506Z",
+  "generatedAt": "2026-10-26T16:49:30.770Z",
   "module": "info-feed",
   "qualityStatus": "warn",
   "latestDate": "2026-10-26",
@@ -427,7 +427,7 @@
     "digestLatestDate": "2026-10-26",
     "latestScanDate": "2026-10-26",
     "freshnessStatus": "pass",
-    "ageDays": 0,
+    "ageDays": 1,
     "maxAgeDays": 1,
     "latestScanUrl": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-26.html",
     "publicMirrorUrl": "https://jordanfu.github.io/org-intelligence-info/",
@@ -675,24 +675,21 @@
     "最新日期非缺口信息卡少于 8 条：当前 7 条；已有缺口记录，不能用缺口记录凑数量。",
     "最新日期“新增事实”少于 5 条：当前 4 条；已有缺口记录，首页应诚实显示可信新增不足。",
     "最新日期疑似旧线复核被标为新增事实：F1026-04。",
-    "external link not hard-checked in Phase 1",
-    "network check warning: This operation was aborted"
+    "external link not hard-checked in Phase 1"
   ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-26T10:13:45.724Z",
+    "checkedAt": "2026-10-26T16:50:22.743Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 4933,
-    "externalWarnings": 27,
+    "firstPartyChecked": 4962,
+    "externalWarnings": 26,
     "brokenCount": 0,
     "publicScanBridge": [
       {
-        "ok": false,
-        "hardBroken": false,
-        "status": null,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-26.html",
-        "reason": "network check warning: This operation was aborted"
+        "ok": true,
+        "status": 200,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-26.html"
       },
       {
         "ok": true,

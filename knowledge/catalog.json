@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-10-26",
+  "lastUpdated": "2026-10-27",
   "mode": "karpathy-llm-wiki",
   "schema": "knowledge/CLAUDE.md",
   "categories": {
@@ -6136,6 +6136,30 @@
         "方法边界"
       ],
       "originalUrl": "https://www.nature.com/articles/s41598-026-76297-z_reference.pdf"
+    },
+    {
+      "id": "p113",
+      "title": "SKT AI Governance Report",
+      "originalTitle": "SKT AI Governance Report",
+      "author": "sktelecom.com",
+      "publisher": "sktelecom.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-10-27",
+      "description": "SKT AI Governance Report 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-sktelecom-com-skt-ai-governance-report.md",
+      "rawFile": "./knowledge/raw/sktelecom-com-skt-ai-governance-report.pdf",
+      "fileName": "sktelecom-com-skt-ai-governance-report.pdf",
+      "fileSize": "11265643 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "sktelecom.com"
+      ],
+      "originalUrl": "https://www.sktelecom.com/img/pds/persist_biz/2026/SKT_AI_Governance_Report.pdf"
     }
   ]
 }
