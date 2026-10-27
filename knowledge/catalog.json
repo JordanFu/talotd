@@ -355,7 +355,7 @@
       "id": "hr-service-interfaces-2026-10-05",
       "title": "HR服务与交付接口",
       "summaryFile": "./knowledge/wiki/hr-service-interfaces-2026-10-05.md",
-      "description": "用任务完成和实际支持替代采用次数；10月26日补员工发声、评价用途、招聘建议权及治理人员保护，区分预测与人事决定。",
+      "description": "用任务完成和实际支持替代采用次数；10月27日补决定、治理退出、组织交接与培养支持，不把工具入口或参与量当净收益。",
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
@@ -6125,7 +6125,7 @@
       ],
       "date": "2026-10-25",
       "uploadDate": "2026-10-26",
-      "description": "34页提前版远程文本指定页已读，非全文精读；公开数据来源不可核，应用段与部署限制有张力，不用于员工排名或晋升。26日本地下载失败待重试。",
+      "description": "26日远程核34页提前版指定段；27日缓存可用且核首页与页数，非全文精读。公开数据来源不可核，应用段与限制有张力，不作人事依据。",
       "summaryFile": "./knowledge/wiki/pdf-source-nature-com-s41598-026-76297-z-reference.md",
       "rawFile": "./knowledge/raw/nature-com-s41598-026-76297-z-reference.pdf",
       "fileName": "nature-com-s41598-026-76297-z-reference.pdf",
@@ -6139,25 +6139,26 @@
     },
     {
       "id": "p113",
-      "title": "SKT AI Governance Report",
-      "originalTitle": "SKT AI Governance Report",
-      "author": "sktelecom.com",
-      "publisher": "sktelecom.com",
-      "sourceType": "media",
+      "title": "SKT智能体治理：真人责任、停止与退出",
+      "originalTitle": "AI Governance Report",
+      "author": "SK Telecom",
+      "publisher": "SK Telecom",
+      "sourceType": "industry",
       "topics": [
-        "AI组织设计"
+        "AI组织设计",
+        "绩效管理"
       ],
-      "date": "",
+      "date": "2026-10-26",
       "uploadDate": "2026-10-27",
-      "description": "SKT AI Governance Report 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "40页缓存可用，27日核25—30页及29页表格，非全文精读。身份、真人责任、权限、停用、评价及退出为公司披露，不证明员工减负；奖励不等于晋升。",
       "summaryFile": "./knowledge/wiki/pdf-source-sktelecom-com-skt-ai-governance-report.md",
       "rawFile": "./knowledge/raw/sktelecom-com-skt-ai-governance-report.pdf",
       "fileName": "sktelecom-com-skt-ai-governance-report.pdf",
       "fileSize": "11265643 bytes",
       "tags": [
-        "PDF自动入库",
-        "AI组织设计",
-        "sktelecom.com"
+        "AI治理",
+        "责任分工",
+        "绩效边界"
       ],
       "originalUrl": "https://www.sktelecom.com/img/pds/persist_biz/2026/SKT_AI_Governance_Report.pdf"
     }
