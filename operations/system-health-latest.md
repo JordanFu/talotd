@@ -1,6 +1,6 @@
 # 系统健康状态
 
-> 自动生成：2026-10-27T10:16:40.161Z
+> 自动生成：2026-10-27T15:55:56.183Z
 
 ## 一眼判断
 
@@ -68,6 +68,7 @@
 ## 当前问题
 
 - ✅ 无 P0 fail。
+- ⚠️ external link not hard-checked in Phase 1
 - ⚠️ external link not hard-checked in Phase 1
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
 - ⚠️ external link not hard-checked in Phase 1

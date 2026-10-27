@@ -419,7 +419,7 @@
 - 已下载：draft cwa xxxx e（引用 2 次）
 - 待重试：the impact of agentic ai on network operations（引用 4 次）
 - 已下载：us spans and layers for the modern organization 2020（引用 3 次）
-- 已下载：EY：Future of Pay Report 2026（引用 182 次）
+- 已下载：EY：Future of Pay Report 2026（引用 177 次）
 - 已下载：pip faq 2026（引用 6 次）
 - 已下载：2026081700406（引用 1 次）
 - 已下载：12 087 bc50bde2 3016 457a 9bee dc988cb1056b（引用 8 次）
@@ -442,7 +442,7 @@
 - 已下载：2026 global ai jobs barometer full report（引用 1 次）
 - 已下载：2026 global ai jobs barometer global findings（引用 2 次）
 - 已下载：20260828（引用 9 次）
-- 已下载：SKT智能体治理：真人责任、停止与退出（引用 9 次）
+- 已下载：SKT智能体治理：真人责任、停止与退出（引用 12 次）
 - 待重试：it job family career ladder matrix software engineer（引用 1 次）
 - 已下载：2026072000261（引用 1 次）
 ## [2026-10-26] ingest | 日报 PDF 证据源自动入库

@@ -38,3 +38,6 @@ status: 40页缓存可用；27日核25—30页文字及29页表格，非全文�
 - `specials/ai-org-talent-mechanism/2026-10-26/04-promotion-system.md:223`：SKT AI Governance Report
 - `specials/ai-org-talent-mechanism/2026-10-26/information-candidates.md:8`：原始链接：https://news.sktelecom.com/232386 ；
 - `specials/ai-org-talent-mechanism/2026-10-26/information-candidates.md:18`：原始链接：
+- `specials/ai-org-talent-mechanism/2026-10-27/01-flat-organization.md:261`：AI Governance Report
+- `specials/ai-org-talent-mechanism/2026-10-27/03-job-family-career-architecture.md:170`：AI Governance Report
+- `specials/ai-org-talent-mechanism/2026-10-27/04-promotion-system.md:203`：SKT AI Governance Report
