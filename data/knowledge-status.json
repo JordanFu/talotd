@@ -111,9 +111,9 @@
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-27T06:34:25.643Z",
+    "checkedAt": "2026-10-27T10:17:36.156Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 4962,
+    "firstPartyChecked": 4963,
     "externalWarnings": 22,
     "brokenCount": 0,
     "publicScanBridge": [
