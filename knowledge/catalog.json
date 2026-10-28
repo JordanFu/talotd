@@ -139,6 +139,35 @@
   ],
   "reports": [
     {
+      "id": "iowa-launchra-incentives-2026",
+      "title": "Iowa学徒激励：留任条件与培养支持要分开核",
+      "originalTitle": "Iowa Office of Apprenticeship LaunchRA Incentive Funds Terms and Conditions",
+      "author": "Iowa Workforce Development",
+      "publisher": "Iowa Workforce Development",
+      "sourceType": "industry",
+      "topics": [
+        "人才发展",
+        "绩效管理"
+      ],
+      "date": "2026-10-27",
+      "uploadDate": "2026-10-28",
+      "description": "6页公开缓存，核1—3页与第2页图像，非全文精读；公告正文27日与页头26日有差异。资金付举办方，持续参与不等于成长。",
+      "summaryFile": "./knowledge/wiki/iowa-launchra-incentives-2026.md",
+      "rawFile": "./knowledge/raw/iowa-launchra-terms-2026.pdf",
+      "fileName": "iowa-launchra-terms-2026.pdf",
+      "fileSize": "118641 bytes",
+      "tags": [
+        "学徒培养",
+        "激励",
+        "培养支持"
+      ],
+      "originalUrl": "https://workforce.iowa.gov/media/3271/download?inline=",
+      "backlinks": [
+        "daily/2026-10-28.md",
+        "daily-report/2026-10-28.md"
+      ]
+    },
+    {
       "id": "info-weekly-2026-W43-quick",
       "title": "W43 信息库周报｜快速导读",
       "summaryFile": "./daily/weekly-2026-W43.md",
@@ -355,7 +384,7 @@
       "id": "hr-service-interfaces-2026-10-05",
       "title": "HR服务与交付接口",
       "summaryFile": "./knowledge/wiki/hr-service-interfaces-2026-10-05.md",
-      "description": "用任务完成和实际支持替代采用次数；10月27日补决定、治理退出、组织交接与培养支持，不把工具入口或参与量当净收益。",
+      "description": "用任务完成和实际支持替代采用次数；10月28日补旧流程退出、资格复用、指导容量与评价用途，先看员工实际少了哪些麻烦。",
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
