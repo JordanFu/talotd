@@ -1,6 +1,6 @@
 # 系统健康状态
 
-> 自动生成：2026-10-28T03:15:10.905Z
+> 自动生成：2026-10-28T03:24:02.223Z
 
 ## 一眼判断
 
@@ -42,8 +42,8 @@
 
 ## 自动化状态
 
-- 信息库当日交付：scheduled
-- 信息库线上内容一致：未确认
+- 信息库当日交付：published
+- 信息库线上内容一致：已核对
 - 信息库交付截止：北京时间 11:30；告警不等于内容补跑完成。
 - 本地正式任务：scheduled
 - GitHub Actions 角色：fallback-only
@@ -56,8 +56,8 @@
 ## 链接检查
 
 - 一方断链数：0
-- 外部链接 warning：28
-- 公开扫描桥接：ok:200、ok:200
+- 外部链接 warning：30
+- 公开扫描桥接：warn:n/a、warn:n/a
 
 ## 质量语义
 
@@ -70,8 +70,12 @@
 - ✅ 无 P0 fail。
 - ⚠️ 最新日期“新增事实”少于 5 条：当前 4 条；已有缺口记录，首页应诚实显示可信新增不足。
 - ⚠️ external link not hard-checked in Phase 1
+- ⚠️ network check warning: This operation was aborted
+- ⚠️ external link not hard-checked in Phase 1
+- ⚠️ network check warning: This operation was aborted
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
-- ⚠️ 信息库交付待核验：scheduled
+- ⚠️ external link not hard-checked in Phase 1
+- ⚠️ network check warning: This operation was aborted
 - ⚠️ 信息库质量为 warn
 - ⚠️ 专题研究状态为 warn
 - ⚠️ 专题待正式重跑 25 天
