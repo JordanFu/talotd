@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-28T16:46:32.086Z",
+  "generatedAt": "2026-10-28T19:00:18.149Z",
   "module": "info-feed",
-  "qualityStatus": "warn",
+  "qualityStatus": "fail",
   "latestDate": "2026-10-28",
   "latestCardCount": 10,
   "newFactCount": 4,
@@ -695,35 +695,41 @@
   "warnings": [
     "最新日期“新增事实”少于 5 条：当前 4 条；已有缺口记录，首页应诚实显示可信新增不足。"
   ],
-  "criticalIssues": [],
-  "brokenLinks": [],
+  "criticalIssues": [
+    "一方内部链接存在断链：1 条；需先运行或修复链接检查。"
+  ],
+  "brokenLinks": [
+    {
+      "type": "public-scan",
+      "sourceFile": "data/info-feed-status.json",
+      "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-28.html",
+      "reason": "public scan bridge returned 404",
+      "status": 404
+    }
+  ],
   "links": {
-    "checkedAt": "2026-10-28T10:19:21.619Z",
-    "qualityStatus": "warn",
-    "firstPartyChecked": 4993,
-    "externalWarnings": 31,
-    "brokenCount": 0,
+    "checkedAt": "2026-10-28T16:47:24.552Z",
+    "qualityStatus": "fail",
+    "firstPartyChecked": 5019,
+    "externalWarnings": 28,
+    "brokenCount": 1,
     "publicScanBridge": [
       {
-        "ok": false,
-        "hardBroken": false,
-        "status": null,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-27.html",
-        "reason": "network check warning: fetch failed"
+        "ok": true,
+        "status": 200,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-27.html"
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "url": "https://jordanfu.github.io/org-intelligence-info/"
       },
       {
         "ok": false,
-        "hardBroken": false,
-        "status": null,
-        "url": "https://jordanfu.github.io/org-intelligence-info/",
-        "reason": "network check warning: fetch failed"
-      },
-      {
-        "ok": false,
-        "hardBroken": false,
-        "status": null,
+        "hardBroken": true,
+        "status": 404,
         "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-28.html",
-        "reason": "network check warning: fetch failed"
+        "reason": "public scan bridge returned 404"
       }
     ]
   },
