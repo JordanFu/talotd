@@ -106,41 +106,38 @@
   ],
   "warnings": [
     "knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。",
-    "external link not hard-checked in Phase 1"
+    "external link not hard-checked in Phase 1",
+    "network check warning: fetch failed"
   ],
   "criticalIssues": [],
-  "brokenLinks": [
-    {
-      "type": "public-scan",
-      "sourceFile": "data/info-feed-status.json",
-      "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-28.html",
-      "reason": "public scan bridge returned 404",
-      "status": 404
-    }
-  ],
+  "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-10-28T07:02:31.373Z",
-    "qualityStatus": "fail",
+    "checkedAt": "2026-10-28T10:19:21.619Z",
+    "qualityStatus": "warn",
     "firstPartyChecked": 4993,
-    "externalWarnings": 28,
-    "brokenCount": 1,
+    "externalWarnings": 31,
+    "brokenCount": 0,
     "publicScanBridge": [
       {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-27.html"
-      },
-      {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/"
+        "ok": false,
+        "hardBroken": false,
+        "status": null,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-27.html",
+        "reason": "network check warning: fetch failed"
       },
       {
         "ok": false,
-        "hardBroken": true,
-        "status": 404,
+        "hardBroken": false,
+        "status": null,
+        "url": "https://jordanfu.github.io/org-intelligence-info/",
+        "reason": "network check warning: fetch failed"
+      },
+      {
+        "ok": false,
+        "hardBroken": false,
+        "status": null,
         "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-28.html",
-        "reason": "public scan bridge returned 404"
+        "reason": "network check warning: fetch failed"
       }
     ]
   }

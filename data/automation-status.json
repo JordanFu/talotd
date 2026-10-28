@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T09:52:44.366Z",
+  "generatedAt": "2026-10-28T10:19:27.355Z",
   "module": "automation",
   "qualityStatus": "fail",
   "chains": {
@@ -30,10 +30,10 @@
       "runUrl": "https://github.com/JordanFu/talotd/actions/runs/40667647111"
     },
     "topicProjects": {
-      "qualityStatus": "fail",
+      "qualityStatus": "warn",
       "today": "2026-10-28",
-      "todayStatus": "scheduled",
-      "latestFormalDate": "2026-10-27",
+      "todayStatus": "formal",
+      "latestFormalDate": "2026-10-28",
       "pendingRerunDates": [
         "2026-10-12",
         "2026-09-16",
@@ -69,9 +69,9 @@
       "privatePathLeakCount": 0
     },
     "linkCheck": {
-      "qualityStatus": "fail",
-      "brokenCount": 1,
-      "checkedAt": "2026-10-28T07:02:31.373Z"
+      "qualityStatus": "warn",
+      "brokenCount": 0,
+      "checkedAt": "2026-10-28T10:19:21.619Z"
     },
     "githubActionsFallback": {
       "status": "pass",
@@ -95,16 +95,16 @@
       "criticalIssues": []
     },
     "localFormalTask": {
-      "status": "scheduled",
+      "status": "confirmed-formal",
       "evidence": "仅根据 topic-projects manifest 判断；无法从云端伪造本地正式运行完成。"
     }
   },
   "warnings": [
+    "专题研究状态为 warn",
     "专题待正式重跑 25 天"
   ],
   "criticalIssues": [
-    "信息库当日交付未完成：quality-blocked",
-    "一方链接或公开扫描桥接存在 fail"
+    "信息库当日交付未完成：quality-blocked"
   ],
   "operatingRule": "GitHub Actions 只能兜底、审计和记录状态；正式研究完成只能由 formal 条件确认。"
 }
