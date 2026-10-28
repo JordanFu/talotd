@@ -1,18 +1,20 @@
 {
-  "checkedAt": "2026-10-28T03:23:59.504Z",
+  "checkedAt": "2026-10-28T07:02:31.416Z",
   "module": "info-delivery",
   "date": "2026-10-28",
   "timezone": "Asia/Shanghai",
   "scheduledAt": "09:40",
   "deadline": "11:30",
-  "status": "published",
-  "qualityStatus": "warn",
+  "status": "quality-blocked",
+  "qualityStatus": "fail",
   "cardCount": 10,
   "gapRecordCount": 1,
   "localReady": true,
-  "publicVerified": true,
-  "issues": [],
+  "publicVerified": false,
+  "issues": [
+    "信息审计存在阻断项，不得作为成功交付"
+  ],
   "remoteErrors": [],
   "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
-  "runUrl": null
+  "runUrl": "https://github.com/JordanFu/talotd/actions/runs/40647415942"
 }

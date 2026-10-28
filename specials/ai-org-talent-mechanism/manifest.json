@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-28T03:12:40.851Z",
+  "generatedAt": "2026-10-28T07:01:42.497Z",
   "module": "topic-projects",
   "project": {
     "id": "ai-org-talent-mechanism",
     "title": "AI时代组织与人才机制四课题研究",
     "root": "specials/ai-org-talent-mechanism"
   },
-  "qualityStatus": "warn",
+  "qualityStatus": "fail",
   "latestFormalDate": "2026-10-27",
   "latestAnyDate": "2026-10-28",
   "today": "2026-10-28",
@@ -8387,32 +8387,42 @@
       ]
     }
   ],
-  "brokenLinks": [],
+  "brokenLinks": [
+    {
+      "type": "public-scan",
+      "sourceFile": "data/info-feed-status.json",
+      "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-28.html",
+      "reason": "public scan bridge returned 404",
+      "status": 404
+    }
+  ],
   "links": {
-    "checkedAt": "2026-10-28T03:15:27.013Z",
-    "qualityStatus": "warn",
-    "firstPartyChecked": 5003,
-    "externalWarnings": 30,
-    "brokenCount": 0,
+    "checkedAt": "2026-10-28T07:02:31.373Z",
+    "qualityStatus": "fail",
+    "firstPartyChecked": 4993,
+    "externalWarnings": 28,
+    "brokenCount": 1,
     "publicScanBridge": [
       {
-        "ok": false,
-        "hardBroken": false,
-        "status": null,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-27.html",
-        "reason": "network check warning: This operation was aborted"
+        "ok": true,
+        "status": 200,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-27.html"
+      },
+      {
+        "ok": true,
+        "status": 200,
+        "url": "https://jordanfu.github.io/org-intelligence-info/"
       },
       {
         "ok": false,
-        "hardBroken": false,
-        "status": null,
-        "url": "https://jordanfu.github.io/org-intelligence-info/",
-        "reason": "network check warning: This operation was aborted"
+        "hardBroken": true,
+        "status": 404,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-10-28.html",
+        "reason": "public scan bridge returned 404"
       }
     ]
   },
   "warnings": [
-    "external link not hard-checked in Phase 1",
-    "network check warning: This operation was aborted"
+    "external link not hard-checked in Phase 1"
   ]
 }

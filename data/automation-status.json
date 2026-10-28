@@ -1,34 +1,36 @@
 {
-  "generatedAt": "2026-10-28T03:24:02.167Z",
+  "generatedAt": "2026-10-28T07:02:32.219Z",
   "module": "automation",
-  "qualityStatus": "warn",
+  "qualityStatus": "fail",
   "chains": {
     "infoFeed": {
-      "qualityStatus": "warn",
+      "qualityStatus": "fail",
       "latestDate": "2026-10-28",
       "latestCardCount": 10,
       "newFactCount": 4
     },
     "infoDelivery": {
-      "checkedAt": "2026-10-28T03:23:59.504Z",
+      "checkedAt": "2026-10-28T07:02:31.416Z",
       "module": "info-delivery",
       "date": "2026-10-28",
       "timezone": "Asia/Shanghai",
       "scheduledAt": "09:40",
       "deadline": "11:30",
-      "status": "published",
-      "qualityStatus": "warn",
+      "status": "quality-blocked",
+      "qualityStatus": "fail",
       "cardCount": 10,
       "gapRecordCount": 1,
       "localReady": true,
-      "publicVerified": true,
-      "issues": [],
+      "publicVerified": false,
+      "issues": [
+        "信息审计存在阻断项，不得作为成功交付"
+      ],
       "remoteErrors": [],
       "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
-      "runUrl": null
+      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/40647415942"
     },
     "topicProjects": {
-      "qualityStatus": "warn",
+      "qualityStatus": "fail",
       "today": "2026-10-28",
       "todayStatus": "scheduled",
       "latestFormalDate": "2026-10-27",
@@ -67,9 +69,9 @@
       "privatePathLeakCount": 0
     },
     "linkCheck": {
-      "qualityStatus": "warn",
-      "brokenCount": 0,
-      "checkedAt": "2026-10-28T03:15:27.013Z"
+      "qualityStatus": "fail",
+      "brokenCount": 1,
+      "checkedAt": "2026-10-28T07:02:31.373Z"
     },
     "githubActionsFallback": {
       "status": "pass",
@@ -98,10 +100,11 @@
     }
   },
   "warnings": [
-    "信息库质量为 warn",
-    "专题研究状态为 warn",
     "专题待正式重跑 25 天"
   ],
-  "criticalIssues": [],
+  "criticalIssues": [
+    "信息库当日交付未完成：quality-blocked",
+    "一方链接或公开扫描桥接存在 fail"
+  ],
   "operatingRule": "GitHub Actions 只能兜底、审计和记录状态；正式研究完成只能由 formal 条件确认。"
 }
