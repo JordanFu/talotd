@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T10:19:27.355Z",
+  "generatedAt": "2026-10-28T16:47:25.428Z",
   "module": "automation",
   "qualityStatus": "fail",
   "chains": {
@@ -10,29 +10,32 @@
       "newFactCount": 4
     },
     "infoDelivery": {
-      "checkedAt": "2026-10-28T09:52:43.582Z",
+      "checkedAt": "2026-10-28T16:47:24.652Z",
       "module": "info-delivery",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "timezone": "Asia/Shanghai",
       "scheduledAt": "09:40",
       "deadline": "11:30",
-      "status": "quality-blocked",
-      "qualityStatus": "fail",
-      "cardCount": 10,
-      "gapRecordCount": 1,
-      "localReady": true,
+      "status": "scheduled",
+      "qualityStatus": "warn",
+      "cardCount": 0,
+      "gapRecordCount": 0,
+      "localReady": false,
       "publicVerified": false,
       "issues": [
-        "信息审计存在阻断项，不得作为成功交付"
+        "digest 未出现当日信息卡",
+        "当日 daily 或 daily-report 缺失日期/文件",
+        "当日导读正文缺失",
+        "信息库 manifest 日期或卡片数与当日产物不符"
       ],
       "remoteErrors": [],
       "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
-      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/40667647111"
+      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/40728587353"
     },
     "topicProjects": {
-      "qualityStatus": "warn",
-      "today": "2026-10-28",
-      "todayStatus": "formal",
+      "qualityStatus": "fail",
+      "today": "2026-10-29",
+      "todayStatus": "scheduled",
       "latestFormalDate": "2026-10-28",
       "pendingRerunDates": [
         "2026-10-12",
@@ -64,14 +67,14 @@
     },
     "knowledgeLint": {
       "qualityStatus": "pass",
-      "latestCatalogDate": "2026-10-28",
+      "latestCatalogDate": "2026-10-29",
       "reportCount": 228,
       "privatePathLeakCount": 0
     },
     "linkCheck": {
-      "qualityStatus": "warn",
-      "brokenCount": 0,
-      "checkedAt": "2026-10-28T10:19:21.619Z"
+      "qualityStatus": "fail",
+      "brokenCount": 1,
+      "checkedAt": "2026-10-28T16:47:24.552Z"
     },
     "githubActionsFallback": {
       "status": "pass",
@@ -95,16 +98,16 @@
       "criticalIssues": []
     },
     "localFormalTask": {
-      "status": "confirmed-formal",
+      "status": "scheduled",
       "evidence": "仅根据 topic-projects manifest 判断；无法从云端伪造本地正式运行完成。"
     }
   },
   "warnings": [
-    "专题研究状态为 warn",
+    "信息库交付待核验：scheduled",
     "专题待正式重跑 25 天"
   ],
   "criticalIssues": [
-    "信息库当日交付未完成：quality-blocked"
+    "一方链接或公开扫描桥接存在 fail"
   ],
   "operatingRule": "GitHub Actions 只能兜底、审计和记录状态；正式研究完成只能由 formal 条件确认。"
 }

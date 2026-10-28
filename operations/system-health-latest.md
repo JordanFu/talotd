@@ -1,15 +1,15 @@
 # 系统健康状态
 
-> 自动生成：2026-10-28T10:19:32.356Z
+> 自动生成：2026-10-28T16:47:25.463Z
 
 ## 一眼判断
 
 - 总体状态：❌ fail
 - 情报流状态：❌ fail
-- 专题研究状态：⚠️ warn
+- 专题研究状态：❌ fail
 - 知识库状态：❌ fail
 - 自动化状态：❌ fail
-- 一方链接状态：⚠️ warn
+- 一方链接状态：❌ fail
 - 当前结论：存在阻断项；首页和自动化不得显示已正式完成。
 
 ## 情报流状态
@@ -25,15 +25,15 @@
 
 ## 专题研究状态
 
-- 今日日期：2026-10-28
-- 今日专题状态：formal
+- 今日日期：2026-10-29
+- 今日专题状态：scheduled
 - 最新正式日报日期：2026-10-28
 - 待正式重跑日期数：25
 - 待正式重跑日期：2026-10-12、2026-09-16、2026-09-11、2026-08-30、2026-08-29、2026-08-16、2026-08-09、2026-07-13、2026-07-12、2026-07-11、2026-07-06、2026-07-03 等 25 项
 
 ## 知识库状态
 
-- Catalog 日期：2026-10-28
+- Catalog 日期：2026-10-29
 - 知识源：4
 - 报告 / 知识页：228
 - 待重试 PDF：17
@@ -42,22 +42,22 @@
 
 ## 自动化状态
 
-- 信息库当日交付：quality-blocked
+- 信息库当日交付：scheduled
 - 信息库线上内容一致：未确认
 - 信息库交付截止：北京时间 11:30；告警不等于内容补跑完成。
-- 本地正式任务：confirmed-formal
+- 本地正式任务：scheduled
 - GitHub Actions 角色：fallback-only
 - GitHub Actions 定时数：4
 - 信息库链路：❌ fail
-- 专题链路：⚠️ warn
+- 专题链路：❌ fail
 - 知识库 lint 链路：✅ pass
-- 链接检查链路：⚠️ warn
+- 链接检查链路：❌ fail
 
 ## 链接检查
 
-- 一方断链数：0
-- 外部链接 warning：31
-- 公开扫描桥接：warn:n/a、warn:n/a、warn:n/a
+- 一方断链数：1
+- 外部链接 warning：28
+- 公开扫描桥接：ok:200、ok:200、warn:404
 
 ## 质量语义
 
@@ -67,14 +67,11 @@
 
 ## 当前问题
 
-- ❌ 信息库当日交付未完成：quality-blocked
+- ❌ 一方链接或公开扫描桥接存在 fail
 - ⚠️ 最新日期“新增事实”少于 5 条：当前 4 条；已有缺口记录，首页应诚实显示可信新增不足。
 - ⚠️ external link not hard-checked in Phase 1
-- ⚠️ network check warning: fetch failed
 - ⚠️ external link not hard-checked in Phase 1
-- ⚠️ network check warning: fetch failed
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
 - ⚠️ external link not hard-checked in Phase 1
-- ⚠️ network check warning: fetch failed
-- ⚠️ 专题研究状态为 warn
+- ⚠️ 信息库交付待核验：scheduled
 - ⚠️ 专题待正式重跑 25 天
