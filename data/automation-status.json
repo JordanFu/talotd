@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T07:24:56.424Z",
+  "generatedAt": "2026-10-29T10:15:07.276Z",
   "module": "automation",
   "qualityStatus": "warn",
   "chains": {
@@ -10,7 +10,7 @@
       "newFactCount": 4
     },
     "infoDelivery": {
-      "checkedAt": "2026-10-29T07:24:55.695Z",
+      "checkedAt": "2026-10-29T10:15:06.668Z",
       "module": "info-delivery",
       "date": "2026-10-29",
       "timezone": "Asia/Shanghai",
@@ -25,13 +25,13 @@
       "issues": [],
       "remoteErrors": [],
       "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
-      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/40835134322"
+      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/40856020326"
     },
     "topicProjects": {
       "qualityStatus": "warn",
       "today": "2026-10-29",
-      "todayStatus": "scheduled",
-      "latestFormalDate": "2026-10-28",
+      "todayStatus": "formal",
+      "latestFormalDate": "2026-10-29",
       "pendingRerunDates": [
         "2026-10-12",
         "2026-09-16",
@@ -93,7 +93,7 @@
       "criticalIssues": []
     },
     "localFormalTask": {
-      "status": "scheduled",
+      "status": "confirmed-formal",
       "evidence": "仅根据 topic-projects manifest 判断；无法从云端伪造本地正式运行完成。"
     }
   },
