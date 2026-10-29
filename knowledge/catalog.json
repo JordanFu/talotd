@@ -384,7 +384,7 @@
       "id": "hr-service-interfaces-2026-10-05",
       "title": "HR服务与交付接口",
       "summaryFile": "./knowledge/wiki/hr-service-interfaces-2026-10-05.md",
-      "description": "用任务完成和实际支持替代采用次数；10月28日补旧流程退出、资格复用、指导容量与评价用途，先看员工实际少了哪些麻烦。",
+      "description": "用任务完成和实际支持替代采用次数；10月29日补工具维护、事件升级、求助与跨界责任，负责人需要正常工时支持，采用率不代替净减负。",
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
@@ -6190,6 +6190,30 @@
         "绩效边界"
       ],
       "originalUrl": "https://www.sktelecom.com/img/pds/persist_biz/2026/SKT_AI_Governance_Report.pdf"
+    },
+    {
+      "id": "p114",
+      "title": "德勤：从试点到规模化——打造AI原生企业",
+      "originalTitle": "从试点到规模化——打造AI原生企业",
+      "author": "Deloitte",
+      "publisher": "Deloitte",
+      "sourceType": "consulting",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2026-10-27",
+      "uploadDate": "2026-10-29",
+      "description": "21页PDF已缓存；读第3、12—14、16—19页指定段并核第19页图像，非全文精读。六维框架须同时核组织与技术约束；引用2025年调查，不作新样本或已验证组织效果。",
+      "summaryFile": "./knowledge/wiki/pdf-source-deloitte-deloitte-cn-building-the-ai-native-enterprise-zh-20261026.md",
+      "rawFile": "./knowledge/raw/deloitte-deloitte-cn-building-the-ai-native-enterprise-zh-20261026.pdf",
+      "fileName": "deloitte-deloitte-cn-building-the-ai-native-enterprise-zh-20261026.pdf",
+      "fileSize": "8619981 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "Deloitte"
+      ],
+      "originalUrl": "https://www.deloitte.com/content/dam/assets-zone1/cn/zh/docs/collections/2026/deloitte-cn-building-the-ai-native-enterprise-zh-20261026.pdf"
     }
   ]
 }
