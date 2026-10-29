@@ -38,6 +38,7 @@ OD、业务与IT可选一条跨部门流程，核对谁批准、系统可否连�
 ## 被引用位置
 
 - `daily/2026-10-29.md:97`：21页原始白皮书
+- `specials/ai-org-talent-mechanism/2026-10-29/03-job-family-career-architecture.md:202`：Deloitte中国｜从试点到规模化：打造AI原生企业
 
 ## 后续问题
 

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T10:15:07.276Z",
+  "generatedAt": "2026-10-29T16:59:41.781Z",
   "module": "automation",
   "qualityStatus": "warn",
   "chains": {
@@ -10,27 +10,32 @@
       "newFactCount": 4
     },
     "infoDelivery": {
-      "checkedAt": "2026-10-29T10:15:06.668Z",
+      "checkedAt": "2026-10-29T16:59:40.946Z",
       "module": "info-delivery",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "timezone": "Asia/Shanghai",
       "scheduledAt": "09:40",
       "deadline": "11:30",
-      "status": "published",
+      "status": "scheduled",
       "qualityStatus": "warn",
-      "cardCount": 10,
-      "gapRecordCount": 1,
-      "localReady": true,
-      "publicVerified": true,
-      "issues": [],
+      "cardCount": 0,
+      "gapRecordCount": 0,
+      "localReady": false,
+      "publicVerified": false,
+      "issues": [
+        "digest 未出现当日信息卡",
+        "当日 daily 或 daily-report 缺失日期/文件",
+        "当日导读正文缺失",
+        "信息库 manifest 日期或卡片数与当日产物不符"
+      ],
       "remoteErrors": [],
       "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
-      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/40856020326"
+      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/40916762915"
     },
     "topicProjects": {
       "qualityStatus": "warn",
-      "today": "2026-10-29",
-      "todayStatus": "formal",
+      "today": "2026-10-30",
+      "todayStatus": "scheduled",
       "latestFormalDate": "2026-10-29",
       "pendingRerunDates": [
         "2026-10-12",
@@ -62,14 +67,14 @@
     },
     "knowledgeLint": {
       "qualityStatus": "pass",
-      "latestCatalogDate": "2026-10-29",
+      "latestCatalogDate": "2026-10-30",
       "reportCount": 229,
       "privatePathLeakCount": 0
     },
     "linkCheck": {
       "qualityStatus": "warn",
       "brokenCount": 0,
-      "checkedAt": "2026-10-29T07:24:55.650Z"
+      "checkedAt": "2026-10-29T16:59:40.894Z"
     },
     "githubActionsFallback": {
       "status": "pass",
@@ -93,11 +98,12 @@
       "criticalIssues": []
     },
     "localFormalTask": {
-      "status": "confirmed-formal",
+      "status": "scheduled",
       "evidence": "仅根据 topic-projects manifest 判断；无法从云端伪造本地正式运行完成。"
     }
   },
   "warnings": [
+    "信息库交付待核验：scheduled",
     "信息库质量为 warn",
     "专题研究状态为 warn",
     "专题待正式重跑 25 天"
