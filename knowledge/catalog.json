@@ -384,7 +384,7 @@
       "id": "hr-service-interfaces-2026-10-05",
       "title": "HR服务与交付接口",
       "summaryFile": "./knowledge/wiki/hr-service-interfaces-2026-10-05.md",
-      "description": "用任务完成和实际支持替代采用次数；10月29日补工具维护、事件升级、求助与跨界责任，负责人需要正常工时支持，采用率不代替净减负。",
+      "description": "10月30日补负荷、真实练习与评价用途；服务数据不默认用于评人，任务变化要配导师和正常工时支持，用已有返工与等待看净减负。",
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
@@ -6214,6 +6214,30 @@
         "Deloitte"
       ],
       "originalUrl": "https://www.deloitte.com/content/dam/assets-zone1/cn/zh/docs/collections/2026/deloitte-cn-building-the-ai-native-enterprise-zh-20261026.pdf"
+    },
+    {
+      "id": "p115",
+      "title": "BHEF：AI软件工程能力图与培养边界",
+      "originalTitle": "AI Enabled Software Engineer Competency Map",
+      "author": "BHEF",
+      "publisher": "BHEF",
+      "sourceType": "industry",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-10-30",
+      "description": "8页PDF已缓存；读第1、3、5—8页指定段并核第7页图像，非全文精读。区分工具使用、核验、安全与运行责任；熟练度非职级、薪带或晋升量表，评分效度待验。",
+      "summaryFile": "./knowledge/wiki/pdf-source-bhef-com-ai-enabled-software-engineer-competency-map.md",
+      "rawFile": "./knowledge/raw/bhef-com-ai-enabled-software-engineer-competency-map.pdf",
+      "fileName": "bhef-com-ai-enabled-software-engineer-competency-map.pdf",
+      "fileSize": "229774 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "bhef.com"
+      ],
+      "originalUrl": "https://www.bhef.com/sites/default/files/AI-Enabled_Software_Engineer_Competency_Map.pdf"
     }
   ]
 }
