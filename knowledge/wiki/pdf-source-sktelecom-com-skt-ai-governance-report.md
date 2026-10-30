@@ -41,3 +41,11 @@ status: 40页缓存可用；27日核25—30页文字及29页表格，非全文�
 - `specials/ai-org-talent-mechanism/2026-10-27/01-flat-organization.md:261`：AI Governance Report
 - `specials/ai-org-talent-mechanism/2026-10-27/03-job-family-career-architecture.md:170`：AI Governance Report
 - `specials/ai-org-talent-mechanism/2026-10-27/04-promotion-system.md:203`：SKT AI Governance Report
+- `specials/ai-org-talent-mechanism/weekly/2026-W44-detailed.md:41`：治理报告
+- `specials/ai-org-talent-mechanism/weekly/2026-W44-detailed.md:255`：AI Governance Report
+- `specials/ai-org-talent-mechanism/weekly/2026-W44.md:41`：治理报告
+- `specials/ai-org-talent-mechanism/weekly/2026-W44.md:255`：AI Governance Report
+- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:41`：治理报告
+- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:255`：AI Governance Report
+- `specials/ai-org-talent-mechanism/weekly/latest.md:41`：治理报告
+- `specials/ai-org-talent-mechanism/weekly/latest.md:255`：AI Governance Report

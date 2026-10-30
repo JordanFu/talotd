@@ -57,8 +57,6 @@ pearson 2026 nine month trading update 22 october 2026 已作为日报/周报 PD
 - `specials/ai-org-talent-mechanism/2026-10-22/04-promotion-system.md:234`：Pearson 2026 Nine-Month Trading Update
 - `specials/ai-org-talent-mechanism/weekly/2026-W43-detailed.md:277`：Pearson｜2026 九个月交易更新
 - `specials/ai-org-talent-mechanism/weekly/2026-W43.md:277`：Pearson｜2026 九个月交易更新
-- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:277`：Pearson｜2026 九个月交易更新
-- `specials/ai-org-talent-mechanism/weekly/latest.md:277`：Pearson｜2026 九个月交易更新
 
 ## 后续精读任务
 

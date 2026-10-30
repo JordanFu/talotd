@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-10-30
+> 最后更新: 2026-10-31
 
 ---
 
@@ -234,7 +234,7 @@
 | [7520958](wiki/pdf-source-papers-ssrn-com-7520958.md) | papers.ssrn.com | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 2 次 |
 | [H3 AP202606221823746144 1](wiki/pdf-source-pdf-dfcfw-com-h3-ap202606221823746144-1.md) | pdf.dfcfw.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [H3 AP202607011826626755 1](wiki/pdf-source-pdf-dfcfw-com-h3-ap202607011826626755-1.md) | pdf.dfcfw.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
-| [pearson 2026 nine month trading update 22 october 2026](wiki/pdf-source-plc-pearson-com-pearson-2026-nine-month-trading-update-22-october-2026.md) | plc.pearson.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
+| [pearson 2026 nine month trading update 22 october 2026](wiki/pdf-source-plc-pearson-com-pearson-2026-nine-month-trading-update-22-october-2026.md) | plc.pearson.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
 | [WEF Artificial Intelligence and the Future of Entry Level Work 2026](wiki/pdf-source-world-economic-forum-wef-artificial-intelligence-and-the-future-of-entry-level-work-2026.md) | World Economic Forum | AI组织设计、战略规划 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
 | [WEF：Organizational Transformation in the Age of AI](wiki/pdf-source-world-economic-forum-wef-organizational-transformation-in-the-age-of-ai.md) | World Economic Forum | 工作流重构、决策权、AI 参与执行 | 强相关：战略到组织机制 | 已下载原文，引用 3 次 |
 | [Anthropic：2026 Agentic Coding Trends Report](wiki/pdf-source-anthropic-anthropic-2026-agentic-coding-trends-report.md) | Anthropic | Agentic coding、工程师角色重塑、人机协作 | 强相关：产品工程一体化 | 已下载原文，引用 1 次 |
@@ -285,7 +285,7 @@
 | [2026 global ai jobs barometer full report](wiki/pdf-source-pwc-com-2026-global-ai-jobs-barometer-full-report.md) | pwc.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [2026 global ai jobs barometer global findings](wiki/pdf-source-pwc-com-2026-global-ai-jobs-barometer-global-findings.md) | pwc.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [20260828](wiki/pdf-source-scsk-jp-20260828.md) | scsk.jp | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 9 次 |
-| [SKT智能体治理：真人责任、停止与退出](wiki/pdf-source-sktelecom-com-skt-ai-governance-report.md) | SK Telecom | 智能体治理与评价用途 | L2公司披露，非后效 | 40页缓存，25—30页已核，引用 12 次 |
+| [SKT智能体治理：真人责任、停止与退出](wiki/pdf-source-sktelecom-com-skt-ai-governance-report.md) | SK Telecom | 智能体治理与评价用途 | L2公司披露，非后效 | 40页缓存，25—30页已核，引用 20 次 |
 | [it job family career ladder matrix software engineer](wiki/pdf-source-umassmed-edu-it-job-family-career-ladder-matrix-software-engineer.md) | umassmed.edu | AI组织设计、绩效管理 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
 | [2026072000261](wiki/pdf-source-www1-hkexnews-hk-2026072000261.md) | www1.hkexnews.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 <!-- PDF_AUTO_INDEX_END -->
