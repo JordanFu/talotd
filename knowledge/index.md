@@ -218,7 +218,7 @@
 | [AFGE v OPM](wiki/pdf-source-democracyforward-org-afge-v-opm.md) | democracyforward.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [Mercer and Eightfold Pay for Skills](wiki/pdf-source-eightfold-ai-mercer-and-eightfold-pay-for-skills.md) | eightfold.ai | AI组织设计、绩效管理、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [new skill price](wiki/pdf-source-elmerli-github-io-new-skill-price.md) | elmerli.github.io | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
-| [Founder Reports：AI核验劳动与调查分母](wiki/pdf-source-founderreports-com-botsitting-report-2026-fr.md) | Founder Reports | 核验容量与题项分母 | L2自报观察，非净收益或裁员效果 | 缓存20页，核指定段及第10页图像，非全文精读；引用 1 次 |
+| [Founder Reports：AI核验劳动与调查分母](wiki/pdf-source-founderreports-com-botsitting-report-2026-fr.md) | Founder Reports | 核验容量与题项分母 | L2自报观察，非净收益或裁员效果 | 缓存20页，核指定段及第10页图像，非全文精读；引用 5 次 |
 | [AIGW：AI 企业劳动力架构九案例](wiki/pdf-source-gaeedu-public-files-s3-us-east-2-amazonaws-com-workforce-architecture-for-enterprise-9-cases.md) | AIGW Policy Observatory | AI组织设计、人才发展、决策权、人员流动 | 强相关：九域劳动力架构与员工净收益诊断 | 已核读关键章节，引用 1 次 |
 | [ai index report 2026 chapter 4 economy](wiki/pdf-source-hai-stanford-edu-ai-index-report-2026-chapter-4-economy.md) | hai.stanford.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [Q326 Results Call Management Speech](wiki/pdf-source-home-barclays-q326-results-call-management-speech.md) | home.barclays | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
@@ -265,7 +265,7 @@
 | [the impact of agentic ai on network operations](wiki/pdf-source-cisco-com-the-impact-of-agentic-ai-on-network-operations.md) | cisco.com | AI组织设计、变革管理 | 待评估：需精读后确定 | 已索引待重试，引用 4 次 |
 | [德勤：从试点到规模化——打造AI原生企业](wiki/pdf-source-deloitte-deloitte-cn-building-the-ai-native-enterprise-zh-20261026.md) | Deloitte | AI组织设计 | 六维框架；非组织效果验证 | 已缓存21页，读指定段并核第19页图像；非全文精读 |
 | [us spans and layers for the modern organization 2020](wiki/pdf-source-deloitte-us-spans-and-layers-for-the-modern-organization-2020.md) | Deloitte | AI组织设计、变革管理 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
-| [EY：Future of Pay Report 2026](wiki/pdf-source-ey-ey-future-of-pay-report-2026.md) | EY | 技能薪酬、生产率锚点、AI 人才溢价 | 强相关：薪酬与激励机制 | 已下载原文，引用 182 次 |
+| [EY：Future of Pay Report 2026](wiki/pdf-source-ey-ey-future-of-pay-report-2026.md) | EY | 技能薪酬、生产率锚点、AI 人才溢价 | 强相关：薪酬与激励机制 | 已下载原文，引用 177 次 |
 | [pip faq 2026](wiki/pdf-source-facs-org-pip-faq-2026.md) | facs.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
 | [2026081700406](wiki/pdf-source-geelyauto-com-hk-2026081700406.md) | geelyauto.com.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [12 087 bc50bde2 3016 457a 9bee dc988cb1056b](wiki/pdf-source-hbs-edu-12-087-bc50bde2-3016-457a-9bee-dc988cb1056b.md) | hbs.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |

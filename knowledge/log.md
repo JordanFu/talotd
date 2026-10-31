@@ -406,7 +406,7 @@
 - 已下载：AFGE v OPM（引用 5 次）
 - 已下载：Mercer and Eightfold Pay for Skills（引用 2 次）
 - 已下载：new skill price（引用 3 次）
-- 已下载：Founder Reports：AI核验劳动与调查分母（引用 1 次）
+- 已下载：Founder Reports：AI核验劳动与调查分母（引用 5 次）
 - 已下载：AIGW：AI 企业劳动力架构九案例（引用 1 次）
 - 已下载：ai index report 2026 chapter 4 economy（引用 2 次）
 - 已下载：Q326 Results Call Management Speech（引用 2 次）
@@ -453,7 +453,7 @@
 - 待重试：the impact of agentic ai on network operations（引用 4 次）
 - 已下载：德勤：从试点到规模化——打造AI原生企业（引用 6 次）
 - 已下载：us spans and layers for the modern organization 2020（引用 3 次）
-- 已下载：EY：Future of Pay Report 2026（引用 182 次）
+- 已下载：EY：Future of Pay Report 2026（引用 177 次）
 - 已下载：pip faq 2026（引用 6 次）
 - 已下载：2026081700406（引用 1 次）
 - 已下载：12 087 bc50bde2 3016 457a 9bee dc988cb1056b（引用 8 次）
