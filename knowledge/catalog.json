@@ -384,7 +384,7 @@
       "id": "hr-service-interfaces-2026-10-05",
       "title": "HR服务与交付接口",
       "summaryFile": "./knowledge/wiki/hr-service-interfaces-2026-10-05.md",
-      "description": "10月30日补负荷、真实练习与评价用途；服务数据不默认用于评人，任务变化要配导师和正常工时支持，用已有返工与等待看净减负。",
+      "description": "10月31日补核验容量、任务停止点与使用者选择；培养配正常工时支持，服务数据不默认用于评价，用已有返工与等待看净负担。",
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
@@ -6238,6 +6238,30 @@
         "bhef.com"
       ],
       "originalUrl": "https://www.bhef.com/sites/default/files/AI-Enabled_Software_Engineer_Competency_Map.pdf"
+    },
+    {
+      "id": "p116",
+      "title": "Founder Reports：AI核验劳动与调查分母",
+      "originalTitle": "Botsitting Report 2026 FR",
+      "author": "Founder Reports",
+      "publisher": "Founder Reports",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-10-31",
+      "description": "20页PDF已缓存；核第10—11、17—20页并核第10页图像，非全文精读。1,856与1,693为不同题分母；自报监督投入不等于AI净收益为负，首发日与招募方法仍待核。",
+      "summaryFile": "./knowledge/wiki/pdf-source-founderreports-com-botsitting-report-2026-fr.md",
+      "rawFile": "./knowledge/raw/founderreports-com-botsitting-report-2026-fr.pdf",
+      "fileName": "founderreports-com-botsitting-report-2026-fr.pdf",
+      "fileSize": "565621 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "founderreports.com"
+      ],
+      "originalUrl": "https://founderreports.com/wp-content/uploads/2026/10/Botsitting_Report_2026_FR.pdf"
     }
   ]
 }
