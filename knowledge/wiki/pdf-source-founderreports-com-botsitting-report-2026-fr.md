@@ -59,6 +59,7 @@ status: 已缓存20页；读指定段并核第10页图像，非全文精读
 - `specials/ai-org-talent-mechanism/2026-10-31/01-flat-organization.md:305`：20页公开PDF
 - `specials/ai-org-talent-mechanism/2026-10-31/02-talent-density.md:251`：20页公开PDF
 - `specials/ai-org-talent-mechanism/2026-10-31/04-promotion-system.md:258`：20页PDF
+- `specials/ai-org-talent-mechanism/2026-11-01/02-talent-density.md:184`：公开PDF
 
 ## 后续精读任务
 

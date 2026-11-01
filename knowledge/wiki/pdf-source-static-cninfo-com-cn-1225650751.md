@@ -37,6 +37,9 @@ status: 已缓存2页董事会公告；核读全文解析并核第2页图像
 ## 被引用位置
 
 - `daily/2026-11-01.md:28`：公司董事会原始PDF
+- `specials/ai-org-talent-mechanism/2026-11-01/00-overview.md:159`：董事会原始PDF
+- `specials/ai-org-talent-mechanism/2026-11-01/02-talent-density.md:179`：万通发展｜第九届董事会第三十三次临时会议决议公告（巨潮资讯原始PDF）
+- `specials/ai-org-talent-mechanism/2026-11-01/04-promotion-system.md:222`：第九届董事会第三十三次临时会议决议公告
 
 ## 后续问题
 

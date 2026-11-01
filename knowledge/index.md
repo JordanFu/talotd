@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-11-01
+> 最后更新: 2026-11-02
 
 ---
 
@@ -220,7 +220,7 @@
 | [AFGE v OPM](wiki/pdf-source-democracyforward-org-afge-v-opm.md) | democracyforward.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [Mercer and Eightfold Pay for Skills](wiki/pdf-source-eightfold-ai-mercer-and-eightfold-pay-for-skills.md) | eightfold.ai | AI组织设计、绩效管理、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [new skill price](wiki/pdf-source-elmerli-github-io-new-skill-price.md) | elmerli.github.io | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
-| [Founder Reports：AI核验劳动与调查分母](wiki/pdf-source-founderreports-com-botsitting-report-2026-fr.md) | Founder Reports | 核验容量与题项分母 | L2自报观察，非净收益或裁员效果 | 缓存20页，核指定段及第10页图像，非全文精读；引用 5 次 |
+| [Founder Reports：AI核验劳动与调查分母](wiki/pdf-source-founderreports-com-botsitting-report-2026-fr.md) | Founder Reports | 核验容量与题项分母 | L2自报观察，非净收益或裁员效果 | 缓存20页，核指定段及第10页图像，非全文精读；引用 6 次 |
 | [AIGW：AI 企业劳动力架构九案例](wiki/pdf-source-gaeedu-public-files-s3-us-east-2-amazonaws-com-workforce-architecture-for-enterprise-9-cases.md) | AIGW Policy Observatory | AI组织设计、人才发展、决策权、人员流动 | 强相关：九域劳动力架构与员工净收益诊断 | 已核读关键章节，引用 1 次 |
 | [ai index report 2026 chapter 4 economy](wiki/pdf-source-hai-stanford-edu-ai-index-report-2026-chapter-4-economy.md) | hai.stanford.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [Q326 Results Call Management Speech](wiki/pdf-source-home-barclays-q326-results-call-management-speech.md) | home.barclays | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
@@ -248,7 +248,7 @@
 | [Fannie Mae：LL-2026-04 AI/ML 治理要求](wiki/pdf-source-fannie-mae-fannie-mae-ll-2026-04-ai-ml.md) | Fannie Mae | AI治理、负责人、年度复核、供应商级联 | 强相关：正式治理规则与外部责任边界 | 已索引待重试，引用 13 次 |
 | [SMG Heart of Work Key Findings](wiki/pdf-source-staffmark-com-smg-heart-of-work-key-findings.md) | staffmark.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [6277baa6 0f7b 4fbe 9c7c ceb3e0e9b325 flatland](wiki/pdf-source-static-cdn-cars24-com-6277baa6-0f7b-4fbe-9c7c-ceb3e0e9b325-flatland.md) | static-cdn.cars24.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 16 次 |
-| [万通发展：期权授予与实际兑现的边界](wiki/pdf-source-static-cninfo-com-cn-1225650751.md) | 万通发展 | 激励资格、授予与兑现 | L2正式安排，不是收益或留任效果 | 缓存2页，核读全文解析及第2页图像；引用 1 次 |
+| [万通发展：期权授予与实际兑现的边界](wiki/pdf-source-static-cninfo-com-cn-1225650751.md) | 万通发展 | 激励资格、授予与兑现 | L2正式安排，不是收益或留任效果 | 缓存2页，核读全文解析及第2页图像；引用 4 次 |
 | [47382ae415a209fd161bc19a1f9b3704](wiki/pdf-source-static-www-tencent-com-47382ae415a209fd161bc19a1f9b3704.md) | static.www.tencent.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [gov.uscourts.cand.474095.38.0](wiki/pdf-source-storage-courtlistener-com-gov-uscourts-cand-474095-38-0.md) | storage.courtlistener.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [gov.uscourts.cand.474095.59.0](wiki/pdf-source-storage-courtlistener-com-gov-uscourts-cand-474095-59-0.md) | storage.courtlistener.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
