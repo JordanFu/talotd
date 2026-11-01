@@ -384,7 +384,7 @@
       "id": "hr-service-interfaces-2026-10-05",
       "title": "HR服务与交付接口",
       "summaryFile": "./knowledge/wiki/hr-service-interfaces-2026-10-05.md",
-      "description": "10月31日补核验容量、任务停止点与使用者选择；培养配正常工时支持，服务数据不默认用于评价，用已有返工与等待看净负担。",
+      "description": "11月1日补贡献、培养资格、任用与回报兑现分开；认可有理由不用工具，学习维护配正常工时，用已有质量与实际机会看结果，不加个人监控。",
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
@@ -6262,6 +6262,31 @@
         "founderreports.com"
       ],
       "originalUrl": "https://founderreports.com/wp-content/uploads/2026/10/Botsitting_Report_2026_FR.pdf"
+    },
+    {
+      "id": "p117",
+      "title": "万通发展：期权授予与实际兑现的边界",
+      "originalTitle": "第九届董事会第三十三次临时会议决议公告（2026-066）",
+      "author": "北京万通新发展集团股份有限公司",
+      "publisher": "万通发展",
+      "sourceType": "industry",
+      "topics": [
+        "薪酬激励",
+        "人才发展"
+      ],
+      "date": "2026-10-31",
+      "uploadDate": "2026-11-01",
+      "description": "2页董事会原始公告已缓存，核读全文解析并核第2页图像；可确认名单调整与首次授予，不等于实际兑现或留任效果。详细授予条件另有公告，原始全文本轮未读，不作证券或法律建议。",
+      "summaryFile": "./knowledge/wiki/pdf-source-static-cninfo-com-cn-1225650751.md",
+      "rawFile": "./knowledge/raw/static-cninfo-com-cn-1225650751.pdf",
+      "fileName": "static-cninfo-com-cn-1225650751.pdf",
+      "fileSize": "113339 bytes",
+      "tags": [
+        "PDF自动入库",
+        "薪酬激励",
+        "万通发展"
+      ],
+      "originalUrl": "https://static.cninfo.com.cn/finalpage/2026-10-31/1225650751.PDF"
     }
   ]
 }
