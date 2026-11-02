@@ -6326,7 +6326,10 @@
       "author": "Yi Wang",
       "publisher": "Frontiers in Psychology",
       "sourceType": "academic",
-      "topics": ["AI组织设计", "组织学习"],
+      "topics": [
+        "AI组织设计",
+        "组织学习"
+      ],
       "date": "2026-10-30",
       "uploadDate": "2026-11-02",
       "description": "14页公开PDF另行缓存，核第1、6—7、11—12页指定段及第12页图像，非全文精读。无非AI对照、现场模型仍相关；不强行增加依赖或给员工贴标签，答疑维护需正常工时。",
@@ -6334,7 +6337,11 @@
       "rawFile": "./knowledge/raw/frontiers-fpsyg-2026-1969612.pdf",
       "fileName": "frontiers-fpsyg-2026-1969612.pdf",
       "fileSize": "674971 bytes",
-      "tags": ["同伴学习", "工作设计", "协作成本"],
+      "tags": [
+        "同伴学习",
+        "工作设计",
+        "协作成本"
+      ],
       "originalUrl": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1969612/pdf"
     }
   ]
