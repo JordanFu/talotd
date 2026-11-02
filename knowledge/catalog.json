@@ -384,7 +384,7 @@
       "id": "hr-service-interfaces-2026-10-05",
       "title": "HR服务与交付接口",
       "summaryFile": "./knowledge/wiki/hr-service-interfaces-2026-10-05.md",
-      "description": "11月1日补贡献、培养资格、任用与回报兑现分开；认可有理由不用工具，学习维护配正常工时，用已有质量与实际机会看结果，不加个人监控。",
+      "description": "11月2日补针对性支持不等于无限接管；平台、业务维护和人工升级分别配正常工时，方法分享不转成无偿答疑，不增加监控或强行任务依赖。",
       "author": "OD 情报中心",
       "publisher": "OD Intelligence Center",
       "sourceType": "industry",
@@ -6318,6 +6318,24 @@
         "万通发展"
       ],
       "originalUrl": "https://static.cninfo.com.cn/finalpage/2026-10-31/1225650751.PDF"
+    },
+    {
+      "id": "coworker-ai-comparison-2026-10",
+      "title": "同事AI成果、求教与协作成本",
+      "originalTitle": "Inspired or entitled? The contingent effects of coworker AI-augmented performance through the lens of social comparison",
+      "author": "Yi Wang",
+      "publisher": "Frontiers in Psychology",
+      "sourceType": "academic",
+      "topics": ["AI组织设计", "组织学习"],
+      "date": "2026-10-30",
+      "uploadDate": "2026-11-02",
+      "description": "14页公开PDF另行缓存，核第1、6—7、11—12页指定段及第12页图像，非全文精读。无非AI对照、现场模型仍相关；不强行增加依赖或给员工贴标签，答疑维护需正常工时。",
+      "summaryFile": "./knowledge/wiki/coworker-ai-comparison-2026-10.md",
+      "rawFile": "./knowledge/raw/frontiers-fpsyg-2026-1969612.pdf",
+      "fileName": "frontiers-fpsyg-2026-1969612.pdf",
+      "fileSize": "674971 bytes",
+      "tags": ["同伴学习", "工作设计", "协作成本"],
+      "originalUrl": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1969612/pdf"
     }
   ]
 }
