@@ -624,6 +624,37 @@
       ]
     },
     {
+      "id": "local-knowledge-review-2026-11-02",
+      "title": "本地知识库定期 Review（2026-11-02）",
+      "originalTitle": "Local Knowledge Base Review 2026-11-02",
+      "author": "Codex",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "internal",
+      "topics": [
+        "知识管理",
+        "AI组织设计",
+        "组织机制",
+        "人才发展",
+        "晋升",
+        "People/HR",
+        "AI fluency"
+      ],
+      "date": "2026-11-02",
+      "uploadDate": "2026-11-02",
+      "description": "本周知识库巡检报告，覆盖 109 个公开 PDF 来源、近期信息流与专题连续性、六张新增结构化卡、PDF 来源类型、日期与生命周期债务、重复映射、分享入口和隐私边界。",
+      "summaryFile": "./knowledge/wiki/local-knowledge-review-2026-11-02.md",
+      "fileName": "generated review report",
+      "fileSize": "wiki page",
+      "tags": [
+        "知识管理",
+        "定期Review",
+        "资料治理",
+        "PDF入库",
+        "AI组织设计",
+        "People/HR"
+      ]
+    },
+    {
       "id": "local-knowledge-review-2026-10-26",
       "title": "本地知识库定期 Review（2026-10-26）",
       "originalTitle": "Local Knowledge Base Review 2026-10-26",
