@@ -139,6 +139,38 @@
   ],
   "reports": [
     {
+      "id": "gore-mutual-workflow-knowledge-2026-11",
+      "title": "Gore Mutual：知识嵌入工作界面与员工净收益",
+      "originalTitle": "Gore Mutual Insurance Embeds Guidewire ProNavigator to Speed Underwriting and Claims Decisions",
+      "author": "Gore Mutual / Guidewire",
+      "publisher": "Gore Mutual / Guidewire",
+      "sourceType": "industry",
+      "topics": ["AI组织设计", "知识管理"],
+      "date": "2026-11-02",
+      "uploadDate": "2026-11-03",
+      "description": "2页公开联合公告另行缓存86,524字节，已读解析并核第一页图像。L2部署自述，无独立耗时、错误率或员工收益数据；多处理案件不等于减负。",
+      "summaryFile": "./knowledge/wiki/gore-mutual-workflow-knowledge-2026-11.md",
+      "rawFile": "./knowledge/raw/guidewire-gore-mutual-2026-11-02.pdf",
+      "fileName": "guidewire-gore-mutual-2026-11-02.pdf",
+      "fileSize": "86524 bytes",
+      "tags": ["工作设计", "知识维护", "员工减负"],
+      "originalUrl": "https://ir.guidewire.com/node/26581/pdf"
+    },
+    {
+      "id": "decision-standards-dissent-2026-11",
+      "title": "决策标准显性化，也要保护异议与可修订性",
+      "author": "Kurt Strovink / Sangeeth Ram及合作作者",
+      "publisher": "McKinsey",
+      "sourceType": "consulting",
+      "topics": ["AI组织设计", "组织学习"],
+      "date": "2026-11-02",
+      "uploadDate": "2026-11-03",
+      "description": "HTML方法、匿名案例及风险已核，未取得所列9页PDF直链、未读PDF。L2方法披露，保留异议、修订及采集授权边界，不把领导偏好作员工评分。",
+      "summaryFile": "./knowledge/wiki/decision-standards-dissent-2026-11.md",
+      "tags": ["决策权", "组织学习", "异议保护"],
+      "originalUrl": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/turning-executive-judgment-into-organizational-intelligence-leveraging-ai-in-ceo-leadership"
+    },
+    {
       "id": "iowa-launchra-incentives-2026",
       "title": "Iowa学徒激励：留任条件与培养支持要分开核",
       "originalTitle": "Iowa Office of Apprenticeship LaunchRA Incentive Funds Terms and Conditions",
