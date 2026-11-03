@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T08:12:53.809Z",
+  "generatedAt": "2026-11-03T17:57:25.115Z",
   "module": "info-feed",
   "qualityStatus": "warn",
   "latestDate": "2026-11-03",
@@ -433,7 +433,7 @@
     "digestLatestDate": "2026-11-03",
     "latestScanDate": "2026-11-03",
     "freshnessStatus": "pass",
-    "ageDays": 0,
+    "ageDays": 1,
     "maxAgeDays": 1,
     "latestScanUrl": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-11-03.html",
     "publicMirrorUrl": "https://jordanfu.github.io/org-intelligence-info/",
@@ -759,9 +759,9 @@
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-11-03T08:13:44.470Z",
+    "checkedAt": "2026-11-03T17:58:26.298Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 5178,
+    "firstPartyChecked": 5204,
     "externalWarnings": 24,
     "brokenCount": 0,
     "publicScanBridge": [
