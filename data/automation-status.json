@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T17:58:27.075Z",
+  "generatedAt": "2026-11-03T20:13:45.752Z",
   "module": "automation",
   "qualityStatus": "warn",
   "chains": {
@@ -10,7 +10,7 @@
       "newFactCount": 5
     },
     "infoDelivery": {
-      "checkedAt": "2026-11-03T17:58:26.344Z",
+      "checkedAt": "2026-11-03T20:13:44.517Z",
       "module": "info-delivery",
       "date": "2026-11-04",
       "timezone": "Asia/Shanghai",
@@ -30,7 +30,7 @@
       ],
       "remoteErrors": [],
       "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
-      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/41688665873"
+      "runUrl": "https://github.com/JordanFu/talotd/actions/runs/41710391772"
     },
     "topicProjects": {
       "qualityStatus": "warn",
@@ -74,7 +74,7 @@
     "linkCheck": {
       "qualityStatus": "warn",
       "brokenCount": 0,
-      "checkedAt": "2026-11-03T17:58:26.298Z"
+      "checkedAt": "2026-11-03T20:13:44.475Z"
     },
     "githubActionsFallback": {
       "status": "pass",
