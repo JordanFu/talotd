@@ -144,12 +144,19 @@
       "author": "Purdue University Human Resources",
       "publisher": "Purdue University",
       "sourceType": "industry",
-      "topics": ["人才发展", "组织学习"],
+      "topics": [
+        "人才发展",
+        "组织学习"
+      ],
       "date": "2026-10-29",
       "uploadDate": "2026-11-04",
       "description": "已读官方HR项目及FAQ，发展资料不用于任用评价、主管不获保密报告；每月最多四小时不等于已核带薪时间。新闻入口404，按旧线，不宣称已实施或有效。",
       "summaryFile": "./knowledge/wiki/purdue-rise-development-boundaries-2026.md",
-      "tags": ["主管培养", "资料用途", "学习时间"],
+      "tags": [
+        "主管培养",
+        "资料用途",
+        "学习时间"
+      ],
       "originalUrl": "https://www.purdue.edu/hr/workpurdue/rise/index.php"
     },
     {
@@ -158,12 +165,19 @@
       "author": "Asha Dinesh / Miro Research",
       "publisher": "Miro",
       "sourceType": "industry",
-      "topics": ["AI组织设计", "组织学习"],
+      "topics": [
+        "AI组织设计",
+        "组织学习"
+      ],
       "date": "2026-11-03",
       "uploadDate": "2026-11-04",
       "description": "HTML方法与反向结果已读，完整报告、PDF及原始数据未读。跨地区9,500余人自报调查，非因果或净收益估计；不以私有会话比例授权员工监控。",
       "summaryFile": "./knowledge/wiki/miro-team-collaboration-evidence-2026.md",
-      "tags": ["团队协作", "评审劳动", "生产力口径"],
+      "tags": [
+        "团队协作",
+        "评审劳动",
+        "生产力口径"
+      ],
       "originalUrl": "https://miro.com/blog/state-of-intelligent-collaboration-2026/"
     },
     {

@@ -40,6 +40,7 @@
 
 | 资料 | 对本专题的价值 |
 |---|---|
+| [Miro协作调查：个人速度不等于完整交付收益](./knowledge/wiki/miro-team-collaboration-evidence-2026.md) | HTML方法与反向结果已读，完整报告、PDF及原始数据未读。跨地区9,500余人自报调查，非因果或净收益估计；不以私有会话比例授权员工监控。 |
 | [复核、角色与上线支持](./knowledge/wiki/review-role-support-2026-10-02.md) | 把责任落实到核实权、任务边界、交接与员工支持，区分招聘信号和运行结果。 |
 | [机会、能力证据与用途边界](./knowledge/wiki/opportunity-evidence-purpose-2026-09-30.md) | 对照学习机会、测评整合与临时角色，保护员工发展和数据用途边界。 |
 | [本地知识库定期 Review（2026-11-02）](./knowledge/wiki/local-knowledge-review-2026-11-02.md) | 本周知识库巡检报告，覆盖 109 个公开 PDF 来源、近期信息流与专题连续性、六张新增结构化卡、PDF 来源类型、日期与生命周期债务、重复映射、分享入口和隐私边界。 |
@@ -51,7 +52,6 @@
 | [任务变化、能力证据与执行权限](./knowledge/wiki/task-evidence-controls-2026-09-27.md) | 从小厂任务调整、技能调查与官方岗位样本辨析责任、证据和授权，不将意图写成效果。 |
 | [工作重设计的责任、时间与决定权](./knowledge/wiki/work-redesign-evidence-2026-09-25.md) | 连接流程责任、团队授权与学习机会，保留使用考核的反向检验；建议不等于成效。 |
 | [本地知识库定期 Review（2026-09-21）](./knowledge/wiki/local-knowledge-review-2026-09-21.md) | 本周知识库巡检报告，覆盖 80 个公开 PDF 来源、近期 7 张机制比较页、PDF 模板与来源类型债务、历史专题补跑、分享入口和 AI 组织研究优先级。 |
-| [人才定价与学习机会：比较口径先于AI标签](./knowledge/wiki/price-and-learning-evidence-2026-09-21.md) | 比较公开岗位薪带、研发招聘意向与新人学习机会，给出薪酬、招聘和培养的试验安排；区分字段观察、媒体引述与观点。 |
 
 ## 当前不可越界的结论
 

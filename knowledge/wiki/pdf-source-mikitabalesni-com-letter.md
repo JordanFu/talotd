@@ -55,9 +55,6 @@ letter 已作为日报/周报 PDF 证据源入库，当前需要完成结构化�
 - `daily-report/2026-10-10.md:15`：前员工四页公开信
 - `specials/ai-org-talent-mechanism/2026-10-10/04-promotion-system.md:44`：公开信
 - `specials/ai-org-talent-mechanism/2026-10-10/04-promotion-system.md:225`：三名前OpenAI员工公开信
-- `外部公开 PDF 扫描:62`：公开安全引用：三名前员工公开信
-- `外部公开 PDF 扫描:159`：公开安全引用：OpenAI Safety 争议：``；`https://x.com/OpenAINewsroom/status/2108441580806025712`；`https://www.reuters.com/business/openai-says-it-has-fired-three-researchers-violating-sensitive-infor
-- `外部公开 PDF 扫描:138`：公开安全引用：OpenAI Safety 去重来源：`https://x.com/OpenAINewsroom/status/2108441580806025712`；``；已在 2026-10-10 日报完整收录。
 
 ## 后续精读任务
 
