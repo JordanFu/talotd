@@ -1,5 +1,13 @@
 # 知识库操作日志
 
+## [2026-11-05] update | 学习、真实机会与回报
+
+- 本日10卡：9条材料与1条缺口，3条新披露、4条旧线、2条弱信号；重点为一线学徒、内部调配与晋升规则。按10月29日至11月4日去重，读取3日、4日专题候选；三路隐藏研究与主编共同编辑，无新增可见任务。
+- 新增内部机会与晋升、调查可比性两页。Careerminds补读方法、责任差异和子组反例；Purdue区分岗位内窗口与全年竞争岗位。正式规则和供应商调查均不作已验证效果。
+- Manchester无扩展名公开PDF单独手工入库，12页、1,270,466字节；核第1、4—8页及第8页图像，非全文精读。论文9月、采集2024年，题目对象有图文冲突，保留歧义，不以11月新闻当新研究。
+- 必需自动扫描109源，92份缓存可用、17失败；另有5个无扩展名手工来源，合计114源、97缓存、17待重试。新增下载仅Manchester1份，旧缓存不当本日阅读；失败源保留公开URL、引用、证据层级与重试。
+- 公众号4日原文未得，覆盖未完成；Gartner代理读取工具返回的官网URL解析正文，原站直连未核。首页桥接5日公开日报及主页已验证，周报月报本日无到期项，不声称质量恢复。
+
 ## [2026-11-04] update | 授权、发展用途与完整交付
 
 - 本日7卡：6条材料、1条缺口，3条新披露、1条旧线、2条弱信号。未达通常8—15条材料目标，原文获取与核验不足，不说市场缺新意；不以摘要、招聘刷新、导航或未读安全公告补数。
@@ -421,7 +429,7 @@
 
 ## [2026-11-05] ingest | 日报 PDF 证据源自动入库
 - 从 daily、daily-report、specials、analysis 中扫描 PDF URL，按知识库 Raw/Wiki/Catalog 规则自动建档。
-- 本次识别 98 个唯一 PDF 来源：81 个已下载原始 PDF，17 个保留 URL 与引用上下文待重试。
+- 本次识别 109 个唯一 PDF 来源：92 个已下载原始 PDF，17 个保留 URL 与引用上下文待重试。
 - 已下载：itb dia 6351 email 0（引用 4 次）
 - 已下载：itb lat dir ai 6454 web 0（引用 17 次）
 - 已下载：GoogleATLASv1（引用 7 次）
@@ -437,13 +445,17 @@
 - 已下载：2026 Work Trend Index Annual Report 050526 7 69fc5b1c4e265（引用 1 次）
 - 已下载：ca the health productivity gap aoda en.7ae5e913bd32（引用 1 次）
 - 已下载：UK Standard Skills Classification Development Report（引用 3 次）
+- 已下载：Character.AI / Disney：破产交易与过渡服务法院文件（引用 2 次）
+- 已下载：OpenAI Hugging Face Incident Technical Report（引用 1 次）
 - 已下载：the participation economy（引用 5 次）
 - 已下载：the ai jobs transition framework report（引用 3 次）
 - 已下载：2026 10 why ai training is driving adoption but not sustainable productivity（引用 2 次）
 - 已下载：f232578（引用 24 次）
 - 已下载：NTEN与Bridgespan：非营利组织AI采用与治理调查（引用 1 次）
 - 已下载：WP 10 26 Managers as gatekeepers comp 0（引用 9 次）
+- 已下载：accord（引用 1 次）
 - 已下载：AFGE v OPM（引用 5 次）
+- 已下载：Canaries August2026（引用 2 次）
 - 已下载：Mercer and Eightfold Pay for Skills（引用 2 次）
 - 已下载：new skill price（引用 3 次）
 - 已下载：Founder Reports：AI核验劳动与调查分母（引用 6 次）
@@ -456,7 +468,7 @@
 - 待重试：护士实践培养：组织支持与时间条件（引用 1 次）
 - 已下载：BCG：AI-First Organization（引用 3 次）
 - 待重试：BCG Executive Perspectives AI First Companies Win the Future Issue1 10June2025（引用 3 次）
-- 已下载：letter（引用 4 次）
+- 已下载：letter（引用 7 次）
 - 已下载：engineering progression framework v2 0（引用 1 次）
 - 已下载：PAYTM 22082026104603 SEDisclosureDispatchofLettertoShareholders（引用 1 次）
 - 已下载：NIST.AI.800 2.ipd（引用 1 次）
@@ -475,16 +487,20 @@
 - 已下载：SMG Heart of Work Key Findings（引用 3 次）
 - 已下载：6277baa6 0f7b 4fbe 9c7c ceb3e0e9b325 flatland（引用 16 次）
 - 已下载：万通发展：期权授予与实际兑现的边界（引用 4 次）
-- 已下载：47382ae415a209fd161bc19a1f9b3704（引用 1 次）
-- 已下载：gov.uscourts.cand.474095.38.0（引用 1 次）
-- 已下载：gov.uscourts.cand.474095.59.0（引用 4 次）
+- 已下载：47382ae415a209fd161bc19a1f9b3704（引用 3 次）
+- 已下载：e048dfed72bc718f7986a83f23c8e294（引用 2 次）
+- 已下载：gov.uscourts.cand.474095.38.0（引用 2 次）
+- 已下载：gov.uscourts.cand.474095.59.0（引用 6 次）
+- 已下载：gov.uscourts.cand.474171.1.0（引用 2 次）
 - 已下载：interviewing at google deepmind（引用 10 次）
 - 待重试：everyone gets the same models the edge is your workforce（引用 7 次）
 - 待重试：BCG：AI Radar 2026（引用 2 次）
 - 待重试：BCG + MIT Sloan：The Emerging Agentic Enterprise（引用 8 次）
 - 待重试：2026 global investor survey jul 2026（引用 1 次）
-- 已下载：Anthropic：Employment at Anthropic（引用 1 次）
-- 已下载：Claude Opus 5 System Card（引用 4 次）
+- 已下载：Anthropic：Employment at Anthropic（引用 3 次）
+- 已下载：Anthropic公共利益报告相关PDF（正文待核读）（引用 1 次）
+- 已下载：Claude Opus 5 System Card（引用 6 次）
+- 已下载：8a665c85eec3a63b4d86287b9255657016f50e29（引用 1 次）
 - 已下载：AIHR：HR Priorities 2026 Report（引用 1 次）
 - 已下载：Whitepaper Impact of AI on U.S. Labor Market 2026 R2 1（引用 18 次）
 - 已下载：BHEF：AI软件工程能力图与培养边界（引用 8 次）
@@ -492,15 +508,18 @@
 - 已下载：cwa18398 2026（引用 5 次）
 - 已下载：draft cwa xxxx e（引用 2 次）
 - 待重试：the impact of agentic ai on network operations（引用 4 次）
+- 已下载：j rita lin order（引用 2 次）
 - 已下载：德勤：从试点到规模化——打造AI原生企业（引用 6 次）
 - 已下载：us spans and layers for the modern organization 2020（引用 3 次）
 - 已下载：EY：Future of Pay Report 2026（引用 182 次）
 - 已下载：pip faq 2026（引用 6 次）
 - 已下载：2026081700406（引用 1 次）
+- 已下载：USCOURTS cand 4 22 md 03047 133（引用 1 次）
 - 已下载：12 087 bc50bde2 3016 457a 9bee dc988cb1056b（引用 8 次）
 - 已下载：26 090 96f92aa0 37d9 4789 beaa 5c0cb87a4032（引用 5 次）
 - 待重试：HiBob 2026 report AI maturity benchmarks and where the workforce stand（引用 5 次）
-- 已下载：2026090400829 c（引用 3 次）
+- 已下载：MiniMax：IPO 后股份激励计划授出奖励公告（引用 1 次）
+- 已下载：2026090400829 c（引用 5 次）
 - 已下载：cesifo1 wp12373（引用 3 次）
 - 已下载：ILO Brief ASEAN AI v11 clean（引用 2 次）
 - 已下载：0000050863 26 000011（引用 2 次）
@@ -519,7 +538,7 @@
 - 已下载：20260828（引用 9 次）
 - 已下载：SKT智能体治理：真人责任、停止与退出（引用 20 次）
 - 待重试：it job family career ladder matrix software engineer（引用 1 次）
-- 已下载：2026072000261（引用 1 次）
+- 已下载：2026072000261（引用 3 次）
 ## [2026-11-04] ingest | 日报 PDF 证据源自动入库
 - 从 daily、daily-report、specials、analysis 中扫描 PDF URL，按知识库 Raw/Wiki/Catalog 规则自动建档。
 - 本次识别 98 个唯一 PDF 来源：81 个已下载原始 PDF，17 个保留 URL 与引用上下文待重试。

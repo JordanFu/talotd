@@ -139,6 +139,52 @@
   ],
   "reports": [
     {
+      "id": "internal-opportunity-promotion-2026-11",
+      "title": "内部机会、学习与晋升：不要把态度当机会",
+      "author": "Careerminds / Purdue University Human Resources",
+      "publisher": "Careerminds / Purdue University",
+      "sourceType": "industry",
+      "topics": [
+        "人才发展",
+        "组织学习"
+      ],
+      "date": "2026-11-04",
+      "uploadDate": "2026-11-05",
+      "description": "已读原始HTML、调查方法与晋升规则，按旧线。受访者比例非岗位份额，责任认知差异不等于无人负责；内部机会、正常工时、决定权与回报分别检验，不移植为无偿试岗。",
+      "summaryFile": "./knowledge/wiki/internal-opportunity-promotion-2026-11.md",
+      "tags": [
+        "内部流动",
+        "晋升机制",
+        "学习时间"
+      ],
+      "originalUrl": "https://careerminds.com/resources/redeployment-gap"
+    },
+    {
+      "id": "ai-use-perceptions-manchester-2026",
+      "title": "AI使用感知调查：先核回答对象再比较均值",
+      "originalTitle": "Frontiers in Education 11:1885253",
+      "author": "Peter Kahn, Mark Carrigan, Ignacio Wyman, Ruirui Liu, Paul Smith, Ainara Romero Andonegui, Lisa Murtagh, Fangtong Song",
+      "publisher": "Frontiers in Education",
+      "sourceType": "academic",
+      "topics": [
+        "AI组织设计",
+        "组织学习"
+      ],
+      "date": "2026-09-10",
+      "uploadDate": "2026-11-05",
+      "description": "12页公开PDF手工缓存，核第1、4—8页及第8页图像，非全文精读。2024年单校自选样本，正文、图注及新闻的题目对象存在歧义，补充问卷未核，不称教师高估真实使用。",
+      "summaryFile": "./knowledge/wiki/ai-use-perceptions-manchester-2026.md",
+      "rawFile": "./knowledge/raw/frontiers-feduc-2026-1885253.pdf",
+      "fileName": "frontiers-feduc-2026-1885253.pdf",
+      "fileSize": "1270466 bytes",
+      "tags": [
+        "调查方法",
+        "AI使用",
+        "数据边界"
+      ],
+      "originalUrl": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1885253/pdf"
+    },
+    {
       "id": "purdue-rise-development-boundaries-2026",
       "title": "Purdue RISE：主管发展资料与任用用途的边界",
       "author": "Purdue University Human Resources",
