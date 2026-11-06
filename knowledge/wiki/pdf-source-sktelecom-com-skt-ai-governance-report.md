@@ -45,7 +45,3 @@ status: 40页缓存可用；27日核25—30页文字及29页表格，非全文�
 - `specials/ai-org-talent-mechanism/weekly/2026-W44-detailed.md:255`：AI Governance Report
 - `specials/ai-org-talent-mechanism/weekly/2026-W44.md:41`：治理报告
 - `specials/ai-org-talent-mechanism/weekly/2026-W44.md:255`：AI Governance Report
-- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:41`：治理报告
-- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:255`：AI Governance Report
-- `specials/ai-org-talent-mechanism/weekly/latest.md:41`：治理报告
-- `specials/ai-org-talent-mechanism/weekly/latest.md:255`：AI Governance Report

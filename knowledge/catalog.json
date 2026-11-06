@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-11-06",
+  "lastUpdated": "2026-11-07",
   "mode": "karpathy-llm-wiki",
   "schema": "knowledge/CLAUDE.md",
   "categories": {
@@ -6568,6 +6568,54 @@
         "HR组织"
       ],
       "originalUrl": "https://link.springer.com/content/pdf/10.1007/s11846-026-01074-1.pdf"
+    },
+    {
+      "id": "p119",
+      "title": "2026 22680",
+      "originalTitle": "2026 22680",
+      "author": "public-inspection.federalregister.gov",
+      "publisher": "public-inspection.federalregister.gov",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-07",
+      "description": "2026 22680 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-public-inspection-federalregister-gov-2026-22680.md",
+      "rawFile": "./knowledge/raw/public-inspection-federalregister-gov-2026-22680.pdf",
+      "fileName": "public-inspection-federalregister-gov-2026-22680.pdf",
+      "fileSize": "1019131 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "public-inspection.federalregister.gov"
+      ],
+      "originalUrl": "https://public-inspection.federalregister.gov/2026-22680.pdf"
+    },
+    {
+      "id": "p120",
+      "title": "vistry group plc half year results 2026",
+      "originalTitle": "vistry group plc half year results 2026",
+      "author": "vistry.co.uk",
+      "publisher": "vistry.co.uk",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-07",
+      "description": "vistry group plc half year results 2026 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-vistry-co-uk-vistry-group-plc-half-year-results-2026.md",
+      "rawFile": "./knowledge/raw/vistry-co-uk-vistry-group-plc-half-year-results-2026.pdf",
+      "fileName": "vistry-co-uk-vistry-group-plc-half-year-results-2026.pdf",
+      "fileSize": "2114102 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "vistry.co.uk"
+      ],
+      "originalUrl": "https://www.vistry.co.uk/~/media/Files/V/vistry-group-v1/results-and-presentations/2026/vistry-group-plc-half-year-results-2026.pdf"
     }
   ]
 }

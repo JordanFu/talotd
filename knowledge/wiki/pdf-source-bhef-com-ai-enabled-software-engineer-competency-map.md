@@ -42,8 +42,6 @@ status: 已缓存8页PDF；读指定段并核第7页图像，非全文精读
 - `specials/ai-org-talent-mechanism/2026-10-30/04-promotion-system.md:208`：AI-enabled Software Engineer Competency Map
 - `specials/ai-org-talent-mechanism/weekly/2026-W44-detailed.md:278`：BHEF：AI 软件工程能力图
 - `specials/ai-org-talent-mechanism/weekly/2026-W44.md:278`：BHEF：AI 软件工程能力图
-- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:278`：BHEF：AI 软件工程能力图
-- `specials/ai-org-talent-mechanism/weekly/latest.md:278`：BHEF：AI 软件工程能力图
 
 ## 后续问题
 

@@ -41,8 +41,6 @@ OD、业务与IT可选一条跨部门流程，核对谁批准、系统可否连�
 - `specials/ai-org-talent-mechanism/2026-10-29/03-job-family-career-architecture.md:202`：Deloitte中国｜从试点到规模化：打造AI原生企业
 - `specials/ai-org-talent-mechanism/weekly/2026-W44-detailed.md:279`：德勤：打造 AI 原生企业
 - `specials/ai-org-talent-mechanism/weekly/2026-W44.md:279`：德勤：打造 AI 原生企业
-- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:279`：德勤：打造 AI 原生企业
-- `specials/ai-org-talent-mechanism/weekly/latest.md:279`：德勤：打造 AI 原生企业
 
 ## 后续问题
 
