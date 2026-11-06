@@ -139,6 +139,72 @@
   ],
   "reports": [
     {
+      "id": "ai-rd-acceleration-evidence-2026-11",
+      "title": "METR研发加速：指标、归因与审查权限分开",
+      "author": "METR",
+      "publisher": "METR",
+      "sourceType": "academic",
+      "topics": [
+        "AI组织设计",
+        "组织学习"
+      ],
+      "date": "2026-11-05",
+      "uploadDate": "2026-11-06",
+      "description": "已读公开HTML摘要、发现、过程、局限与方法指定段，后段截断；未读约100页内部报告或PDF。1.9倍为基准增长速度比，AI归因为主观估计，非员工级访问或组织生产率效果。",
+      "summaryFile": "./knowledge/wiki/ai-rd-acceleration-evidence-2026-11.md",
+      "tags": [
+        "生产力口径",
+        "外部审查",
+        "研究方法"
+      ],
+      "originalUrl": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/"
+    },
+    {
+      "id": "source-event-timeline-corrections-2026-11",
+      "title": "来源时间补证：项目批准、开班与岗位刷新分开",
+      "author": "ISSA / Tailscale",
+      "publisher": "ISSA / Tailscale",
+      "sourceType": "industry",
+      "topics": [
+        "人才发展",
+        "AI组织设计"
+      ],
+      "date": "2026-11-06",
+      "uploadDate": "2026-11-06",
+      "description": "已读ISSA历史及新公告、招聘公开接口，最晚4月已称项目获批，岗位7月首发。有日期补证指向5日，不重写历史或把抓取日当首次事件；不证明培养或到岗后效。",
+      "summaryFile": "./knowledge/wiki/source-event-timeline-corrections-2026-11.md",
+      "tags": [
+        "证据日期",
+        "职业路径",
+        "招聘口径"
+      ],
+      "originalUrl": "https://www.issa.com/articles/issa-approved-by-us-department-of-labor-as-first-sponsor-of-cleaning-technician-registered-apprenticeship/"
+    },
+    {
+      "id": "doj-lockheed-incentive-review-2026-11",
+      "title": "Lockheed和解：差异检测、贡献复核与名单决定分开",
+      "author": "United States / Lockheed Martin / Tim Booher",
+      "publisher": "United States Department of Justice",
+      "sourceType": "industry",
+      "topics": [
+        "薪酬激励",
+        "人才发展"
+      ],
+      "date": "2026-11-03",
+      "uploadDate": "2026-11-06",
+      "description": "14页公开协议手工缓存465,011字节，主编及代理核1—5页文字，非全文精读；政府指控、公司否认及不承认责任保留，未核到账或公平后效，不作法律适用结论。",
+      "summaryFile": "./knowledge/wiki/doj-lockheed-incentive-review-2026-11.md",
+      "rawFile": "./knowledge/raw/doj-lockheed-settlement-2026-11.pdf",
+      "fileName": "doj-lockheed-settlement-2026-11.pdf",
+      "fileSize": "465011 bytes",
+      "tags": [
+        "薪酬激励",
+        "贡献复核",
+        "程序公平"
+      ],
+      "originalUrl": "https://www.justice.gov/opa/media/1469801/dl?inline="
+    },
+    {
       "id": "internal-opportunity-promotion-2026-11",
       "title": "内部机会、学习与晋升：不要把态度当机会",
       "author": "Careerminds / Purdue University Human Resources",
@@ -6477,6 +6543,31 @@
         "协作成本"
       ],
       "originalUrl": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1969612/pdf"
+    },
+    {
+      "id": "p118",
+      "title": "混合办公与HR集中：地点、汇报和业务服务分开",
+      "originalTitle": "The new meaning of office: how hybrid work changes formal organizational structure from a place perspective",
+      "author": "Christina Fuchs / Astrid Reichel",
+      "publisher": "Review of Managerial Science / Springer Nature",
+      "sourceType": "academic",
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
+      "date": "2026-11-05",
+      "uploadDate": "2026-11-06",
+      "description": "23页公开PDF自动下载失败后经同一URL的Node读取恢复，1,417,074字节；核第1、6—7、11—20页文字及第12页图像，非全文精读。两家工业企业26人49次员工访谈另2次专家访谈，HR集中非生成式AI干预或成效证明。",
+      "summaryFile": "./knowledge/wiki/pdf-source-link-springer-com-s11846-026-01074-1.md",
+      "rawFile": "./knowledge/raw/link-springer-com-s11846-026-01074-1.pdf",
+      "fileName": "link-springer-com-s11846-026-01074-1.pdf",
+      "fileSize": "1417074 bytes",
+      "tags": [
+        "PDF自动入库",
+        "混合办公",
+        "HR组织"
+      ],
+      "originalUrl": "https://link.springer.com/content/pdf/10.1007/s11846-026-01074-1.pdf"
     }
   ]
 }
