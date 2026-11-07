@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-07T07:29:59.806Z",
+  "generatedAt": "2026-11-07T16:32:07.257Z",
   "module": "knowledge-base",
   "qualityStatus": "warn",
-  "latestCatalogDate": "2026-11-07",
+  "latestCatalogDate": "2026-11-08",
   "counts": {
     "reports": 248,
     "knowledgeSources": 4,
@@ -111,9 +111,9 @@
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-11-07T07:30:00.668Z",
+    "checkedAt": "2026-11-07T16:32:07.675Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 5313,
+    "firstPartyChecked": 5339,
     "externalWarnings": 26,
     "brokenCount": 0,
     "publicScanBridge": [

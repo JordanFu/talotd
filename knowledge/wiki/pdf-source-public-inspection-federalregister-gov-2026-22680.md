@@ -40,6 +40,8 @@ status: 283页既有公开预刊PDF，核指定段及278页图像；正式日期
 - `specials/ai-org-talent-mechanism/2026-11-06/00-overview.md:107`：Apprenticeship EEO final rule public inspection PDF
 - `specials/ai-org-talent-mechanism/2026-11-06/02-talent-density.md:238`：U.S. Department of Labor / Federal Register：Prohibiting Illegal Discrimination in Registered Apprenticeship Programs
 - `specials/ai-org-talent-mechanism/2026-11-06/information-candidates.md:35`：来源：
+- `specials/ai-org-talent-mechanism/2026-11-07/00-overview.md:112`：公开预刊PDF
+- `specials/ai-org-talent-mechanism/2026-11-07/02-talent-density.md:243`：Federal Register 公开预刊 PDF
 
 ## 后续精读任务
 
