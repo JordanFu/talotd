@@ -139,6 +139,48 @@
   ],
   "reports": [
     {
+      "id": "engineering-agent-outcomes-2026-11",
+      "title": "Eightfold工程实践：任务完成、接手与运行依赖",
+      "author": "Muthumanikandan Nambi / Vinay Nataraja / Akshansh Chahal",
+      "publisher": "Eightfold AI Engineering",
+      "sourceType": "industry",
+      "topics": [
+        "AI组织设计",
+        "组织学习"
+      ],
+      "date": "2026-11-05",
+      "uploadDate": "2026-11-07",
+      "description": "已读公开HTML正文，规则L2公司自述，数字无独立对照；首响非解决速度，常规案件选择和人工重做保留。额度耗尽静默停止后补运行检查，开发闭环仅测试一个旧功能，不以用量推贡献。",
+      "summaryFile": "./knowledge/wiki/engineering-agent-outcomes-2026-11.md",
+      "tags": [
+        "工程生产力",
+        "人工接手",
+        "运行治理"
+      ],
+      "originalUrl": "https://eightfold.ai/engineering-blog/fewer-tokens-more-leverage-ai-that-ships-not-ai-that-spends/"
+    },
+    {
+      "id": "service-workforce-ai-denominators-2026-11",
+      "title": "客服AI人力调查：减员、转岗、专岗与回聘不能相加",
+      "author": "Kathy Ross / Emily Potosky",
+      "publisher": "Gartner Newsroom",
+      "sourceType": "industry",
+      "topics": [
+        "人才发展",
+        "AI组织设计"
+      ],
+      "date": "2026-11-05",
+      "uploadDate": "2026-11-07",
+      "description": "已读官网URL工具解析正文，275名负责人7—8月调查，完整报告与PDF未读；与ROI发布可能同波按旧线。16.7%只适用于报告减员子组，冻结转岗专岗回聘可能重叠，不相加算净人数或员工收益。",
+      "summaryFile": "./knowledge/wiki/service-workforce-ai-denominators-2026-11.md",
+      "tags": [
+        "客服组织",
+        "人力流动",
+        "调查口径"
+      ],
+      "originalUrl": "https://www.gartner.com/en/newsroom/press-releases/2026-11-05-gartner-survey-finds-21-percent-of-service-and-support-leaders-have-reduced-human-agent-headcount-because-of-ai"
+    },
+    {
       "id": "ai-rd-acceleration-evidence-2026-11",
       "title": "METR研发加速：指标、归因与审查权限分开",
       "author": "METR",
@@ -6571,25 +6613,26 @@
     },
     {
       "id": "p119",
-      "title": "2026 22680",
-      "originalTitle": "2026 22680",
-      "author": "public-inspection.federalregister.gov",
-      "publisher": "public-inspection.federalregister.gov",
-      "sourceType": "media",
+      "title": "美国注册学徒规则：最低义务改变与员工支持",
+      "originalTitle": "Prohibiting Illegal Discrimination in Registered Apprenticeship Programs",
+      "author": "Employment and Training Administration",
+      "publisher": "U.S. Department of Labor / Federal Register",
+      "sourceType": "industry",
       "topics": [
+        "人才发展",
         "AI组织设计"
       ],
-      "date": "",
+      "date": "2026-11-06",
       "uploadDate": "2026-11-07",
-      "description": "2026 22680 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "283页既有公开预刊PDF，核第1—5页及271—283页指定段与278页图像，非全文精读；官方API核11月6日刊发、2027年1月5日生效。终刊逐字和过渡条款未全核，不作法律适用或效果结论。",
       "summaryFile": "./knowledge/wiki/pdf-source-public-inspection-federalregister-gov-2026-22680.md",
       "rawFile": "./knowledge/raw/public-inspection-federalregister-gov-2026-22680.pdf",
       "fileName": "public-inspection-federalregister-gov-2026-22680.pdf",
       "fileSize": "1019131 bytes",
       "tags": [
         "PDF自动入库",
-        "AI组织设计",
-        "public-inspection.federalregister.gov"
+        "一线培养",
+        "公平治理"
       ],
       "originalUrl": "https://public-inspection.federalregister.gov/2026-22680.pdf"
     },
