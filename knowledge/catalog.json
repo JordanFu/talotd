@@ -139,6 +139,48 @@
   ],
   "reports": [
     {
+      "id": "training-participation-work-design-2026-11",
+      "title": "培训参与先看任务、时间与支持",
+      "author": "Reward Utete 等",
+      "publisher": "Discover Global Society",
+      "sourceType": "academic",
+      "topics": [
+        "组织学习",
+        "人才发展"
+      ],
+      "date": "2026-11-06",
+      "uploadDate": "2026-11-08",
+      "description": "22人质性访谈，HTML方法结果与限制已读；任务误诊、正常工时、固定期员工适配分别核，无发生率或干预因果。PDF交扫描不等于精读。",
+      "summaryFile": "./knowledge/wiki/training-participation-work-design-2026-11.md",
+      "tags": [
+        "组织学习",
+        "工作设计",
+        "培训参与"
+      ],
+      "originalUrl": "https://link.springer.com/article/10.1007/s44282-026-00646-6"
+    },
+    {
+      "id": "return-to-work-benefit-continuity-2026-11",
+      "title": "复工福利连续性：资格、恢复与兑现分别核",
+      "author": "Unifor / Great Canadian Entertainment",
+      "publisher": "Unifor",
+      "sourceType": "industry",
+      "topics": [
+        "人才发展",
+        "组织设计"
+      ],
+      "date": "2026-11-06",
+      "uploadDate": "2026-11-08",
+      "description": "双方公开HTML，福利细项主要工会披露；兼职工时与福利资格衔接，批准不当支付、计划不当已复工，未读完整协议，不作法律适用。",
+      "summaryFile": "./knowledge/wiki/return-to-work-benefit-continuity-2026-11.md",
+      "tags": [
+        "福利连续性",
+        "兼职员工",
+        "协议兑现"
+      ],
+      "originalUrl": "https://www.unifor.org/news/all-news/casino-ajax-and-pickering-casino-workers-set-return-work-following-contract"
+    },
+    {
       "id": "engineering-agent-outcomes-2026-11",
       "title": "Eightfold工程实践：任务完成、接手与运行依赖",
       "author": "Muthumanikandan Nambi / Vinay Nataraja / Akshansh Chahal",
@@ -6659,6 +6701,30 @@
         "vistry.co.uk"
       ],
       "originalUrl": "https://www.vistry.co.uk/~/media/Files/V/vistry-group-v1/results-and-presentations/2026/vistry-group-plc-half-year-results-2026.pdf"
+    },
+    {
+      "id": "p121",
+      "title": "培训与发展障碍：公开PDF缓存，HTML方法已读",
+      "originalTitle": "Training and development challenges experienced by employees and managers",
+      "author": "Reward Utete 等",
+      "publisher": "Discover Global Society / Springer Nature",
+      "sourceType": "academic",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2026-11-06",
+      "uploadDate": "2026-11-08",
+      "description": "已缓存25页PDF，未精读PDF；已读HTML方法结果及限制另见培训工作安排页。22名目的与滚雪球抽样受访者，不是公司数或代表性发生率，L2质性发现不当干预因果。",
+      "summaryFile": "./knowledge/wiki/pdf-source-link-springer-com-s44282-026-00646-6.md",
+      "rawFile": "./knowledge/raw/link-springer-com-s44282-026-00646-6.pdf",
+      "fileName": "link-springer-com-s44282-026-00646-6.pdf",
+      "fileSize": "1508120 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "link.springer.com"
+      ],
+      "originalUrl": "https://link.springer.com/content/pdf/10.1007/s44282-026-00646-6.pdf"
     }
   ]
 }
