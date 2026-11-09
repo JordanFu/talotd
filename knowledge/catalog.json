@@ -908,6 +908,37 @@
       ]
     },
     {
+      "id": "local-knowledge-review-2026-11-09",
+      "title": "本地知识库定期 Review（2026-11-09）",
+      "originalTitle": "Local Knowledge Base Review 2026-11-09",
+      "author": "Codex",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "internal",
+      "topics": [
+        "知识管理",
+        "AI组织设计",
+        "组织机制",
+        "人才发展",
+        "晋升",
+        "People/HR",
+        "AI fluency"
+      ],
+      "date": "2026-11-09",
+      "uploadDate": "2026-11-09",
+      "description": "本周知识库巡检报告，覆盖113个公开PDF来源、17张新增机制／来源卡、Vistry结构化补齐、信息流与专题连续性、PDF生命周期、重复映射、分享入口和隐私边界。",
+      "summaryFile": "./knowledge/wiki/local-knowledge-review-2026-11-09.md",
+      "fileName": "generated review report",
+      "fileSize": "wiki page",
+      "tags": [
+        "知识管理",
+        "定期Review",
+        "资料治理",
+        "PDF入库",
+        "AI组织设计",
+        "People/HR"
+      ]
+    },
+    {
       "id": "local-knowledge-review-2026-11-02",
       "title": "本地知识库定期 Review（2026-11-02）",
       "originalTitle": "Local Knowledge Base Review 2026-11-02",
@@ -6680,25 +6711,28 @@
     },
     {
       "id": "p120",
-      "title": "vistry group plc half year results 2026",
+      "title": "Vistry区域重组：经营单元合并不等于管理层级减少",
       "originalTitle": "vistry group plc half year results 2026",
-      "author": "vistry.co.uk",
-      "publisher": "vistry.co.uk",
-      "sourceType": "media",
+      "author": "Vistry Group PLC",
+      "publisher": "Vistry Group PLC",
+      "sourceType": "company-primary",
       "topics": [
-        "AI组织设计"
+        "组织设计",
+        "人才发展"
       ],
-      "date": "",
+      "date": "2026-09-24",
       "uploadDate": "2026-11-07",
-      "description": "vistry group plc half year results 2026 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "58页公司半年报已缓存，11月6日专题核读组织调整相关段落，非全文精读。25个经营区域拟合并为12个，可支持结构计划观察；不等于管理层级减少、决定权下放、节省兑现或员工净收益，也不能归因于AI。",
       "summaryFile": "./knowledge/wiki/pdf-source-vistry-co-uk-vistry-group-plc-half-year-results-2026.md",
       "rawFile": "./knowledge/raw/vistry-co-uk-vistry-group-plc-half-year-results-2026.pdf",
       "fileName": "vistry-co-uk-vistry-group-plc-half-year-results-2026.pdf",
       "fileSize": "2114102 bytes",
       "tags": [
         "PDF自动入库",
-        "AI组织设计",
-        "vistry.co.uk"
+        "组织设计",
+        "区域重组",
+        "管理跨度",
+        "员工净收益"
       ],
       "originalUrl": "https://www.vistry.co.uk/~/media/Files/V/vistry-group-v1/results-and-presentations/2026/vistry-group-plc-half-year-results-2026.pdf"
     },
