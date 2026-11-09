@@ -45,8 +45,6 @@ Vistry把25个经营区域合并为12个，并称将形成较扁平结构；这�
 
 ## 被引用位置
 
-- `specials/ai-org-talent-mechanism/2026-11-06/01-flat-organization.md:21-31`：区域重组事实、计划与证据等级
-- `specials/ai-org-talent-mechanism/2026-11-06/01-flat-organization.md:72-132`：组织形态、人员安排、员工边界与后续核验
 - `specials/ai-org-talent-mechanism/2026-11-06/01-flat-organization.md:187`：官方PDF
 
 ## 下一步证据

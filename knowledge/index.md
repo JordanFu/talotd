@@ -7,6 +7,9 @@
 
 ## 来源摘要（Wiki）
 
+- [中国企业AI与工作质量证据](wiki/china-ai-work-quality-evidence-2026-11.md)：旧研究指定页及图像已核，企业自报、劳动者态度与真实员工结果分开。
+- [薪酬、待命与测算口径](wiki/pay-bargaining-worktime-denominators-2026-11.md)：双方方案HTML；岗位/空缺不当人数、薪带不当到手，调解结果未核。
+
 - [培训参与与工作安排](wiki/training-participation-work-design-2026-11.md)：22人质性访谈，先核任务、正常工时与替补；HTML指定段已读，PDF入库不等于精读。
 - [复工福利连续性](wiki/return-to-work-benefit-continuity-2026-11.md)：协议批准与未来复工、工资兑现分别核；兼职资格衔接不能仅看回岗人数。
 - [W45信息库快速导读](../daily/weekly-2026-W45.md)／[详细资料](../daily-report/weekly-2026-W45.md)：11月2—8日晨间比较、反例与日期纠正，非专题周报或独立效果验证。
@@ -316,6 +319,7 @@
 | [2026090400829 c](wiki/pdf-source-hkexnews-hk-2026090400829-c.md) | hkexnews.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [cesifo1 wp12373](wiki/pdf-source-ifo-de-cesifo1-wp12373.md) | ifo.de | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [ILO Brief ASEAN AI v11 clean](wiki/pdf-source-ilo-org-ilo-brief-asean-ai-v11-clean.md) | ilo.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
+| [Artificial intelligence adoption in Chinese enterprises CH](wiki/pdf-source-ilo-org-artificial-intelligence-adoption-in-chinese-enterprises-ch.md) | ilo.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [0000050863 26 000011](wiki/pdf-source-intc-com-0000050863-26-000011.md) | intc.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [2Q26 earnings transcript](wiki/pdf-source-jpmorganchase-com-2q26-earnings-transcript.md) | jpmorganchase.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 9 次 |
 | [McKinsey：The State of Organizations 2026](wiki/pdf-source-mckinsey-company-mckinsey-the-state-of-organizations-2026.md) | McKinsey & Company | AI组织设计、人才发展、变革管理 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
