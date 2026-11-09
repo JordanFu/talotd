@@ -42,6 +42,7 @@ AI 时代的高人才密度不只是“更强个体”，而是能把问题定�
 |---|---|
 | [Obsidian 本地知识库](./knowledge/wiki/obsidian-vault-full-source-map-2026-05-22.md) | 本地 Vault 当前识别 70 篇 Markdown；2026-06-30 已新增公开安全 source map（覆盖 69 篇，排除 1 篇内部敏感来源），并抽取字节跳动 AI 时代领导力原则、AI 五环协同人才体… |
 | [大厂 HR：AI 时代招聘标准与人才画像变化](./knowledge/wiki/bigtech-hr-ai-era-hiring-talent-2026.md) | 基于用户提供微信文章链接，并通过腾讯新闻与 36氪转载交叉核验正文；沉淀 AI 时代大厂招聘标准从工具熟练度转向项目证据、业务闭环、多 Agent 编排和 AI 应用落地的市场观察。 |
+| [薪酬谈判：人数、薪带与工作时间分开算](./knowledge/wiki/pay-bargaining-worktime-denominators-2026-11.md) | 读双方HTML方案及测算，岗位空缺假设非实际人数、市场薪带非员工到手；待命、改班与薪级分别核，完整研究合同及调解结果未得，非法律意见。 |
 | [Jobstreet新加坡AI招聘广告：职责样例与方法](./knowledge/wiki/jobstreet-ai-gauge-sg-2026.md) | 已保存25页公开PDF，核指定职责样例与方法；广告文本不等于实际聘用或薪酬，非全文精读。 |
 | [采用、收益与兑现边界](./knowledge/wiki/adoption-value-boundaries-2026-10-04.md) | 采用与收益分开验证，透明承诺与薪酬条件追到实际工作接口。 |
 | [学习与控制的闭环](./knowledge/wiki/learning-and-control-2026-09-28.md) | 从人才供给、事件复盘和岗位样本区分参与记录与实际结果；实践机会、停止权限与资源配套。 |
@@ -51,7 +52,6 @@ AI 时代的高人才密度不只是“更强个体”，而是能把问题定�
 | [岗位责任与证据：知识治理、薪酬比较和外部监督](./knowledge/wiki/role-charters-and-evidence-2026-09-19.md) | 比较岗位责任、薪酬结构控制与外部评估权利，区分公开安排、统计观察与待试验建议。 |
 | [工作流与测量分母：避免把AI进展误译成人员决策](./knowledge/wiki/workflow-measurement-boundaries-2026-09-18.md) | 比较流程改善、任务自动化与薪酬差距的证据边界，提供不增加员工汇报负担的试点检查。方法披露与效果、招聘意图与正式制度分开。 |
 | [岗位价格与责任设计：先分问题，再选机制](./knowledge/wiki/role-price-and-control-2026-09-15.md) | 比较市场补差、复合岗位支持与人机授权，明确证据边界和可试用的工作前检查；不把建议当成企业已验证制度。 |
-| [AI采用之后：责任、支持与人员去向](./knowledge/wiki/ai-work-allocation-2026-09-12.md) | 用普信、NTEN与Bridgespan、Wipro、暴雪案例比较应用责任、员工支持与人员转配；附薪酬统计年代纠偏，不把采用率或产能自述当效果证明。 |
 
 ## 当前不可越界的结论
 

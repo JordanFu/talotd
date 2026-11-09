@@ -40,18 +40,18 @@
 
 | 资料 | 对本专题的价值 |
 |---|---|
+| [中国企业AI研究：效率、态度与员工结果分开](./knowledge/wiki/china-ai-work-quality-evidence-2026-11.md) | 已读中文PDF第2、4、6、9—10页及9页图像，非全文。21企业目的抽样访谈与1591人态度分开，自报无受控实验，非员工净收益或就业因果。 |
 | [METR研发加速：指标、归因与审查权限分开](./knowledge/wiki/ai-rd-acceleration-evidence-2026-11.md) | 已读公开HTML摘要、发现、过程、局限与方法指定段，后段截断；未读约100页内部报告或PDF。1.9倍为基准增长速度比，AI归因为主观估计，非员工级访问或组织生产率效果。 |
 | [Lockheed和解：差异检测、贡献复核与名单决定分开](./knowledge/wiki/doj-lockheed-incentive-review-2026-11.md) | 14页公开协议手工缓存465,011字节，主编及代理核1—5页文字，非全文精读；政府指控、公司否认及不承认责任保留，未核到账或公平后效，不作法律适用结论。 |
 | [内部机会、学习与晋升：不要把态度当机会](./knowledge/wiki/internal-opportunity-promotion-2026-11.md) | 已读原始HTML、调查方法与晋升规则，按旧线。受访者比例非岗位份额，责任认知差异不等于无人负责；内部机会、正常工时、决定权与回报分别检验，不移植为无偿试岗。 |
 | [Miro协作调查：个人速度不等于完整交付收益](./knowledge/wiki/miro-team-collaboration-evidence-2026.md) | HTML方法与反向结果已读，完整报告、PDF及原始数据未读。跨地区9,500余人自报调查，非因果或净收益估计；不以私有会话比例授权员工监控。 |
 | [复核、角色与上线支持](./knowledge/wiki/review-role-support-2026-10-02.md) | 把责任落实到核实权、任务边界、交接与员工支持，区分招聘信号和运行结果。 |
 | [机会、能力证据与用途边界](./knowledge/wiki/opportunity-evidence-purpose-2026-09-30.md) | 对照学习机会、测评整合与临时角色，保护员工发展和数据用途边界。 |
+| [本地知识库定期 Review（2026-11-09）](./knowledge/wiki/local-knowledge-review-2026-11-09.md) | 本周知识库巡检报告，覆盖113个公开PDF来源、17张新增机制／来源卡、Vistry结构化补齐、信息流与专题连续性、PDF生命周期、重复映射、分享入口和隐私边界。 |
 | [本地知识库定期 Review（2026-11-02）](./knowledge/wiki/local-knowledge-review-2026-11-02.md) | 本周知识库巡检报告，覆盖 109 个公开 PDF 来源、近期信息流与专题连续性、六张新增结构化卡、PDF 来源类型、日期与生命周期债务、重复映射、分享入口和隐私边界。 |
 | [本地知识库定期 Review（2026-10-26）](./knowledge/wiki/local-knowledge-review-2026-10-26.md) | 本周知识库巡检报告，覆盖 103 个公开 PDF 来源、近期信息流与专题连续性、PDF 阅读状态、来源分类、日期与生命周期债务、重复映射、分享入口和隐私边界。 |
 | [本地知识库定期 Review（2026-10-19）](./knowledge/wiki/local-knowledge-review-2026-10-19.md) | 本周知识库巡检报告，覆盖 97 个公开 PDF 来源、近期信息流与专题连续性、PDF 阅读状态、来源分类与生命周期债务、重复映射、分享入口和隐私边界。 |
 | [本地知识库定期 Review（2026-10-12）](./knowledge/wiki/local-knowledge-review-2026-10-12.md) | 本周知识库巡检报告，覆盖 92 个公开 PDF 来源、近期信息流与专题连续性、PDF 阅读状态冲突、来源分类与生命周期债务、过时索引、分享入口和隐私边界。 |
-| [本地知识库定期 Review（2026-10-05）](./knowledge/wiki/local-knowledge-review-2026-10-05.md) | 本周知识库巡检报告，覆盖 89 个当前公开 PDF 来源、近期 7 张机制比较页、PDF 精读与来源分类债务、历史专题重跑、过时二级索引、分享入口和隐私边界。 |
-| [本地知识库定期 Review（2026-09-28）](./knowledge/wiki/local-knowledge-review-2026-09-28.md) | 本周知识库巡检报告，覆盖 87 个当前公开 PDF 来源、近期 6 张机制比较页、PDF 精读与来源分类债务、历史专题补跑、分享入口和 AI 组织研究优先级。 |
 
 ## 当前不可越界的结论
 
