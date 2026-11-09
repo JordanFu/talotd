@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-11-09
+> 最后更新: 2026-11-10
 
 ---
 
@@ -308,7 +308,7 @@
 | [2026090400829 c](wiki/pdf-source-hkexnews-hk-2026090400829-c.md) | hkexnews.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [cesifo1 wp12373](wiki/pdf-source-ifo-de-cesifo1-wp12373.md) | ifo.de | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [ILO Brief ASEAN AI v11 clean](wiki/pdf-source-ilo-org-ilo-brief-asean-ai-v11-clean.md) | ilo.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
-| [Artificial intelligence adoption in Chinese enterprises CH](wiki/pdf-source-ilo-org-artificial-intelligence-adoption-in-chinese-enterprises-ch.md) | ilo.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [Artificial intelligence adoption in Chinese enterprises CH](wiki/pdf-source-ilo-org-artificial-intelligence-adoption-in-chinese-enterprises-ch.md) | ilo.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
 | [0000050863 26 000011](wiki/pdf-source-intc-com-0000050863-26-000011.md) | intc.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [2Q26 earnings transcript](wiki/pdf-source-jpmorganchase-com-2q26-earnings-transcript.md) | jpmorganchase.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 9 次 |
 | [McKinsey：The State of Organizations 2026](wiki/pdf-source-mckinsey-company-mckinsey-the-state-of-organizations-2026.md) | McKinsey & Company | AI组织设计、人才发展、变革管理 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |

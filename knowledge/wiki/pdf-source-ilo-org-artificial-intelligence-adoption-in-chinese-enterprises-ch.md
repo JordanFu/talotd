@@ -52,6 +52,13 @@ status: 已缓存中文10页PDF，读第2、4、6、9—10页文字及第9页图
 ## 被引用位置
 
 - `daily/2026-11-09.md:10`：10页公开中文PDF
+- `specials/ai-org-talent-mechanism/2026-11-09/00-overview.md:186`：10页中文PDF
+- `specials/ai-org-talent-mechanism/2026-11-09/01-flat-organization.md:212`：10页中文PDF
+- `specials/ai-org-talent-mechanism/2026-11-09/02-talent-density.md:29`：ILO《中国企业人工智能应用》中文版
+- `specials/ai-org-talent-mechanism/2026-11-09/02-talent-density.md:184`：ILO 中文 10 页 PDF
+- `specials/ai-org-talent-mechanism/2026-11-09/03-job-family-career-architecture.md:23`：ILO《中国企业人工智能应用》中文版
+- `specials/ai-org-talent-mechanism/2026-11-09/03-job-family-career-architecture.md:198`：ILO公开中文PDF
+- `specials/ai-org-talent-mechanism/2026-11-09/04-promotion-system.md:179`：10页中文PDF
 
 ## 后续精读任务
 
