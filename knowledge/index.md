@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-11-10
+> 最后更新: 2026-11-11
 
 ---
 
@@ -320,6 +320,7 @@
 | [绩效预测论文：模型分数不等于用工依据](wiki/pdf-source-nature-com-s41598-026-76297-z-reference.md) | Scientific Reports / Springer Nature | 绩效模型用途边界 | L2方法，不作人事依据 | 26日指定页文本已核，27日缓存可用，引用 1 次 |
 | [OECD：Competition in the Age of AI](wiki/pdf-source-oecd-oecd-competition-in-the-age-of-ai.md) | OECD | 组织吸收能力、高技能人才、市场结构、企业边界 | 强相关：组织能力与人才结构 | 已下载原文，引用 2 次 |
 | [c0ffced7 en](wiki/pdf-source-oecd-org-c0ffced7-en.md) | oecd.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
+| [issuance of final rule on managing senior professional performance](wiki/pdf-source-opm-gov-issuance-of-final-rule-on-managing-senior-professional-performance.md) | opm.gov | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [orgvue ai research ebook 2026 final](wiki/pdf-source-orgvue-com-orgvue-ai-research-ebook-2026-final.md) | orgvue.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [Payscale：2026 Compensation Best Practices Report](wiki/pdf-source-payscale-payscale-2026-compensation-best-practices-report.md) | Payscale | AI 技能定价、薪酬公平、薪酬基准、job management | 强相关：薪酬架构与激励资源 | 已下载原文，引用 20 次 |
 | [For Every Future Report Pearson 1](wiki/pdf-source-pearson-com-for-every-future-report-pearson-1.md) | pearson.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |

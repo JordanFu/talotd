@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-11-10",
+  "lastUpdated": "2026-11-11",
   "mode": "karpathy-llm-wiki",
   "schema": "knowledge/CLAUDE.md",
   "categories": {
@@ -6913,6 +6913,30 @@
         "ilo.org"
       ],
       "originalUrl": "https://www.ilo.org/sites/default/files/2026-11/Artificial%20intelligence%20adoption%20in%20Chinese%20enterprises%20CH.pdf"
+    },
+    {
+      "id": "p123",
+      "title": "issuance of final rule on managing senior professional performance",
+      "originalTitle": "issuance of final rule on managing senior professional performance",
+      "author": "opm.gov",
+      "publisher": "opm.gov",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-11",
+      "description": "issuance of final rule on managing senior professional performance 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-opm-gov-issuance-of-final-rule-on-managing-senior-professional-performance.md",
+      "rawFile": "./knowledge/raw/opm-gov-issuance-of-final-rule-on-managing-senior-professional-performance.pdf",
+      "fileName": "opm-gov-issuance-of-final-rule-on-managing-senior-professional-performance.pdf",
+      "fileSize": "263062 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "opm.gov"
+      ],
+      "originalUrl": "https://www.opm.gov/chcoc/latest-memos/issuance-of-final-rule-on-managing-senior-professional-performance.pdf"
     }
   ]
 }
