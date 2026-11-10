@@ -139,6 +139,94 @@
   ],
   "reports": [
     {
+      "id": "ai-training-readiness-calibration-2026-11",
+      "title": "AI培训评价：自评准备与任务判断分别看",
+      "author": "Ziheng Song",
+      "publisher": "Frontiers in Education",
+      "sourceType": "academic",
+      "topics": [
+        "组织学习",
+        "人才发展"
+      ],
+      "date": "2026-11-06",
+      "uploadDate": "2026-11-10",
+      "description": "HTML方法结果局限已读：425人自愿调查、25人无对照试点，自评提高与情境表现未显著相关；不推培训因果或普遍无关，不能用于个人绩效排名。PDF仅缓存。",
+      "summaryFile": "./knowledge/wiki/ai-training-readiness-calibration-2026-11.md",
+      "tags": [
+        "培训评价",
+        "判断校准",
+        "责任边界"
+      ],
+      "originalUrl": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1946896/full"
+    },
+    {
+      "id": "digital-registration-ai-boundaries-2026-11",
+      "title": "WSIB数字登记：流程重设计不等于AI效果",
+      "author": "WSIB / Guidewire",
+      "publisher": "WSIB / Guidewire",
+      "sourceType": "industry",
+      "topics": [
+        "AI组织设计",
+        "数字化转型"
+      ],
+      "date": "2026-11-09",
+      "uploadDate": "2026-11-10",
+      "description": "官方URL搜索返回完整公告：单次在线、常规自动处理与复杂案人工判断；未来AI另计。PDF403未读，期间/样本/工时不足，不用比例和满意度作独立净收益。",
+      "summaryFile": "./knowledge/wiki/digital-registration-ai-boundaries-2026-11.md",
+      "tags": [
+        "流程重设计",
+        "数字化与AI",
+        "人工接手"
+      ],
+      "originalUrl": "https://iireporter.com/wsib-cuts-employer-registration-from-days-to-minutes-with-guidewire/"
+    },
+    {
+      "id": "manual-frontiers-ai-readiness-1946896",
+      "title": "AI准备校准论文：HTML已读，PDF仅缓存",
+      "author": "Ziheng Song",
+      "publisher": "Frontiers in Education",
+      "sourceType": "academic",
+      "topics": [
+        "组织学习",
+        "人才发展"
+      ],
+      "date": "2026-11-06",
+      "uploadDate": "2026-11-10",
+      "description": "公开无扩展名PDF手工缓存19页、845730字节；只核类型页数及首页题名元数据，不称PDF正文图像精读。判断来自HTML，L2探索性样本观察，非培训因果。",
+      "summaryFile": "./knowledge/wiki/pdf-source-frontiers-ai-readiness-1946896.md",
+      "rawFile": "./knowledge/raw/frontiers-ai-readiness-1946896.pdf",
+      "fileName": "frontiers-ai-readiness-1946896.pdf",
+      "fileSize": "845730 bytes",
+      "tags": [
+        "PDF手工补录",
+        "培训评价"
+      ],
+      "originalUrl": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1946896/pdf"
+    },
+    {
+      "id": "manual-guidewire-wsib-26606",
+      "title": "WSIB登记流程公告：公开PDF待重试",
+      "author": "WSIB / Guidewire",
+      "publisher": "WSIB / Guidewire",
+      "sourceType": "industry",
+      "topics": [
+        "AI组织设计",
+        "数字化转型"
+      ],
+      "date": "2026-11-09",
+      "uploadDate": "2026-11-10",
+      "description": "公开无扩展名PDF直连403、未缓存未读图像；官方URL搜索返回完整稿仅支持项目方流程披露，非独立效果。保留引用上下文、证据范围与待重试，不绕过访问控制。",
+      "summaryFile": "./knowledge/wiki/pdf-source-guidewire-wsib-26606.md",
+      "rawFile": "",
+      "fileName": "download pending",
+      "fileSize": "download pending",
+      "tags": [
+        "PDF手工补录",
+        "流程重设计"
+      ],
+      "originalUrl": "https://ir.guidewire.com/node/26606/pdf"
+    },
+    {
       "id": "china-ai-work-quality-evidence-2026-11",
       "title": "中国企业AI研究：效率、态度与员工结果分开",
       "author": "Ekkehard Ernst / 赵忠等",

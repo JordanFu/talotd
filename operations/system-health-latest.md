@@ -1,6 +1,6 @@
 # 系统健康状态
 
-> 自动生成：2026-11-09T23:06:52.511Z
+> 自动生成：2026-11-10T01:52:03.374Z
 
 ## 一眼判断
 
@@ -14,13 +14,13 @@
 
 ## 情报流状态
 
-- 最新日期：2026-11-09
+- 最新日期：2026-11-10
 - 今日卡片数：7
-- 今日新增事实：0
-- 旧线复核 / Context：4
+- 今日新增事实：2
+- 旧线复核 / Context：2
 - 弱信号：2
 - 缺口记录：1
-- 渠道覆盖：报告学术、官方、媒体、JD薪酬、社媒公众号
+- 渠道覆盖：官方、报告学术、媒体、JD薪酬、社媒公众号
 - sourceUrl 缺失：0
 
 ## 专题研究状态
@@ -35,8 +35,8 @@
 
 - Catalog 日期：2026-11-10
 - 知识源：4
-- 报告 / 知识页：255
-- 待重试 PDF：17
+- 报告 / 知识页：259
+- 待重试 PDF：18
 - 本地或私有路径泄露：0
 - 缺失 summaryFile：0
 
@@ -56,8 +56,8 @@
 ## 链接检查
 
 - 一方断链数：0
-- 外部链接 warning：18
-- 公开扫描桥接：ok:200、ok:200
+- 外部链接 warning：28
+- 公开扫描桥接：warn:n/a、warn:n/a
 
 ## 质量语义
 
@@ -69,12 +69,15 @@
 
 - ✅ 无 P0 fail。
 - ⚠️ 最新日期非缺口信息卡少于 8 条：当前 6 条；已有缺口记录，不能用缺口记录凑数量。
-- ⚠️ 最新日期“新增事实”少于 5 条：当前 0 条；已有缺口记录，首页应诚实显示可信新增不足。
+- ⚠️ 最新日期“新增事实”少于 5 条：当前 2 条；已有缺口记录，首页应诚实显示可信新增不足。
 - ⚠️ 最新日期同一子主题超过 40%：43%；需要关注广谱雷达覆盖。
 - ⚠️ external link not hard-checked in Phase 1
+- ⚠️ network check warning: fetch failed
 - ⚠️ external link not hard-checked in Phase 1
+- ⚠️ network check warning: fetch failed
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
 - ⚠️ external link not hard-checked in Phase 1
+- ⚠️ network check warning: fetch failed
 - ⚠️ 信息库交付待核验：scheduled
 - ⚠️ 信息库质量为 warn
 - ⚠️ 专题研究状态为 warn

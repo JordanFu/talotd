@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-09T23:06:51.354Z",
+  "generatedAt": "2026-11-10T01:51:47.363Z",
   "module": "knowledge-base",
   "qualityStatus": "warn",
   "latestCatalogDate": "2026-11-10",
   "counts": {
-    "reports": 255,
+    "reports": 259,
     "knowledgeSources": 4,
     "sourceTypes": {
-      "academic": 11,
-      "industry": 78,
+      "academic": 13,
+      "industry": 80,
       "consulting": 19,
       "internal": 32,
       "media": 91,
@@ -51,8 +51,13 @@
       ]
     }
   ],
-  "pdfRetryCount": 17,
+  "pdfRetryCount": 18,
   "pdfRetrySample": [
+    {
+      "id": "manual-guidewire-wsib-26606",
+      "title": "WSIB登记流程公告：公开PDF待重试",
+      "summaryFile": "./knowledge/wiki/pdf-source-guidewire-wsib-26606.md"
+    },
     {
       "id": "p001",
       "title": "GitLab：2026 SEC 8-K Filing",
@@ -97,35 +102,35 @@
       "id": "p035",
       "title": "734a5e68 en",
       "summaryFile": "./knowledge/wiki/pdf-source-oecd-org-734a5e68-en.md"
-    },
-    {
-      "id": "p049",
-      "title": "2026 global investor survey jul 2026",
-      "summaryFile": "./knowledge/wiki/pdf-source-bcg-2026-global-investor-survey-jul-2026.md"
     }
   ],
   "warnings": [
     "knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。",
-    "external link not hard-checked in Phase 1"
+    "external link not hard-checked in Phase 1",
+    "network check warning: fetch failed"
   ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-11-09T23:06:51.825Z",
+    "checkedAt": "2026-11-10T01:52:03.256Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 5408,
-    "externalWarnings": 18,
+    "firstPartyChecked": 5428,
+    "externalWarnings": 28,
     "brokenCount": 0,
     "publicScanBridge": [
       {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-11-09.html"
+        "ok": false,
+        "hardBroken": false,
+        "status": null,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-11-10.html",
+        "reason": "network check warning: fetch failed"
       },
       {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/"
+        "ok": false,
+        "hardBroken": false,
+        "status": null,
+        "url": "https://jordanfu.github.io/org-intelligence-info/",
+        "reason": "network check warning: fetch failed"
       }
     ]
   }
