@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-11-11",
+  "lastUpdated": "2026-11-12",
   "mode": "karpathy-llm-wiki",
   "schema": "knowledge/CLAUDE.md",
   "categories": {
@@ -6937,6 +6937,30 @@
         "opm.gov"
       ],
       "originalUrl": "https://www.opm.gov/chcoc/latest-memos/issuance-of-final-rule-on-managing-senior-professional-performance.pdf"
+    },
+    {
+      "id": "p124",
+      "title": "experis leadership playbook scaling ai securely report",
+      "originalTitle": "experis leadership playbook scaling ai securely report",
+      "author": "experis.com",
+      "publisher": "experis.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-12",
+      "description": "experis leadership playbook scaling ai securely report 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-experis-com-experis-leadership-playbook-scaling-ai-securely-report.md",
+      "rawFile": "./knowledge/raw/experis-com-experis-leadership-playbook-scaling-ai-securely-report.pdf",
+      "fileName": "experis-com-experis-leadership-playbook-scaling-ai-securely-report.pdf",
+      "fileSize": "8473724 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "experis.com"
+      ],
+      "originalUrl": "https://www.experis.com/-/media/project/manpowergroup/experis/experis-us/documents/experis_leadership_playbook_scaling-ai-securely-report.pdf"
     }
   ]
 }

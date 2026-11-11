@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-11T07:58:45.994Z",
+  "generatedAt": "2026-11-11T17:57:08.625Z",
   "module": "knowledge-base",
   "qualityStatus": "warn",
-  "latestCatalogDate": "2026-11-11",
+  "latestCatalogDate": "2026-11-12",
   "counts": {
-    "reports": 260,
+    "reports": 261,
     "knowledgeSources": 4,
     "sourceTypes": {
       "academic": 13,
       "industry": 80,
       "consulting": 19,
       "internal": 32,
-      "media": 92,
+      "media": 93,
       "concept": 10,
       "public-safe-synthesis": 11,
       "regulatory": 1,
@@ -111,9 +111,9 @@
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-11-11T07:58:46.388Z",
+    "checkedAt": "2026-11-11T17:57:09.079Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 5444,
+    "firstPartyChecked": 5473,
     "externalWarnings": 30,
     "brokenCount": 0,
     "publicScanBridge": [
