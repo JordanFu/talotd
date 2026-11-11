@@ -54,6 +54,8 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 - `daily/2026-09-05.md:69`：公告 PDF
 - `daily/2026-09-05.md:149`：港交所公告
 - `specials/ai-org-talent-mechanism/2026-09-05/04-promotion-system.md:140`：港交所：京东物流 CFO 公告
+- `外部公开 PDF 扫描:67`：公开安全引用：京东物流港交所公告
+- `外部公开 PDF 扫描:139`：公开安全引用：| 港交所 |  | 京东物流 CFO 公告 | A / 核心 |
 
 ## 后续精读任务
 
