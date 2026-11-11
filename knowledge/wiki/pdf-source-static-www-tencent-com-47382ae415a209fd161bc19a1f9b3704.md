@@ -52,8 +52,6 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 ## 被引用位置
 
 - `daily/2026-06-09.md:99`：来源：Tencent（；https://www.tencent.com/en-us/articles/2202350.html）
-- `外部公开 PDF 扫描:80`：公开安全引用：- 腾讯 2026 一季度业绩公告 PDF：``
-- `外部公开 PDF 扫描:187`：公开安全引用：| 腾讯 2026 一季度业绩公告 |  | 腾讯 | revamped AI researchers / new AI products 单独核算 | A | 是 |
 
 ## 后续精读任务
 
