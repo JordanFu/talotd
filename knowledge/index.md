@@ -280,7 +280,7 @@
 | [Anthropic：2026 Agentic Coding Trends Report](wiki/pdf-source-anthropic-anthropic-2026-agentic-coding-trends-report.md) | Anthropic | Agentic coding、工程师角色重塑、人机协作 | 强相关：产品工程一体化 | 已下载原文，引用 1 次 |
 | [Meta 06 30 2026 Exhibit 99 1 FINAL](wiki/pdf-source-s21-q4cdn-com-meta-06-30-2026-exhibit-99-1-final.md) | s21.q4cdn.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [META Q2 2026 Earnings Call Transcript](wiki/pdf-source-s21-q4cdn-com-meta-q2-2026-earnings-call-transcript.md) | s21.q4cdn.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
-| [Fannie Mae：LL-2026-04 AI/ML 治理要求](wiki/pdf-source-fannie-mae-fannie-mae-ll-2026-04-ai-ml.md) | Fannie Mae | AI治理、负责人、年度复核、供应商级联 | 强相关：正式治理规则与外部责任边界 | 已索引待重试，引用 13 次 |
+| [Fannie Mae：LL-2026-04 AI/ML 治理要求](wiki/pdf-source-fannie-mae-fannie-mae-ll-2026-04-ai-ml.md) | Fannie Mae | AI治理、负责人、年度复核、供应商级联 | 强相关：正式治理规则与外部责任边界 | 已下载原文，引用 13 次 |
 | [SMG Heart of Work Key Findings](wiki/pdf-source-staffmark-com-smg-heart-of-work-key-findings.md) | staffmark.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [6277baa6 0f7b 4fbe 9c7c ceb3e0e9b325 flatland](wiki/pdf-source-static-cdn-cars24-com-6277baa6-0f7b-4fbe-9c7c-ceb3e0e9b325-flatland.md) | static-cdn.cars24.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 16 次 |
 | [万通发展：期权授予与实际兑现的边界](wiki/pdf-source-static-cninfo-com-cn-1225650751.md) | 万通发展 | 激励资格、授予与兑现 | L2正式安排，不是收益或留任效果 | 缓存2页，核读全文解析及第2页图像；引用 4 次 |

@@ -3,10 +3,10 @@ title: Fannie Mae：LL-2026-04 AI/ML 治理要求
 source: Fannie Mae
 date: 待核验
 ingested: 2026-08-31
-sourceFile:
+sourceFile: ../raw/fannie-mae-fannie-mae-ll-2026-04-ai-ml.pdf
 sourceUrl: https://singlefamily.fanniemae.com/media/45196/display
 tags: [AI组织设计]
-status: 已索引来源，PDF下载待重试
+status: 已下载原始PDF，已生成结构化初筛卡片
 ---
 
 # Fannie Mae：LL-2026-04 AI/ML 治理要求
@@ -20,7 +20,7 @@ Fannie Mae LL-2026-04 把贷款流程中的 AI/ML 原则接成负责人、年度
 - **来源机构**：Fannie Mae
 - **来源类型**：industry
 - **原文 URL**：https://singlefamily.fanniemae.com/media/45196/display
-- **原始文件**：下载失败或待重试，先保留 URL 与引用上下文
+- **原始文件**：`knowledge/raw/fannie-mae-fannie-mae-ll-2026-04-ai-ml.pdf`
 - **入库日期**：2026-08-31
 - **证据层级**：L3：正式业务规则可证明治理要求已经生效，但不能证明机构已合规或风险已经下降。
 
