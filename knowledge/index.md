@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-11-12
+> 最后更新: 2026-11-13
 
 ---
 
@@ -243,7 +243,7 @@
 | [ca the health productivity gap aoda en.7ae5e913bd32](wiki/pdf-source-assets-foleon-com-ca-the-health-productivity-gap-aoda-en-7ae5e913bd32.md) | assets.foleon.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [UK Standard Skills Classification Development Report](wiki/pdf-source-assets-publishing-service-gov-uk-uk-standard-skills-classification-development-report.md) | assets.publishing.service.gov.uk | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [the participation economy](wiki/pdf-source-cdn-openai-com-the-participation-economy.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
-| [openai upwork full report](wiki/pdf-source-cdn-openai-com-openai-upwork-full-report.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [openai upwork full report](wiki/pdf-source-cdn-openai-com-openai-upwork-full-report.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
 | [the ai jobs transition framework report](wiki/pdf-source-cdn-openai-com-the-ai-jobs-transition-framework-report.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [2026 10 why ai training is driving adoption but not sustainable productivity](wiki/pdf-source-cmr-berkeley-edu-2026-10-why-ai-training-is-driving-adoption-but-not-sustainable-productivity.md) | cmr.berkeley.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [f232578](wiki/pdf-source-conference-nber-org-f232578.md) | conference.nber.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 24 次 |

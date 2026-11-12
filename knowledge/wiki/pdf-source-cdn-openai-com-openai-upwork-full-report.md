@@ -52,6 +52,11 @@ openai upwork full report 已作为日报/周报 PDF 证据源入库，当前需
 ## 被引用位置
 
 - `daily/2026-11-12.md:131`：联合研究全文，图2.4及附录
+- `specials/ai-org-talent-mechanism/2026-11-12/00-overview.md:47`：OpenAI与Upwork联合报告
+- `specials/ai-org-talent-mechanism/2026-11-12/00-overview.md:160`：OpenAI×Upwork联合研究全文
+- `specials/ai-org-talent-mechanism/2026-11-12/03-job-family-career-architecture.md:28`：OpenAI×Upwork 完整报告
+- `specials/ai-org-talent-mechanism/2026-11-12/03-job-family-career-architecture.md:225`：Generative AI and the future of work: Full report
+- `specials/ai-org-talent-mechanism/2026-11-12/research-audit.md:40`：OpenAI×Upwork联合报告
 
 ## 后续精读任务
 
