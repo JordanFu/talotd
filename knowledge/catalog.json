@@ -6961,6 +6961,30 @@
         "experis.com"
       ],
       "originalUrl": "https://www.experis.com/-/media/project/manpowergroup/experis/experis-us/documents/experis_leadership_playbook_scaling-ai-securely-report.pdf"
+    },
+    {
+      "id": "p125",
+      "title": "openai upwork full report",
+      "originalTitle": "openai upwork full report",
+      "author": "cdn.openai.com",
+      "publisher": "cdn.openai.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-12",
+      "description": "openai upwork full report 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-cdn-openai-com-openai-upwork-full-report.md",
+      "rawFile": "./knowledge/raw/cdn-openai-com-openai-upwork-full-report.pdf",
+      "fileName": "cdn-openai-com-openai-upwork-full-report.pdf",
+      "fileSize": "2023938 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "cdn.openai.com"
+      ],
+      "originalUrl": "https://cdn.openai.com/pdf/openai-upwork-full-report.pdf"
     }
   ]
 }
