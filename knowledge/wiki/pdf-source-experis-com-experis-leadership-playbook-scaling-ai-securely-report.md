@@ -59,6 +59,10 @@ experis leadership playbook scaling ai securely report 已作为日报/周报 PD
 - `specials/ai-org-talent-mechanism/2026-11-11/03-job-family-career-architecture.md:21`：报告全文
 - `specials/ai-org-talent-mechanism/2026-11-11/03-job-family-career-architecture.md:173`：报告全文PDF
 - `specials/ai-org-talent-mechanism/2026-11-11/04-promotion-system.md:184`：完整报告PDF
+- `specials/ai-org-talent-mechanism/weekly/2026-W46-detailed.md:261`：报告
+- `specials/ai-org-talent-mechanism/weekly/2026-W46.md:261`：报告
+- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:261`：报告
+- `specials/ai-org-talent-mechanism/weekly/latest.md:261`：报告
 
 ## 后续精读任务
 
