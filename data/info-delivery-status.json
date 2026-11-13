@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-13T17:53:18.357Z",
+  "checkedAt": "2026-11-13T20:36:52.861Z",
   "module": "info-delivery",
   "date": "2026-11-14",
   "timezone": "Asia/Shanghai",
@@ -17,9 +17,7 @@
     "当日导读正文缺失",
     "信息库 manifest 日期或卡片数与当日产物不符"
   ],
-  "remoteErrors": [
-    "daily/2026-11-14.md: HTTP 503"
-  ],
+  "remoteErrors": [],
   "receiptMeaning": "只确认当日文件、审计状态及线上内容一致，不代表人工已认可内容价值。",
-  "runUrl": "https://github.com/JordanFu/talotd/actions/runs/43476991692"
+  "runUrl": "https://github.com/JordanFu/talotd/actions/runs/43502956352"
 }
