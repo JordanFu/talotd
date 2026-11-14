@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-13T20:36:52.302Z",
+  "generatedAt": "2026-11-14T02:07:17.508Z",
   "module": "knowledge-base",
   "qualityStatus": "warn",
   "latestCatalogDate": "2026-11-14",
   "counts": {
-    "reports": 262,
+    "reports": 263,
     "knowledgeSources": 4,
     "sourceTypes": {
       "academic": 13,
       "industry": 80,
       "consulting": 19,
       "internal": 32,
-      "media": 94,
+      "media": 95,
       "concept": 10,
       "public-safe-synthesis": 11,
       "regulatory": 1,
@@ -51,7 +51,7 @@
       ]
     }
   ],
-  "pdfRetryCount": 17,
+  "pdfRetryCount": 18,
   "pdfRetrySample": [
     {
       "id": "manual-guidewire-wsib-26606",
@@ -106,21 +106,24 @@
   ],
   "warnings": [
     "knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。",
-    "external link not hard-checked in Phase 1"
+    "external link not hard-checked in Phase 1",
+    "network check warning: This operation was aborted"
   ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-11-13T20:36:52.803Z",
+    "checkedAt": "2026-11-14T02:07:49.678Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 5529,
-    "externalWarnings": 30,
+    "firstPartyChecked": 5542,
+    "externalWarnings": 25,
     "brokenCount": 0,
     "publicScanBridge": [
       {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-11-13.html"
+        "ok": false,
+        "hardBroken": false,
+        "status": null,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-11-14.html",
+        "reason": "network check warning: This operation was aborted"
       },
       {
         "ok": true,

@@ -6985,6 +6985,30 @@
         "cdn.openai.com"
       ],
       "originalUrl": "https://cdn.openai.com/pdf/openai-upwork-full-report.pdf"
+    },
+    {
+      "id": "p126",
+      "title": "2026074pap",
+      "originalTitle": "2026074pap",
+      "author": "federalreserve.gov",
+      "publisher": "federalreserve.gov",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-14",
+      "description": "2026074pap 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-federalreserve-gov-2026074pap.md",
+      "rawFile": "",
+      "fileName": "federalreserve-gov-2026074pap.pdf",
+      "fileSize": "download pending",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "federalreserve.gov"
+      ],
+      "originalUrl": "https://www.federalreserve.gov/econres/feds/files/2026074pap.pdf"
     }
   ]
 }

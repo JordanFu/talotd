@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T20:36:02.694Z",
+  "generatedAt": "2026-11-14T02:07:17.396Z",
   "module": "topic-projects",
   "project": {
     "id": "ai-org-talent-mechanism",
@@ -9222,16 +9222,18 @@
   ],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-11-13T20:36:52.803Z",
+    "checkedAt": "2026-11-14T02:07:49.678Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 5529,
-    "externalWarnings": 30,
+    "firstPartyChecked": 5542,
+    "externalWarnings": 25,
     "brokenCount": 0,
     "publicScanBridge": [
       {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-11-13.html"
+        "ok": false,
+        "hardBroken": false,
+        "status": null,
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-11-14.html",
+        "reason": "network check warning: This operation was aborted"
       },
       {
         "ok": true,
@@ -9241,6 +9243,7 @@
     ]
   },
   "warnings": [
-    "external link not hard-checked in Phase 1"
+    "external link not hard-checked in Phase 1",
+    "network check warning: This operation was aborted"
   ]
 }

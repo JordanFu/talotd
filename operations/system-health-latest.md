@@ -1,6 +1,6 @@
 # 系统健康状态
 
-> 自动生成：2026-11-13T20:36:53.675Z
+> 自动生成：2026-11-14T02:08:34.418Z
 
 ## 一眼判断
 
@@ -14,13 +14,13 @@
 
 ## 情报流状态
 
-- 最新日期：2026-11-13
-- 今日卡片数：10
-- 今日新增事实：8
+- 最新日期：2026-11-14
+- 今日卡片数：9
+- 今日新增事实：6
 - 旧线复核 / Context：0
-- 弱信号：2
+- 弱信号：3
 - 缺口记录：0
-- 渠道覆盖：官方、报告学术、媒体、JD薪酬、社媒公众号
+- 渠道覆盖：媒体、官方、报告学术、JD薪酬、社媒公众号
 - sourceUrl 缺失：0
 
 ## 专题研究状态
@@ -35,8 +35,8 @@
 
 - Catalog 日期：2026-11-14
 - 知识源：4
-- 报告 / 知识页：262
-- 待重试 PDF：17
+- 报告 / 知识页：263
+- 待重试 PDF：18
 - 本地或私有路径泄露：0
 - 缺失 summaryFile：0
 
@@ -56,8 +56,8 @@
 ## 链接检查
 
 - 一方断链数：0
-- 外部链接 warning：30
-- 公开扫描桥接：ok:200、ok:200
+- 外部链接 warning：25
+- 公开扫描桥接：warn:n/a、ok:200
 
 ## 质量语义
 
@@ -69,9 +69,12 @@
 
 - ✅ 无 P0 fail。
 - ⚠️ external link not hard-checked in Phase 1
+- ⚠️ network check warning: This operation was aborted
 - ⚠️ external link not hard-checked in Phase 1
+- ⚠️ network check warning: This operation was aborted
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
 - ⚠️ external link not hard-checked in Phase 1
+- ⚠️ network check warning: This operation was aborted
 - ⚠️ 信息库交付待核验：scheduled
 - ⚠️ 信息库质量为 warn
 - ⚠️ 专题研究状态为 warn
