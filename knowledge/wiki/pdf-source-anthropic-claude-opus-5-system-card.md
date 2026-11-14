@@ -55,8 +55,6 @@ Claude Opus 5 System Card 已作为日报/周报 PDF 证据源入库，当前需
 - `specials/ai-org-talent-mechanism/2026-07-25/00-overview.md:39`：System Card PDF
 - `specials/ai-org-talent-mechanism/2026-07-25/03-job-family-career-architecture.md:25`：Claude Opus 5 System Card PDF
 - `specials/ai-org-talent-mechanism/2026-07-25/03-job-family-career-architecture.md:185`：Claude Opus 5 System Card PDF
-- `外部公开 PDF 扫描:92`：公开安全引用：来源与渠道：Anthropic 官方发布 https://www.anthropic.com/news/claude-opus-5；Claude Opus 5 System Card PDF 。
-- `外部公开 PDF 扫描:189`：公开安全引用：| Anthropic System Card |  | Anthropic | 发布门控与评测证据 | A | 是 |
 
 ## 后续精读任务
 

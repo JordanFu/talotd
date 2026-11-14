@@ -3,10 +3,10 @@ title: 2026074pap
 source: federalreserve.gov
 date: 待核验
 ingested: 2026-11-14
-sourceFile:
+sourceFile: ../raw/federalreserve-gov-2026074pap.pdf
 sourceUrl: https://www.federalreserve.gov/econres/feds/files/2026074pap.pdf
 tags: [AI组织设计]
-status: 已索引来源，PDF下载待重试
+status: 已下载原始PDF，已生成结构化初筛卡片
 ---
 
 # 2026074pap
@@ -20,7 +20,7 @@ status: 已索引来源，PDF下载待重试
 - **来源机构**：federalreserve.gov
 - **来源类型**：media
 - **原文 URL**：https://www.federalreserve.gov/econres/feds/files/2026074pap.pdf
-- **原始文件**：下载失败或待重试，先保留 URL 与引用上下文
+- **原始文件**：`knowledge/raw/federalreserve-gov-2026074pap.pdf`
 - **入库日期**：2026-11-14
 - **证据层级**：线索层优先；未完成精读前不进入结论层。
 
