@@ -52,6 +52,12 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 ## 被引用位置
 
 - `daily/2026-11-14.md:63`：来源：[美联储工作论文第6至7节](#page=14)
+- `specials/ai-org-talent-mechanism/2026-11-14/00-overview.md:202`：| [美联储工作论文](#page=14) | 2026-11-12；L2 | 招聘减少与初级就业入口的研究综述 | 新测全美降幅、单一企业因果 |
+- `specials/ai-org-talent-mechanism/2026-11-14/02-talent-density.md:33`：| [美联储工作论文第6至7节](#page=14) | 2026-11-12；L2综述 | 论文引用既有薪资记录研究：高AI暴露职业中22至25岁群体相对比较组就业下降16%，作者认为早期变化部分反映招聘减少 | 人才密度应单列初级入职、内转、离职、练习任务和导师容量 | 16%不是本论文新测全美降幅；不能排除利率、招聘回调等解释，不能外推单一企业 |
+- `specials/ai-org-talent-mechanism/2026-11-14/02-talent-density.md:213`：4. [美联储工作论文](#page=14)｜2026-11-12｜L2综述；16%来自被引研究，不是新测全美降幅。
+- `specials/ai-org-talent-mechanism/2026-11-14/03-job-family-career-architecture.md:36`：| [美联储工作论文](#page=14) | 页面日期2026-11-12；今日核读；L2综述 | 论文引用既有薪资记录研究：高AI暴露职业中22—25岁群体相对比较组就业下降16%；作者认为早期变化部分反映招聘减少 | 评估初级岗位时拆分实际入职、内转、离职和任务变化 | 16%不是今日新测全美降幅；不证明AI因果或单个企业应停止初级招聘 |
+- `specials/ai-org-talent-mechanism/2026-11-14/03-job-family-career-architecture.md:250`：6. [美联储｜Artificial Intelligence and the Labor Market](#page=14)，2026-11-12；L2研究综述，被引估计不是今日新测。
+- `specials/ai-org-talent-mechanism/2026-11-14/research-audit.md:41`：[美联储工作论文](#page=14)综述既有研究；16%不是本论文新测全美降幅，也不能排除利率、疫情后招聘回调等解释。
 
 ## 后续精读任务
 
