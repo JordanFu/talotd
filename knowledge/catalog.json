@@ -7009,6 +7009,54 @@
         "federalreserve.gov"
       ],
       "originalUrl": "https://www.federalreserve.gov/econres/feds/files/2026074pap.pdf"
+    },
+    {
+      "id": "p127",
+      "title": "s12909 026 10810 w reference",
+      "originalTitle": "s12909 026 10810 w reference",
+      "author": "link.springer.com",
+      "publisher": "link.springer.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-15",
+      "description": "s12909 026 10810 w reference 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-link-springer-com-s12909-026-10810-w-reference.md",
+      "rawFile": "./knowledge/raw/link-springer-com-s12909-026-10810-w-reference.pdf",
+      "fileName": "link-springer-com-s12909-026-10810-w-reference.pdf",
+      "fileSize": "1318926 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "link.springer.com"
+      ],
+      "originalUrl": "https://link.springer.com/content/pdf/10.1186/s12909-026-10810-w_reference.pdf"
+    },
+    {
+      "id": "p128",
+      "title": "s41746 026 03410 x",
+      "originalTitle": "s41746 026 03410 x",
+      "author": "nature.com",
+      "publisher": "nature.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-15",
+      "description": "s41746 026 03410 x 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-nature-com-s41746-026-03410-x.md",
+      "rawFile": "./knowledge/raw/nature-com-s41746-026-03410-x.pdf",
+      "fileName": "nature-com-s41746-026-03410-x.pdf",
+      "fileSize": "813762 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "nature.com"
+      ],
+      "originalUrl": "https://www.nature.com/articles/s41746-026-03410-x.pdf"
     }
   ]
 }
