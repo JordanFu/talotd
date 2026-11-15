@@ -1,6 +1,6 @@
 # 系统健康状态
 
-> 自动生成：2026-11-15T08:06:11.334Z
+> 自动生成：2026-11-15T11:17:18.631Z
 
 ## 一眼判断
 
@@ -26,8 +26,8 @@
 ## 专题研究状态
 
 - 今日日期：2026-11-15
-- 今日专题状态：scheduled
-- 最新正式日报日期：2026-11-14
+- 今日专题状态：formal
+- 最新正式日报日期：2026-11-15
 - 待正式重跑日期数：25
 - 待正式重跑日期：2026-10-12、2026-09-16、2026-09-11、2026-08-30、2026-08-29、2026-08-16、2026-08-09、2026-07-13、2026-07-12、2026-07-11、2026-07-06、2026-07-03 等 25 项
 
@@ -45,7 +45,7 @@
 - 信息库当日交付：published
 - 信息库线上内容一致：已核对
 - 信息库交付截止：北京时间 11:30；告警不等于内容补跑完成。
-- 本地正式任务：scheduled
+- 本地正式任务：confirmed-formal
 - GitHub Actions 角色：fallback-only
 - GitHub Actions 定时数：4
 - 信息库链路：⚠️ warn
@@ -56,8 +56,8 @@
 ## 链接检查
 
 - 一方断链数：0
-- 外部链接 warning：18
-- 公开扫描桥接：ok:200、ok:200
+- 外部链接 warning：19
+- 公开扫描桥接：ok:200、warn:n/a
 
 ## 质量语义
 
@@ -71,9 +71,12 @@
 - ⚠️ 最新日期同一子主题超过 40%：50%；需要关注广谱雷达覆盖。
 - ⚠️ 最新日期疑似旧线复核被标为新增事实：F1115-01, F1115-02, F1115-03。
 - ⚠️ external link not hard-checked in Phase 1
+- ⚠️ network check warning: This operation was aborted
 - ⚠️ external link not hard-checked in Phase 1
+- ⚠️ network check warning: This operation was aborted
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
 - ⚠️ external link not hard-checked in Phase 1
+- ⚠️ network check warning: This operation was aborted
 - ⚠️ 信息库质量为 warn
 - ⚠️ 专题研究状态为 warn
 - ⚠️ 专题待正式重跑 25 天
