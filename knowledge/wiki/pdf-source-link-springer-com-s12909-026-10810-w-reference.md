@@ -52,6 +52,8 @@ s12909 026 10810 w reference 已作为日报/周报 PDF 证据源入库，当前
 ## 被引用位置
 
 - `daily/2026-11-15.md:79`：论文方法与表2
+- `specials/ai-org-talent-mechanism/2026-11-15/04-promotion-system.md:42`：BMC Medical Education
+- `specials/ai-org-talent-mechanism/2026-11-15/04-promotion-system.md:261`：BMC Medical Education：单校行动研究（PDF）
 
 ## 后续精读任务
 

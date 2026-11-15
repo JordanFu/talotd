@@ -52,6 +52,9 @@ s41746 026 03410 x 已作为日报/周报 PDF 证据源入库，当前需要完�
 ## 被引用位置
 
 - `daily/2026-11-15.md:10`：论文原文与方法
+- `specials/ai-org-talent-mechanism/2026-11-15/01-flat-organization.md:277`：npj Digital Medicine：模拟心音分类中的人机协同与工具可靠性变化（PDF）
+- `specials/ai-org-talent-mechanism/2026-11-15/04-promotion-system.md:41`：npj Digital Medicine
+- `specials/ai-org-talent-mechanism/2026-11-15/04-promotion-system.md:260`：npj Digital Medicine：人机协同可靠性模拟研究（PDF）
 
 ## 后续精读任务
 
