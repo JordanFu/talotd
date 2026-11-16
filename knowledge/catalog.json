@@ -7057,6 +7057,30 @@
         "nature.com"
       ],
       "originalUrl": "https://www.nature.com/articles/s41746-026-03410-x.pdf"
+    },
+    {
+      "id": "p129",
+      "title": "monitoring early effects of ai on the labour market",
+      "originalTitle": "monitoring early effects of ai on the labour market",
+      "author": "rba.gov.au",
+      "publisher": "rba.gov.au",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-16",
+      "description": "monitoring early effects of ai on the labour market 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-rba-gov-au-monitoring-early-effects-of-ai-on-the-labour-market.md",
+      "rawFile": "./knowledge/raw/rba-gov-au-monitoring-early-effects-of-ai-on-the-labour-market.pdf",
+      "fileName": "rba-gov-au-monitoring-early-effects-of-ai-on-the-labour-market.pdf",
+      "fileSize": "269846 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "rba.gov.au"
+      ],
+      "originalUrl": "https://www.rba.gov.au/publications/insights/australian-economy/2026/pdf/monitoring-early-effects-of-ai-on-the-labour-market.pdf"
     }
   ]
 }
