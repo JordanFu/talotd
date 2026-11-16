@@ -10,4 +10,3 @@
 - 当日 daily 或 daily-report 缺失日期/文件
 - 当日导读正文缺失
 - 信息库 manifest 日期或卡片数与当日产物不符
-- daily-report/2026-11-17.md: HTTP 503
