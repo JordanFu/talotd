@@ -52,6 +52,12 @@ monitoring early effects of ai on the labour market 已作为日报/周报 PDF �
 ## 被引用位置
 
 - `daily/2026-11-16.md:46`：研究原文与图13至16
+- `specials/ai-org-talent-mechanism/2026-11-16/00-overview.md:70`：澳大利亚储备银行工作人员研究
+- `specials/ai-org-talent-mechanism/2026-11-16/00-overview.md:200`：澳大利亚储备银行劳动力市场研究
+- `specials/ai-org-talent-mechanism/2026-11-16/02-talent-density.md:37`：澳大利亚储备银行：人工智能对劳动力市场早期影响
+- `specials/ai-org-talent-mechanism/2026-11-16/02-talent-density.md:217`：澳大利亚储备银行：Monitoring the Early Effects of AI on the Labour Market
+- `specials/ai-org-talent-mechanism/2026-11-16/03-job-family-career-architecture.md:150`：研究原文
+- `specials/ai-org-talent-mechanism/2026-11-16/03-job-family-career-architecture.md:268`：澳大利亚储备银行工作人员研究｜Monitoring the Early Effects of AI on the Labour Market
 
 ## 后续精读任务
 

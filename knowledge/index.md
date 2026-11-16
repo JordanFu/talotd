@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-11-16
+> 最后更新: 2026-11-17
 
 ---
 
@@ -325,13 +325,13 @@
 | [s41746 026 03410 x](wiki/pdf-source-nature-com-s41746-026-03410-x.md) | nature.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
 | [OECD：Competition in the Age of AI](wiki/pdf-source-oecd-oecd-competition-in-the-age-of-ai.md) | OECD | 组织吸收能力、高技能人才、市场结构、企业边界 | 强相关：组织能力与人才结构 | 已下载原文，引用 2 次 |
 | [c0ffced7 en](wiki/pdf-source-oecd-org-c0ffced7-en.md) | oecd.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
-| [issuance of final rule on managing senior professional performance](wiki/pdf-source-opm-gov-issuance-of-final-rule-on-managing-senior-professional-performance.md) | opm.gov | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 12 次 |
+| [issuance of final rule on managing senior professional performance](wiki/pdf-source-opm-gov-issuance-of-final-rule-on-managing-senior-professional-performance.md) | opm.gov | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 14 次 |
 | [orgvue ai research ebook 2026 final](wiki/pdf-source-orgvue-com-orgvue-ai-research-ebook-2026-final.md) | orgvue.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [Payscale：2026 Compensation Best Practices Report](wiki/pdf-source-payscale-payscale-2026-compensation-best-practices-report.md) | Payscale | AI 技能定价、薪酬公平、薪酬基准、job management | 强相关：薪酬架构与激励资源 | 已下载原文，引用 20 次 |
 | [For Every Future Report Pearson 1](wiki/pdf-source-pearson-com-for-every-future-report-pearson-1.md) | pearson.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [2026 global ai jobs barometer full report](wiki/pdf-source-pwc-com-2026-global-ai-jobs-barometer-full-report.md) | pwc.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [2026 global ai jobs barometer global findings](wiki/pdf-source-pwc-com-2026-global-ai-jobs-barometer-global-findings.md) | pwc.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
-| [monitoring early effects of ai on the labour market](wiki/pdf-source-rba-gov-au-monitoring-early-effects-of-ai-on-the-labour-market.md) | rba.gov.au | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [monitoring early effects of ai on the labour market](wiki/pdf-source-rba-gov-au-monitoring-early-effects-of-ai-on-the-labour-market.md) | rba.gov.au | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 7 次 |
 | [20260828](wiki/pdf-source-scsk-jp-20260828.md) | scsk.jp | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 9 次 |
 | [SKT智能体治理：真人责任、停止与退出](wiki/pdf-source-sktelecom-com-skt-ai-governance-report.md) | SK Telecom | 智能体治理与评价用途 | L2公司披露，非后效 | 40页缓存，25—30页已核，引用 16 次 |
 | [it job family career ladder matrix software engineer](wiki/pdf-source-umassmed-edu-it-job-family-career-ladder-matrix-software-engineer.md) | umassmed.edu | AI组织设计、绩效管理 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
