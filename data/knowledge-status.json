@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T01:43:54.229Z",
+  "generatedAt": "2026-11-17T09:29:41.090Z",
   "module": "knowledge-base",
   "qualityStatus": "warn",
   "latestCatalogDate": "2026-11-17",
@@ -51,7 +51,7 @@
       ]
     }
   ],
-  "pdfRetryCount": 19,
+  "pdfRetryCount": 18,
   "pdfRetrySample": [
     {
       "id": "manual-guidewire-wsib-26606",
@@ -111,9 +111,9 @@
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-11-17T01:43:55.569Z",
+    "checkedAt": "2026-11-17T09:29:41.576Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 5640,
+    "firstPartyChecked": 5629,
     "externalWarnings": 30,
     "brokenCount": 0,
     "publicScanBridge": [
