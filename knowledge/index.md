@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-11-17
+> 最后更新: 2026-11-18
 
 ---
 
@@ -259,7 +259,7 @@
 | [GitLab：2026 SEC 8-K Filing](wiki/pdf-source-gitlab-gitlab-2026-sec-8-k-filing.md) | GitLab | 官方披露、组织压缩、AI 智能体优先（AI-agent-first） 待核验 | 中高相关：公司案例核验 | 已索引待重试，引用 12 次 |
 | [netflix culture](wiki/pdf-source-jobs-netflix-com-netflix-culture.md) | jobs.netflix.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
 | [Wharton / GBK：2026 企业 AI 采用报告](wiki/pdf-source-knowledge-wharton-upenn-edu-wharton-gbk-ai-adoption-report-2026.md) | Wharton / GBK Collective | AI采用、培训支持、员工体验、研究方法 | 强相关：采用增长与员工支持是否同步 | 已下载原文，引用 3 次 |
-| [Wharton–Accenture Agentic Cost Framework 2026](wiki/pdf-source-knowledge-wharton-upenn-edu-wharton-accenture-agentic-cost-framework-2026.md) | knowledge.wharton.upenn.edu | AI组织设计、变革管理 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [Wharton–Accenture Agentic Cost Framework 2026](wiki/pdf-source-knowledge-wharton-upenn-edu-wharton-accenture-agentic-cost-framework-2026.md) | knowledge.wharton.upenn.edu | AI组织设计、变革管理 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [混合办公与HR集中](wiki/pdf-source-link-springer-com-s11846-026-01074-1.md) | Review of Managerial Science | 混合办公、HR组织 | 地点、汇报与业务服务分开，非成效证明 | 自动下载失败后公开读取恢复；核指定页与图像，非全文精读 |
 | [s44282 026 00646 6](wiki/pdf-source-link-springer-com-s44282-026-00646-6.md) | link.springer.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [s12909 026 10810 w reference](wiki/pdf-source-link-springer-com-s12909-026-10810-w-reference.md) | link.springer.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
@@ -290,6 +290,7 @@
 | [gov.uscourts.cand.474095.38.0](wiki/pdf-source-storage-courtlistener-com-gov-uscourts-cand-474095-38-0.md) | storage.courtlistener.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [gov.uscourts.cand.474095.59.0](wiki/pdf-source-storage-courtlistener-com-gov-uscourts-cand-474095-59-0.md) | storage.courtlistener.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
 | [interviewing at google deepmind](wiki/pdf-source-storage-googleapis-com-interviewing-at-google-deepmind.md) | storage.googleapis.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 10 次 |
+| [2026 HR Operating Model Report](wiki/pdf-source-talentstrategygroup-com-2026-hr-operating-model-report.md) | talentstrategygroup.com | AI组织设计、人才发展、变革管理、战略规划 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [everyone gets the same models the edge is your workforce](wiki/pdf-source-bcg-everyone-gets-the-same-models-the-edge-is-your-workforce.md) | BCG | AI组织设计、人才发展 | 待评估：需精读后确定 | 已索引待重试，引用 7 次 |
 | [BCG：AI Radar 2026](wiki/pdf-source-bcg-bcg-ai-radar-2026.md) | BCG | AI 投资、价值兑现、组织阻碍待核验 | 中相关：战略背景 | 已索引待重试，引用 2 次 |
 | [BCG + MIT Sloan：The Emerging Agentic Enterprise](wiki/pdf-source-bcg-bcg-mit-sloan-the-emerging-agentic-enterprise.md) | BCG | Agentic enterprise、中层层级、组织结构变量 | 强相关：扁平化与管理层级 | 已索引待重试，引用 8 次 |
@@ -326,20 +327,20 @@
 | [s41746 026 03410 x](wiki/pdf-source-nature-com-s41746-026-03410-x.md) | nature.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
 | [OECD：Competition in the Age of AI](wiki/pdf-source-oecd-oecd-competition-in-the-age-of-ai.md) | OECD | 组织吸收能力、高技能人才、市场结构、企业边界 | 强相关：组织能力与人才结构 | 已下载原文，引用 2 次 |
 | [c0ffced7 en](wiki/pdf-source-oecd-org-c0ffced7-en.md) | oecd.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
-| [implementing the revised reduction in force regulations updated workforce reshaping handbook](wiki/pdf-source-opm-gov-implementing-the-revised-reduction-in-force-regulations-updated-workforce-reshaping-hand.md) | opm.gov | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [implementing the revised reduction in force regulations updated workforce reshaping handbook](wiki/pdf-source-opm-gov-implementing-the-revised-reduction-in-force-regulations-updated-workforce-reshaping-hand.md) | opm.gov | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [issuance of final rule on managing senior professional performance](wiki/pdf-source-opm-gov-issuance-of-final-rule-on-managing-senior-professional-performance.md) | opm.gov | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 14 次 |
 | [orgvue ai research ebook 2026 final](wiki/pdf-source-orgvue-com-orgvue-ai-research-ebook-2026-final.md) | orgvue.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [Payscale：2026 Compensation Best Practices Report](wiki/pdf-source-payscale-payscale-2026-compensation-best-practices-report.md) | Payscale | AI 技能定价、薪酬公平、薪酬基准、job management | 强相关：薪酬架构与激励资源 | 已下载原文，引用 20 次 |
 | [For Every Future Report Pearson 1](wiki/pdf-source-pearson-com-for-every-future-report-pearson-1.md) | pearson.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [2026 global ai jobs barometer full report](wiki/pdf-source-pwc-com-2026-global-ai-jobs-barometer-full-report.md) | pwc.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [2026 global ai jobs barometer global findings](wiki/pdf-source-pwc-com-2026-global-ai-jobs-barometer-global-findings.md) | pwc.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
-| [monitoring early effects of ai on the labour market](wiki/pdf-source-rba-gov-au-monitoring-early-effects-of-ai-on-the-labour-market.md) | rba.gov.au | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 7 次 |
+| [monitoring early effects of ai on the labour market](wiki/pdf-source-rba-gov-au-monitoring-early-effects-of-ai-on-the-labour-market.md) | rba.gov.au | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
 | [20260828](wiki/pdf-source-scsk-jp-20260828.md) | scsk.jp | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 9 次 |
 | [SKT智能体治理：真人责任、停止与退出](wiki/pdf-source-sktelecom-com-skt-ai-governance-report.md) | SK Telecom | 智能体治理与评价用途 | L2公司披露，非后效 | 40页缓存，25—30页已核，引用 16 次 |
 | [it job family career ladder matrix software engineer](wiki/pdf-source-umassmed-edu-it-job-family-career-ladder-matrix-software-engineer.md) | umassmed.edu | AI组织设计、绩效管理 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
 | [Vistry区域重组：经营单元合并不等于管理层级减少](wiki/pdf-source-vistry-co-uk-vistry-group-plc-half-year-results-2026.md) | Vistry Group PLC | 组织设计、人才发展 | 25→12是经营单元合并，不等于管理层级减少或AI因果 | 58页缓存；专题已核相关段落，非全文精读；引用 1 次 |
 | [2026072000261](wiki/pdf-source-www1-hkexnews-hk-2026072000261.md) | www1.hkexnews.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
-| [2026111600419 c](wiki/pdf-source-www1-hkexnews-hk-2026111600419-c.md) | www1.hkexnews.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [2026111600419 c](wiki/pdf-source-www1-hkexnews-hk-2026111600419-c.md) | www1.hkexnews.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
 <!-- PDF_AUTO_INDEX_END -->
 
 ## 操作日志

@@ -52,6 +52,13 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 ## 被引用位置
 
 - `daily/2026-11-17.md:28`：港交所公告
+- `specials/ai-org-talent-mechanism/2026-11-17/00-overview.md:51`：大麦娱乐港交所公告
+- `specials/ai-org-talent-mechanism/2026-11-17/00-overview.md:206`：大麦娱乐港交所公告
+- `specials/ai-org-talent-mechanism/2026-11-17/01-flat-organization.md:54`：港交所公告
+- `specials/ai-org-talent-mechanism/2026-11-17/01-flat-organization.md:270`：经营管理委员会及领导层变更公告
+- `specials/ai-org-talent-mechanism/2026-11-17/04-promotion-system.md:40`：港交所公告
+- `specials/ai-org-talent-mechanism/2026-11-17/04-promotion-system.md:226`：大麦娱乐港交所公告
+- `specials/ai-org-talent-mechanism/2026-11-17/research-audit.md:23`：港交所公告
 
 ## 后续精读任务
 

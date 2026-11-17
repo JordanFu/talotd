@@ -52,6 +52,10 @@ implementing the revised reduction in force regulations updated workforce reshap
 ## 被引用位置
 
 - `daily/2026-11-17.md:63`：人员调整手册及发布备忘录
+- `specials/ai-org-talent-mechanism/2026-11-17/00-overview.md:212`：OPM人员调整手册
+- `specials/ai-org-talent-mechanism/2026-11-17/04-promotion-system.md:39`：OPM
+- `specials/ai-org-talent-mechanism/2026-11-17/04-promotion-system.md:225`：OPM更新人员调整手册
+- `specials/ai-org-talent-mechanism/2026-11-17/research-audit.md:24`：更新人员调整手册
 
 ## 后续精读任务
 

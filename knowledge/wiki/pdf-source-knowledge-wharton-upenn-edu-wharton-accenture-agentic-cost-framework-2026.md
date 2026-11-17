@@ -52,6 +52,7 @@ Wharton–Accenture Agentic Cost Framework 2026 已作为日报/周报 PDF 证�
 ## 被引用位置
 
 - `daily/2026-11-17.md:46`：报告与方法附录
+- `specials/ai-org-talent-mechanism/2026-11-17/02-talent-density.md:215`：Wharton—Accenture｜完整报告与方法附录
 
 ## 后续精读任务
 
