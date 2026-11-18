@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T18:53:40.477Z",
+  "generatedAt": "2026-11-18T21:30:37.447Z",
   "module": "info-feed",
   "qualityStatus": "warn",
   "latestDate": "2026-11-18",
@@ -879,7 +879,7 @@
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-11-18T18:54:40.972Z",
+    "checkedAt": "2026-11-18T21:31:37.046Z",
     "qualityStatus": "warn",
     "firstPartyChecked": 5694,
     "externalWarnings": 28,
