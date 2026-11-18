@@ -7211,6 +7211,104 @@
         "talentstrategygroup.com"
       ],
       "originalUrl": "https://talentstrategygroup.com/wp-content/uploads/2026/11/2026-HR-Operating-Model-Report.pdf"
+    },
+    {
+      "id": "p135",
+      "title": "from a welfare state to a working state full report",
+      "originalTitle": "from a welfare state to a working state full report",
+      "author": "assets.publishing.service.gov.uk",
+      "publisher": "assets.publishing.service.gov.uk",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-18",
+      "description": "from a welfare state to a working state full report 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-assets-publishing-service-gov-uk-from-a-welfare-state-to-a-working-state-full-report.md",
+      "rawFile": "./knowledge/raw/assets-publishing-service-gov-uk-from-a-welfare-state-to-a-working-state-full-report.pdf",
+      "fileName": "assets-publishing-service-gov-uk-from-a-welfare-state-to-a-working-state-full-report.pdf",
+      "fileSize": "3936490 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "assets.publishing.service.gov.uk"
+      ],
+      "originalUrl": "https://assets.publishing.service.gov.uk/media/6afb1fc5ccb3ea58ac8743c1/from-a-welfare-state-to-a-working-state-full-report.pdf"
+    },
+    {
+      "id": "p136",
+      "title": "5a208f6b en",
+      "originalTitle": "5a208f6b en",
+      "author": "oecd.org",
+      "publisher": "oecd.org",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计",
+        "变革管理"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-18",
+      "description": "5a208f6b en 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计、变革管理。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-oecd-org-5a208f6b-en.md",
+      "rawFile": "./knowledge/raw/oecd-org-5a208f6b-en.pdf",
+      "fileName": "oecd-org-5a208f6b-en.pdf",
+      "fileSize": "1387203 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "变革管理",
+        "oecd.org"
+      ],
+      "originalUrl": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/11/artificial-intelligence-and-work-organisation_9c5e298d/5a208f6b-en.pdf"
+    },
+    {
+      "id": "p137",
+      "title": "a2026 annualxreportxwebxfi",
+      "originalTitle": "a2026 annualxreportxwebxfi",
+      "author": "sec.gov",
+      "publisher": "sec.gov",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-18",
+      "description": "a2026 annualxreportxwebxfi 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-sec-gov-a2026-annualxreportxwebxfi.md",
+      "rawFile": "",
+      "fileName": "sec-gov-a2026-annualxreportxwebxfi.pdf",
+      "fileSize": "download pending",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "sec.gov"
+      ],
+      "originalUrl": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000038/a2026-annualxreportxwebxfi.pdf"
+    },
+    {
+      "id": "p138",
+      "title": "investor day presentation 2026",
+      "originalTitle": "investor day presentation 2026",
+      "author": "zurich.com",
+      "publisher": "zurich.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-18",
+      "description": "investor day presentation 2026 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-zurich-com-investor-day-presentation-2026.md",
+      "rawFile": "",
+      "fileName": "zurich-com-investor-day-presentation-2026.pdf",
+      "fileSize": "download pending",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "zurich.com"
+      ],
+      "originalUrl": "https://www.zurich.com/-/media-assets/project/zurich/dotcom/investor-relations/docs/events/investor-day-presentation-2026.pdf"
     }
   ]
 }
