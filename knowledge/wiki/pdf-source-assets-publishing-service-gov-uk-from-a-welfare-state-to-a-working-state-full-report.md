@@ -52,6 +52,12 @@ from a welfare state to a working state full report 已作为日报/周报 PDF �
 ## 被引用位置
 
 - `daily/2026-11-18.md:46`：独立审查终报
+- `specials/ai-org-talent-mechanism/2026-11-18/00-overview.md:64`：英国青年就业审查终报
+- `specials/ai-org-talent-mechanism/2026-11-18/00-overview.md:215`：英国青年就业审查终报
+- `specials/ai-org-talent-mechanism/2026-11-18/02-talent-density.md:22`：独立审查终报
+- `specials/ai-org-talent-mechanism/2026-11-18/02-talent-density.md:46`：独立审查终报
+- `specials/ai-org-talent-mechanism/2026-11-18/02-talent-density.md:271`：From a Welfare State to a Working State: final report
+- `specials/ai-org-talent-mechanism/2026-11-18/research-audit.md:27`：英国青年就业审查终报
 
 ## 后续精读任务
 

@@ -52,6 +52,11 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 ## 被引用位置
 
 - `daily/2026-11-18.md:28`：论文原件
+- `specials/ai-org-talent-mechanism/2026-11-18/01-flat-organization.md:58`：全文
+- `specials/ai-org-talent-mechanism/2026-11-18/01-flat-organization.md:244`：论文PDF
+- `specials/ai-org-talent-mechanism/2026-11-18/03-job-family-career-architecture.md:52`：论文原件
+- `specials/ai-org-talent-mechanism/2026-11-18/03-job-family-career-architecture.md:278`：论文原件
+- `specials/ai-org-talent-mechanism/2026-11-18/04-promotion-system.md:38`：原文
 
 ## 后续精读任务
 
