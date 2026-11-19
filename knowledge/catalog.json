@@ -7309,6 +7309,56 @@
         "zurich.com"
       ],
       "originalUrl": "https://www.zurich.com/-/media-assets/project/zurich/dotcom/investor-relations/docs/events/investor-day-presentation-2026.pdf"
+    },
+    {
+      "id": "p139",
+      "title": "12713049",
+      "originalTitle": "12713049",
+      "author": "file.finance.sina.com.cn",
+      "publisher": "file.finance.sina.com.cn",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-19",
+      "description": "12713049 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-file-finance-sina-com-cn-12713049.md",
+      "rawFile": "./knowledge/raw/file-finance-sina-com-cn-12713049.pdf",
+      "fileName": "file-finance-sina-com-cn-12713049.pdf",
+      "fileSize": "102310 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "file.finance.sina.com.cn"
+      ],
+      "originalUrl": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-11/2026-11-18/12713049.PDF"
+    },
+    {
+      "id": "p140",
+      "title": "gl grp cross thght nss hsw mpd mp humanbydesignthrivingintheaiworkforce 0026",
+      "originalTitle": "gl grp cross thght nss hsw mpd mp humanbydesignthrivingintheaiworkforce 0026",
+      "author": "bsigroup.com",
+      "publisher": "bsigroup.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-19",
+      "description": "gl grp cross thght nss hsw mpd mp humanbydesignthrivingintheaiworkforce 0026 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计、人才发展。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-bsigroup-com-gl-grp-cross-thght-nss-hsw-mpd-mp-humanbydesignthrivingintheaiworkforce-0026.md",
+      "rawFile": "./knowledge/raw/bsigroup-com-gl-grp-cross-thght-nss-hsw-mpd-mp-humanbydesignthrivingintheaiworkforce-0026.pdf",
+      "fileName": "bsigroup-com-gl-grp-cross-thght-nss-hsw-mpd-mp-humanbydesignthrivingintheaiworkforce-0026.pdf",
+      "fileSize": "2058308 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "人才发展",
+        "bsigroup.com"
+      ],
+      "originalUrl": "https://www.bsigroup.com/siteassets/pdf/en/insights-and-media/insights/white-papers/gl-grp-cross-thght-nss-hsw-mpd-mp-humanbydesignthrivingintheaiworkforce-0026.pdf"
     }
   ]
 }
