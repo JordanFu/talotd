@@ -52,6 +52,10 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 ## 被引用位置
 
 - `daily/2026-11-19.md:62`：公告原件
+- `specials/ai-org-talent-mechanism/2026-11-19/01-flat-organization.md:74`：晓鸣股份高管薪酬制度公告
+- `specials/ai-org-talent-mechanism/2026-11-19/01-flat-organization.md:275`：晓鸣股份｜董事、高级管理人员薪酬管理制度
+- `specials/ai-org-talent-mechanism/2026-11-19/04-promotion-system.md:131`：PDF
+- `specials/ai-org-talent-mechanism/2026-11-19/04-promotion-system.md:223`：晓鸣股份高级管理人员薪酬方案
 
 ## 后续精读任务
 

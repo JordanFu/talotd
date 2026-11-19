@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-11-19
+> 最后更新: 2026-11-20
 
 ---
 
@@ -253,7 +253,7 @@
 | [AFGE v OPM](wiki/pdf-source-democracyforward-org-afge-v-opm.md) | democracyforward.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [Mercer and Eightfold Pay for Skills](wiki/pdf-source-eightfold-ai-mercer-and-eightfold-pay-for-skills.md) | eightfold.ai | AI组织设计、绩效管理、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [new skill price](wiki/pdf-source-elmerli-github-io-new-skill-price.md) | elmerli.github.io | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
-| [12713049](wiki/pdf-source-file-finance-sina-com-cn-12713049.md) | file.finance.sina.com.cn | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [12713049](wiki/pdf-source-file-finance-sina-com-cn-12713049.md) | file.finance.sina.com.cn | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [Founder Reports：AI核验劳动与调查分母](wiki/pdf-source-founderreports-com-botsitting-report-2026-fr.md) | Founder Reports | 核验容量与题项分母 | L2自报观察，非净收益或裁员效果 | 缓存20页，核指定段及第10页图像，非全文精读；引用 6 次 |
 | [AIGW：AI 企业劳动力架构九案例](wiki/pdf-source-gaeedu-public-files-s3-us-east-2-amazonaws-com-workforce-architecture-for-enterprise-9-cases.md) | AIGW Policy Observatory | AI组织设计、人才发展、决策权、人员流动 | 强相关：九域劳动力架构与员工净收益诊断 | 已核读关键章节，引用 1 次 |
 | [ai index report 2026 chapter 4 economy](wiki/pdf-source-hai-stanford-edu-ai-index-report-2026-chapter-4-economy.md) | hai.stanford.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
@@ -303,7 +303,7 @@
 | [Whitepaper Impact of AI on U.S. Labor Market 2026 R2 1](wiki/pdf-source-apollo-com-whitepaper-impact-of-ai-on-u-s-labor-market-2026-r2-1.md) | apollo.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 18 次 |
 | [BHEF：AI软件工程能力图与培养边界](wiki/pdf-source-bhef-com-ai-enabled-software-engineer-competency-map.md) | BHEF | AI组织设计、人才发展 | 能力框架，非晋升量表 | 已缓存8页，读指定段并核第7页图像，非全文精读 |
 | [quarterly update presentation 1q 2026](wiki/pdf-source-bny-com-quarterly-update-presentation-1q-2026.md) | bny.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 14 次 |
-| [gl grp cross thght nss hsw mpd mp humanbydesignthrivingintheaiworkforce 0026](wiki/pdf-source-bsigroup-com-gl-grp-cross-thght-nss-hsw-mpd-mp-humanbydesignthrivingintheaiworkforce-0026.md) | bsigroup.com | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [gl grp cross thght nss hsw mpd mp humanbydesignthrivingintheaiworkforce 0026](wiki/pdf-source-bsigroup-com-gl-grp-cross-thght-nss-hsw-mpd-mp-humanbydesignthrivingintheaiworkforce-0026.md) | bsigroup.com | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [cwa18398 2026](wiki/pdf-source-cencenelec-eu-cwa18398-2026.md) | cencenelec.eu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [draft cwa xxxx e](wiki/pdf-source-cencenelec-eu-draft-cwa-xxxx-e.md) | cencenelec.eu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [the impact of agentic ai on network operations](wiki/pdf-source-cisco-com-the-impact-of-agentic-ai-on-network-operations.md) | cisco.com | AI组织设计、变革管理 | 待评估：需精读后确定 | 已索引待重试，引用 4 次 |

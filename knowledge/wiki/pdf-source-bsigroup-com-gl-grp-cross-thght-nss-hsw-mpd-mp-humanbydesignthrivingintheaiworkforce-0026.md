@@ -52,6 +52,8 @@ gl grp cross thght nss hsw mpd mp humanbydesignthrivingintheaiworkforce 0026 已
 ## 被引用位置
 
 - `daily/2026-11-19.md:28`：研究报告
+- `specials/ai-org-talent-mechanism/2026-11-19/01-flat-organization.md:73`：报告
+- `specials/ai-org-talent-mechanism/2026-11-19/01-flat-organization.md:274`：报告PDF
 
 ## 后续精读任务
 
