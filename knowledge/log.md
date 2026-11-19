@@ -597,7 +597,6 @@
 - 已下载：investor day presentation 2026（引用 14 次）
 - 已下载：2026072000261（引用 1 次）
 - 已下载：2026111600419 c（引用 8 次）
-
 ## [2026-11-19] ingest | 日报 PDF 证据源自动入库
 - 从 daily、daily-report、specials、analysis 中扫描 PDF URL，按知识库 Raw/Wiki/Catalog 规则自动建档。
 - 本次识别 119 个唯一 PDF 来源：103 个已下载原始 PDF，16 个保留 URL 与引用上下文待重试。
