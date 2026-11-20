@@ -52,6 +52,7 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 ## 被引用位置
 
 - `daily/2026-11-20.md:97`：公告PDF
+- `specials/ai-org-talent-mechanism/2026-11-20/04-promotion-system.md:220`：腾景科技公告 PDF 镜像
 
 ## 后续精读任务
 
