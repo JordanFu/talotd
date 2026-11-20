@@ -63,8 +63,6 @@ issuance of final rule on managing senior professional performance 已作为日�
 - `specials/ai-org-talent-mechanism/2026-11-16/04-promotion-system.md:274`：美国人事管理局：Managing Senior Professional Performance 最终规则备忘录
 - `specials/ai-org-talent-mechanism/weekly/2026-W46-detailed.md:249`：OPM 最终规则
 - `specials/ai-org-talent-mechanism/weekly/2026-W46.md:249`：OPM 最终规则
-- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:249`：OPM 最终规则
-- `specials/ai-org-talent-mechanism/weekly/latest.md:249`：OPM 最终规则
 
 ## 后续精读任务
 

@@ -58,6 +58,10 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 - `specials/ai-org-talent-mechanism/2026-11-14/03-job-family-career-architecture.md:36`：| [美联储工作论文](#page=14) | 页面日期2026-11-12；今日核读；L2综述 | 论文引用既有薪资记录研究：高AI暴露职业中22—25岁群体相对比较组就业下降16%；作者认为早期变化部分反映招聘减少 | 评估初级岗位时拆分实际入职、内转、离职和任务变化 | 16%不是今日新测全美降幅；不证明AI因果或单个企业应停止初级招聘 |
 - `specials/ai-org-talent-mechanism/2026-11-14/03-job-family-career-architecture.md:250`：6. [美联储｜Artificial Intelligence and the Labor Market](#page=14)，2026-11-12；L2研究综述，被引估计不是今日新测。
 - `specials/ai-org-talent-mechanism/2026-11-14/research-audit.md:41`：[美联储工作论文](#page=14)综述既有研究；16%不是本论文新测全美降幅，也不能排除利率、疫情后招聘回调等解释。
+- `specials/ai-org-talent-mechanism/weekly/2026-W47-detailed.md:272`：7. [美联储 Jefferson 演讲](https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm)、[美联储工作论文](#page=14)、[RBA 研究](https://www.rba.gov.au/publications/insights/australian-
+- `specials/ai-org-talent-mechanism/weekly/2026-W47.md:272`：7. [美联储 Jefferson 演讲](https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm)、[美联储工作论文](#page=14)、[RBA 研究](https://www.rba.gov.au/publications/insights/australian-
+- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:272`：7. [美联储 Jefferson 演讲](https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm)、[美联储工作论文](#page=14)、[RBA 研究](https://www.rba.gov.au/publications/insights/australian-
+- `specials/ai-org-talent-mechanism/weekly/latest.md:272`：7. [美联储 Jefferson 演讲](https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm)、[美联储工作论文](#page=14)、[RBA 研究](https://www.rba.gov.au/publications/insights/australian-
 
 ## 后续精读任务
 

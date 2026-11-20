@@ -65,6 +65,10 @@ investor day presentation 2026 已作为日报/周报 PDF 证据源入库，当�
 - `specials/ai-org-talent-mechanism/2026-11-18/04-promotion-system.md:97`：来源：[苏黎世保险投资者日材料第36页](#page=36)。
 - `specials/ai-org-talent-mechanism/2026-11-18/04-promotion-system.md:214`：| [苏黎世保险投资者日材料，第36页](#page=36) | 2026-11-17；L2公司一手自报 | 初筛与专家验证分工，提示个人/系统/共同结果分层 | 个人净节时、晋升效度、减编或人才密度 |
 - `specials/ai-org-talent-mechanism/2026-11-18/research-audit.md:26`：[Zurich投资者日材料](#page=36)只标11月17日。可核约5,500件已结案英国车险案件、系统初筛和专家验证；2小时与20分钟是不同任务，缺未标记抽检、误漏检、全部总工时、积压和员工／客户后效。
+- `specials/ai-org-talent-mechanism/weekly/2026-W47-detailed.md:270`：5. [Zurich 投资者日材料](#page=36)：L2 公司自报任务拆分；非净节时。
+- `specials/ai-org-talent-mechanism/weekly/2026-W47.md:270`：5. [Zurich 投资者日材料](#page=36)：L2 公司自报任务拆分；非净节时。
+- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:270`：5. [Zurich 投资者日材料](#page=36)：L2 公司自报任务拆分；非净节时。
+- `specials/ai-org-talent-mechanism/weekly/latest.md:270`：5. [Zurich 投资者日材料](#page=36)：L2 公司自报任务拆分；非净节时。
 
 ## 后续精读任务
 
