@@ -1,24 +1,25 @@
 {
-  "generatedAt": "2026-11-19T21:42:58.989Z",
+  "generatedAt": "2026-11-20T01:50:27.540Z",
   "module": "info-feed",
   "qualityStatus": "warn",
-  "latestDate": "2026-11-19",
-  "latestCardCount": 8,
-  "newFactCount": 5,
-  "contextCount": 0,
-  "weakSignalCount": 3,
+  "latestDate": "2026-11-20",
+  "latestCardCount": 9,
+  "newFactCount": 7,
+  "contextCount": 1,
+  "weakSignalCount": 1,
   "gapRecordCount": 0,
-  "sourceCount": 8,
+  "sourceCount": 9,
   "channelCoverage": [
     "报告学术",
     "官方",
+    "媒体",
     "JD薪酬"
   ],
   "confidenceDistribution": {
-    "L2": 4,
-    "L1": 4
+    "L2": 7,
+    "L1": 2
   },
-  "subtopicConcentration": 0.5,
+  "subtopicConcentration": 0.222,
   "privateSignalRatio": 0,
   "fieldCompleteness": {
     "requiredFieldMissingCount": 0,
@@ -26,52 +27,57 @@
   },
   "sourceUrlMissingCount": 0,
   "latest": {
-    "date": "2026-11-19",
-    "cardCount": 8,
-    "nonGapCardCount": 8,
-    "newFactCount": 5,
-    "oldLineReviewCount": 0,
-    "contextCount": 0,
-    "weakSignalCount": 3,
+    "date": "2026-11-20",
+    "cardCount": 9,
+    "nonGapCardCount": 9,
+    "newFactCount": 7,
+    "oldLineReviewCount": 1,
+    "contextCount": 1,
+    "weakSignalCount": 1,
     "gapCount": 0,
     "gapRecordCount": 0,
-    "sourcePlatformCount": 8,
-    "sourceUrlCount": 10,
-    "channelTypeCount": 3,
+    "sourcePlatformCount": 9,
+    "sourceUrlCount": 12,
+    "channelTypeCount": 4,
     "channelTypes": [
       "报告学术",
       "官方",
+      "媒体",
       "JD薪酬"
     ],
     "infoTypeDistribution": {
-      "新增事实": 5,
-      "弱信号": 3
+      "新增事实": 7,
+      "旧线复核": 1,
+      "弱信号": 1
     },
     "channelTypeDistribution": {
-      "报告学术": 2,
-      "官方": 5,
+      "报告学术": 4,
+      "官方": 2,
+      "媒体": 2,
       "JD薪酬": 1
     },
     "channelCoverage": {
-      "报告学术": 2,
-      "官方": 5,
+      "报告学术": 4,
+      "官方": 2,
+      "媒体": 2,
       "JD薪酬": 1
     },
     "confidenceDistribution": {
-      "L2": 4,
-      "L1": 4
+      "L2": 7,
+      "L1": 2
     },
     "conclusionConfidenceDistribution": {
-      "L2": 4,
-      "L1": 4
+      "L2": 7,
+      "L1": 2
     },
     "subtopicDistribution": {
-      "其他": 1,
-      "AI交付与部署": 4,
-      "岗位与职业架构": 1,
-      "人才密度与流动": 2
+      "AI交付与部署": 2,
+      "AI治理与安全": 2,
+      "岗位与职业架构": 2,
+      "其他": 2,
+      "人才密度与流动": 1
     },
-    "subtopicConcentration": 0.5,
+    "subtopicConcentration": 0.222,
     "privateSignalRatio": 0,
     "sourceUrlMissingItemIds": [],
     "sourceUrlMissingCount": 0,
@@ -82,11 +88,56 @@
     "explicitFieldWarnings": [],
     "abcScore": 0,
     "thinInsightCount": 0,
-    "oldLineDisguisedAsNew": [],
+    "oldLineDisguisedAsNew": [
+      "F1120-06"
+    ],
     "weakSignalsOverclaimed": [],
     "hasValidGapRecord": false
   },
   "recentDays": [
+    {
+      "date": "2026-11-20",
+      "cardCount": 9,
+      "nonGapCardCount": 9,
+      "newFactCount": 7,
+      "contextCount": 1,
+      "weakSignalCount": 1,
+      "gapRecordCount": 0,
+      "sourcePlatformCount": 9,
+      "sourceUrlCount": 12,
+      "sourceUrlMissingCount": 0,
+      "channelTypeCount": 4,
+      "channelTypes": [
+        "报告学术",
+        "官方",
+        "媒体",
+        "JD薪酬"
+      ],
+      "channelCoverage": {
+        "报告学术": 4,
+        "官方": 2,
+        "媒体": 2,
+        "JD薪酬": 1
+      },
+      "confidenceDistribution": {
+        "L2": 7,
+        "L1": 2
+      },
+      "subtopicDistribution": {
+        "AI交付与部署": 2,
+        "AI治理与安全": 2,
+        "岗位与职业架构": 2,
+        "其他": 2,
+        "人才密度与流动": 1
+      },
+      "subtopicConcentration": 0.222,
+      "privateSignalRatio": 0,
+      "fieldCompleteness": {
+        "requiredFieldMissingCount": 0,
+        "missingFields": []
+      },
+      "qualityIssues": []
+    },
     {
       "date": "2026-11-19",
       "cardCount": 8,
@@ -345,73 +396,37 @@
         "missingFields": []
       },
       "qualityIssues": []
-    },
-    {
-      "date": "2026-11-13",
-      "cardCount": 10,
-      "nonGapCardCount": 10,
-      "newFactCount": 8,
-      "contextCount": 0,
-      "weakSignalCount": 2,
-      "gapRecordCount": 0,
-      "sourcePlatformCount": 10,
-      "sourceUrlCount": 15,
-      "sourceUrlMissingCount": 0,
-      "channelTypeCount": 5,
-      "channelTypes": [
-        "官方",
-        "报告学术",
-        "媒体",
-        "JD薪酬",
-        "社媒公众号"
-      ],
-      "channelCoverage": {
-        "官方": 3,
-        "报告学术": 3,
-        "媒体": 2,
-        "JD薪酬": 1,
-        "社媒公众号": 1
-      },
-      "confidenceDistribution": {
-        "L2": 8,
-        "L1": 2
-      },
-      "subtopicDistribution": {
-        "AI治理与安全": 2,
-        "岗位与职业架构": 1,
-        "其他": 3,
-        "人才密度与流动": 2,
-        "AI交付与部署": 2
-      },
-      "subtopicConcentration": 0.3,
-      "privateSignalRatio": 0,
-      "fieldCompleteness": {
-        "requiredFieldMissingCount": 0,
-        "missingFields": []
-      },
-      "qualityIssues": []
     }
   ],
   "totals": {
-    "days": 216,
-    "cards": 2126,
-    "platforms": 1310,
-    "dailyFiles": 209,
-    "dailyReportFiles": 213,
+    "days": 217,
+    "cards": 2135,
+    "platforms": 1316,
+    "dailyFiles": 210,
+    "dailyReportFiles": 214,
     "weeklyFiles": 1
   },
   "homepageBridge": {
-    "digestLatestDate": "2026-11-19",
-    "latestScanDate": "2026-11-19",
+    "digestLatestDate": "2026-11-20",
+    "latestScanDate": "2026-11-20",
     "freshnessStatus": "pass",
-    "ageDays": 1,
+    "ageDays": 0,
     "maxAgeDays": 1,
-    "latestScanUrl": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-11-19.html",
+    "latestScanUrl": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-11-20.html",
     "publicMirrorUrl": "https://jordanfu.github.io/org-intelligence-info/",
     "checkedBy": "scripts/check-public-links.js",
     "status": "pending-link-check"
   },
   "trustStats": {
+    "中高，一手调查发布；存在自报和选样限制": 1,
+    "高，公司具名任命；效果属前瞻陈述": 1,
+    "高，同行评审开放论文；本篇是理论研究": 1,
+    "中高，机构调查和访谈；未得完整问卷与抽样细节": 1,
+    "中高，一手委托调查；咨询方解释有商业动机": 1,
+    "中高，公司公告原件；未得实际申诉运行记录": 1,
+    "中高，事件方声明与媒体直接采访；争议双方材料不对称": 1,
+    "高，具名受访者转述；学校、教师和实施时间未具名": 1,
+    "高，雇主一手招聘；职责仍是招募目标": 1,
     "高，央行研究摘要；问卷和模型附录未核": 1,
     "中高，机构一手调查；管理者自报": 1,
     "高，官方实施汇总；未获个体结果": 1,
@@ -873,22 +888,21 @@
     "time": 24
   },
   "warnings": [
-    "最新日期渠道类型少于 4 类：当前 3 类；应覆盖官方、媒体、报告学术、社媒公众号、JD薪酬中的至少 4 类。",
-    "最新日期同一子主题超过 40%：50%；需要关注广谱雷达覆盖。"
+    "最新日期疑似旧线复核被标为新增事实：F1120-06。"
   ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-11-19T19:03:44.514Z",
+    "checkedAt": "2026-11-20T01:45:13.711Z",
     "qualityStatus": "warn",
     "firstPartyChecked": 5726,
-    "externalWarnings": 20,
+    "externalWarnings": 24,
     "brokenCount": 0,
     "publicScanBridge": [
       {
         "ok": true,
         "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-11-19.html"
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-11-20.html"
       },
       {
         "ok": true,

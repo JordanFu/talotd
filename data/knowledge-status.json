@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-19T21:43:57.923Z",
+  "generatedAt": "2026-11-20T01:50:27.340Z",
   "module": "knowledge-base",
   "qualityStatus": "warn",
   "latestCatalogDate": "2026-11-20",
   "counts": {
-    "reports": 277,
+    "reports": 280,
     "knowledgeSources": 4,
     "sourceTypes": {
       "academic": 13,
       "industry": 80,
       "consulting": 19,
       "internal": 32,
-      "media": 109,
+      "media": 112,
       "concept": 10,
       "public-safe-synthesis": 11,
       "regulatory": 1,
@@ -51,7 +51,7 @@
       ]
     }
   ],
-  "pdfRetryCount": 19,
+  "pdfRetryCount": 18,
   "pdfRetrySample": [
     {
       "id": "manual-guidewire-wsib-26606",
@@ -111,16 +111,16 @@
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-11-19T21:43:58.335Z",
+    "checkedAt": "2026-11-20T01:50:28.640Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 5726,
-    "externalWarnings": 20,
+    "firstPartyChecked": 5749,
+    "externalWarnings": 24,
     "brokenCount": 0,
     "publicScanBridge": [
       {
         "ok": true,
         "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-11-19.html"
+        "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-11-20.html"
       },
       {
         "ok": true,

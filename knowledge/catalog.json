@@ -7122,9 +7122,9 @@
       "uploadDate": "2026-11-17",
       "description": "complaint oai cyber 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
       "summaryFile": "./knowledge/wiki/pdf-source-oag-ca-gov-complaint-oai-cyber.md",
-      "rawFile": "",
+      "rawFile": "./knowledge/raw/oag-ca-gov-complaint-oai-cyber.pdf",
       "fileName": "oag-ca-gov-complaint-oai-cyber.pdf",
-      "fileSize": "download pending",
+      "fileSize": "495536 bytes",
       "tags": [
         "PDF自动入库",
         "AI组织设计",
@@ -7359,6 +7359,80 @@
         "bsigroup.com"
       ],
       "originalUrl": "https://www.bsigroup.com/siteassets/pdf/en/insights-and-media/insights/white-papers/gl-grp-cross-thght-nss-hsw-mpd-mp-humanbydesignthrivingintheaiworkforce-0026.pdf"
+    },
+    {
+      "id": "p141",
+      "title": "12713325",
+      "originalTitle": "12713325",
+      "author": "file.finance.sina.com.cn",
+      "publisher": "file.finance.sina.com.cn",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-20",
+      "description": "12713325 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-file-finance-sina-com-cn-12713325.md",
+      "rawFile": "./knowledge/raw/file-finance-sina-com-cn-12713325.pdf",
+      "fileName": "file-finance-sina-com-cn-12713325.pdf",
+      "fileSize": "114860 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "file.finance.sina.com.cn"
+      ],
+      "originalUrl": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-11/2026-11-19/12713325.PDF"
+    },
+    {
+      "id": "p142",
+      "title": "s12186 026 09401 z",
+      "originalTitle": "s12186 026 09401 z",
+      "author": "link.springer.com",
+      "publisher": "link.springer.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-20",
+      "description": "s12186 026 09401 z 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-link-springer-com-s12186-026-09401-z.md",
+      "rawFile": "./knowledge/raw/link-springer-com-s12186-026-09401-z.pdf",
+      "fileName": "link-springer-com-s12186-026-09401-z.pdf",
+      "fileSize": "1076909 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "link.springer.com"
+      ],
+      "originalUrl": "https://link.springer.com/content/pdf/10.1007/s12186-026-09401-z.pdf"
+    },
+    {
+      "id": "p143",
+      "title": "ccc89881 22bc 45fd 9550 c4c4faaace84",
+      "originalTitle": "ccc89881 22bc 45fd 9550 c4c4faaace84",
+      "author": "paper.people.com.cn",
+      "publisher": "paper.people.com.cn",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-20",
+      "description": "ccc89881 22bc 45fd 9550 c4c4faaace84 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计、人才发展。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-paper-people-com-cn-ccc89881-22bc-45fd-9550-c4c4faaace84.md",
+      "rawFile": "./knowledge/raw/paper-people-com-cn-ccc89881-22bc-45fd-9550-c4c4faaace84.pdf",
+      "fileName": "paper-people-com-cn-ccc89881-22bc-45fd-9550-c4c4faaace84.pdf",
+      "fileSize": "1231209 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "人才发展",
+        "paper.people.com.cn"
+      ],
+      "originalUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202611/19/ccc89881-22bc-45fd-9550-c4c4faaace84.pdf"
     }
   ]
 }
