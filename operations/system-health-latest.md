@@ -1,6 +1,6 @@
 # 系统健康状态
 
-> 自动生成：2026-11-21T01:49:22.698Z
+> 自动生成：2026-11-21T08:31:33.487Z
 
 ## 一眼判断
 
@@ -56,8 +56,8 @@
 ## 链接检查
 
 - 一方断链数：0
-- 外部链接 warning：35
-- 公开扫描桥接：ok:200、warn:n/a
+- 外部链接 warning：34
+- 公开扫描桥接：ok:200、ok:200
 
 ## 质量语义
 
@@ -69,12 +69,9 @@
 
 - ✅ 无 P0 fail。
 - ⚠️ external link not hard-checked in Phase 1
-- ⚠️ network check warning: This operation was aborted
 - ⚠️ external link not hard-checked in Phase 1
-- ⚠️ network check warning: This operation was aborted
 - ⚠️ knowledge/catalog.json 的 reports 存在 4 组重复 summaryFile。
 - ⚠️ external link not hard-checked in Phase 1
-- ⚠️ network check warning: This operation was aborted
 - ⚠️ 信息库质量为 warn
 - ⚠️ 专题研究状态为 warn
 - ⚠️ 专题待正式重跑 25 天
