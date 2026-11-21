@@ -52,6 +52,7 @@ AI at Work Executive Summary 已作为日报/周报 PDF 证据源入库，当前
 ## 被引用位置
 
 - `daily/2026-11-21.md:80`：执行摘要，第2、8—10页
+- `specials/ai-org-talent-mechanism/2026-11-21/02-talent-density.md:202`：Seramount：AI at Work Executive Summary
 
 ## 后续精读任务
 

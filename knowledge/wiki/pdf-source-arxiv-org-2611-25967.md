@@ -52,6 +52,7 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 ## 被引用位置
 
 - `daily/2026-11-21.md:97`：PDF
+- `specials/ai-org-talent-mechanism/2026-11-21/03-job-family-career-architecture.md:251`：PDF
 
 ## 后续精读任务
 

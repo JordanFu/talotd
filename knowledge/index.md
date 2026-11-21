@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-11-21
+> 最后更新: 2026-11-22
 
 ---
 
@@ -241,7 +241,7 @@
 | [2608.06027](wiki/pdf-source-arxiv-org-2608-06027.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [2608.13022](wiki/pdf-source-arxiv-org-2608-13022.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [2609.32030](wiki/pdf-source-arxiv-org-2609-32030.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
-| [2611.25967](wiki/pdf-source-arxiv-org-2611-25967.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [2611.25967](wiki/pdf-source-arxiv-org-2611-25967.md) | arxiv.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [2026 Work Trend Index Annual Report 050526 7 69fc5b1c4e265](wiki/pdf-source-assets-c4akfrf5b4d3f4b7-z01-azurefd-net-2026-work-trend-index-annual-report-050526-7-69fc5b1c4e2.md) | assets-c4akfrf5b4d3f4b7.z01.azurefd.net | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [ca the health productivity gap aoda en.7ae5e913bd32](wiki/pdf-source-assets-foleon-com-ca-the-health-productivity-gap-aoda-en-7ae5e913bd32.md) | assets.foleon.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [UK Standard Skills Classification Development Report](wiki/pdf-source-assets-publishing-service-gov-uk-uk-standard-skills-classification-development-report.md) | assets.publishing.service.gov.uk | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
@@ -257,7 +257,7 @@
 | [Mercer and Eightfold Pay for Skills](wiki/pdf-source-eightfold-ai-mercer-and-eightfold-pay-for-skills.md) | eightfold.ai | AI组织设计、绩效管理、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [new skill price](wiki/pdf-source-elmerli-github-io-new-skill-price.md) | elmerli.github.io | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [12713325](wiki/pdf-source-file-finance-sina-com-cn-12713325.md) | file.finance.sina.com.cn | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
-| [12716776](wiki/pdf-source-file-finance-sina-com-cn-12716776.md) | file.finance.sina.com.cn | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [12716776](wiki/pdf-source-file-finance-sina-com-cn-12716776.md) | file.finance.sina.com.cn | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
 | [12713049](wiki/pdf-source-file-finance-sina-com-cn-12713049.md) | file.finance.sina.com.cn | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [Founder Reports：AI核验劳动与调查分母](wiki/pdf-source-founderreports-com-botsitting-report-2026-fr.md) | Founder Reports | 核验容量与题项分母 | L2自报观察，非净收益或裁员效果 | 缓存20页，核指定段及第10页图像，非全文精读；引用 6 次 |
 | [AIGW：AI 企业劳动力架构九案例](wiki/pdf-source-gaeedu-public-files-s3-us-east-2-amazonaws-com-workforce-architecture-for-enterprise-9-cases.md) | AIGW Policy Observatory | AI组织设计、人才发展、决策权、人员流动 | 强相关：九域劳动力架构与员工净收益诊断 | 已核读关键章节，引用 1 次 |
@@ -291,7 +291,7 @@
 | [Anthropic：2026 Agentic Coding Trends Report](wiki/pdf-source-anthropic-anthropic-2026-agentic-coding-trends-report.md) | Anthropic | Agentic coding、工程师角色重塑、人机协作 | 强相关：产品工程一体化 | 已下载原文，引用 1 次 |
 | [Meta 06 30 2026 Exhibit 99 1 FINAL](wiki/pdf-source-s21-q4cdn-com-meta-06-30-2026-exhibit-99-1-final.md) | s21.q4cdn.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [META Q2 2026 Earnings Call Transcript](wiki/pdf-source-s21-q4cdn-com-meta-q2-2026-earnings-call-transcript.md) | s21.q4cdn.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
-| [AI at Work Executive Summary](wiki/pdf-source-seramount-com-ai-at-work-executive-summary.md) | seramount.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [AI at Work Executive Summary](wiki/pdf-source-seramount-com-ai-at-work-executive-summary.md) | seramount.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [Fannie Mae：LL-2026-04 AI/ML 治理要求](wiki/pdf-source-fannie-mae-fannie-mae-ll-2026-04-ai-ml.md) | Fannie Mae | AI治理、负责人、年度复核、供应商级联 | 强相关：正式治理规则与外部责任边界 | 已下载原文，引用 13 次 |
 | [SMG Heart of Work Key Findings](wiki/pdf-source-staffmark-com-smg-heart-of-work-key-findings.md) | staffmark.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [6277baa6 0f7b 4fbe 9c7c ceb3e0e9b325 flatland](wiki/pdf-source-static-cdn-cars24-com-6277baa6-0f7b-4fbe-9c7c-ceb3e0e9b325-flatland.md) | static-cdn.cars24.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 16 次 |
@@ -336,7 +336,7 @@
 | [DWN.jsp](wiki/pdf-source-molit-go-kr-dwn-jsp.md) | molit.go.kr | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
 | [绩效预测论文：模型分数不等于用工依据](wiki/pdf-source-nature-com-s41598-026-76297-z-reference.md) | Scientific Reports / Springer Nature | 绩效模型用途边界 | L2方法，不作人事依据 | 26日指定页文本已核，27日缓存可用，引用 1 次 |
 | [s41746 026 03410 x](wiki/pdf-source-nature-com-s41746-026-03410-x.md) | nature.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
-| [news202600107](wiki/pdf-source-ntnglobal-com-news202600107.md) | ntnglobal.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [news202600107](wiki/pdf-source-ntnglobal-com-news202600107.md) | ntnglobal.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
 | [OECD：Competition in the Age of AI](wiki/pdf-source-oecd-oecd-competition-in-the-age-of-ai.md) | OECD | 组织吸收能力、高技能人才、市场结构、企业边界 | 强相关：组织能力与人才结构 | 已下载原文，引用 2 次 |
 | [c0ffced7 en](wiki/pdf-source-oecd-org-c0ffced7-en.md) | oecd.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
 | [5a208f6b en](wiki/pdf-source-oecd-org-5a208f6b-en.md) | oecd.org | AI组织设计、变革管理 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |

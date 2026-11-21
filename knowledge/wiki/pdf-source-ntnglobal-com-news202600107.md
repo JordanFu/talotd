@@ -52,6 +52,9 @@ news202600107 已作为日报/周报 PDF 证据源入库，当前需要完成结
 ## 被引用位置
 
 - `daily/2026-11-21.md:28`：联合公告及治理附录，第1、24—25页
+- `specials/ai-org-talent-mechanism/2026-11-21/01-flat-organization.md:235`：《关于通过共同股份转移设立共同控股公司之最终协议的公告》
+- `specials/ai-org-talent-mechanism/2026-11-21/03-job-family-career-architecture.md:241`：Notice Concerning Execution of Definitive Agreement Regarding Establishment of a Joint Holding Company
+- `specials/ai-org-talent-mechanism/2026-11-21/information-candidates.md:10`：双方正式协议 PDF
 
 ## 后续精读任务
 

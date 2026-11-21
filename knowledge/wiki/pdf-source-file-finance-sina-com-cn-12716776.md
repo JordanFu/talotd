@@ -52,6 +52,9 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 ## 被引用位置
 
 - `daily/2026-11-21.md:114`：公告原件，第1—2页
+- `specials/ai-org-talent-mechanism/2026-11-21/02-talent-density.md:194`：中谷物流公告 PDF 原件
+- `specials/ai-org-talent-mechanism/2026-11-21/04-promotion-system.md:27`：公告 PDF
+- `specials/ai-org-talent-mechanism/2026-11-21/04-promotion-system.md:218`：公告 PDF
 
 ## 后续精读任务
 
