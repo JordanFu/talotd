@@ -139,6 +139,30 @@
   ],
   "reports": [
     {
+      "id": "manual-frontiers-feedback-trust-1999477",
+      "title": "反馈实验：信任提升不等于系统改善",
+      "author": "Viktor Werbilo et al.",
+      "publisher": "Frontiers in Robotics and AI",
+      "sourceType": "academic",
+      "topics": [
+        "AI组织设计",
+        "人才发展"
+      ],
+      "date": "2026-11-20",
+      "uploadDate": "2026-11-21",
+      "description": "48人虚拟工厂随机比较两套反馈安排；提示组短期信任提高更多但耗时更长，机器人行为未变，不能推断安全、性能或员工减负。HTML方法、结果与局限已读；9页PDF核格式页数及哈希，未逐页精读。",
+      "summaryFile": "./knowledge/wiki/pdf-source-frontiers-feedback-trust-1999477.md",
+      "rawFile": "./knowledge/raw/frontiers-feedback-trust-1999477.pdf",
+      "fileName": "frontiers-feedback-trust-1999477.pdf",
+      "fileSize": "1424288 bytes",
+      "tags": [
+        "PDF手工补录",
+        "反馈负担",
+        "员工体验"
+      ],
+      "originalUrl": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1999477/pdf"
+    },
+    {
       "id": "ai-training-readiness-calibration-2026-11",
       "title": "AI培训评价：自评准备与任务判断分别看",
       "author": "Ziheng Song",
@@ -7433,6 +7457,102 @@
         "paper.people.com.cn"
       ],
       "originalUrl": "https://paper.people.com.cn/rmrb/pc/attachement/202611/19/ccc89881-22bc-45fd-9550-c4c4faaace84.pdf"
+    },
+    {
+      "id": "p144",
+      "title": "2611.25967",
+      "originalTitle": "2611.25967",
+      "author": "arxiv.org",
+      "publisher": "arxiv.org",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-21",
+      "description": "2611.25967 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-arxiv-org-2611-25967.md",
+      "rawFile": "./knowledge/raw/arxiv-org-2611-25967.pdf",
+      "fileName": "arxiv-org-2611-25967.pdf",
+      "fileSize": "153534 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "arxiv.org"
+      ],
+      "originalUrl": "https://arxiv.org/pdf/2611.25967.pdf"
+    },
+    {
+      "id": "p145",
+      "title": "12716776",
+      "originalTitle": "12716776",
+      "author": "file.finance.sina.com.cn",
+      "publisher": "file.finance.sina.com.cn",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-21",
+      "description": "12716776 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-file-finance-sina-com-cn-12716776.md",
+      "rawFile": "./knowledge/raw/file-finance-sina-com-cn-12716776.pdf",
+      "fileName": "file-finance-sina-com-cn-12716776.pdf",
+      "fileSize": "116642 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "file.finance.sina.com.cn"
+      ],
+      "originalUrl": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-11/2026-11-21/12716776.PDF"
+    },
+    {
+      "id": "p146",
+      "title": "AI at Work Executive Summary",
+      "originalTitle": "AI at Work Executive Summary",
+      "author": "seramount.com",
+      "publisher": "seramount.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-21",
+      "description": "AI at Work Executive Summary 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-seramount-com-ai-at-work-executive-summary.md",
+      "rawFile": "./knowledge/raw/seramount-com-ai-at-work-executive-summary.pdf",
+      "fileName": "seramount-com-ai-at-work-executive-summary.pdf",
+      "fileSize": "1046962 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "seramount.com"
+      ],
+      "originalUrl": "https://seramount.com/wp-content/uploads/2026/11/AI-at-Work-Executive-Summary.pdf"
+    },
+    {
+      "id": "p147",
+      "title": "news202600107",
+      "originalTitle": "news202600107",
+      "author": "ntnglobal.com",
+      "publisher": "ntnglobal.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-21",
+      "description": "news202600107 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-ntnglobal-com-news202600107.md",
+      "rawFile": "./knowledge/raw/ntnglobal-com-news202600107.pdf",
+      "fileName": "ntnglobal-com-news202600107.pdf",
+      "fileSize": "1000275 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "ntnglobal.com"
+      ],
+      "originalUrl": "https://www.ntnglobal.com/en/news/press/pdf/news202600107.pdf"
     }
   ]
 }
