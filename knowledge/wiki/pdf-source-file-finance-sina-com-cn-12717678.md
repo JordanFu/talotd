@@ -52,6 +52,10 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 ## 被引用位置
 
 - `daily/2026-11-22.md:62`：公告原件，第2—5页
+- `specials/ai-org-talent-mechanism/2026-11-22/02-talent-density.md:36`：公告原件
+- `specials/ai-org-talent-mechanism/2026-11-22/02-talent-density.md:236`：公告 PDF 原件
+- `specials/ai-org-talent-mechanism/2026-11-22/04-promotion-system.md:25`：公告 PDF
+- `specials/ai-org-talent-mechanism/2026-11-22/04-promotion-system.md:233`：迅捷兴公告 PDF
 
 ## 后续精读任务
 
