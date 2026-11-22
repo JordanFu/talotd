@@ -139,6 +139,29 @@
   ],
   "reports": [
     {
+      "id": "manual-ies-sstip-2027",
+      "title": "IES补充激励：参与者与利润口径，PDF待重试",
+      "author": "IES Holdings",
+      "publisher": "IES Holdings / SEC",
+      "sourceType": "industry",
+      "topics": [
+        "人才发展"
+      ],
+      "date": "2026-11-20",
+      "uploadDate": "2026-11-22",
+      "description": "SEC计划及8-K HTML已读：奖金池仅分配给首席执行官，门槛、收益剔除与委员会裁量分别核。公司无扩展名PDF返回403，手工登记待重试，不计自动扫描或可用原件。",
+      "summaryFile": "./knowledge/wiki/pdf-source-ies-sstip-2027.md",
+      "rawFile": "",
+      "fileName": "",
+      "fileSize": "download pending",
+      "tags": [
+        "PDF手工补录",
+        "下载待重试",
+        "高管激励"
+      ],
+      "originalUrl": "https://iesholdingsinc.gcs-web.com/static-files/3a57116b-3443-4344-8b18-d0a51da07330"
+    },
+    {
       "id": "manual-frontiers-feedback-trust-1999477",
       "title": "反馈实验：信任提升不等于系统改善",
       "author": "Viktor Werbilo et al.",
@@ -7553,6 +7576,30 @@
         "ntnglobal.com"
       ],
       "originalUrl": "https://www.ntnglobal.com/en/news/press/pdf/news202600107.pdf"
+    },
+    {
+      "id": "p148",
+      "title": "12717678",
+      "originalTitle": "12717678",
+      "author": "file.finance.sina.com.cn",
+      "publisher": "file.finance.sina.com.cn",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-22",
+      "description": "12717678 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-file-finance-sina-com-cn-12717678.md",
+      "rawFile": "./knowledge/raw/file-finance-sina-com-cn-12717678.pdf",
+      "fileName": "file-finance-sina-com-cn-12717678.pdf",
+      "fileSize": "148529 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "file.finance.sina.com.cn"
+      ],
+      "originalUrl": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-11/2026-11-21/12717678.PDF"
     }
   ]
 }
