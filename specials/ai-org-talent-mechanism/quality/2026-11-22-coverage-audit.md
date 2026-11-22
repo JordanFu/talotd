@@ -25,7 +25,7 @@
 | 2026-11-19 | decision-ready | 完整 | 通过 |
 | 2026-11-20 | decision-ready | 完整 | 通过 |
 | 2026-11-21 | decision-ready | 完整 | 通过 |
-| 2026-11-22 | scheduled | 完整 | 通过 |
+| 2026-11-22 | decision-ready | 完整 | 通过 |
 
 ## 自动化要求
 
