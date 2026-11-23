@@ -373,6 +373,9 @@
 | [investor day presentation 2026](wiki/pdf-source-zurich-com-investor-day-presentation-2026.md) | zurich.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 18 次 |
 | [2026072000261](wiki/pdf-source-www1-hkexnews-hk-2026072000261.md) | www1.hkexnews.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [2026111600419 c](wiki/pdf-source-www1-hkexnews-hk-2026111600419-c.md) | www1.hkexnews.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 13 次 |
+| [12717873](wiki/pdf-source-file-finance-sina-com-cn-12717873.md) | file.finance.sina.com.cn | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [GENUSPOWER 21112026190617 ESAR Grant](wiki/pdf-source-nsearchives-nseindia-com-genuspower-21112026190617-esar-grant.md) | nsearchives.nseindia.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [人工智能相关劳动力需求的近期演变：招聘与在职薪酬分开看](wiki/pdf-source-clevelandfed-org-wp2624.md) | Federal Reserve Bank of Cleveland | 岗位需求、薪酬比较与样本边界 | 薪酬高相关；不是采用的因果效果 | 已读正文主要方法结果并形成机制摘要；附录未全部精读，引用 1 次 |
 <!-- PDF_AUTO_INDEX_END -->
 
 ## 操作日志

@@ -7675,6 +7675,80 @@
         "公司一手披露"
       ],
       "originalUrl": "https://www.fidelity.com/bin-public/600_Fidelity_Institutional/fidelityinstitutional/Application/AP154833/documents/clients/ANTLLV/ANTLLVfwp_4.pdf"
+    },
+    {
+      "id": "p150",
+      "title": "12717873",
+      "originalTitle": "12717873",
+      "author": "file.finance.sina.com.cn",
+      "publisher": "file.finance.sina.com.cn",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-23",
+      "description": "12717873 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-file-finance-sina-com-cn-12717873.md",
+      "rawFile": "./knowledge/raw/file-finance-sina-com-cn-12717873.pdf",
+      "fileName": "file-finance-sina-com-cn-12717873.pdf",
+      "fileSize": "116582 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "file.finance.sina.com.cn"
+      ],
+      "originalUrl": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-11/2026-11-23/12717873.PDF"
+    },
+    {
+      "id": "p151",
+      "title": "GENUSPOWER 21112026190617 ESAR Grant",
+      "originalTitle": "GENUSPOWER 21112026190617 ESAR Grant",
+      "author": "nsearchives.nseindia.com",
+      "publisher": "nsearchives.nseindia.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-23",
+      "description": "GENUSPOWER 21112026190617 ESAR Grant 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-nsearchives-nseindia-com-genuspower-21112026190617-esar-grant.md",
+      "rawFile": "./knowledge/raw/nsearchives-nseindia-com-genuspower-21112026190617-esar-grant.pdf",
+      "fileName": "nsearchives-nseindia-com-genuspower-21112026190617-esar-grant.pdf",
+      "fileSize": "360340 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "nsearchives.nseindia.com"
+      ],
+      "originalUrl": "https://nsearchives.nseindia.com/corporate/GENUSPOWER_21112026190617_ESAR_Grant.pdf"
+    },
+    {
+      "id": "p152",
+      "title": "人工智能相关劳动力需求的近期演变：招聘与在职薪酬分开看",
+      "originalTitle": "The Recent Evolution of AI-Related Labor Demand",
+      "author": "Kevin Rinz",
+      "publisher": "Federal Reserve Bank of Cleveland",
+      "sourceType": "academic",
+      "topics": [
+        "岗位需求",
+        "薪酬比较"
+      ],
+      "date": "2026-09-17",
+      "uploadDate": "2026-11-23",
+      "description": "已读正文方法与主要结果并形成机制摘要；招聘标价、实际新入职与持续在职待遇分开核实。美国描述性职业比较，不能推导采用人工智能的因果薪酬效果；附录未全部精读。",
+      "summaryFile": "./knowledge/wiki/pdf-source-clevelandfed-org-wp2624.md",
+      "rawFile": "./knowledge/raw/clevelandfed-org-wp2624.pdf",
+      "fileName": "clevelandfed-org-wp2624.pdf",
+      "fileSize": "1569085 bytes",
+      "tags": [
+        "PDF自动入库",
+        "岗位需求",
+        "薪酬比较",
+        "证据方法"
+      ],
+      "originalUrl": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2026/wp2624.pdf"
     }
   ]
 }
