@@ -1,53 +1,39 @@
 ---
-title: issuance of final rule on managing senior professional performance
-source: opm.gov
-date: 待核验
+title: 美国 OPM 高级专业人员绩效最终规则：季度复盘、复核权与集中校准
+source: U.S. Office of Personnel Management
+date: 2026-11-09
 ingested: 2026-11-11
 sourceFile: ../raw/opm-gov-issuance-of-final-rule-on-managing-senior-professional-performance.pdf
 sourceUrl: https://www.opm.gov/chcoc/latest-memos/issuance-of-final-rule-on-managing-senior-professional-performance.pdf
-tags: [AI组织设计]
-status: 已下载原始PDF，已生成结构化初筛卡片
+tags: [绩效管理, 专业序列, 复核权, 政府一手规则]
+status: 4页正式备忘录全文已读；随附最终规则、问答和模板未逐份核读
 ---
 
-# issuance of final rule on managing senior professional performance
+# 美国 OPM 高级专业人员绩效最终规则：季度复盘、复核权与集中校准
 
 ## 一句话判断
 
-issuance of final rule on managing senior professional performance 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。
+这不是企业晋升制度，也不是“强制排名有效”的效果证据；它是一份联邦高级专业人员绩效规则，展示了在统一校准与薪酬动作集中审议时，季度反馈、书面回应、上级复核和例外豁免需要一起设计。
 
-## 入库状态
+## 来源与阅读范围
 
-- **来源机构**：opm.gov
-- **来源类型**：media
-- **原文 URL**：https://www.opm.gov/chcoc/latest-memos/issuance-of-final-rule-on-managing-senior-professional-performance.pdf
-- **原始文件**：`knowledge/raw/opm-gov-issuance-of-final-rule-on-managing-senior-professional-performance.pdf`
-- **入库日期**：2026-11-11
-- **证据层级**：线索层优先；未完成精读前不进入结论层。
+- 美国人事管理局（OPM）2026年11月9日正式备忘录，规则于11月18日生效，适用于联邦 senior-level（SL）与 scientific or professional（ST）高级专业人员。
+- 本卡已读4页备忘录全文，核对实施范围、主要变化与后续动作；备忘录列出的最终规则、问答、政策模板和监管对照矩阵没有逐份精读。
+- 证据等级：规则文本与生效安排为 **L3 一手制度事实**；执行质量、员工体验、公平性和组织效果尚无后效证据，不能升级为 L4 机制验证。
 
-## 核心内容
+## 核心机制
 
-- 当前已完成来源、引用位置和原文状态建档，避免证据散落在日报正文。
-- 尚未完成报告级摘要、关键数据口径和可复用框架抽取。
-- 需要判断它支撑的是组织设计、岗位族群、职级序列、薪酬激励，还是仅作为行业背景。
+1. 取消机构分别设置 appraisal program 的要求，保留经 OPM 批准的 appraisal system，并计划自 FY2027 起采用更新后的政府统一系统与计划。
+2. 绩效进展复盘从每个周期至少一次提高到至少每季度一次；评定人需说明对照绩效计划的表现、改进建议和可用发展机会。
+3. 任一高级专业人员都可在初评送交 Performance Review Board（PRB）前申请更高层复核；复核人不能直接改分，但可向 PRB 提出不同建议。
+4. OPM 可设定评级分布上限，FY2026 周期收尾即开始适用；特殊情况下机构可申请豁免。统一分布不等于每名员工的事实判断，也不证明强制分布更公平。
+5. PRB 集中审阅初评、员工书面回应和上级复核，向最终批准人建议评级、绩效奖金和薪酬调整。少于10名高级专业人员的机构不强制集中审议。
 
-## 你需要关注
+## OD 借鉴与边界
 
-- 先确认发布日期、样本口径、行业范围和是否为一手材料。
-- 区分可形成结论的事实、只能作为 Context 的专家观点，以及仍需追踪的单点线索。
-- 如果报告只提供宏观背景，不应强行写入岗位/薪酬改革结论。
-
-## 与近期研究主题的相关性
-
-| 研究主题 | 相关性 | 可怎么用 |
-|---|---|---|
-| AI 组织改革 | 待验证 | 需精读后判断是否有流程、权责、岗位或治理内容。 |
-| 岗位/职级/族群 | 待验证 | 需确认是否包含岗位结构、职业通道或管理层级变化。 |
-| 薪酬/激励 | 待验证 | 需确认是否包含薪酬带宽、技能溢价、项目激励或稀缺人才定价。 |
-
-## 对日报/周报的使用方式
-
-- 先放入知识库线索层，后续按主题补充到日报/周报证据地图。
-- 精读后再决定是否拆成概念页、企业案例页或机制模板。
+- 可用于设计“双通道高级专业人员”的绩效治理：业务评价、跨部门校准、薪酬动作和申诉/复核是不同责任，不能由同一张分数表代替。
+- 若组织采用分布控制，应同时公开适用人群、例外规则、书面回应、复核路径与最终责任人；不能只复制配额，不复制程序保障。
+- 该规则针对美国联邦 SL/ST 序列，不能外推为企业晋升标准、普通员工绩效制度或 AI 时代通用做法。
 
 ## 被引用位置
 
@@ -64,15 +50,7 @@ issuance of final rule on managing senior professional performance 已作为日�
 - `specials/ai-org-talent-mechanism/weekly/2026-W46-detailed.md:249`：OPM 最终规则
 - `specials/ai-org-talent-mechanism/weekly/2026-W46.md:249`：OPM 最终规则
 
-## 后续精读任务
+## 后续验证
 
-- 核验报告发布日期、作者/机构、样本范围和数据口径。
-- 抽取可支撑“执行层分工合并 vs 核心专家深化”的直接证据。
-- 抽取可支撑“岗位改革背后是激励资源再配置”的薪酬、技能溢价或预算配置证据。
-- 判断是否需要拆成独立概念页、企业案例页或机制模板。
-
-## 与已有知识的关联
-
-- [[AI-First 运营模型]]
-- [[技能为本的组织]]
-- [[能力-判断评估矩阵]]
+- 读取年度评级分布指引与豁免模板，核准分布上限、例外条件和员工可见性。
+- 追踪 FY2026 收尾与 FY2027 实施中的申诉、分布和薪酬后效；在此之前只作为制度结构案例。

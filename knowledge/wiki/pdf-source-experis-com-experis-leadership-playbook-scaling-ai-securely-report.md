@@ -1,53 +1,38 @@
 ---
-title: experis leadership playbook scaling ai securely report
-source: experis.com
-date: 待核验
+title: Experis AI规模化调查：旧岗扩责与新专业角色并存
+source: Experis / ManpowerGroup
+date: 2026-11-10
 ingested: 2026-11-12
 sourceFile: ../raw/experis-com-experis-leadership-playbook-scaling-ai-securely-report.pdf
-sourceUrl: https://www.experis.com/-/media/project/manpowergroup/experis/experis-us/documents/experis_leadership_playbook_scaling-ai-securely-report.pdf
-tags: [AI组织设计]
-status: 已下载原始PDF，已生成结构化初筛卡片
+sourceUrl: https://www.experis.com/-/media/project/manpowergroup/experis/experis-us/documents/experis_leadership_playbook-scaling-ai-securely-report.pdf
+tags: [岗位重构, AI能力, 治理, 技术领导者调查]
+status: 17页报告的方法页、岗位与人才章节已读；其余供应商案例未逐项验证
 ---
 
-# experis leadership playbook scaling ai securely report
+# Experis AI规模化调查：旧岗扩责与新专业角色并存
 
 ## 一句话判断
 
-experis leadership playbook scaling ai securely report 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。
+技术领导者同时报告“把 AI 技能嵌入既有岗位”和“新建少量专业角色”，说明责任包变宽与专业深化可以并存；它是管理者自报信号，不是岗位台账、实际招聘、薪带或员工净负担的验证。
 
-## 入库状态
+## 来源与阅读范围
 
-- **来源机构**：experis.com
-- **来源类型**：media
-- **原文 URL**：https://www.experis.com/-/media/project/manpowergroup/experis/experis-us/documents/experis_leadership_playbook_scaling-ai-securely-report.pdf
-- **原始文件**：`knowledge/raw/experis-com-experis-leadership-playbook-scaling-ai-securely-report.pdf`
-- **入库日期**：2026-11-12
-- **证据层级**：线索层优先；未完成精读前不进入结论层。
+- Experis 委托调查1,930名拥有 IT 预算或招聘决策权的高级技术领导者，覆盖12国，调查期为2026年1月28日至3月4日，并在各市场补充深度访谈。
+- 本卡已读报告执行摘要、组织与岗位重构章节、人力能力章节和方法页；没有逐项验证其中引用的其他研究与供应商案例。
+- 证据等级：**L2 原始自报调查**。发布方兼具技术服务与人才业务利益，问卷选项可以并存，不能当成企业实际落地比例。
 
-## 核心内容
+## 核心发现
 
-- 当前已完成来源、引用位置和原文状态建档，避免证据散落在日报正文。
-- 尚未完成报告级摘要、关键数据口径和可复用框架抽取。
-- 需要判断它支撑的是组织设计、岗位族群、职级序列、薪酬激励，还是仅作为行业背景。
+- 53%称把 AI 技能嵌入既有技术岗位，45%称把技术专长与战略思维结合，39%称提高跨领域多能性。
+- 31%称新建数据伦理师、自动化架构师等角色，27%称要求更多跨职能协作；这些选择不是互斥趋势。
+- 报告称仅9%认为 AI 已全面融入运营与战略。它支持“规模化需要业务、数据、治理、安全与工作流共同变化”，不支持把工具上线写成组织转型完成。
+- 报告主张培训应进入真实工作流，员工要练习评估输出、保护数据与升级问题；管理者还需重写角色和绩效衡量。
 
-## 你需要关注
+## OD 借鉴与边界
 
-- 先确认发布日期、样本口径、行业范围和是否为一手材料。
-- 区分可形成结论的事实、只能作为 Context 的专家观点，以及仍需追踪的单点线索。
-- 如果报告只提供宏观背景，不应强行写入岗位/薪酬改革结论。
-
-## 与近期研究主题的相关性
-
-| 研究主题 | 相关性 | 可怎么用 |
-|---|---|---|
-| AI 组织改革 | 待验证 | 需精读后判断是否有流程、权责、岗位或治理内容。 |
-| 岗位/职级/族群 | 待验证 | 需确认是否包含岗位结构、职业通道或管理层级变化。 |
-| 薪酬/激励 | 待验证 | 需确认是否包含薪酬带宽、技能溢价、项目激励或稀缺人才定价。 |
-
-## 对日报/周报的使用方式
-
-- 先放入知识库线索层，后续按主题补充到日报/周报证据地图。
-- 精读后再决定是否拆成概念页、企业案例页或机制模板。
+- 岗位架构先拆成三层：原岗位新增的稳定责任、阶段性项目角色、长期稀缺专业角色；不要看到新技能就立即新建序列。
+- AI fluency 不能只记课程完成率，应核真实任务中的输出判断、风险识别、交接与升级能力，并确认学习时间是否进入正常工时。
+- 调查没有提供公司级岗位编码、录用、薪酬、离职、工作强度或员工净收益，不能据此宣称 AI 使组织更扁平、更少人或更高效。
 
 ## 被引用位置
 
@@ -62,15 +47,8 @@ experis leadership playbook scaling ai securely report 已作为日报/周报 PD
 - `specials/ai-org-talent-mechanism/weekly/2026-W46-detailed.md:261`：报告
 - `specials/ai-org-talent-mechanism/weekly/2026-W46.md:261`：报告
 
-## 后续精读任务
+## 后续验证
 
-- 核验报告发布日期、作者/机构、样本范围和数据口径。
-- 抽取可支撑“执行层分工合并 vs 核心专家深化”的直接证据。
-- 抽取可支撑“岗位改革背后是激励资源再配置”的薪酬、技能溢价或预算配置证据。
-- 判断是否需要拆成独立概念页、企业案例页或机制模板。
-
-## 与已有知识的关联
-
-- [[AI-First 运营模型]]
-- [[技能为本的组织]]
-- [[能力-判断评估矩阵]]
+- 用至少两家企业的岗位台账、实际招聘与薪带核对53%/31%所对应的真实动作和一年后存续。
+- 取得问卷全文与国家/规模分组，判断样本、问题措辞和多选设计是否放大“同时发生”的感觉。
+- 对员工侧增加净工时、返工、可停用性、薪酬回报和留存指标。

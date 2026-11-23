@@ -1085,6 +1085,37 @@
       ]
     },
     {
+      "id": "local-knowledge-review-2026-11-23",
+      "title": "本地知识库定期 Review（2026-11-23）",
+      "originalTitle": "Local Knowledge Base Review 2026-11-23",
+      "author": "Codex",
+      "publisher": "OD Intelligence Center",
+      "sourceType": "internal",
+      "topics": [
+        "知识管理",
+        "AI组织设计",
+        "组织机制",
+        "人才发展",
+        "晋升",
+        "People/HR",
+        "AI fluency"
+      ],
+      "date": "2026-11-23",
+      "uploadDate": "2026-11-23",
+      "description": "本周知识库巡检报告，覆盖141个公开PDF引用、23张近期PDF卡、10张重点卡结构化补齐、信息流与专题连续性、链接、生命周期、重复映射和隐私边界。",
+      "summaryFile": "./knowledge/wiki/local-knowledge-review-2026-11-23.md",
+      "fileName": "generated review report",
+      "fileSize": "wiki page",
+      "tags": [
+        "知识管理",
+        "定期Review",
+        "资料治理",
+        "PDF入库",
+        "AI组织设计",
+        "People/HR"
+      ]
+    },
+    {
       "id": "local-knowledge-review-2026-11-09",
       "title": "本地知识库定期 Review（2026-11-09）",
       "originalTitle": "Local Knowledge Base Review 2026-11-09",
@@ -6963,145 +6994,162 @@
     },
     {
       "id": "p123",
-      "title": "issuance of final rule on managing senior professional performance",
+      "title": "美国 OPM 高级专业人员绩效最终规则：季度复盘、复核权与集中校准",
       "originalTitle": "issuance of final rule on managing senior professional performance",
-      "author": "opm.gov",
-      "publisher": "opm.gov",
-      "sourceType": "media",
+      "author": "U.S. Office of Personnel Management",
+      "publisher": "U.S. Office of Personnel Management",
+      "sourceType": "regulatory",
       "topics": [
-        "AI组织设计"
+        "绩效管理",
+        "晋升"
       ],
-      "date": "",
+      "date": "2026-11-09",
       "uploadDate": "2026-11-11",
-      "description": "issuance of final rule on managing senior professional performance 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "联邦 SL/ST 高级专业人员绩效最终规则：季度复盘、员工书面回应、上级复核、PRB 集中校准和分布豁免需一起设计；正式文本已读，实施后效未核。",
       "summaryFile": "./knowledge/wiki/pdf-source-opm-gov-issuance-of-final-rule-on-managing-senior-professional-performance.md",
       "rawFile": "./knowledge/raw/opm-gov-issuance-of-final-rule-on-managing-senior-professional-performance.pdf",
       "fileName": "opm-gov-issuance-of-final-rule-on-managing-senior-professional-performance.pdf",
       "fileSize": "263062 bytes",
       "tags": [
         "PDF自动入库",
-        "AI组织设计",
-        "opm.gov"
+        "绩效管理",
+        "专业序列",
+        "复核权"
       ],
       "originalUrl": "https://www.opm.gov/chcoc/latest-memos/issuance-of-final-rule-on-managing-senior-professional-performance.pdf"
     },
     {
       "id": "p124",
-      "title": "experis leadership playbook scaling ai securely report",
+      "title": "Experis AI规模化调查：旧岗扩责与新专业角色并存",
       "originalTitle": "experis leadership playbook scaling ai securely report",
-      "author": "experis.com",
-      "publisher": "experis.com",
-      "sourceType": "media",
+      "author": "Experis / ManpowerGroup",
+      "publisher": "Experis / ManpowerGroup",
+      "sourceType": "industry",
       "topics": [
-        "AI组织设计"
+        "AI组织设计",
+        "人才发展",
+        "AI fluency"
       ],
-      "date": "",
+      "date": "2026-11-10",
       "uploadDate": "2026-11-12",
-      "description": "experis leadership playbook scaling ai securely report 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "12国1,930名技术领导者自报显示旧岗扩责与新专业角色并存；岗位台账、实际招聘、薪带和员工净负担仍待验证。",
       "summaryFile": "./knowledge/wiki/pdf-source-experis-com-experis-leadership-playbook-scaling-ai-securely-report.md",
       "rawFile": "./knowledge/raw/experis-com-experis-leadership-playbook-scaling-ai-securely-report.pdf",
       "fileName": "experis-com-experis-leadership-playbook-scaling-ai-securely-report.pdf",
       "fileSize": "8473724 bytes",
       "tags": [
         "PDF自动入库",
-        "AI组织设计",
-        "experis.com"
+        "岗位重构",
+        "AI能力",
+        "技术领导者调查"
       ],
       "originalUrl": "https://www.experis.com/-/media/project/manpowergroup/experis/experis-us/documents/experis_leadership_playbook_scaling-ai-securely-report.pdf"
     },
     {
       "id": "p125",
-      "title": "openai upwork full report",
+      "title": "OpenAI×Upwork 自由职业研究：AI任务包变大不等于个人薪酬溢价",
       "originalTitle": "openai upwork full report",
-      "author": "cdn.openai.com",
-      "publisher": "cdn.openai.com",
-      "sourceType": "media",
+      "author": "Caroline Chin et al.",
+      "publisher": "OpenAI / Upwork",
+      "sourceType": "industry",
       "topics": [
-        "AI组织设计"
+        "AI组织设计",
+        "人才发展",
+        "薪酬激励"
       ],
-      "date": "",
+      "date": "2026-11-10",
       "uploadDate": "2026-11-12",
-      "description": "openai upwork full report 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "AI相关固定价预算更高、正工时合同投入更多，但同类挂牌时薪差异很小；任务包、项目总价、工时和个人收入必须分账。",
       "summaryFile": "./knowledge/wiki/pdf-source-cdn-openai-com-openai-upwork-full-report.md",
       "rawFile": "./knowledge/raw/cdn-openai-com-openai-upwork-full-report.pdf",
       "fileName": "cdn-openai-com-openai-upwork-full-report.pdf",
       "fileSize": "2023938 bytes",
       "tags": [
         "PDF自动入库",
-        "AI组织设计",
-        "cdn.openai.com"
+        "任务重组",
+        "平台劳动",
+        "薪酬口径"
       ],
       "originalUrl": "https://cdn.openai.com/pdf/openai-upwork-full-report.pdf"
     },
     {
       "id": "p126",
-      "title": "2026074pap",
+      "title": "美联储 AI与美国经济综述：初级就业信号主要来自被引研究",
       "originalTitle": "2026074pap",
-      "author": "federalreserve.gov",
-      "publisher": "federalreserve.gov",
-      "sourceType": "media",
+      "author": "Nick Carollo et al.",
+      "publisher": "Federal Reserve Board",
+      "sourceType": "academic",
       "topics": [
+        "人才发展",
+        "招聘",
         "AI组织设计"
       ],
-      "date": "",
+      "date": "2026-11-12",
       "uploadDate": "2026-11-14",
-      "description": "2026074pap 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "综述提示初级就业入口可能先受招聘收缩影响；16%估计来自被引研究，不是本论文新测全美降幅，也不能排除周期因素。",
       "summaryFile": "./knowledge/wiki/pdf-source-federalreserve-gov-2026074pap.md",
       "rawFile": "./knowledge/raw/federalreserve-gov-2026074pap.pdf",
       "fileName": "federalreserve-gov-2026074pap.pdf",
       "fileSize": "1297492 bytes",
       "tags": [
         "PDF自动入库",
-        "AI组织设计",
-        "federalreserve.gov"
+        "初级岗位",
+        "劳动力市场",
+        "招聘入口"
       ],
       "originalUrl": "https://www.federalreserve.gov/econres/feds/files/2026074pap.pdf"
     },
     {
       "id": "p127",
-      "title": "s12909 026 10810 w reference",
+      "title": "医学教育办公室复苏：单校行动研究中的角色、治理与工作量信用",
       "originalTitle": "s12909 026 10810 w reference",
-      "author": "link.springer.com",
-      "publisher": "link.springer.com",
-      "sourceType": "media",
+      "author": "Somayeh Noori Hekmat / Parvin Rezaei-Gazki",
+      "publisher": "BMC Medical Education",
+      "sourceType": "academic",
       "topics": [
-        "AI组织设计"
+        "变革管理",
+        "人才发展",
+        "晋升"
       ],
       "date": "",
       "uploadDate": "2026-11-15",
-      "description": "s12909 026 10810 w reference 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "单校行动研究显示分散单元复苏需要角色、治理、持续支持和工作量信用一起设计；无对照组且多为过程指标，不证明普遍因果。",
       "summaryFile": "./knowledge/wiki/pdf-source-link-springer-com-s12909-026-10810-w-reference.md",
       "rawFile": "./knowledge/raw/link-springer-com-s12909-026-10810-w-reference.pdf",
       "fileName": "link-springer-com-s12909-026-10810-w-reference.pdf",
       "fileSize": "1318926 bytes",
       "tags": [
         "PDF自动入库",
-        "AI组织设计",
-        "link.springer.com"
+        "组织变革",
+        "角色澄清",
+        "工作量信用"
       ],
       "originalUrl": "https://link.springer.com/content/pdf/10.1186/s12909-026-10810-w_reference.pdf"
     },
     {
       "id": "p128",
-      "title": "s41746 026 03410 x",
+      "title": "AI可靠性下降中的人工监督：逐笔复核不足，需系统级监测",
       "originalTitle": "s41746 026 03410 x",
-      "author": "nature.com",
-      "publisher": "nature.com",
-      "sourceType": "media",
+      "author": "Nadine Schlicker et al.",
+      "publisher": "npj Digital Medicine",
+      "sourceType": "academic",
       "topics": [
-        "AI组织设计"
+        "AI组织设计",
+        "组织机制",
+        "AI fluency"
       ],
-      "date": "",
+      "date": "2026-11-13",
       "uploadDate": "2026-11-15",
-      "description": "s41746 026 03410 x 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "48名医生的预注册模拟实验显示逐笔专家复核不足以发现跨任务可靠性下降；组织还需趋势监测、暂停/恢复和供应商责任。",
       "summaryFile": "./knowledge/wiki/pdf-source-nature-com-s41746-026-03410-x.md",
       "rawFile": "./knowledge/raw/nature-com-s41746-026-03410-x.pdf",
       "fileName": "nature-com-s41746-026-03410-x.pdf",
       "fileSize": "813762 bytes",
       "tags": [
         "PDF自动入库",
-        "AI组织设计",
-        "nature.com"
+        "人机协作",
+        "人工监督",
+        "系统监测"
       ],
       "originalUrl": "https://www.nature.com/articles/s41746-026-03410-x.pdf"
     },
@@ -7131,27 +7179,28 @@
     },
     {
       "id": "p130",
-      "title": "Wharton–Accenture Agentic Cost Framework 2026",
+      "title": "Wharton–Accenture 智能体成本框架：把监督、返工与变革成本放回账本",
       "originalTitle": "Wharton–Accenture Agentic Cost Framework 2026",
-      "author": "knowledge.wharton.upenn.edu",
-      "publisher": "knowledge.wharton.upenn.edu",
-      "sourceType": "media",
+      "author": "Stefano Puntoni et al.",
+      "publisher": "Wharton AI and Analytics / Accenture",
+      "sourceType": "consulting",
       "topics": [
         "AI组织设计",
-        "变革管理"
+        "变革管理",
+        "People/HR"
       ],
-      "date": "",
+      "date": "2026-11-16",
       "uploadDate": "2026-11-17",
-      "description": "Wharton–Accenture Agentic Cost Framework 2026 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计、变革管理。相关性：待评估：需精读后确定。",
+      "description": "任务级成本框架把人工监督、监测、返工与运行频率纳入总账；培训、流程重构和员工转型未计入，因此估计仍只是成本下限。",
       "summaryFile": "./knowledge/wiki/pdf-source-knowledge-wharton-upenn-edu-wharton-accenture-agentic-cost-framework-2026.md",
       "rawFile": "./knowledge/raw/knowledge-wharton-upenn-edu-wharton-accenture-agentic-cost-framework-2026.pdf",
       "fileName": "knowledge-wharton-upenn-edu-wharton-accenture-agentic-cost-framework-2026.pdf",
       "fileSize": "1226653 bytes",
       "tags": [
         "PDF自动入库",
-        "AI组织设计",
-        "变革管理",
-        "knowledge.wharton.upenn.edu"
+        "智能体成本",
+        "人工监督",
+        "变革成本"
       ],
       "originalUrl": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/11/Wharton%E2%80%93Accenture-Agentic-Cost-Framework-2026.pdf"
     },
@@ -7231,31 +7280,30 @@
     },
     {
       "id": "p134",
-      "title": "2026 HR Operating Model Report",
+      "title": "TSG 2026 HR运营模式调查：团队变瘦不等于角色更清楚",
       "originalTitle": "2026 HR Operating Model Report",
-      "author": "talentstrategygroup.com",
-      "publisher": "talentstrategygroup.com",
-      "sourceType": "media",
+      "author": "Talent Strategy Group",
+      "publisher": "Talent Strategy Group",
+      "sourceType": "consulting",
       "topics": [
-        "AI组织设计",
+        "People/HR",
         "人才发展",
         "变革管理",
         "战略规划"
       ],
-      "date": "",
+      "date": "2026-11-16",
       "uploadDate": "2026-11-18",
-      "description": "2026 HR Operating Model Report 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计、人才发展、变革管理、战略规划。相关性：待评估：需精读后确定。",
+      "description": "HR团队更瘦但角色、决定权和效果测量仍不清楚；AI尚未释放明确容量，不能用预期减编代替员工与业务后效。",
       "summaryFile": "./knowledge/wiki/pdf-source-talentstrategygroup-com-2026-hr-operating-model-report.md",
       "rawFile": "./knowledge/raw/talentstrategygroup-com-2026-hr-operating-model-report.pdf",
       "fileName": "talentstrategygroup-com-2026-hr-operating-model-report.pdf",
       "fileSize": "1324641 bytes",
       "tags": [
         "PDF自动入库",
-        "AI组织设计",
-        "人才发展",
-        "变革管理",
-        "战略规划",
-        "talentstrategygroup.com"
+        "People/HR",
+        "HR运营模式",
+        "决策权",
+        "员工负担"
       ],
       "originalUrl": "https://talentstrategygroup.com/wp-content/uploads/2026/11/2026-HR-Operating-Model-Report.pdf"
     },
@@ -7285,27 +7333,29 @@
     },
     {
       "id": "p136",
-      "title": "5a208f6b en",
+      "title": "OECD／Eurofound AI与工作组织：暴露度不等于采用或因果",
       "originalTitle": "5a208f6b en",
-      "author": "oecd.org",
-      "publisher": "oecd.org",
-      "sourceType": "media",
+      "author": "OECD / Eurofound",
+      "publisher": "OECD / Eurofound",
+      "sourceType": "academic",
       "topics": [
         "AI组织设计",
-        "变革管理"
+        "变革管理",
+        "AI fluency"
       ],
-      "date": "",
+      "date": "2026-11-17",
       "uploadDate": "2026-11-18",
-      "description": "5a208f6b en 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计、变革管理。相关性：待评估：需精读后确定。",
+      "description": "职业AI暴露度与部分任务变化有轻微关联，但与自主权、团队合作没有一致关系；暴露度不等于企业采用或因果。",
       "summaryFile": "./knowledge/wiki/pdf-source-oecd-org-5a208f6b-en.md",
       "rawFile": "./knowledge/raw/oecd-org-5a208f6b-en.pdf",
       "fileName": "oecd-org-5a208f6b-en.pdf",
       "fileSize": "1387203 bytes",
       "tags": [
         "PDF自动入库",
-        "AI组织设计",
-        "变革管理",
-        "oecd.org"
+        "工作组织",
+        "任务组合",
+        "自主权",
+        "团队协作"
       ],
       "originalUrl": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/11/artificial-intelligence-and-work-organisation_9c5e298d/5a208f6b-en.pdf"
     },
@@ -7600,6 +7650,31 @@
         "file.finance.sina.com.cn"
       ],
       "originalUrl": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-11/2026-11-21/12717678.PDF"
+    },
+    {
+      "id": "p149",
+      "title": "Anthropic IPO 自由撰写招股材料：公开资本市场原件锚点",
+      "originalTitle": "ANTLLVfwp 4",
+      "author": "Anthropic",
+      "publisher": "Anthropic / Fidelity public hosting",
+      "sourceType": "regulatory",
+      "topics": [
+        "资本市场披露"
+      ],
+      "date": "2026-11-10",
+      "uploadDate": "2026-11-23",
+      "description": "Anthropic IPO 的 issuer free writing prospectus；已核首页、文件元数据和招股说明页，156页全文未读，只作法定披露原件锚点。",
+      "summaryFile": "./knowledge/wiki/pdf-source-fidelity-com-antllvfwp-4.md",
+      "rawFile": "./knowledge/raw/fidelity-com-antllvfwp-4.pdf",
+      "fileName": "fidelity-com-antllvfwp-4.pdf",
+      "fileSize": "8957005 bytes",
+      "tags": [
+        "PDF自动入库",
+        "资本市场",
+        "IPO",
+        "公司一手披露"
+      ],
+      "originalUrl": "https://www.fidelity.com/bin-public/600_Fidelity_Institutional/fidelityinstitutional/Application/AP154833/documents/clients/ANTLLV/ANTLLVfwp_4.pdf"
     }
   ]
 }
