@@ -49,9 +49,9 @@
 | [Miro协作调查：个人速度不等于完整交付收益](./knowledge/wiki/miro-team-collaboration-evidence-2026.md) | HTML方法与反向结果已读，完整报告、PDF及原始数据未读。跨地区9,500余人自报调查，非因果或净收益估计；不以私有会话比例授权员工监控。 |
 | [复核、角色与上线支持](./knowledge/wiki/review-role-support-2026-10-02.md) | 把责任落实到核实权、任务边界、交接与员工支持，区分招聘信号和运行结果。 |
 | [机会、能力证据与用途边界](./knowledge/wiki/opportunity-evidence-purpose-2026-09-30.md) | 对照学习机会、测评整合与临时角色，保护员工发展和数据用途边界。 |
+| [本地知识库定期 Review（2026-11-23）](./knowledge/wiki/local-knowledge-review-2026-11-23.md) | 本周知识库巡检报告，覆盖141个公开PDF引用、23张近期PDF卡、10张重点卡结构化补齐、信息流与专题连续性、链接、生命周期、重复映射和隐私边界。 |
 | [本地知识库定期 Review（2026-11-09）](./knowledge/wiki/local-knowledge-review-2026-11-09.md) | 本周知识库巡检报告，覆盖113个公开PDF来源、17张新增机制／来源卡、Vistry结构化补齐、信息流与专题连续性、PDF生命周期、重复映射、分享入口和隐私边界。 |
 | [本地知识库定期 Review（2026-11-02）](./knowledge/wiki/local-knowledge-review-2026-11-02.md) | 本周知识库巡检报告，覆盖 109 个公开 PDF 来源、近期信息流与专题连续性、六张新增结构化卡、PDF 来源类型、日期与生命周期债务、重复映射、分享入口和隐私边界。 |
-| [本地知识库定期 Review（2026-10-26）](./knowledge/wiki/local-knowledge-review-2026-10-26.md) | 本周知识库巡检报告，覆盖 103 个公开 PDF 来源、近期信息流与专题连续性、PDF 阅读状态、来源分类、日期与生命周期债务、重复映射、分享入口和隐私边界。 |
 
 ## 当前不可越界的结论
 
