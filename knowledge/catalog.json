@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-11-23",
+  "lastUpdated": "2026-11-24",
   "mode": "karpathy-llm-wiki",
   "schema": "knowledge/CLAUDE.md",
   "categories": {
@@ -7749,6 +7749,30 @@
         "证据方法"
       ],
       "originalUrl": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2026/wp2624.pdf"
+    },
+    {
+      "id": "p153",
+      "title": "688213 20261123 PEAB",
+      "originalTitle": "688213 20261123 PEAB",
+      "author": "big5.sse.com.cn",
+      "publisher": "big5.sse.com.cn",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-24",
+      "description": "688213 20261123 PEAB 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-big5-sse-com-cn-688213-20261123-peab.md",
+      "rawFile": "./knowledge/raw/big5-sse-com-cn-688213-20261123-peab.pdf",
+      "fileName": "big5-sse-com-cn-688213-20261123-peab.pdf",
+      "fileSize": "116582 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "big5.sse.com.cn"
+      ],
+      "originalUrl": "https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-11-23/688213_20261123_PEAB.pdf"
     }
   ]
 }

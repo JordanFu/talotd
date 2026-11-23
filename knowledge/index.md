@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-11-23
+> 最后更新: 2026-11-24
 
 ---
 
@@ -249,6 +249,7 @@
 | [ca the health productivity gap aoda en.7ae5e913bd32](wiki/pdf-source-assets-foleon-com-ca-the-health-productivity-gap-aoda-en-7ae5e913bd32.md) | assets.foleon.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [UK Standard Skills Classification Development Report](wiki/pdf-source-assets-publishing-service-gov-uk-uk-standard-skills-classification-development-report.md) | assets.publishing.service.gov.uk | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [from a welfare state to a working state full report](wiki/pdf-source-assets-publishing-service-gov-uk-from-a-welfare-state-to-a-working-state-full-report.md) | assets.publishing.service.gov.uk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 7 次 |
+| [688213 20261123 PEAB](wiki/pdf-source-big5-sse-com-cn-688213-20261123-peab.md) | big5.sse.com.cn | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 7 次 |
 | [the participation economy](wiki/pdf-source-cdn-openai-com-the-participation-economy.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [OpenAI×Upwork 自由职业研究：AI任务包变大不等于个人薪酬溢价](wiki/pdf-source-cdn-openai-com-openai-upwork-full-report.md) | OpenAI / Upwork | AI组织设计、人才发展、薪酬激励 | 任务包、项目总价、工时和个人收入必须分账 | 局部精读，引用 8 次 |
 | [the ai jobs transition framework report](wiki/pdf-source-cdn-openai-com-the-ai-jobs-transition-framework-report.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
@@ -281,7 +282,7 @@
 | [BCG Executive Perspectives AI First Companies Win the Future Issue1 10June2025](wiki/pdf-source-bcg-bcg-executive-perspectives-ai-first-companies-win-the-future-issue1-10june2025.md) | BCG | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 3 次 |
 | [letter](wiki/pdf-source-mikitabalesni-com-letter.md) | mikitabalesni.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
 | [engineering progression framework v2 0](wiki/pdf-source-monzo-com-engineering-progression-framework-v2-0.md) | monzo.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
-| [GENUSPOWER 21112026190617 ESAR Grant](wiki/pdf-source-nsearchives-nseindia-com-genuspower-21112026190617-esar-grant.md) | nsearchives.nseindia.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
+| [GENUSPOWER 21112026190617 ESAR Grant](wiki/pdf-source-nsearchives-nseindia-com-genuspower-21112026190617-esar-grant.md) | nsearchives.nseindia.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
 | [PAYTM 22082026104603 SEDisclosureDispatchofLettertoShareholders](wiki/pdf-source-nsearchives-nseindia-com-paytm-22082026104603-sedisclosuredispatchoflettertoshareholders.md) | nsearchives.nseindia.com | AI组织设计、绩效管理 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [NIST.AI.800 2.ipd](wiki/pdf-source-nvlpubs-nist-gov-nist-ai-800-2-ipd.md) | nvlpubs.nist.gov | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [ccc89881 22bc 45fd 9550 c4c4faaace84](wiki/pdf-source-paper-people-com-cn-ccc89881-22bc-45fd-9550-c4c4faaace84.md) | paper.people.com.cn | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
@@ -321,7 +322,7 @@
 | [cwa18398 2026](wiki/pdf-source-cencenelec-eu-cwa18398-2026.md) | cencenelec.eu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [draft cwa xxxx e](wiki/pdf-source-cencenelec-eu-draft-cwa-xxxx-e.md) | cencenelec.eu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [the impact of agentic ai on network operations](wiki/pdf-source-cisco-com-the-impact-of-agentic-ai-on-network-operations.md) | cisco.com | AI组织设计、变革管理 | 待评估：需精读后确定 | 已索引待重试，引用 4 次 |
-| [人工智能相关劳动力需求的近期演变：招聘与在职薪酬分开看](wiki/pdf-source-clevelandfed-org-wp2624.md) | Federal Reserve Bank of Cleveland | 岗位需求、薪酬比较与样本边界 | 薪酬高相关；不是采用的因果效果 | 已读正文主要方法结果并形成机制摘要；附录未全部精读，引用 1 次 |
+| [人工智能相关劳动力需求的近期演变：招聘与在职薪酬分开看](wiki/pdf-source-clevelandfed-org-wp2624.md) | Federal Reserve Bank of Cleveland | 岗位需求、薪酬比较与样本边界 | 薪酬高相关；不是采用的因果效果 | 已读正文主要方法结果并形成机制摘要；附录未全部精读，引用 9 次 |
 | [德勤：从试点到规模化——打造AI原生企业](wiki/pdf-source-deloitte-deloitte-cn-building-the-ai-native-enterprise-zh-20261026.md) | Deloitte | AI组织设计 | 六维框架；非组织效果验证 | 已缓存21页，读指定段并核第19页图像；非全文精读 |
 | [us spans and layers for the modern organization 2020](wiki/pdf-source-deloitte-us-spans-and-layers-for-the-modern-organization-2020.md) | Deloitte | AI组织设计、变革管理 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [Experis AI规模化调查：旧岗扩责与新专业角色并存](wiki/pdf-source-experis-com-experis-leadership-playbook-scaling-ai-securely-report.md) | Experis / ManpowerGroup | AI组织设计、人才发展、AI fluency | 管理者自报支持旧岗扩责与新角色并存，实际落地待核 | 局部精读，引用 10 次 |

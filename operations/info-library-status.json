@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T09:24:00.697Z",
+  "generatedAt": "2026-11-23T22:05:15.341Z",
   "module": "info-feed",
   "qualityStatus": "warn",
   "latestDate": "2026-11-23",
@@ -419,7 +419,7 @@
     "digestLatestDate": "2026-11-23",
     "latestScanDate": "2026-11-23",
     "freshnessStatus": "pass",
-    "ageDays": 0,
+    "ageDays": 1,
     "maxAgeDays": 1,
     "latestScanUrl": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-11-23.html",
     "publicMirrorUrl": "https://jordanfu.github.io/org-intelligence-info/",
@@ -929,10 +929,10 @@
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-11-23T01:57:26.145Z",
+    "checkedAt": "2026-11-23T10:14:57.989Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 5864,
-    "externalWarnings": 20,
+    "firstPartyChecked": 5850,
+    "externalWarnings": 21,
     "brokenCount": 0,
     "publicScanBridge": [
       {
@@ -941,9 +941,11 @@
         "url": "https://jordanfu.github.io/org-intelligence-info/daily-log/2026-11-23.html"
       },
       {
-        "ok": true,
-        "status": 200,
-        "url": "https://jordanfu.github.io/org-intelligence-info/"
+        "ok": false,
+        "hardBroken": false,
+        "status": null,
+        "url": "https://jordanfu.github.io/org-intelligence-info/",
+        "reason": "network check warning: This operation was aborted"
       }
     ]
   },

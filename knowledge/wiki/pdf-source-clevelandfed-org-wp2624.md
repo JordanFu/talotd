@@ -51,6 +51,14 @@ status: 已读正文方法与主要结果，形成机制摘要；附录未全部
 ## 被引用位置
 
 - `daily/2026-11-23.md:28`：Kevin Rinz工作论文，正文方法与结果
+- `specials/ai-org-talent-mechanism/2026-11-23/00-overview.md:27`：克利夫兰联储工作论文
+- `specials/ai-org-talent-mechanism/2026-11-23/00-overview.md:175`：Federal Reserve Bank of Cleveland 工作论文
+- `specials/ai-org-talent-mechanism/2026-11-23/02-talent-density.md:307`：日报/周报引用该 PDF。
+- `specials/ai-org-talent-mechanism/2026-11-23/03-job-family-career-architecture.md:36`：克利夫兰联储工作论文
+- `specials/ai-org-talent-mechanism/2026-11-23/03-job-family-career-architecture.md:226`：Artificial Intelligence and the Labor Market
+- `specials/ai-org-talent-mechanism/2026-11-23/04-promotion-system.md:33`：克利夫兰联储工作论文
+- `specials/ai-org-talent-mechanism/2026-11-23/04-promotion-system.md:243`：Federal Reserve Bank of Cleveland 工作论文
+- `specials/ai-org-talent-mechanism/2026-11-23/research-audit.md:31`：Cleveland Fed 工作论文
 
 ## 后续精读任务
 

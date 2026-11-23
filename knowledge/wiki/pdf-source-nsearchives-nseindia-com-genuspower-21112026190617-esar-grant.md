@@ -52,6 +52,11 @@ GENUSPOWER 21112026190617 ESAR Grant 已作为日报/周报 PDF 证据源入库�
 ## 被引用位置
 
 - `daily/2026-11-23.md:63`：公司向印度国家证券交易所提交的授予公告
+- `specials/ai-org-talent-mechanism/2026-11-23/00-overview.md:177`：Genus Power ESAR 授予公告
+- `specials/ai-org-talent-mechanism/2026-11-23/02-talent-density.md:313`：日报/周报引用该 PDF。
+- `specials/ai-org-talent-mechanism/2026-11-23/04-promotion-system.md:26`：Genus Power NSE 公告
+- `specials/ai-org-talent-mechanism/2026-11-23/04-promotion-system.md:241`：Genus Power ESAR 授予公告
+- `specials/ai-org-talent-mechanism/2026-11-23/research-audit.md:33`：Genus Power ESAR
 
 ## 后续精读任务
 
