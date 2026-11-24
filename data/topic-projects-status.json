@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T20:42:29.353Z",
+  "generatedAt": "2026-11-24T23:11:28.785Z",
   "module": "topic-projects",
   "project": {
     "id": "ai-org-talent-mechanism",
@@ -9761,7 +9761,7 @@
   ],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-11-24T20:43:28.856Z",
+    "checkedAt": "2026-11-24T23:12:35.175Z",
     "qualityStatus": "warn",
     "firstPartyChecked": 5911,
     "externalWarnings": 22,
