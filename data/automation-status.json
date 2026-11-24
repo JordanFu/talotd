@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-24T01:08:30.187Z",
+  "generatedAt": "2026-11-24T01:53:38.481Z",
   "module": "automation",
   "qualityStatus": "warn",
   "chains": {
     "infoFeed": {
       "qualityStatus": "warn",
-      "latestDate": "2026-11-23",
+      "latestDate": "2026-11-24",
       "latestCardCount": 9,
-      "newFactCount": 3
+      "newFactCount": 5
     },
     "infoDelivery": {
       "checkedAt": "2026-11-24T01:08:29.506Z",
@@ -68,13 +68,13 @@
     "knowledgeLint": {
       "qualityStatus": "pass",
       "latestCatalogDate": "2026-11-24",
-      "reportCount": 293,
+      "reportCount": 295,
       "privatePathLeakCount": 0
     },
     "linkCheck": {
       "qualityStatus": "warn",
       "brokenCount": 0,
-      "checkedAt": "2026-11-24T01:08:29.463Z"
+      "checkedAt": "2026-11-24T01:53:38.409Z"
     },
     "githubActionsFallback": {
       "status": "pass",

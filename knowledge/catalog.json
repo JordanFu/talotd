@@ -7773,6 +7773,58 @@
         "big5.sse.com.cn"
       ],
       "originalUrl": "https://big5.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-11-23/688213_20261123_PEAB.pdf"
+    },
+    {
+      "id": "p154",
+      "title": "泰晶员工持股草案：内部流动与退出权益分开处理",
+      "originalTitle": "泰晶科技2026年员工持股计划（草案）",
+      "author": "泰晶科技",
+      "publisher": "泰晶科技",
+      "sourceType": "company-primary",
+      "topics": [
+        "员工持股",
+        "内部流动"
+      ],
+      "date": "2026-11-23",
+      "uploadDate": "2026-11-24",
+      "description": "已读参与、出资、解锁和人员变动处置条款；内部变动与退出分开，员工参与前须理解公司裁员等情形的资金和权益处理。草案尚待批准，不证明实际收益与留任效果。",
+      "summaryFile": "./knowledge/wiki/pdf-source-file-finance-sina-com-cn-12717958.md",
+      "rawFile": "./knowledge/raw/file-finance-sina-com-cn-12717958.pdf",
+      "fileName": "file-finance-sina-com-cn-12717958.pdf",
+      "fileSize": "271554 bytes",
+      "tags": [
+        "PDF自动入库",
+        "员工持股",
+        "内部流动",
+        "退出安排"
+      ],
+      "originalUrl": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESH_STOCK/2026/2026-11/2026-11-23/12717958.PDF"
+    },
+    {
+      "id": "p155",
+      "title": "Working with AI：工作重组中的任务、权限与负担转移",
+      "originalTitle": "Working with AI",
+      "author": "Nathan Wilmers、Maxim Massenkoff、Peter McCrory",
+      "publisher": "Anthropic Economics",
+      "sourceType": "industry",
+      "topics": [
+        "工作重设",
+        "员工参与"
+      ],
+      "date": "2026-11-23",
+      "uploadDate": "2026-11-24",
+      "description": "已读正文主要机制、失败案例及方法，形成任务、权限、维护工时与收益共同安排的机制摘要；供应商客户质性自报，不代表普遍员工收益，未重做访谈编码。",
+      "summaryFile": "./knowledge/wiki/pdf-source-assets-claude-com-0cb09418f04d09baf72922e53a3f17383ef838c9.md",
+      "rawFile": "./knowledge/raw/assets-claude-com-0cb09418f04d09baf72922e53a3f17383ef838c9.pdf",
+      "fileName": "assets-claude-com-0cb09418f04d09baf72922e53a3f17383ef838c9.pdf",
+      "fileSize": "1543386 bytes",
+      "tags": [
+        "PDF自动入库",
+        "工作重设",
+        "员工参与",
+        "负担转移"
+      ],
+      "originalUrl": "https://assets.claude.com/0cb09418f04d09baf72922e53a3f17383ef838c9.pdf"
     }
   ]
 }
