@@ -50,6 +50,16 @@ status: 已读正文主要机制、失败案例和方法；形成机制摘要，
 ## 被引用位置
 
 - `daily/2026-11-24.md:80`：原始报告及方法附录
+- `specials/ai-org-talent-mechanism/2026-11-24/00-overview.md:164`：报告 PDF
+- `specials/ai-org-talent-mechanism/2026-11-24/01-flat-organization.md:67`：29页原始报告
+- `specials/ai-org-talent-mechanism/2026-11-24/01-flat-organization.md:267`：Anthropic：Working with AI原始报告与方法附录
+- `specials/ai-org-talent-mechanism/2026-11-24/02-talent-density.md:23`：29页方法报告
+- `specials/ai-org-talent-mechanism/2026-11-24/02-talent-density.md:188`：报告PDF
+- `specials/ai-org-talent-mechanism/2026-11-24/03-job-family-career-architecture.md:23`：29 页方法附录
+- `specials/ai-org-talent-mechanism/2026-11-24/03-job-family-career-architecture.md:179`：方法附录 PDF
+- `specials/ai-org-talent-mechanism/2026-11-24/04-promotion-system.md:35`：方法附录
+- `specials/ai-org-talent-mechanism/2026-11-24/04-promotion-system.md:194`：方法附录
+- `specials/ai-org-talent-mechanism/2026-11-24/research-audit.md:28`：报告 PDF
 
 ## 后续精读任务
 

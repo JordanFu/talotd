@@ -51,6 +51,12 @@ status: 已读参与、出资、解锁与人员变动条款；非全文逐页精
 ## 被引用位置
 
 - `daily/2026-11-24.md:9`：公告原件，第26—27页
+- `specials/ai-org-talent-mechanism/2026-11-24/00-overview.md:166`：公告原件
+- `specials/ai-org-talent-mechanism/2026-11-24/02-talent-density.md:25`：公告原件第26—27页
+- `specials/ai-org-talent-mechanism/2026-11-24/02-talent-density.md:190`：PDF原件
+- `specials/ai-org-talent-mechanism/2026-11-24/03-job-family-career-architecture.md:184`：公告原件
+- `specials/ai-org-talent-mechanism/2026-11-24/04-promotion-system.md:34`：原件
+- `specials/ai-org-talent-mechanism/2026-11-24/04-promotion-system.md:193`：PDF
 
 ## 后续精读任务
 
