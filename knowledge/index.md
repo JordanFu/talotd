@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-11-24
+> 最后更新: 2026-11-25
 
 ---
 
@@ -328,7 +328,7 @@
 | [德勤：从试点到规模化——打造AI原生企业](wiki/pdf-source-deloitte-deloitte-cn-building-the-ai-native-enterprise-zh-20261026.md) | Deloitte | AI组织设计 | 六维框架；非组织效果验证 | 已缓存21页，读指定段并核第19页图像；非全文精读 |
 | [us spans and layers for the modern organization 2020](wiki/pdf-source-deloitte-us-spans-and-layers-for-the-modern-organization-2020.md) | Deloitte | AI组织设计、变革管理 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [Experis AI规模化调查：旧岗扩责与新专业角色并存](wiki/pdf-source-experis-com-experis-leadership-playbook-scaling-ai-securely-report.md) | Experis / ManpowerGroup | AI组织设计、人才发展、AI fluency | 管理者自报支持旧岗扩责与新角色并存，实际落地待核 | 局部精读，引用 10 次 |
-| [EY：Future of Pay Report 2026](wiki/pdf-source-ey-ey-future-of-pay-report-2026.md) | EY | 技能薪酬、生产率锚点、AI 人才溢价 | 强相关：薪酬与激励机制 | 已下载原文，引用 177 次 |
+| [EY：Future of Pay Report 2026](wiki/pdf-source-ey-ey-future-of-pay-report-2026.md) | EY | 技能薪酬、生产率锚点、AI 人才溢价 | 强相关：薪酬与激励机制 | 已下载原文，引用 182 次 |
 | [pip faq 2026](wiki/pdf-source-facs-org-pip-faq-2026.md) | facs.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
 | [美联储 AI与美国经济综述：初级就业信号主要来自被引研究](wiki/pdf-source-federalreserve-gov-2026074pap.md) | Federal Reserve Board | 人才发展、招聘、AI组织设计 | 16%为被引估计，不能当作本论文新测全美降幅 | 局部精读，引用 11 次 |
 | [2026081700406](wiki/pdf-source-geelyauto-com-hk-2026081700406.md) | geelyauto.com.hk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
