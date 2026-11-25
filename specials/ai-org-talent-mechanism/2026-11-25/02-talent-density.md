@@ -1,53 +1,83 @@
 # 2026-11-25｜专题二：高人才密度与复合型人才机制
 
-> 语言规则：正文统一中文主叙事；必要英文术语采用“中文（English）”首次括注，禁止在中文句子中直接夹杂 manager、owner、workflow、rubric 等 ABC 表达。
+> **读者应该带走什么：**能力要求不能只写在招聘页和盘点表里。先确认普通员工能在正常工时中接到有价值的任务、有权限和导师支持、做成之后真的有下一次机会。否则，所谓“选出高密度人才”可能只是在奖励原本就有好项目、好排班和更多可用时间的人。
+>
+> **观察窗：**北京时间 11 月 24 日 18:00 至 11 月 25 日 18:00。只有可核时分与时区的披露进入严格窗口；日历日期级、历史比较和招聘快照分别标注。L2 为可核原文或方法透明的事实，L1 为机构自报、招聘信号或观点；二者都不自动证明员工结果。
 
-> 研究状态记录 / 非决策稿：本文件只用于记录“自动化已触发但尚未完成正式研究”的状态，不能作为 CEO 决策稿。正式日报必须由四课题代理、四渠道代理和主代理交叉证伪后重跑；若未完成，不用通用判断冒充结论。
+## 1. 今日一句话专题判断
 
-## 今日一句话结论
+**无高置信新增结论证明某项制度提升了人才密度；本期最值得试的是把“训练—岗位机会—实际收益”连起来，并把能否参加这件事也当成制度结果。**
 
-今日暂不形成正式结论：当前仅完成兜底记录，缺少当日新增一手事实、反例、薪酬/JD 信号和多源互证，不满足 CEO 决策质量门槛。
+## 2. 今日新增事实与背景材料
 
-## 今日核心判断
-
-1. **不升级为结论。可信度：低。** 现有来源池只能说明这些方向值得追踪，不能证明今日发生了新的岗位、职级、薪酬或组织改革事实。
-2. **必须补齐上下文后再判断。可信度：高。** 正式研究需要还原主体、时间线、改革动作、员工影响、薪酬/激励承接和争议信息，否则只是信息堆叠。
-3. **宁可标注缺口，也不输出空泛总结。可信度：高。** 兜底自动化的价值是提醒缺口与触发重跑，不是生成看似完整但不可追溯的报告。
-
-## 今日背景材料
-
-- 来源池中 IBM、Microsoft、Deloitte、McKinsey、Mercer、EY、Payscale 等材料仍可作为后续研究入口，但今日未完成逐条复核，暂不形成结论。
-- 继续关注 岗位与工作流重设计、智能体治理、基于技能的薪酬 和 薪酬带宽 等方向，但必须用当日新证据验证。
-- 当前最重要的缺口不是“缺文字”，而是缺新增事实、证据解释、反例、落地细节和可追溯来源之间的逻辑链。
-
-## 今日新增证据地图
-
-| 渠道 | 当前状态 | 必须补齐 |
+| 材料和时间 | 可追溯事实 | 证据等级与边界 |
 |---|---|---|
-| 官方/一手 | 待检索 | 公司公告、IR/SEC、官方博客、制度手册、招聘页原文 |
-| 权威媒体与案例 | 待检索 | Reuters/FT/WSJ/咨询报告中的事实、时间线、争议 |
-| 社媒/职场平台 | 待检索 | 只收线索，不当结论；记录关键词和待验证方向 |
-| 招聘 JD 与薪酬 | 待检索 | 头衔、职责、薪资区间、职级、地区、个人贡献者/管理者 边界 |
+| [美国进步中心（CAP）报告](https://www.americanprogress.org/article/how-to-support-health-care-workers-amid-ai-disruption-and-labor-market-changes/)与[1199SEIU基金案例章](https://www.americanprogress.org/article/how-to-support-health-care-workers-amid-ai-disruption-and-labor-market-changes/the-1199seiu-training-and-employment-funds/)，2026-11-24页面日历日期，精确时刻未核 | 今年春、夏、秋访问两位基金工作人员，并用基金提供的参与和绩效数据描述现有机制。基金由劳资共同参与治理，集体协议约定的雇主出资为主要资金来源，提供职业导航、学费支持与岗位衔接，部分条件下补偿学习导致的工时收入损失。 | **L2：日期级新报告、旧机制；L1：基金内部结果。**不能作为当日新实施或严格窗口内首发；不能把基金自报工资变化归因于培训或AI。 |
+| [深圳市人社局职业技能等级认定备案通知](https://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_13077100.html)，北京时间2026-11-24 16:37，早于窗口 | 五家新增备案企业包括比亚迪汽车工业；企业对评价和发证负责，行政部门指导监管，对舞弊可取消备案。 | **L2：政府原文，窗口前背景。**已有当日信息卡；不是新增岗位、已发证或员工已得到项目、涨薪与晋升。 |
+| [哈佛商学院排班研究解读](https://www.library.hbs.edu/working-knowledge/how-fair-work-schedules-drive-trust-and-turnover)，2026-11-05 | 研究先问员工怎样评价班次，再分析一家美国餐饮企业9家店、1,189名员工约16.7万个班次；差班员工在同事好班次时，模型预测双周离职概率为5.10%，同事同样差班时为2.61%。 | **L2：机构解读，窗口外补读。**模型预测不是实际离职比例，未取得论文正文，不把观察性关系或餐饮分配直接外推到研发项目。 |
+| [Indeed／Glassdoor总报酬研究](https://hiringlab.indeed.com/2026/11/18/total-compensation-is-under-pressure/)，2026-11-18；[恒铭达持股计划公开文本](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12719949&stockid=002947)，2026-11-24版，类似条款早于本版 | 美国研究同时观察到雇主医保成本上升、员工满意度走低。恒铭达公开版本区分内部调动、未归属份额收回、转让／卖出与返款；无人承接而择机卖出时采用出资与出售金额孰低的返还办法。 | **L2：补读，不计新制度。**员工评价是选择性样本；恒铭达版本与执行状态需另核。均不能证明留任、特定权益已兑现或员工实际收益。 |
 
-## 线索层
+本专题没有核得能证明“识别、录用、项目、回报、留任”这一整条链运行成功的严格窗内证据；不是说各渠道没有发布与本题相关的内容。
 
-- 追踪 FDE、AI 工作流负责人、智能体运营、AI 治理（AI governance）、基于技能的薪酬等头衔是否形成稳定 岗位族群。
-- 追踪中国公司是否用技能标签、稀缺系数、项目激励替代新增岗位序列。
-- 追踪“执行层角色变宽”与“核心专家能力深化”是否同时出现，而不是只看单向趋势。
+## 3. 今日核心判断
 
-## 待补齐的落地问题
+1. **给培训预算之前，先给学习者时间和工作去向。**可信度：中高（机制可核、后效未证）。证据基础：1199SEIU官方服务入口与CAP报告都能核到职业指引、学习支持和就业服务；部分工资替代有适用条件。为什么重要：报班人数只反映入口，真正短板可能是排不开班、付不起成本、结业无岗位；这些障碍不能算成员工能力不足。
+2. **先核对谁拿到可以展示能力的任务，再比较谁更能承担任务。**可信度：中。证据基础：哈佛商学院解读的排班观察显示绝对条件与相对分配均值得核查；[昨日Anthropic知识卡](../../../knowledge/wiki/pdf-source-assets-claude-com-0cb09418f04d09baf72922e53a3f17383ef838c9.md)保留了资深和初级律师结对修改AI初稿的个案。为什么重要：有过复杂项目与能做好复杂项目不是同一个变量；把既有曝光写成潜力会让同一批人循环获得机会。
+3. **复合能力看“判断、核验、交付和正确求助”，不看一个人吞下多少职责。**可信度：中。证据基础：Anthropic访谈也记录律所冲突检查把复杂判断转给原检查人员后被搁置；[Tribe AI招聘页](https://jobs.ashbyhq.com/tribe-ai/e2c0cb43-1fe5-4d8b-8763-48a15d89f8f5)把人员运营、系统集成与需要外部律师的专业事项并列。为什么重要：在流程边界上可靠升级，通常比把团队支持劳动隐藏在个人职责里更值得作为面试和实战观察点；不据招聘描述判断到岗效果。
+4. **现金、带薪学习、好项目和股权分别记账。**可信度：高（不能替代的边界），具体保留效果未知。证据基础：Indeed／Glassdoor比较的是雇主成本和员工评价的不同口径；恒铭达公告同时存在多条退出处置路径。为什么重要：公司投入较高不代表每位员工用得上福利；一次授予不代表一定拿回本金。薪酬、排班、学习时间或退出安排的悬空，均可能抵销品牌和加价招聘的吸引力。
+5. **可以快给项目与反馈，不必自动快换职级。**可信度：中（设计建议，非已验证政策）。证据基础：深圳备案区分能力评价许可与实际发证；劳资基金案例区分学习、证书和岗位衔接。为什么重要：把工具证书、一次项目和长期承担更大责任混为一谈，会造成错级和内外部不公平；快速晋升需另核持续履职、薪酬比较与跨组校准。
 
-正式重跑必须回答：复合型人才的能力证据是什么、是否有招聘/JD/薪酬信号、是否存在验证和治理能力的溢价、组织如何避免把“少招人”包装成高人才密度。
+## 4. 重点案例事实还原：1199SEIU培训和就业基金
 
-## 来源索引
+- **背景与时间线。** [基金官方沿革](https://www.1199seiubenefits.org/about-1199seiu-funds/who-we-are/)称培训与提升基金于1969年设立，后来发展成多个基金。CAP作者在2026年春、夏、秋访问两位工作人员；其11月24日报告是对长期运行机制的补读，不是新设培训项目。[工会2026年9月14日记录](https://www.1199seiu.org/upholding-the-gold-standard/)称当年谈判保留就业保障与培训基金，并设评议AI影响的委员会；后续委员会决定及影响未核。
+- **动作与机制。** 多家雇主出资、劳资双方参与设计，职业顾问帮在职员工选择路径；课程资助之外，有资格的人可在部分情形得到教材、交通、照护等成本支持，或弥补因上课减少工作时间的薪资。基金官方还给出了职业建议和就业服务入口。报告称新获资格者可获岗位搜寻协助，不等于每位结业者已被录用。
+- **结果与争议。** CAP转述，基金称2024至2025年转入护理岗位的参与者平均工资增加11%。这是成功转入子组的内部比较，未披露用于该数字的样本量、同岗对照、未转岗者损失或调薪分解；不能据此断言平均参训回报，或说AI带来了涨薪、保留和医疗效果。基金与报告关于年度覆盖人数的阈值表述不同，本期不把两者合并计数。集体协议、多雇主规模和外部资金使机制可持续的条件，在普通企业未必具备。
+- **可借鉴点。** 把课程预算、替班工时、带教、员工选择和目标岗位放在一项试点里批准；先让员工知道资格、费用、期限和离岗后如何处理，再看申请、完成、实岗和收益。
+- **不可照搬点。** 不复制雇主缴费比例、不把个人学费或照护资料接入人才盘点、不承诺转岗必加薪，也不把有证照门槛的医疗职业路径直接照搬到互联网项目组。
 
-- [IBM Think 2026 recap](https://www.ibm.com/think/news/think-2026-ai-recap)：智能体式 AI（agentic AI）规模化、Bob 工具、治理与生产率
-- [Microsoft Work Trend Index 2026](https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization)：人机协同能动性（human-agent agency）、运营模式重设计（operating model redesign）
-- [Deloitte：人机协同 AI 运营模式](https://www.deloitte.com/us/en/insights/topics/talent/operating-models-for-humans-ai-agents.html)：84% 的公司尚未围绕 AI 重新设计岗位；智能体运营模式
-- [McKinsey：AI 优先技术人才体系](https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/designing-an-end-to-end-technology-workforce-for-the-ai-first-era)：AI 优先技术人才、深度专家、产品/平台模式
-- [Mercer Global Talent Trends 2026](https://www.mercer.com/about/newsroom/mercer-s-global-talent-trends-2026-report/)：工作重设计、技能作为价值货币、人机协作
-- [EY Future of Pay 2026](https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/newsroom/2026/02/ey-future-of-pay-report-2026.pdf)：AI 技能溢价、基于技能的薪酬、退出条款（sunset clauses）
-- [Payscale 2026 薪酬最佳实践报告](https://www.payscale.com/press-releases/2026-compensation-best-practices-report)：AI 技能薪酬、薪酬公平
-- [CHRO Association 2026 Survey](https://www.chro.org/documents/d/guest/2026_chro_survey_key_findings_p)：中层阻力、CHRO 议题
-- [OD Intelligence Center 知识库](./knowledge/wiki/zhiyinlou-hr-thematic-index-2026-05-13.md)：AI+HR、薪酬福利、组织发展精读池
-- [微信公众号「AI组织进化论」](wechat:AI组织进化论)：国内垂直内容源；作为背景材料和线索源使用，拿到原文链接或多源互证后才能进入结论层
+## 5. Context 层：背景、反例与线索
+
+- **暂不形成结论，但提示我们关注机会的累积偏差。** 当复杂项目只发给已有成功履历的人，团队可能更快交付，也可能断掉继任梯队。先区分任务确有资格门槛、原团队不愿放人，还是未被通知；不要把未获机会当成未达标准。
+- **暂不形成结论，但提示我们关注培训成本有没有转给员工。** [SHRM署名观点](https://www.shrm.org/topics-tools/news/ai-is-cutting-hole-succession-plan-what-you-can-do)提出跟岗、轮岗和导师安排，未给实施结果；结合昨天律所个案，优先保留核验、解释和取舍练习，不以怀旧名义恢复已可删除的机械工作。
+- **暂不形成结论，但提示我们关注“高薪求人”和给内部人才机会是否同时发生。** [ZipRecruiter雇主调查](https://www.ziprecruiter-research.org/economic-insights-research/annual-employer-report-2026)的扩编预期和技能溢价为招聘者自报，2026-11-23为窗口外；不与在职员工实发工资混用。
+- **本轮未升级的线索。** GE HealthCare马德里学徒岗位可定位到[雇主招聘入口](https://careers.gehealthcare.com/global/en/job/GEVGHLGLOBALR4049630EXTERNALENGLOBAL/AI-Transformation-Apprentice-Iberia)，但发布时间时分、完整条款、带薪时间和转正比例未核。社区学院行业媒体页面标题索引日期与正文署名日期不一致，且转述旧研究，不作窗口材料。微信指定账号原文未取得；不将其他社媒当覆盖替代。
+
+## 6. 证据地图
+
+| 渠道 | 本轮核查 | 能说／不能说 |
+|---|---|---|
+| 官方／一手 | 基金官网、工会合同更新、深圳政府通知 | 可确认服务与职责描述；不能确认每位员工实际享有、评价已发证或岗位／薪酬变化。 |
+| 权威媒体／咨询 | Community College Daily专业媒体索引与正文、CAP专业报告 | 区分文章日期与采访口径；二次报道不能为其转述的研究增加独立证据。 |
+| 公司案例／制度 | 恒铭达持股计划；Anthropic历史访谈中的结对与失败反例 | 比较退出算法和工作承接；不推断最新实施或员工后效。 |
+| 学术／专业研究 | 哈佛商学院机构解读、Indeed／Glassdoor原始分析 | 说明相对机会与总报酬的测量边界；不能从相关性推留任因果。 |
+| 招聘JD与薪酬 | Tribe AI招聘意图、GE HealthCare学徒索引 | 公开工作和招聘线索；到岗、实发、培训时数和留任缺。 |
+| 社媒／职场线索 | SHRM署名观点，指定微信原文仍缺 | 供后续验证训练设计；不是企业样本或员工结果。 |
+| 内部信息库／知识库 | [今日信息卡](../../../daily/2026-11-25.md)、[工作日报](../../../daily-report/2026-11-25.md)、[昨日专题](../2026-11-24/02-talent-density.html)、人才密度基线与Anthropic知识卡 | 前序“真实任务＋带教＋授权＋员工收益”机制的去重与校准，不是额外独立证据。 |
+
+## 7. 对我们行动的启发：从识别到保留的落地启发
+
+| 工作环节 | 建议做法与验证 |
+|---|---|
+| 识别／招聘／面试 | 用一项脱敏真实任务，给候选人一致的时限、资料和工具条件；按业务理解、核验质量、异常升级与交接评估。两名评审先独立记录，并回看与入岗90天表现的关系。记录实际录用与保留，避免拿点击量、简历AI关键词和工具熟练度代替结果。 |
+| 内部发现／项目分配 | 在已有项目页公布入选条件、所需工时、导师、可拍板范围、回报和退出方式；允许自荐、延后与候补。按合格、看见、申请、入选、完成、拿到后续机会分账，分岗位核谁被漏掉，不对不参与者作负面画像。 |
+| 授权／学习 | 业务负责人在排班中给新人和导师留时间，删掉同等容量的可延后事务；把核验、向客户解释和例外判断变成循序渐进的真实练习。保留正式复核，不让新人靠越权或隐瞒求助证明能力。 |
+| 薪酬股权／快速晋升 | 项目贡献可及时认可，临时扩责可另议项目回报或津贴；永久等级由持续承担更高责任的证据触发可解释校准。比同岗位、地区的实际录用与在职调整，提供股权处置算例及异议入口，不承诺窗口外晋升或收益。 |
+| 人才盘点／保留 | 盘点记录核实过的工作事实及可被培养的下一项能力；员工可查看、更正。并看项目机会、正常工时、岗位实质调动、实际回报、6个月留任及缺位时谁能接替；不做个人离职预测，不新增聊天监控或填报。 |
+
+**管理层该问：**能否在一个6—8周的项目中给两种不同背景的员工同等资格和支持，并在不挤占休息、不恶化交付质量的前提下，两人都能独立完成预定职责的某一部分？若无人能在正常工时接手，先修排班和原任务减量，再调整人才标准。**不要误读：**培训完成不等于技能迁移，获得任务不等于发挥能力，支付成本不等于员工受益。
+
+## 8. 待验证清单与下一步搜索路径
+
+- **P0｜基金项目结果。** 沿 `1199SEIU TEF nursing 2024 2025 wage gain cohort completion eligible placement retention` 查同一队列的资格、申请、完成、证照、转岗、未转岗和薪酬对照；并核工资替代到底适用何种人群、能不能配到班。未取得台账前不升级11%。
+- **P0｜机会分配与留任。** 沿 `internal project allocation opportunity distribution mentor time promotion retention field study` 查项目申请分母、原团队释放人力、未参与者工时及后续机会；与餐饮样本分开。
+- **P1｜中国转岗与收益。** 查 `深圳 比亚迪 职业技能等级认定 备案 工种 证书 岗位津贴 公开公告`、`恒铭达 002947 员工持股 第二期 股东会 归属 处置公告`；核备案工种、参与及权限和真实兑现，不拿公司新闻替代员工结果。
+- **P1｜招聘与学徒。** 追 GE HealthCare R4049630 的首发、工作样本、学习工时和录用结果；继续找招聘实付与在职调薪的同岗证据。指定「AI组织进化论」仍待原文，无原文不写观点。
+
+## 9. 来源索引与检索留痕
+
+- [CAP报告](https://www.americanprogress.org/article/how-to-support-health-care-workers-amid-ai-disruption-and-labor-market-changes/)、[1199SEIU个案章](https://www.americanprogress.org/article/how-to-support-health-care-workers-amid-ai-disruption-and-labor-market-changes/the-1199seiu-training-and-employment-funds/)、[基金服务](https://www.1199seiubenefits.org/training/)；报告2026-11-24，时分不明；基金官方网站是既有安排入口，L2机制、L1内部成效。
+- [工会谈判回顾](https://www.1199seiu.org/upholding-the-gold-standard/)，2026-09-14，L2代表方公开记录，窗口外。[Anthropic研究方法及案例](https://www.anthropic.com/research/working-with-ai)，2026-11-23，L2研究／L1访谈个案，昨天已经处理。
+- [哈佛商学院](https://www.library.hbs.edu/working-knowledge/how-fair-work-schedules-drive-trust-and-turnover)，2026-11-05，L2机构解读；[Indeed／Glassdoor](https://hiringlab.indeed.com/2026/11/18/total-compensation-is-under-pressure/)，2026-11-18，L2原始分析及自选评价。
+- [深圳备案通知](https://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/content/post_13077100.html)，2026-11-24 16:37北京时间，L2；[恒铭达持股计划](https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12719949&stockid=002947)，2026-11-24版本，L2条款、执行未知。
+- [Tribe AI招聘页](https://jobs.ashbyhq.com/tribe-ai/e2c0cb43-1fe5-4d8b-8763-48a15d89f8f5)，2026-10-08日期级，L1职位与标价；[SHRM署名文章](https://www.shrm.org/topics-tools/news/ai-is-cutting-hole-succession-plan-what-you-can-do)，2026-11-20，L1观点。
+- AnySearch查询：`"Nov 24, 2026" employees employer apprenticeship recruiting training talent AI stock compensation -cyber`（请求 `02cc30d6ac944ee6840bb0d6de897645`）；`"How To Support Health Care Workers Amid AI Disruption and Labor Market Changes" Nov 24 2026 exact time CAP schema`（`74acbe47c5d0472cae085beb9778f3dd`）；`"AI & Transformation Apprentice" "Iberia" GE HealthCare official careers`（`8feb30e737f8421b8b19aada712431f4`）；`"11月25日" "2026年" AI 校招 人才 薪酬 股权 激励 组织 after:2026-11-24 before:2026-11-26`（`5b32a1fc49224b008e9efb58e65ff8d7`，未找到合格同日原文）。先用AnySearch定位，CAP抽取失败后打开机构原页及第三、四章取得正文，直属公开 HTTP 请求返回403，时间仍未升级。

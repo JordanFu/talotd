@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:03:51.194Z",
+  "generatedAt": "2026-11-25T10:11:53.321Z",
   "module": "topic-projects",
   "project": {
     "id": "ai-org-talent-mechanism",
@@ -7,13 +7,12 @@
     "root": "specials/ai-org-talent-mechanism"
   },
   "qualityStatus": "warn",
-  "latestFormalDate": "2026-11-24",
+  "latestFormalDate": "2026-11-25",
   "latestAnyDate": "2026-11-25",
   "today": "2026-11-25",
-  "todayStatus": "fallback",
-  "latestStatus": "fallback",
+  "todayStatus": "formal",
+  "latestStatus": "formal",
   "pendingRerunDates": [
-    "2026-11-25",
     "2026-10-12",
     "2026-09-16",
     "2026-09-11",
@@ -41,8 +40,8 @@
     "2026-05-13"
   ],
   "statusCounts": {
-    "fallback": 26,
-    "formal": 171
+    "formal": 172,
+    "fallback": 25
   },
   "statusDefinitions": {
     "formal": "正式决策稿：00-overview、四专题 Markdown、正式入口均存在，且无兜底/待重跑关键词，质量门禁未明确失败。",
@@ -54,10 +53,10 @@
   "dates": [
     {
       "date": "2026-11-25",
-      "status": "fallback",
-      "isFormal": false,
-      "isFallback": true,
-      "needsRerun": true,
+      "status": "formal",
+      "isFormal": true,
+      "isFallback": false,
+      "needsRerun": false,
       "overview": "specials/ai-org-talent-mechanism/2026-11-25/00-overview.html",
       "overviewMarkdown": "specials/ai-org-talent-mechanism/2026-11-25/00-overview.md",
       "index": "specials/ai-org-talent-mechanism/2026-11-25/index.html",
@@ -97,11 +96,9 @@
       "hasFormalEntry": true,
       "qualityGate": {
         "path": "specials/ai-org-talent-mechanism/quality/2026-11-25.md",
-        "status": "warn-or-unknown"
+        "status": "pass-or-warn"
       },
-      "qualityIssues": [
-        "正文包含兜底/非决策稿/待正式重跑关键词"
-      ]
+      "qualityIssues": []
     },
     {
       "date": "2026-11-24",
@@ -9760,7 +9757,7 @@
   ],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-11-25T10:04:58.442Z",
+    "checkedAt": "2026-11-25T10:12:11.872Z",
     "qualityStatus": "warn",
     "firstPartyChecked": 5917,
     "externalWarnings": 22,
