@@ -48,6 +48,7 @@ status: 两页公告全文已读；执行、员工支持与净负荷结果未核
 ## 被引用位置
 
 - `daily/2026-11-25.md:63`：董事会批准的公司公告原件
+- `specials/ai-org-talent-mechanism/2026-11-25/01-flat-organization.md:91`：昨日报过的重组原件
 
 ## 后续精读任务
 

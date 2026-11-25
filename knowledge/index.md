@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-11-25
+> 最后更新: 2026-11-26
 
 ---
 
@@ -255,7 +255,8 @@
 | [OpenAI×Upwork 自由职业研究：AI任务包变大不等于个人薪酬溢价](wiki/pdf-source-cdn-openai-com-openai-upwork-full-report.md) | OpenAI / Upwork | AI组织设计、人才发展、薪酬激励 | 任务包、项目总价、工时和个人收入必须分账 | 局部精读，引用 8 次 |
 | [the ai jobs transition framework report](wiki/pdf-source-cdn-openai-com-the-ai-jobs-transition-framework-report.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [2026 10 why ai training is driving adoption but not sustainable productivity](wiki/pdf-source-cmr-berkeley-edu-2026-10-why-ai-training-is-driving-adoption-but-not-sustainable-productivity.md) | cmr.berkeley.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
-| [Integrated Research重组：产品取舍、员工收缩与领导交接](wiki/pdf-source-company-announcements-afr-com-6a384727-e78b-11f1-9d83-828b05950d64.md) | Integrated Research | 产品取舍、责任接手与领导交接 | 重组高相关；效果未核 | 两页全文已读并形成摘要，引用 1 次 |
+| [5b098550 e852 11f1 abd1 b224a2fa2751](wiki/pdf-source-company-announcements-afr-com-5b098550-e852-11f1-abd1-b224a2fa2751.md) | company-announcements.afr.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
+| [Integrated Research重组：产品取舍、员工收缩与领导交接](wiki/pdf-source-company-announcements-afr-com-6a384727-e78b-11f1-9d83-828b05950d64.md) | Integrated Research | 产品取舍、责任接手与领导交接 | 重组高相关；效果未核 | 两页全文已读并形成摘要，引用 2 次 |
 | [f232578](wiki/pdf-source-conference-nber-org-f232578.md) | conference.nber.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 24 次 |
 | [NTEN与Bridgespan：非营利组织AI采用与治理调查](wiki/pdf-source-content-nten-org-2026-state-of-nonprofit-ai.md) | NTEN / Bridgespan | 员工支持、学习发展、治理准备 | 强相关：资源有限组织的AI采用与员工支持 | 已下载原文，引用 1 次 |
 | [WP 10 26 Managers as gatekeepers comp 0](wiki/pdf-source-crawford-anu-edu-au-wp-10-26-managers-as-gatekeepers-comp-0.md) | crawford.anu.edu.au | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 9 次 |
@@ -268,7 +269,7 @@
 | [12717873](wiki/pdf-source-file-finance-sina-com-cn-12717873.md) | file.finance.sina.com.cn | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [泰晶员工持股草案：内部流动与退出权益分开处理](wiki/pdf-source-file-finance-sina-com-cn-12717958.md) | 泰晶科技 | 员工出资、内部变动与退出风险 | 激励与流动高相关；草案未实施 | 已读相关条款，非全文逐页精读，引用 7 次 |
 | [12713049](wiki/pdf-source-file-finance-sina-com-cn-12713049.md) | file.finance.sina.com.cn | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
-| [恒铭达第二期持股计划：权益收回、处置与返还金额分开看](wiki/pdf-source-file-finance-sina-com-cn-12719949.md) | 恒铭达 | 员工出资、退出与岗位变动 | 激励高相关；非执行结果 | 已读相关条款，非40页逐页精读，引用 1 次 |
+| [恒铭达第二期持股计划：权益收回、处置与返还金额分开看](wiki/pdf-source-file-finance-sina-com-cn-12719949.md) | 恒铭达 | 员工出资、退出与岗位变动 | 激励高相关；非执行结果 | 已读相关条款，非40页逐页精读，引用 3 次 |
 | [Founder Reports：AI核验劳动与调查分母](wiki/pdf-source-founderreports-com-botsitting-report-2026-fr.md) | Founder Reports | 核验容量与题项分母 | L2自报观察，非净收益或裁员效果 | 缓存20页，核指定段及第10页图像，非全文精读；引用 6 次 |
 | [AIGW：AI 企业劳动力架构九案例](wiki/pdf-source-gaeedu-public-files-s3-us-east-2-amazonaws-com-workforce-architecture-for-enterprise-9-cases.md) | AIGW Policy Observatory | AI组织设计、人才发展、决策权、人员流动 | 强相关：九域劳动力架构与员工净收益诊断 | 已核读关键章节，引用 1 次 |
 | [ai index report 2026 chapter 4 economy](wiki/pdf-source-hai-stanford-edu-ai-index-report-2026-chapter-4-economy.md) | hai.stanford.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |

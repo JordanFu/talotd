@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-11-25",
+  "lastUpdated": "2026-11-26",
   "mode": "karpathy-llm-wiki",
   "schema": "knowledge/CLAUDE.md",
   "categories": {
@@ -7877,6 +7877,30 @@
         "岗位变动"
       ],
       "originalUrl": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-11/2026-11-24/12719949.PDF"
+    },
+    {
+      "id": "p158",
+      "title": "5b098550 e852 11f1 abd1 b224a2fa2751",
+      "originalTitle": "5b098550 e852 11f1 abd1 b224a2fa2751",
+      "author": "company-announcements.afr.com",
+      "publisher": "company-announcements.afr.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-26",
+      "description": "5b098550 e852 11f1 abd1 b224a2fa2751 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-company-announcements-afr-com-5b098550-e852-11f1-abd1-b224a2fa2751.md",
+      "rawFile": "./knowledge/raw/company-announcements-afr-com-5b098550-e852-11f1-abd1-b224a2fa2751.pdf",
+      "fileName": "company-announcements-afr-com-5b098550-e852-11f1-abd1-b224a2fa2751.pdf",
+      "fileSize": "157768 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "company-announcements.afr.com"
+      ],
+      "originalUrl": "https://company-announcements.afr.com/asx/iri/5b098550-e852-11f1-abd1-b224a2fa2751.pdf"
     }
   ]
 }

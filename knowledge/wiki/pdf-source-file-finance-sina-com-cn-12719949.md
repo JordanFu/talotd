@@ -49,6 +49,8 @@ HR、激励与员工关系负责人可把触发情形、已归属和未归属、
 ## 被引用位置
 
 - `daily/2026-11-25.md:114`：公告原件，第33—36页
+- `specials/ai-org-talent-mechanism/2026-11-25/04-promotion-system.md:20`：计划原件，第 33–36 页
+- `specials/ai-org-talent-mechanism/2026-11-25/04-promotion-system.md:79`：公司 PDF
 
 ## 后续精读任务
 
