@@ -7825,6 +7825,58 @@
         "负担转移"
       ],
       "originalUrl": "https://assets.claude.com/0cb09418f04d09baf72922e53a3f17383ef838c9.pdf"
+    },
+    {
+      "id": "p156",
+      "title": "Integrated Research重组：产品取舍、员工收缩与领导交接",
+      "originalTitle": "Company Restructure and Leadership Change",
+      "author": "Integrated Research",
+      "publisher": "Integrated Research",
+      "sourceType": "company-primary",
+      "topics": [
+        "组织重组",
+        "领导交接"
+      ],
+      "date": "2026-11-24",
+      "uploadDate": "2026-11-25",
+      "description": "两页董事会批准公告全文已读，形成产品取舍、责任接手与领导过渡的观察框架；执行、员工支持及净负荷未核，不作为人工智能替岗或提效结果。",
+      "summaryFile": "./knowledge/wiki/pdf-source-company-announcements-afr-com-6a384727-e78b-11f1-9d83-828b05950d64.md",
+      "rawFile": "./knowledge/raw/company-announcements-afr-com-6a384727-e78b-11f1-9d83-828b05950d64.pdf",
+      "fileName": "company-announcements-afr-com-6a384727-e78b-11f1-9d83-828b05950d64.pdf",
+      "fileSize": "111397 bytes",
+      "tags": [
+        "PDF自动入库",
+        "组织重组",
+        "产品取舍",
+        "领导交接"
+      ],
+      "originalUrl": "https://company-announcements.afr.com/asx/iri/6a384727-e78b-11f1-9d83-828b05950d64.pdf"
+    },
+    {
+      "id": "p157",
+      "title": "恒铭达第二期持股计划：权益收回、处置与返还金额分开看",
+      "originalTitle": "恒铭达第二期员工持股计划",
+      "author": "恒铭达",
+      "publisher": "恒铭达",
+      "sourceType": "company-primary",
+      "topics": [
+        "员工持股",
+        "岗位变动"
+      ],
+      "date": "2026-11-24",
+      "uploadDate": "2026-11-25",
+      "description": "已读参与、归属与人员变动条款，分开权益收回、处置和退款路径；相关机制此前已见，批准与执行未核，非40页逐页精读，不作普遍激励或个案法律结论。",
+      "summaryFile": "./knowledge/wiki/pdf-source-file-finance-sina-com-cn-12719949.md",
+      "rawFile": "./knowledge/raw/file-finance-sina-com-cn-12719949.pdf",
+      "fileName": "file-finance-sina-com-cn-12719949.pdf",
+      "fileSize": "294914 bytes",
+      "tags": [
+        "PDF自动入库",
+        "员工持股",
+        "退出风险",
+        "岗位变动"
+      ],
+      "originalUrl": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-11/2026-11-24/12719949.PDF"
     }
   ]
 }
