@@ -44,6 +44,8 @@ status: 已下载，已读相关方法与结果，非逐页精读
 
 - `daily/2026-11-26.md:28`：工作论文原件，方法与表1
 - `daily-report/2026-11-26.md:31`：工作论文32页
+- `specials/ai-org-talent-mechanism/2026-11-26/02-talent-density.md:16`：芝加哥联储工作论文
+- `specials/ai-org-talent-mechanism/2026-11-26/02-talent-density.md:75`：芝加哥联储论文
 
 ## 后续核验
 

@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-11-26
+> 最后更新: 2026-11-27
 
 ---
 
@@ -254,9 +254,9 @@
 | [the participation economy](wiki/pdf-source-cdn-openai-com-the-participation-economy.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [OpenAI×Upwork 自由职业研究：AI任务包变大不等于个人薪酬溢价](wiki/pdf-source-cdn-openai-com-openai-upwork-full-report.md) | OpenAI / Upwork | AI组织设计、人才发展、薪酬激励 | 任务包、项目总价、工时和个人收入必须分账 | 局部精读，引用 8 次 |
 | [the ai jobs transition framework report](wiki/pdf-source-cdn-openai-com-the-ai-jobs-transition-framework-report.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
-| [Burning Glass：职业流动路径与实际入口](wiki/pdf-source-cdn-prod-website-files-com-6b05a952b31a58b635cbb2d6-fewer-rungs-new-bridges-20261124-v16-designe.md) | Burning Glass Institute、RAISE US | 岗位连接与资格门槛 | 机构解读L1；完整方法待核 | 原件已下载未读，引用 1 次 |
+| [Burning Glass：职业流动路径与实际入口](wiki/pdf-source-cdn-prod-website-files-com-6b05a952b31a58b635cbb2d6-fewer-rungs-new-bridges-20261124-v16-designe.md) | Burning Glass Institute、RAISE US | 岗位连接与资格门槛 | 机构解读L1；完整方法待核 | 原件已下载未读，引用 4 次 |
 | [2026 10 why ai training is driving adoption but not sustainable productivity](wiki/pdf-source-cmr-berkeley-edu-2026-10-why-ai-training-is-driving-adoption-but-not-sustainable-productivity.md) | cmr.berkeley.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
-| [5b098550 e852 11f1 abd1 b224a2fa2751](wiki/pdf-source-company-announcements-afr-com-5b098550-e852-11f1-abd1-b224a2fa2751.md) | company-announcements.afr.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 6 次 |
+| [5b098550 e852 11f1 abd1 b224a2fa2751](wiki/pdf-source-company-announcements-afr-com-5b098550-e852-11f1-abd1-b224a2fa2751.md) | company-announcements.afr.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
 | [Integrated Research重组：产品取舍、员工收缩与领导交接](wiki/pdf-source-company-announcements-afr-com-6a384727-e78b-11f1-9d83-828b05950d64.md) | Integrated Research | 产品取舍、责任接手与领导交接 | 重组高相关；效果未核 | 两页全文已读并形成摘要，引用 2 次 |
 | [f232578](wiki/pdf-source-conference-nber-org-f232578.md) | conference.nber.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 24 次 |
 | [NTEN与Bridgespan：非营利组织AI采用与治理调查](wiki/pdf-source-content-nten-org-2026-state-of-nonprofit-ai.md) | NTEN / Bridgespan | 员工支持、学习发展、治理准备 | 强相关：资源有限组织的AI采用与员工支持 | 已下载原文，引用 1 次 |
@@ -284,6 +284,7 @@
 | [s44282 026 00646 6](wiki/pdf-source-link-springer-com-s44282-026-00646-6.md) | link.springer.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [医学教育办公室复苏：单校行动研究中的角色、治理与工作量信用](wiki/pdf-source-link-springer-com-s12909-026-10810-w-reference.md) | BMC Medical Education | 变革管理、人才发展、晋升 | 额外职责需同步定义时间信用、补偿和治理 | 局部精读，引用 3 次 |
 | [护士实践培养：组织支持与时间条件](wiki/pdf-source-link-springer-com-s12912-026-05545-4-reference.md) | BMC Nursing / Springer Nature | 培养工时与支持 | L2质性经验，非效果 | 指定页文本已核，本地下载重试，引用 1 次 |
+| [4391895](wiki/pdf-source-mb-cision-com-4391895.md) | mb.cision.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [BCG：AI-First Organization](wiki/pdf-source-bcg-bcg-ai-first-organization.md) | BCG | AI 默认执行、端到端流程重构、人机编排 | 强相关：组织与岗位重构 | 已下载原文，引用 3 次 |
 | [BCG Executive Perspectives AI First Companies Win the Future Issue1 10June2025](wiki/pdf-source-bcg-bcg-executive-perspectives-ai-first-companies-win-the-future-issue1-10june2025.md) | BCG | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 3 次 |
 | [letter](wiki/pdf-source-mikitabalesni-com-letter.md) | mikitabalesni.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
@@ -327,7 +328,7 @@
 | [gl grp cross thght nss hsw mpd mp humanbydesignthrivingintheaiworkforce 0026](wiki/pdf-source-bsigroup-com-gl-grp-cross-thght-nss-hsw-mpd-mp-humanbydesignthrivingintheaiworkforce-0026.md) | bsigroup.com | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [cwa18398 2026](wiki/pdf-source-cencenelec-eu-cwa18398-2026.md) | cencenelec.eu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [draft cwa xxxx e](wiki/pdf-source-cencenelec-eu-draft-cwa-xxxx-e.md) | cencenelec.eu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
-| [芝加哥联储：人工智能的任务收益与职业体验](wiki/pdf-source-chicagofed-org-wp2026-22.md) | Federal Reserve Bank of Chicago | 任务收益、职业机会与评价体验 | L2样本描述，非因果 | 已下载，方法与结果部分已读，引用 2 次 |
+| [芝加哥联储：人工智能的任务收益与职业体验](wiki/pdf-source-chicagofed-org-wp2026-22.md) | Federal Reserve Bank of Chicago | 任务收益、职业机会与评价体验 | L2样本描述，非因果 | 已下载，方法与结果部分已读，引用 4 次 |
 | [the impact of agentic ai on network operations](wiki/pdf-source-cisco-com-the-impact-of-agentic-ai-on-network-operations.md) | cisco.com | AI组织设计、变革管理 | 待评估：需精读后确定 | 已索引待重试，引用 4 次 |
 | [人工智能相关劳动力需求的近期演变：招聘与在职薪酬分开看](wiki/pdf-source-clevelandfed-org-wp2624.md) | Federal Reserve Bank of Cleveland | 岗位需求、薪酬比较与样本边界 | 薪酬高相关；不是采用的因果效果 | 已读正文主要方法结果并形成机制摘要；附录未全部精读，引用 9 次 |
 | [德勤：从试点到规模化——打造AI原生企业](wiki/pdf-source-deloitte-deloitte-cn-building-the-ai-native-enterprise-zh-20261026.md) | Deloitte | AI组织设计 | 六维框架；非组织效果验证 | 已缓存21页，读指定段并核第19页图像；非全文精读 |
@@ -355,6 +356,7 @@
 | [OECD：Competition in the Age of AI](wiki/pdf-source-oecd-oecd-competition-in-the-age-of-ai.md) | OECD | 组织吸收能力、高技能人才、市场结构、企业边界 | 强相关：组织能力与人才结构 | 已下载原文，引用 2 次 |
 | [c0ffced7 en](wiki/pdf-source-oecd-org-c0ffced7-en.md) | oecd.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
 | [OECD／Eurofound AI与工作组织：暴露度不等于采用或因果](wiki/pdf-source-oecd-org-5a208f6b-en.md) | OECD / Eurofound | AI组织设计、变革管理、AI fluency | 任务、判断权和协作质量必须分开测 | 主要章节已读，引用 6 次 |
+| [fy 2028 2029 biennial review of executive allocations](wiki/pdf-source-opm-gov-fy-2028-2029-biennial-review-of-executive-allocations.md) | opm.gov | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [implementing the revised reduction in force regulations updated workforce reshaping handbook](wiki/pdf-source-opm-gov-implementing-the-revised-reduction-in-force-regulations-updated-workforce-reshaping-hand.md) | opm.gov | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [美国 OPM 高级专业人员绩效最终规则：季度复盘、复核权与集中校准](wiki/pdf-source-opm-gov-issuance-of-final-rule-on-managing-senior-professional-performance.md) | U.S. OPM | 绩效管理、晋升 | 统一校准必须与反馈、复核和例外机制一起设计 | 4页全文已读，引用 12 次 |
 | [orgvue ai research ebook 2026 final](wiki/pdf-source-orgvue-com-orgvue-ai-research-ebook-2026-final.md) | orgvue.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |

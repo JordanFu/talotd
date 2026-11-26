@@ -43,6 +43,9 @@ status: 原件已下载，仅读机构解读，完整方法待核
 ## 被引用位置
 
 - `daily-report/2026-11-26.md:32`：公开PDF
+- `specials/ai-org-talent-mechanism/2026-11-26/03-job-family-career-architecture.md:17`：Burning Glass Institute（BGI）／RAISE US 报告 PDF
+- `specials/ai-org-talent-mechanism/2026-11-26/03-job-family-career-architecture.md:83`：原件 PDF
+- `specials/ai-org-talent-mechanism/2026-11-26/information-candidates.md:10`：研究原件
 
 ## 后续核验
 

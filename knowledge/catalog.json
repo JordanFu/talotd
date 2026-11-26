@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-11-26",
+  "lastUpdated": "2026-11-27",
   "mode": "karpathy-llm-wiki",
   "schema": "knowledge/CLAUDE.md",
   "categories": {
@@ -7951,6 +7951,54 @@
         "证据边界"
       ],
       "originalUrl": "https://www.chicagofed.org/-/media/publications/working-papers/2026/wp2026-22.pdf?sc_lang=en"
+    },
+    {
+      "id": "p161",
+      "title": "4391895",
+      "originalTitle": "4391895",
+      "author": "mb.cision.com",
+      "publisher": "mb.cision.com",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-27",
+      "description": "4391895 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-mb-cision-com-4391895.md",
+      "rawFile": "./knowledge/raw/mb-cision-com-4391895.pdf",
+      "fileName": "mb-cision-com-4391895.pdf",
+      "fileSize": "759382 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "mb.cision.com"
+      ],
+      "originalUrl": "https://mb.cision.com/Main/15253/4429566/4391895.pdf"
+    },
+    {
+      "id": "p162",
+      "title": "fy 2028 2029 biennial review of executive allocations",
+      "originalTitle": "fy 2028 2029 biennial review of executive allocations",
+      "author": "opm.gov",
+      "publisher": "opm.gov",
+      "sourceType": "media",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "",
+      "uploadDate": "2026-11-27",
+      "description": "fy 2028 2029 biennial review of executive allocations 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "summaryFile": "./knowledge/wiki/pdf-source-opm-gov-fy-2028-2029-biennial-review-of-executive-allocations.md",
+      "rawFile": "./knowledge/raw/opm-gov-fy-2028-2029-biennial-review-of-executive-allocations.pdf",
+      "fileName": "opm-gov-fy-2028-2029-biennial-review-of-executive-allocations.pdf",
+      "fileSize": "174302 bytes",
+      "tags": [
+        "PDF自动入库",
+        "AI组织设计",
+        "opm.gov"
+      ],
+      "originalUrl": "https://www.opm.gov/chcoc/latest-memos/fy-2028-2029-biennial-review-of-executive-allocations.pdf"
     }
   ]
 }
