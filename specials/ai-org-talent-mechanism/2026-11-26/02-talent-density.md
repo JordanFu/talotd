@@ -1,53 +1,78 @@
 # 2026-11-26｜专题二：高人才密度与复合型人才机制
 
-> 语言规则：正文统一中文主叙事；必要英文术语采用“中文（English）”首次括注，禁止在中文句子中直接夹杂 manager、owner、workflow、rubric 等 ABC 表达。
+> **读者应该带走什么：**AI接走例行工作后，应该给新人留下可练习判断、又有及时复核的真实任务。不要用“只招资深”回避培养，也不要把难题直接堆给新人，再用结果挑选少数强者。
+>
+> **观察窗口：**北京时间2026-11-25 18:00—2026-11-26 18:00。提交、公开列示、实地采集与制度实施分别记时。L2为可追溯的一手事实或透明研究；单个职位、供应商案例或观点为L1，不作效果结论。
 
-> 研究状态记录 / 非决策稿：本文件只用于记录“自动化已触发但尚未完成正式研究”的状态，不能作为 CEO 决策稿。正式日报必须由四课题代理、四渠道代理和主代理交叉证伪后重跑；若未完成，不用通用判断冒充结论。
+## 1. 今日一句话专题判断
 
-## 今日一句话结论
+**今天有新的证据表明任务描述会改变管理者对新手与AI的分工意愿，但无高置信新增结论表明真实招聘、人才密度或留任已经改善；先为新人留可验证的判断练习，再决定岗位要不要减、是否需要高价外招。**
 
-今日暂不形成正式结论：当前仅完成兜底记录，缺少当日新增一手事实、反例、薪酬/JD 信号和多源互证，不满足 CEO 决策质量门槛。
+## 2. 今日新增事实与背景材料
 
-## 今日核心判断
-
-1. **不升级为结论。可信度：低。** 现有来源池只能说明这些方向值得追踪，不能证明今日发生了新的岗位、职级、薪酬或组织改革事实。
-2. **必须补齐上下文后再判断。可信度：高。** 正式研究需要还原主体、时间线、改革动作、员工影响、薪酬/激励承接和争议信息，否则只是信息堆叠。
-3. **宁可标注缺口，也不输出空泛总结。可信度：高。** 兜底自动化的价值是提醒缺口与触发重跑，不是生成看似完整但不可追溯的报告。
-
-## 今日背景材料
-
-- 来源池中 IBM、Microsoft、Deloitte、McKinsey、Mercer、EY、Payscale 等材料仍可作为后续研究入口，但今日未完成逐条复核，暂不形成结论。
-- 继续关注 岗位与工作流重设计、智能体治理、基于技能的薪酬 和 薪酬带宽 等方向，但必须用当日新证据验证。
-- 当前最重要的缺口不是“缺文字”，而是缺新增事实、证据解释、反例、落地细节和可追溯来源之间的逻辑链。
-
-## 今日新增证据地图
-
-| 渠道 | 当前状态 | 必须补齐 |
+| 时间与材料 | 可追溯事实 | 等级与边界 |
 |---|---|---|
-| 官方/一手 | 待检索 | 公司公告、IR/SEC、官方博客、制度手册、招聘页原文 |
-| 权威媒体与案例 | 待检索 | Reuters/FT/WSJ/咨询报告中的事实、时间线、争议 |
-| 社媒/职场平台 | 待检索 | 只收线索，不当结论；记录关键词和待验证方向 |
-| 招聘 JD 与薪酬 | 待检索 | 头衔、职责、薪资区间、职级、地区、个人贡献者/管理者 边界 |
+| Rost、Stephany [arXiv原文](https://arxiv.org/html/2611.34099v1)、[版本记录](https://arxiv.org/abs/2611.34099)、[11月26日新刊清单](https://arxiv.org/list/econ.GN/new) | 预注册调查实验覆盖德国信息经济与制造业1,435家企业；与标准任务情景相比，复杂任务情景中管理者用AI代替增聘新人的意愿低0.54分，对人工复核的重视高0.15分，均为5点量表。v1提交北京时间11月25日18:05:56；官方新刊列表以11月26日列示，实际首次公开到分钟未核。 | **L2：预印本情景实验。**识别的是任务描述引起的问卷反应之差；不是实际录用、裁员、项目量或人员产出。 |
+| [芝加哥联储工作论文](https://www.chicagofed.org/-/media/publications/working-papers/2026/wp2026-22.pdf?sc_lang=en)，封面2026年10月、[机构页面](https://www.chicagofed.org/publications/working-papers/2026/2026-22)标11月 | 2025年SHED中7,488名劳动者回答工作用AI问题，1,850人报告上月使用；在使用者中，加权81.0%认为省时、51.8%认为提高质量、48.1%认为能改善职业发展。 | **L2：已入当日信息库的旧线补读。**使用者横截面自报，非实测工时、实发工资或晋升；不以比例之差计算“未受益人数”。 |
+| [Burning Glass Institute](https://www.burningglassinstitute.org/research/fewer-rungs-new-bridges)报告门户只标11月；[NPR联播访谈](https://www.knkx.org/2026-11-23/ai-is-making-it-hard-for-young-people-to-find-work-report-says)北京时间11月23日17:42已讨论该报告 | 机构总结识别了98条历史上已出现的美国职业流动路线，并指出一些来源岗位的无学士学位员工在出口岗位会遇到学位要求。共同作者早于窗口已受访；文件名日期不是首发日期。 | **L1：机构摘要及同一研究的作者访谈。**只核公开摘要和访谈，本专题不宣称完整方法已核；路线不是本企业可用岗位，不能作收入或录用承诺。 |
 
-## 线索层
+## 3. 今日核心判断
 
-- 追踪 FDE、AI 工作流负责人、智能体运营、AI 治理（AI governance）、基于技能的薪酬等头衔是否形成稳定 岗位族群。
-- 追踪中国公司是否用技能标签、稀缺系数、项目激励替代新增岗位序列。
-- 追踪“执行层角色变宽”与“核心专家能力深化”是否同时出现，而不是只看单向趋势。
+1. **新人能否创造价值，先看任务，不先看资历。可信度：中高（对情景反应）；真实招聘后效未知。**证据基础：德国预印本保持新人身份与长期增援需求不变，只改变任务描述。为什么重要：整理标准字段和解释一个反常结果不能共用同一用工假设，人才评估要看到判断、核验与交接，而非简历年限替代工作表现。
+2. **保护带教，不意味着恢复无价值的机械工作。可信度：中（设计建议）。**证据基础：德国实验显示复杂任务下管理者更看重人工复核；[昨日复核的1199SEIU案例](https://www.americanprogress.org/article/how-to-support-health-care-workers-amid-ai-disruption-and-labor-market-changes/the-1199seiu-training-and-employment-funds/)显示转岗还要解决时间、费用与入口。为什么重要：初稿可省，独立找依据、解释例外与得到反馈不能顺手省掉；否则团队需要资深签署，却没有机制训练下一位复核者。
+3. **任务更快与职业机会改善要分别核对。可信度：高（测量边界），对实际组织效果暂无结论。**证据基础：芝加哥联储论文分别询问使用者对节时、质量与职业发展的看法；旧线BGI报告另提出了资格门槛。为什么重要：节时若全部换成新增任务，员工可能没有练习或可申请的职位；用量高也不能代理潜力、晋升愿望或留任。
+4. **复合岗位可高薪外招，但不能拿一份招聘标价决定内部人的价值。可信度：高（口径边界），薪酬保留效果未知。**证据基础：[Anthropic Staff+ People Products职位](https://job-boards.greenhouse.io/anthropic/jobs/5119468008)同时要求工程、产品判断及协作，公示年薪40.5万—48.5万美元；它不显示谁入职或获多少股权。为什么重要：公司可区分稀缺市场定价、持续责任、一次项目贡献和保留安排，避免拿海外资深级广告抬高所有岗位准入。
 
-## 待补齐的落地问题
+## 4. 重点案例事实还原：把招新人问题拆成两种任务
 
-正式重跑必须回答：复合型人才的能力证据是什么、是否有招聘/JD/薪酬信号、是否存在验证和治理能力的溢价、组织如何避免把“少招人”包装成高人才密度。
+- **背景与时间线。**德国经济研究机构ZEW第129轮调查在2026年中开展，线上有效收集期为6月19日至8月5日，最晚一份纸质问卷8月26日入录。11月25日提交、26日列示的预印本报告的是当时情景试验，不是今日启动的招聘改革。
+- **动作与机制。**按企业随机分配：705家答复杂任务情景，730家答标准任务情景。两组都假设需要长期增加产能。复杂组所见是解释信息、给个性化建议、处理较复杂客户问题；标准组所见是维护资料、简单检索或重复咨询。问卷随后分别问用AI替代一名新手的意愿和复核AI输出的重要性。
+- **结果。**充分控制模型的替代意愿样本1,210份，估计差异约−0.54；人工复核样本1,205份，差异约+0.15。两者是评分点差，不是百分比。实验前受访者还倾向预期新手和资深招聘均减、新手预期减得更强；该问题没有随机化，且不问变动人数。研究没有证实“经验越深招聘越多”。
+- **争议和阻碍。**样本限德国两类产业且大企业占比偏高；情境未指定工具、工资、质量门槛、合规成本和候选人供给。两组用不同示例描绘复杂度，结果不能解释为“提高所有岗位复杂度必可保岗”。高低组中100人以上企业比例有差异，作者控制规模与行业，并报告多模型稳健性；仍待外部复现。研究未追踪导师、新手质量、客户影响、薪酬或留任。
+- **可借鉴。**下一次审招人需求，先列被自动化的标准步骤、保留的人类判断、异常复核与可交给新人练习的部分，并给出分阶段授权和停止条件；把“资深签署”与“新人能做完整证据核验”同时放进流程。
+- **不可照搬。**不把−0.54挪入中国企业的编制公式，不以增加难度证明年轻人才可贵，不让新人独自处理高风险客户、批准人事决定或在下班后补练习。
 
-## 来源索引
+## 5. Context层：反例、冲突与线索
 
-- [IBM Think 2026 recap](https://www.ibm.com/think/news/think-2026-ai-recap)：智能体式 AI（agentic AI）规模化、Bob 工具、治理与生产率
-- [Microsoft Work Trend Index 2026](https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization)：人机协同能动性（human-agent agency）、运营模式重设计（operating model redesign）
-- [Deloitte：人机协同 AI 运营模式](https://www.deloitte.com/us/en/insights/topics/talent/operating-models-for-humans-ai-agents.html)：84% 的公司尚未围绕 AI 重新设计岗位；智能体运营模式
-- [McKinsey：AI 优先技术人才体系](https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/designing-an-end-to-end-technology-workforce-for-the-ai-first-era)：AI 优先技术人才、深度专家、产品/平台模式
-- [Mercer Global Talent Trends 2026](https://www.mercer.com/about/newsroom/mercer-s-global-talent-trends-2026-report/)：工作重设计、技能作为价值货币、人机协作
-- [EY Future of Pay 2026](https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/newsroom/2026/02/ey-future-of-pay-report-2026.pdf)：AI 技能溢价、基于技能的薪酬、退出条款（sunset clauses）
-- [Payscale 2026 薪酬最佳实践报告](https://www.payscale.com/press-releases/2026-compensation-best-practices-report)：AI 技能薪酬、薪酬公平
-- [CHRO Association 2026 Survey](https://www.chro.org/documents/d/guest/2026_chro_survey_key_findings_p)：中层阻力、CHRO 议题
-- [OD Intelligence Center 知识库](./knowledge/wiki/zhiyinlou-hr-thematic-index-2026-05-13.md)：AI+HR、薪酬福利、组织发展精读池
-- [微信公众号「AI组织进化论」](wechat:AI组织进化论)：国内垂直内容源；作为背景材料和线索源使用，拿到原文链接或多源互证后才能进入结论层
+- **暂不形成结论，但提示我们关注国内招聘转岗的真实去向。**[劳动报](https://www.51ldb.com/shsldb/zc/content/01a2112912b8c001000066d533acd97d.html)11月25日14:18报道供应商讲述匿名通讯集团，称34人从招聘转到人力其他模块。早于窗口，机构、岗位、待遇、正常工时及候选人误筛均未取得独立记录；不能写成34人被裁或已安置。
+- **暂不形成结论，但提示我们关注“人人有助手”之后，谁能清楚拒绝或纠正。**[Interact署名文章](https://www.interactsoftware.com/blog/ai-agents-for-employee-experience/)仅标11月25日，展示按权限提交、预览确认和人工接手。供应商示例不证明实际减负，也不代表员工同意让工具使用痕迹进入盘点。
+- **本轮线索，不计实施。**[CIPD官方议程](https://www.cipd.org/uk/get-involved/events/2026/11/performance-management-how-ai-can-accelerate-human-performance/)列伦敦11月25日18:00—20:00，即北京时间11月26日02:00—04:00的AI绩效案例活动。只确认日程，未得会后材料，不判断采用效果。[Greenhouse招聘文章索引](https://www.greenhouse.com/uk/blog/structured-hiring-enterprises)命中结构化评分建议，正文访问受限、时分未核，不作事实依据。指定「AI组织进化论」微信原文未取得，不写成无更新。
+
+## 6. 证据地图
+
+| 渠道 | 本次证据与用法 |
+|---|---|
+| 官方／一手 | arXiv版本记录与新刊清单确认提交和列示，不是同行评审通过；Anthropic雇主职位确认招聘要求。 |
+| 权威媒体／咨询 | NPR与BGI共同作者原访谈用于确定最迟公开讨论日期，不增加独立研究；劳动报的国内匿名供应商案例保留为L1。 |
+| 公司案例／制度 | 昨日1199SEIU劳资共担机制仅作带薪学习的制度参照；没有以往或新期同比员工结果。 |
+| 学术／研究 | 德国预注册随机情景实验和美国SHED加权自报，各自回答不同问题，不合并成因果。 |
+| 招聘／薪酬 | Anthropic公布标价，强生PL7文本仅作相关职责线索；不跨公司、地区比较实际薪溢。 |
+| 社媒／职场线索 | Interact署名实践说明；CIPD只见会议日程；指定微信原文缺失。 |
+| 内部信息库／知识库 | [当日信息卡](../../../daily/2026-11-26.md)、[工作日报](../../../daily-report/2026-11-26.md)、[芝加哥联储知识卡](../../../knowledge/wiki/pdf-source-chicagofed-org-wp2026-22.md)、[昨日专题二](../2026-11-25/02-talent-density.html)；已入库内容不重复算新增。 |
+
+## 7. 对我们行动的启发：从选人到保留的落地启发
+
+| 环节 | 可小范围试用的制度与观察 |
+|---|---|
+| 识别、评价、招聘与面试 | 给候选人同样工具、资料、时间和纠错机会，用脱敏工作样本让其独立指出错误、写升级理由并解释取舍。两名评审先独立记录，再比90天同类任务的质量、返工与交接；不以调用量、学校或做没做过同一品牌项目代替能力。 |
+| 内部发现、项目分配与授权 | 在既有项目入口列责任、决定权、投入时长、导师与回报，支持自荐、延后和替补。核“符合资格—看见—申请—入选—完成”各环节；先删减旧工作，员工可拒绝额外项目，不把未获机会当不够格。 |
+| 学习与复核 | 新人负责低风险真实任务的证据核验、反例和建议；资深人员负责高风险签署、示范和规律反馈。业务负责人预留双方正常工时。以一项周期性工作试验，记录新人能独立承担的范围、客户质量、返工、异常处理和师徒总工时。 |
+| 薪酬、股权、快速晋升 | 以同地区、同等责任的实际录用和在职回报复核薪酬缺口；一项项目贡献及时认可和结算，持续扩责才走可解释的职级校准。把股权归属、离开情形、可兑现窗口分别告知员工，不替代现金预算和薪酬公平审查。 |
+| 人才盘点与保留 | 汇总任务机会、实际减负、复核质量和可接班人；员工可查询、更正所用工作事实。用分岗位6个月留任、内部流动、现金与股权实际兑现监测，不以个人自动评分做淘汰预判，不采私人记录或新增日报。 |
+
+**管理层该问：**新人今天的签署权限不大，能否在六至八周内，用正常工时完成一项带真实判断的任务并获得下一次机会？如果只有资深者能抽出时间，先修带教排班和职责边界，再谈提高标准或缩减新人编制。**不要误读：**更想找人做复杂任务，不等于企业已经招人；节时感觉，也不等于员工得到了成长机会。
+
+## 8. 待验证清单与下一步搜索路径
+
+- **P0｜意愿能否迁移到行为。**查 `ZEW Rost Stephany 2611.34099 field hiring realized hires task complexity junior replication`，跟踪期刊版本、问卷分组及可比招聘记录；分增量招聘与存量、实录与计划，不用意愿定编。
+- **P0｜带教是否真的可参加。**查 `AI apprenticeship supervised work mentor hours conversion quality`、`企业 新人 轮岗 带教师 工时 转正 AI 招聘`，追正常工时与同一队列的资格、分配、完成、转正、薪酬结果；收入与休息不应被动受损。
+- **P1｜国内转岗与定价。**追匿名案例机构、转岗合同、误筛申诉及员工反馈；核强生与同区域可比岗位的实际数据、股权兑现与离开条款，不拿广告替代员工收益。
+- **P1｜公开培训和绩效工具。**跟CIPD会后材料和指定微信原文，优先查人工更正、试点退出记录和真实效果，缺原文不填补。
+
+## 9. 来源索引与检索留痕
+
+- [Rost、Stephany arXiv原文 §§3、5、7.2](https://arxiv.org/html/2611.34099v1)、[版本记录](https://arxiv.org/abs/2611.34099)、[公告规则](https://info.arxiv.org/help/availability.html)：L2；预注册、样本和效果口径来自同一预印本，未核正式期刊。
+- [芝加哥联储论文](https://www.chicagofed.org/-/media/publications/working-papers/2026/wp2026-22.pdf?sc_lang=en)：2026年10月封面、11月机构页，L2，旧线、表1与方法；[1199SEIU案例](https://www.americanprogress.org/article/how-to-support-health-care-workers-amid-ai-disruption-and-labor-market-changes/the-1199seiu-training-and-employment-funds/)：11月24日报告，L2旧机制，不重计。
+- [BGI原摘要](https://www.burningglassinstitute.org/research/fewer-rungs-new-bridges)、[NPR全文联播](https://www.knkx.org/2026-11-23/ai-is-making-it-hard-for-young-people-to-find-work-report-says)：L1本期读取层级，已于北京时间11月23日被公开讨论；不称当日首发。
+- [Anthropic雇主职位](https://job-boards.greenhouse.io/anthropic/jobs/5119468008)首发未核、L1；[劳动报](https://www.51ldb.com/shsldb/zc/content/01a2112912b8c001000066d533acd97d.html)11月25日14:18、L1；[Interact](https://www.interactsoftware.com/blog/ai-agents-for-employee-experience/)日期级11月25日、L1；[CIPD日程](https://www.cipd.org/uk/get-involved/events/2026/11/performance-management-how-ai-can-accelerate-human-performance/)仅用于预约时间证据。
+- AnySearch：`after:2026-11-25 before:2026-11-27 2026 November 26 AI employee skills apprenticeships people training hiring paid work`（`4efaeb1dca37498db32b7fa654e52063`）、`2026年11月26日 企业 AI 人才 校招 学徒 转岗 培训 员工`（`0ed7b59216c84178b5362a46949a87e8`）、`November 25 2026 November 26 2026 corporate AI talent news hiring bonus employee training mentoring organizational redesign`（`d72d2a2d1b8845fe92cf5334e35b817f`）。多数命中旧稿、聚合和日期不清的招聘；后沿 `Will AI Replace Juniors Rost Stephany`、`AI is making it hard for young people to find work report says` 与 `Performance Management: How AI Can Accelerate Human Performance CIPD` 追到预印本、NPR同源公开访谈、CIPD原议程。
