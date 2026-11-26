@@ -7901,6 +7901,56 @@
         "company-announcements.afr.com"
       ],
       "originalUrl": "https://company-announcements.afr.com/asx/iri/5b098550-e852-11f1-abd1-b224a2fa2751.pdf"
+    },
+    {
+      "id": "p159",
+      "title": "Burning Glass：职业流动路径与实际入口",
+      "originalTitle": "Fewer Rungs, New Bridges",
+      "author": "Harry Carr、Erik Leiden、Dan Restuccia、Matt Sigelman、Mariano Mamertino、Gaius Ahamide",
+      "publisher": "Burning Glass Institute、RAISE US",
+      "sourceType": "academic",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2026-11",
+      "uploadDate": "2026-11-26",
+      "description": "L1：31页原件已下载但未核读；仅读机构公开解读。98条历史职业流动路径不代表人人可进入；资格、练习与过渡收入须另核，薪资差异不作涨薪承诺。",
+      "summaryFile": "./knowledge/wiki/pdf-source-cdn-prod-website-files-com-6b05a952b31a58b635cbb2d6-fewer-rungs-new-bridges-20261124-v16-designe.md",
+      "rawFile": "./knowledge/raw/cdn-prod-website-files-com-6b05a952b31a58b635cbb2d6-fewer-rungs-new-bridges-20261124-v16-designe.pdf",
+      "fileName": "cdn-prod-website-files-com-6b05a952b31a58b635cbb2d6-fewer-rungs-new-bridges-20261124-v16-designe.pdf",
+      "fileSize": "2686788 bytes",
+      "tags": [
+        "PDF自动入库",
+        "岗位架构",
+        "原件未读",
+        "证据边界"
+      ],
+      "originalUrl": "https://cdn.prod.website-files.com/693f37195f5b90aff2c22f0a/6b05a952b31a58b635cbb2d6_Fewer_Rungs_New_Bridges_20261124_v16_-_designed.pdf"
+    },
+    {
+      "id": "p160",
+      "title": "芝加哥联储：人工智能的任务收益与职业体验",
+      "originalTitle": "From Artificial Light to Artificial Intelligence: Technological Change and Worker Perspectives",
+      "author": "Kristen E. Broady",
+      "publisher": "Federal Reserve Bank of Chicago",
+      "sourceType": "academic",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2026-10",
+      "uploadDate": "2026-11-26",
+      "description": "L2：已读相关方法、结果与表1，非32页逐页精读。7488名回答者中1850人使用；即时便利、职业预期与评价体验应分开，横截面自报不识别因果。PDF署10月，机构页标11月。",
+      "summaryFile": "./knowledge/wiki/pdf-source-chicagofed-org-wp2026-22.md",
+      "rawFile": "./knowledge/raw/chicagofed-org-wp2026-22.pdf",
+      "fileName": "chicagofed-org-wp2026-22.pdf",
+      "fileSize": "654045 bytes",
+      "tags": [
+        "PDF自动入库",
+        "员工体验",
+        "方法与结果部分已读",
+        "证据边界"
+      ],
+      "originalUrl": "https://www.chicagofed.org/-/media/publications/working-papers/2026/wp2026-22.pdf?sc_lang=en"
     }
   ]
 }
