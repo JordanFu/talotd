@@ -1,69 +1,52 @@
 ---
-title: fy 2028 2029 biennial review of executive allocations
-source: opm.gov
-date: 待核验
+title: OPM：高级职位名额与现有容量复核
+source: U.S. Office of Personnel Management
+date: 2026-11-25
 ingested: 2026-11-27
 sourceFile: ../raw/opm-gov-fy-2028-2029-biennial-review-of-executive-allocations.pdf
 sourceUrl: https://www.opm.gov/chcoc/latest-memos/fy-2028-2029-biennial-review-of-executive-allocations.pdf
-tags: [AI组织设计]
-status: 已下载原始PDF，已生成结构化初筛卡片
+tags: [AI组织设计, 证据边界]
+status: 已下载，已核读指定范围，完整精读状态另列
 ---
 
-# fy 2028 2029 biennial review of executive allocations
+# OPM：高级职位名额与现有容量复核
 
 ## 一句话判断
 
-fy 2028 2029 biennial review of executive allocations 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。
+职位预算、岗位设定和个人晋升不是同一件事；新增管理岗位应有任务与容量依据。
 
 ## 入库状态
 
-- **来源机构**：opm.gov
-- **来源类型**：media
+- **来源机构**：U.S. Office of Personnel Management
+- **来源类型**：official-primary
 - **原文 URL**：https://www.opm.gov/chcoc/latest-memos/fy-2028-2029-biennial-review-of-executive-allocations.pdf
 - **原始文件**：`knowledge/raw/opm-gov-fy-2028-2029-biennial-review-of-executive-allocations.pdf`
-- **入库日期**：2026-11-27
-- **证据层级**：线索层优先；未完成精读前不进入结论层。
+- **日期口径**：2026-11-25；2026-11-25
+- **证据层级**：L2，仅限指定范围，不将来源权威等同机制有效。
+- **实际阅读**：三页备忘录全文；附件表格未逐项填验。
+- **文件校验**：174302字节，3页，无内嵌脚本；SHA-256为`e93793f2b5b53a1162eb9e2a24ecdd6a9da7c31038348ca5554e5bc75b1f14f3`。
 
-## 核心内容
+## 核心内容与限制
 
-- 当前已完成来源、引用位置和原文状态建档，避免证据散落在日报正文。
-- 尚未完成报告级摘要、关键数据口径和可复用框架抽取。
-- 需要判断它支撑的是组织设计、岗位族群、职级序列、薪酬激励，还是仅作为行业背景。
+SES、SL、ST等特定名额；先核现有容量与预算，再按行动类型交适用论证。程序要求不是已作决定，名额不等于在岗人手，也不是个人晋升标准。
 
-## 你需要关注
+## 对OD与HR的使用
 
-- 先确认发布日期、样本口径、行业范围和是否为一手材料。
-- 区分可形成结论的事实、只能作为 Context 的专家观点，以及仍需追踪的单点线索。
-- 如果报告只提供宏观背景，不应强行写入岗位/薪酬改革结论。
+人力规划与业务可用已有职位及预算记录说明关键任务、存量容量和新增原因，避免重复材料；同时核实际工作负荷，不把未使用名额直接当可立即调动的人或裁减依据。
 
-## 与近期研究主题的相关性
+## 后续核验
 
-| 研究主题 | 相关性 | 可怎么用 |
-|---|---|---|
-| AI 组织改革 | 待验证 | 需精读后判断是否有流程、权责、岗位或治理内容。 |
-| 岗位/职级/族群 | 待验证 | 需确认是否包含岗位结构、职业通道或管理层级变化。 |
-| 薪酬/激励 | 待验证 | 需确认是否包含薪酬带宽、技能溢价、项目激励或稀缺人才定价。 |
+新增是任务变化、已有空缺无法使用，还是职责重复；现有人手是否真的有接手容量？
 
-## 对日报/周报的使用方式
-
-- 先放入知识库线索层，后续按主题补充到日报/周报证据地图。
-- 精读后再决定是否拆成概念页、企业案例页或机制模板。
-
-## 被引用位置
-
-- `specials/ai-org-talent-mechanism/2026-11-26/04-promotion-system.md:20`：FY 2028–2029 双年复核备忘录
-- `specials/ai-org-talent-mechanism/2026-11-26/04-promotion-system.md:81`：备忘录原件
-- `specials/ai-org-talent-mechanism/2026-11-26/information-candidates.md:11`：备忘录
-
-## 后续精读任务
-
-- 核验报告发布日期、作者/机构、样本范围和数据口径。
-- 抽取可支撑“执行层分工合并 vs 核心专家深化”的直接证据。
-- 抽取可支撑“岗位改革背后是激励资源再配置”的薪酬、技能溢价或预算配置证据。
-- 判断是否需要拆成独立概念页、企业案例页或机制模板。
+对象为美国联邦SES、SL、ST等特定名额，不是企业晋升规则。第一步截止2026年12月31日，第二步2027年2月19日；这是程序要求，不是已作出名额决定或人工智能效果。
 
 ## 与已有知识的关联
 
-- [[AI-First 运营模型]]
-- [[技能为本的组织]]
-- [[能力-判断评估矩阵]]
+与本日的岗位职责、任务内容和评价口径比较使用；事实、模型、意图与编辑建议分开，不把不同案例并列当共同因果。既有PDF缓存不计本轮新增下载，下载也不等于阅读全文。
+
+## 被引用位置
+
+- `daily/2026-11-27.md:97`：官方三页备忘录
+- `specials/ai-org-talent-mechanism/2026-11-26/04-promotion-system.md:20`：FY 2028–2029 双年复核备忘录
+- `specials/ai-org-talent-mechanism/2026-11-26/04-promotion-system.md:81`：备忘录原件
+- `specials/ai-org-talent-mechanism/2026-11-26/information-candidates.md:11`：备忘录

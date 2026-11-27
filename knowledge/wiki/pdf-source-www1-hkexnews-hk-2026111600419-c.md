@@ -63,6 +63,7 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 - `specials/ai-org-talent-mechanism/weekly/2026-W47.md:250`：大麦娱乐港交所公告
 - `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:250`：大麦娱乐港交所公告
 - `specials/ai-org-talent-mechanism/weekly/latest.md:250`：大麦娱乐港交所公告
+- `外部公开 PDF 扫描:58`：公开安全引用：港交所公告
 
 ## 后续精读任务
 

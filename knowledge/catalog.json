@@ -7954,51 +7954,153 @@
     },
     {
       "id": "p161",
-      "title": "4391895",
-      "originalTitle": "4391895",
-      "author": "mb.cision.com",
-      "publisher": "mb.cision.com",
-      "sourceType": "media",
+      "title": "Fortum：业务与支持职责调整",
+      "originalTitle": "Fortum：业务与支持职责调整",
+      "author": "Fortum",
+      "publisher": "Fortum",
+      "sourceType": "company-primary",
       "topics": [
         "AI组织设计"
       ],
-      "date": "",
+      "date": "2026-11-26",
       "uploadDate": "2026-11-27",
-      "description": "4391895 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "F1127-03，L2。决定拟于2027年2月1日生效；三业务与三支持职能。财务分部暂不变，战略与创新负责人待招，不据组织图推断层级减少或员工减负。 阅读范围：三页业务公告全文；公告所提履历附件未核。",
       "summaryFile": "./knowledge/wiki/pdf-source-mb-cision-com-4391895.md",
       "rawFile": "./knowledge/raw/mb-cision-com-4391895.pdf",
       "fileName": "mb-cision-com-4391895.pdf",
       "fileSize": "759382 bytes",
       "tags": [
         "PDF自动入库",
-        "AI组织设计",
-        "mb.cision.com"
+        "证据边界",
+        "新披露",
+        "指定范围已读"
       ],
       "originalUrl": "https://mb.cision.com/Main/15253/4429566/4391895.pdf"
     },
     {
       "id": "p162",
-      "title": "fy 2028 2029 biennial review of executive allocations",
-      "originalTitle": "fy 2028 2029 biennial review of executive allocations",
-      "author": "opm.gov",
-      "publisher": "opm.gov",
-      "sourceType": "media",
+      "title": "OPM：高级职位名额与现有容量复核",
+      "originalTitle": "OPM：高级职位名额与现有容量复核",
+      "author": "U.S. Office of Personnel Management",
+      "publisher": "U.S. Office of Personnel Management",
+      "sourceType": "official-primary",
       "topics": [
         "AI组织设计"
       ],
-      "date": "",
+      "date": "2026-11-25",
       "uploadDate": "2026-11-27",
-      "description": "fy 2028 2029 biennial review of executive allocations 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "F1127-05，L2。SES、SL、ST等特定名额；先核现有容量与预算，再按行动类型交适用论证。程序要求不是已作决定，名额不等于在岗人手，也不是个人晋升标准。 阅读范围：三页备忘录全文；附件表格未逐项填验。",
       "summaryFile": "./knowledge/wiki/pdf-source-opm-gov-fy-2028-2029-biennial-review-of-executive-allocations.md",
       "rawFile": "./knowledge/raw/opm-gov-fy-2028-2029-biennial-review-of-executive-allocations.pdf",
       "fileName": "opm-gov-fy-2028-2029-biennial-review-of-executive-allocations.pdf",
       "fileSize": "174302 bytes",
       "tags": [
         "PDF自动入库",
-        "AI组织设计",
-        "opm.gov"
+        "证据边界",
+        "新披露",
+        "指定范围已读"
       ],
       "originalUrl": "https://www.opm.gov/chcoc/latest-memos/fy-2028-2029-biennial-review-of-executive-allocations.pdf"
+    },
+    {
+      "id": "p163",
+      "title": "任务复杂度与初级招聘意愿：随机情景实验",
+      "originalTitle": "任务复杂度与初级招聘意愿：随机情景实验",
+      "author": "Vincent Rost、Fabian Stephany",
+      "publisher": "Vincent Rost、Fabian Stephany",
+      "sourceType": "academic",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2026-11-25",
+      "uploadDate": "2026-11-27",
+      "description": "F1127-02，L2。1435家德国企业管理者随机接收标准或复杂长期任务描述。五点量表替代意愿差0.54点、人工复核重要性差0.15点；随机因果仅覆盖描述对回答，不覆盖真实招聘。大企业过度代表。 阅读范围：HTML方法、情景题、结果和限制；47页PDF未逐页精读。",
+      "summaryFile": "./knowledge/wiki/pdf-source-arxiv-org-2611-34099.md",
+      "rawFile": "./knowledge/raw/arxiv-org-2611-34099.pdf",
+      "fileName": "arxiv-org-2611-34099.pdf",
+      "fileSize": "622665 bytes",
+      "tags": [
+        "PDF自动入库",
+        "证据边界",
+        "新披露",
+        "指定范围已读"
+      ],
+      "originalUrl": "https://arxiv.org/pdf/2611.34099.pdf"
+    },
+    {
+      "id": "p164",
+      "title": "任务扩展实验：工具辅助与独立理解分开看",
+      "originalTitle": "任务扩展实验：工具辅助与独立理解分开看",
+      "author": "Hanna Brosch等、IZA讨论论文",
+      "publisher": "Hanna Brosch等、IZA讨论论文",
+      "sourceType": "academic",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2026-10",
+      "uploadDate": "2026-11-27",
+      "description": "C1127-02，L2。673名德国毕业年级IT学徒、12所职业学校，随机比较ChatGPT Pro及互联网与考试式无互联网条件。超培养范围任务满分比例提高26—31个百分点，即时理解未见下降。非真实长期岗位资格；处理含互联网，不是纯模型效应，也不是节时比例。 阅读范围：导论、实验设计、主要结果及限制；106页含附录未逐页精读。",
+      "summaryFile": "./knowledge/wiki/pdf-source-docs-iza-org-dp18999.md",
+      "rawFile": "./knowledge/raw/docs-iza-org-dp18999.pdf",
+      "fileName": "docs-iza-org-dp18999.pdf",
+      "fileSize": "2885769 bytes",
+      "tags": [
+        "PDF自动入库",
+        "证据边界",
+        "旧研究补读",
+        "指定范围已读"
+      ],
+      "originalUrl": "https://docs.iza.org/dp18999.pdf"
+    },
+    {
+      "id": "p165",
+      "title": "晋升研究：合同工时与绩效比较口径",
+      "originalTitle": "晋升研究：合同工时与绩效比较口径",
+      "author": "Kate Reinmuth、Brian E. Higgins",
+      "publisher": "Kate Reinmuth、Brian E. Higgins",
+      "sourceType": "academic",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2026-11-03",
+      "uploadDate": "2026-11-27",
+      "description": "C1127-01，L2。单一美国律所约1000人、2300个人年、五年记录。个体晋升不可见，汇总率推断规则；动态劳动供给模型模拟替代政策。描述性分解不等于因果，工时不代表全部专业质量，性别中性拟合不能排除其他歧视。 阅读范围：数据、晋升构造、分解、反事实与限制；92页未逐页精读。",
+      "summaryFile": "./knowledge/wiki/pdf-source-higginsbrian-github-io-higgins-reinmuththeleakypipeline.md",
+      "rawFile": "./knowledge/raw/higginsbrian-github-io-higgins-reinmuththeleakypipeline.pdf",
+      "fileName": "higginsbrian-github-io-higgins-reinmuththeleakypipeline.pdf",
+      "fileSize": "2436843 bytes",
+      "tags": [
+        "PDF自动入库",
+        "证据边界",
+        "旧研究补读",
+        "指定范围已读"
+      ],
+      "originalUrl": "https://higginsbrian.github.io/research/Higgins_ReinmuthTheLeakyPipeline.pdf"
+    },
+    {
+      "id": "p166",
+      "title": "可乐丽：客户导向与商业化职能承接",
+      "originalTitle": "可乐丽：客户导向与商业化职能承接",
+      "author": "Kuraray",
+      "publisher": "Kuraray",
+      "sourceType": "company-primary",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2026-11-25",
+      "uploadDate": "2026-11-27",
+      "description": "F1127-04，L2。拟2027年1月1日重组为四个客户及市场导向单元，Nelumbo相关商业化职能从创新中心转入业务单元，部门后续调整另行公布。新财报口径拟首季采用，未验证执行效果，不能归因人工智能或直接称扁平化。 阅读范围：三页公告及组织图文字全文。",
+      "summaryFile": "./knowledge/wiki/pdf-source-kuraray-com-20261125-1en.md",
+      "rawFile": "./knowledge/raw/kuraray-com-20261125-1en.pdf",
+      "fileName": "kuraray-com-20261125-1en.pdf",
+      "fileSize": "120692 bytes",
+      "tags": [
+        "PDF自动入库",
+        "证据边界",
+        "新披露",
+        "指定范围已读"
+      ],
+      "originalUrl": "https://www.kuraray.com/content/dam/kuraray/jp/ja/news/2026/1125/20261125_1en.pdf"
     }
   ]
 }
