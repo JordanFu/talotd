@@ -48,3 +48,11 @@ status: 已下载，已核读指定范围，完整精读状态另列
 
 - `daily/2026-11-27.md:80`：公司三页公告与组织图
 - `daily-report/2026-11-27.md:39`：原件
+- `specials/ai-org-talent-mechanism/2026-11-27/00-overview.md:17`：可乐丽组织变更原件
+- `specials/ai-org-talent-mechanism/2026-11-27/01-flat-organization.md:19`：可乐丽的新组织图
+- `specials/ai-org-talent-mechanism/2026-11-27/01-flat-organization.md:39`：2026-11-25 决定及 2027-01-01 拟生效版图
+- `specials/ai-org-talent-mechanism/2026-11-27/01-flat-organization.md:81`：拟于 2027 生效的组织方案
+- `specials/ai-org-talent-mechanism/2026-11-27/03-job-family-career-architecture.md:15`：公告与组织图
+- `specials/ai-org-talent-mechanism/2026-11-27/03-job-family-career-architecture.md:27`：2027 拟行公告
+- `specials/ai-org-talent-mechanism/2026-11-27/03-job-family-career-architecture.md:82`：可乐丽 2026-11-25 拟行新架构公告及组织图
+- `specials/ai-org-talent-mechanism/2026-11-27/research-audit.md:16`：可乐丽

@@ -525,6 +525,157 @@
 
 ---
 
+## [2026-11-28] ingest | 日报 PDF 证据源自动入库
+- 从 daily、daily-report、specials、analysis 中扫描 PDF URL，按知识库 Raw/Wiki/Catalog 规则自动建档。
+- 本次识别 147 个唯一 PDF 来源：131 个已下载原始 PDF，16 个保留 URL 与引用上下文待重试。
+- 已下载：itb dia 6351 email 0（引用 4 次）
+- 已下载：itb lat dir ai 6454 web 0（引用 17 次）
+- 已下载：GoogleATLASv1（引用 7 次）
+- 已下载：CWA18398 2026（引用 5 次）
+- 已下载：NAB：简化运营模式与 FY27 人员调整公告（引用 1 次）
+- 已下载：2606.17887（引用 3 次）
+- 已下载：2607.28890（引用 1 次）
+- 已下载：2607.28968（引用 1 次）
+- 已下载：2608.05116（引用 2 次）
+- 已下载：2608.06027（引用 1 次）
+- 已下载：2608.13022（引用 2 次）
+- 已下载：2609.32030（引用 2 次）
+- 已下载：2611.25967（引用 2 次）
+- 已下载：任务复杂度与初级招聘意愿：随机情景实验（引用 2 次）
+- 已下载：2026 Work Trend Index Annual Report 050526 7 69fc5b1c4e265（引用 1 次）
+- 已下载：Working with AI：工作重组中的任务、权限与负担转移（引用 11 次）
+- 已下载：ca the health productivity gap aoda en.7ae5e913bd32（引用 1 次）
+- 已下载：UK Standard Skills Classification Development Report（引用 3 次）
+- 已下载：from a welfare state to a working state full report（引用 7 次）
+- 已下载：688213 20261123 PEAB（引用 11 次）
+- 已下载：688325 20261127 C5DO（引用 8 次）
+- 已下载：the participation economy（引用 5 次）
+- 已下载：OpenAI×Upwork 自由职业研究：AI任务包变大不等于个人薪酬溢价（引用 8 次）
+- 已下载：the ai jobs transition framework report（引用 3 次）
+- 已下载：Burning Glass：职业流动路径与实际入口（引用 4 次）
+- 已下载：2026 10 why ai training is driving adoption but not sustainable productivity（引用 2 次）
+- 已下载：5b098550 e852 11f1 abd1 b224a2fa2751（引用 12 次）
+- 已下载：Integrated Research重组：产品取舍、员工收缩与领导交接（引用 2 次）
+- 已下载：f232578（引用 24 次）
+- 已下载：NTEN与Bridgespan：非营利组织AI采用与治理调查（引用 1 次）
+- 已下载：WP 10 26 Managers as gatekeepers comp 0（引用 9 次）
+- 已下载：AFGE v OPM（引用 5 次）
+- 已下载：任务扩展实验：工具辅助与独立理解分开看（引用 8 次）
+- 已下载：Mercer and Eightfold Pay for Skills（引用 2 次）
+- 已下载：new skill price（引用 3 次）
+- 已下载：12713325（引用 2 次）
+- 已下载：12716776（引用 4 次）
+- 已下载：12717678（引用 5 次）
+- 已下载：12717873（引用 1 次）
+- 已下载：泰晶员工持股草案：内部流动与退出权益分开处理（引用 7 次）
+- 已下载：12713049（引用 5 次）
+- 已下载：恒铭达第二期持股计划：权益收回、处置与返还金额分开看（引用 3 次）
+- 已下载：Founder Reports：AI核验劳动与调查分母（引用 6 次）
+- 已下载：AIGW：AI 企业劳动力架构九案例（引用 1 次）
+- 已下载：ai index report 2026 chapter 4 economy（引用 2 次）
+- 已下载：晋升研究：合同工时与绩效比较口径（引用 6 次）
+- 已下载：Q326 Results Call Management Speech（引用 2 次）
+- 待重试：GitLab：2026 SEC 8-K Filing（引用 12 次）
+- 已下载：netflix culture（引用 8 次）
+- 已下载：Wharton / GBK：2026 企业 AI 采用报告（引用 3 次）
+- 已下载：Wharton–Accenture 智能体成本框架：把监督、返工与变革成本放回账本（引用 2 次）
+- 已下载：混合办公与HR集中：地点、汇报和业务服务分开（引用 1 次）
+- 已下载：s12186 026 09401 z（引用 1 次）
+- 已下载：培训与发展障碍：公开PDF缓存，HTML方法已读（引用 1 次）
+- 已下载：医学教育办公室复苏：单校行动研究中的角色、治理与工作量信用（引用 3 次）
+- 待重试：护士实践培养：组织支持与时间条件（引用 1 次）
+- 已下载：Fortum：业务与支持职责调整（引用 3 次）
+- 已下载：BCG：AI-First Organization（引用 3 次）
+- 待重试：BCG Executive Perspectives AI First Companies Win the Future Issue1 10June2025（引用 3 次）
+- 已下载：letter（引用 4 次）
+- 已下载：engineering progression framework v2 0（引用 1 次）
+- 已下载：GENUSPOWER 21112026190617 ESAR Grant（引用 6 次）
+- 已下载：PAYTM 22082026104603 SEDisclosureDispatchofLettertoShareholders（引用 1 次）
+- 已下载：NIST.AI.800 2.ipd（引用 1 次）
+- 已下载：ccc89881 22bc 45fd 9550 c4c4faaace84（引用 1 次）
+- 待重试：6456498（引用 6 次）
+- 待重试：7088100（引用 2 次）
+- 待重试：7520958（引用 2 次）
+- 已下载：H3 AP202606221823746144 1（引用 1 次）
+- 已下载：H3 AP202607011826626755 1（引用 2 次）
+- 已下载：pearson 2026 nine month trading update 22 october 2026（引用 6 次）
+- 已下载：美国注册学徒规则：最低义务改变，不等于员工支持可退出（引用 6 次）
+- 已下载：WEF Artificial Intelligence and the Future of Entry Level Work 2026（引用 6 次）
+- 已下载：WEF：Organizational Transformation in the Age of AI（引用 3 次）
+- 已下载：Anthropic：2026 Agentic Coding Trends Report（引用 1 次）
+- 已下载：Meta 06 30 2026 Exhibit 99 1 FINAL（引用 3 次）
+- 已下载：META Q2 2026 Earnings Call Transcript（引用 2 次）
+- 已下载：AI at Work Executive Summary（引用 2 次）
+- 已下载：Fannie Mae：LL-2026-04 AI/ML 治理要求（引用 13 次）
+- 已下载：SMG Heart of Work Key Findings（引用 3 次）
+- 已下载：6277baa6 0f7b 4fbe 9c7c ceb3e0e9b325 flatland（引用 16 次）
+- 已下载：万通发展：期权授予与实际兑现的边界（引用 4 次）
+- 已下载：47382ae415a209fd161bc19a1f9b3704（引用 1 次）
+- 已下载：gov.uscourts.cand.474095.38.0（引用 1 次）
+- 已下载：gov.uscourts.cand.474095.59.0（引用 4 次）
+- 已下载：interviewing at google deepmind（引用 10 次）
+- 已下载：TSG 2026 HR运营模式调查：团队变瘦不等于角色更清楚（引用 2 次）
+- 待重试：everyone gets the same models the edge is your workforce（引用 7 次）
+- 待重试：BCG：AI Radar 2026（引用 2 次）
+- 待重试：BCG + MIT Sloan：The Emerging Agentic Enterprise（引用 8 次）
+- 待重试：2026 global investor survey jul 2026（引用 1 次）
+- 已下载：Anthropic：Employment at Anthropic（引用 1 次）
+- 已下载：Claude Opus 5 System Card（引用 4 次）
+- 已下载：AIHR：HR Priorities 2026 Report（引用 1 次）
+- 已下载：Whitepaper Impact of AI on U.S. Labor Market 2026 R2 1（引用 18 次）
+- 已下载：BHEF：AI软件工程能力图与培养边界（引用 6 次）
+- 已下载：quarterly update presentation 1q 2026（引用 14 次）
+- 已下载：gl grp cross thght nss hsw mpd mp humanbydesignthrivingintheaiworkforce 0026（引用 3 次）
+- 已下载：cwa18398 2026（引用 5 次）
+- 已下载：draft cwa xxxx e（引用 2 次）
+- 已下载：芝加哥联储：人工智能的任务收益与职业体验（引用 4 次）
+- 待重试：the impact of agentic ai on network operations（引用 4 次）
+- 已下载：人工智能相关劳动力需求的近期演变：招聘与在职薪酬分开看（引用 9 次）
+- 已下载：德勤：从试点到规模化——打造AI原生企业（引用 4 次）
+- 已下载：us spans and layers for the modern organization 2020（引用 3 次）
+- 已下载：Experis AI规模化调查：旧岗扩责与新专业角色并存（引用 10 次）
+- 已下载：EY：Future of Pay Report 2026（引用 182 次）
+- 已下载：pip faq 2026（引用 6 次）
+- 已下载：美联储 AI与美国经济综述：初级就业信号主要来自被引研究（引用 9 次）
+- 已下载：2026081700406（引用 1 次）
+- 已下载：12 087 bc50bde2 3016 457a 9bee dc988cb1056b（引用 8 次）
+- 已下载：26 090 96f92aa0 37d9 4789 beaa 5c0cb87a4032（引用 5 次）
+- 待重试：HiBob 2026 report AI maturity benchmarks and where the workforce stand（引用 5 次）
+- 已下载：2026090400829 c（引用 3 次）
+- 已下载：cesifo1 wp12373（引用 3 次）
+- 已下载：ILO Brief ASEAN AI v11 clean（引用 2 次）
+- 已下载：ILO中国企业AI研究：指定页已读，非员工后效验证（引用 8 次）
+- 已下载：0000050863 26 000011（引用 2 次）
+- 已下载：2Q26 earnings transcript（引用 9 次）
+- 已下载：20251126 1en（引用 4 次）
+- 已下载：可乐丽：客户导向与商业化职能承接（引用 10 次）
+- 待重试：McKinsey：The State of Organizations 2026（引用 1 次）
+- 待重试：DWN.jsp（引用 1 次）
+- 待重试：DWN.jsp（引用 1 次）
+- 已下载：绩效预测论文：模型分数不等于用工依据（引用 1 次）
+- 已下载：AI可靠性下降中的人工监督：逐笔复核不足，需系统级监测（引用 4 次）
+- 已下载：news202600107（引用 8 次）
+- 已下载：OECD：Competition in the Age of AI（引用 2 次）
+- 已下载：c0ffced7 en（引用 4 次）
+- 已下载：OECD／Eurofound AI与工作组织：暴露度不等于采用或因果（引用 6 次）
+- 已下载：OPM：高级职位名额与现有容量复核（引用 8 次）
+- 已下载：implementing the revised reduction in force regulations updated workforce reshaping handbook（引用 5 次）
+- 已下载：美国 OPM 高级专业人员绩效最终规则：季度复盘、复核权与集中校准（引用 12 次）
+- 已下载：orgvue ai research ebook 2026 final（引用 1 次）
+- 已下载：Payscale：2026 Compensation Best Practices Report（引用 20 次）
+- 已下载：For Every Future Report Pearson 1（引用 3 次）
+- 已下载：2026 global ai jobs barometer full report（引用 1 次）
+- 已下载：2026 global ai jobs barometer global findings（引用 2 次）
+- 已下载：monitoring early effects of ai on the labour market（引用 10 次）
+- 已下载：press release rws establishes symbiosis ai living lab to accelerate technology adoption and workfor（引用 2 次）
+- 已下载：20260828（引用 9 次）
+- 已下载：SKT智能体治理：真人责任、停止与退出（引用 16 次）
+- 待重试：it job family career ladder matrix software engineer（引用 1 次）
+- 已下载：Vistry区域重组：经营单元合并不等于管理层级减少（引用 1 次）
+- 已下载：investor day presentation 2026（引用 16 次）
+- 已下载：2026072000261（引用 1 次）
+- 已下载：2026111600419 c（引用 10 次）
+
 ## [2026-11-27] ingest | 日报 PDF 证据源自动入库
 - 从 daily、daily-report、specials、analysis 中扫描 PDF URL，按知识库 Raw/Wiki/Catalog 规则自动建档。
 - 本次识别 144 个唯一 PDF 来源：128 个已下载原始 PDF，16 个保留 URL 与引用上下文待重试。

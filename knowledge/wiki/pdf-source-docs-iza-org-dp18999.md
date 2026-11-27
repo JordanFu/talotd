@@ -48,3 +48,9 @@ status: 已下载，已核读指定范围，完整精读状态另列
 
 - `daily/2026-11-27.md:114`：研究原件与限制
 - `daily-report/2026-11-27.md:41`：106页原件
+- `specials/ai-org-talent-mechanism/2026-11-27/00-overview.md:15`：IZA 原文
+- `specials/ai-org-talent-mechanism/2026-11-27/02-talent-density.md:18`：德国学徒任务能力实验
+- `specials/ai-org-talent-mechanism/2026-11-27/02-talent-density.md:79`：德国劳动经济研究所（IZA）论文第18999号
+- `specials/ai-org-talent-mechanism/2026-11-27/03-job-family-career-architecture.md:38`：IZA 讨论论文
+- `specials/ai-org-talent-mechanism/2026-11-27/03-job-family-career-architecture.md:85`：IZA 讨论论文 DP18999
+- `specials/ai-org-talent-mechanism/2026-11-27/research-audit.md:16`：IZA 原件

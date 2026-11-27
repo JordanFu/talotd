@@ -1,7 +1,7 @@
 # AI 组织设计知识库 — 索引
 
 > 按 Karpathy LLM Wiki 模式维护 · LLM 负责更新 · 人类负责审核
-> 最后更新: 2026-11-27
+> 最后更新: 2026-11-28
 
 ---
 
@@ -252,6 +252,7 @@
 | [UK Standard Skills Classification Development Report](wiki/pdf-source-assets-publishing-service-gov-uk-uk-standard-skills-classification-development-report.md) | assets.publishing.service.gov.uk | AI组织设计、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [from a welfare state to a working state full report](wiki/pdf-source-assets-publishing-service-gov-uk-from-a-welfare-state-to-a-working-state-full-report.md) | assets.publishing.service.gov.uk | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 7 次 |
 | [688213 20261123 PEAB](wiki/pdf-source-big5-sse-com-cn-688213-20261123-peab.md) | big5.sse.com.cn | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 11 次 |
+| [688325 20261127 C5DO](wiki/pdf-source-big5-sse-com-cn-688325-20261127-c5do.md) | big5.sse.com.cn | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
 | [the participation economy](wiki/pdf-source-cdn-openai-com-the-participation-economy.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
 | [OpenAI×Upwork 自由职业研究：AI任务包变大不等于个人薪酬溢价](wiki/pdf-source-cdn-openai-com-openai-upwork-full-report.md) | OpenAI / Upwork | AI组织设计、人才发展、薪酬激励 | 任务包、项目总价、工时和个人收入必须分账 | 局部精读，引用 8 次 |
 | [the ai jobs transition framework report](wiki/pdf-source-cdn-openai-com-the-ai-jobs-transition-framework-report.md) | cdn.openai.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
@@ -263,7 +264,7 @@
 | [NTEN与Bridgespan：非营利组织AI采用与治理调查](wiki/pdf-source-content-nten-org-2026-state-of-nonprofit-ai.md) | NTEN / Bridgespan | 员工支持、学习发展、治理准备 | 强相关：资源有限组织的AI采用与员工支持 | 已下载原文，引用 1 次 |
 | [WP 10 26 Managers as gatekeepers comp 0](wiki/pdf-source-crawford-anu-edu-au-wp-10-26-managers-as-gatekeepers-comp-0.md) | crawford.anu.edu.au | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 9 次 |
 | [AFGE v OPM](wiki/pdf-source-democracyforward-org-afge-v-opm.md) | democracyforward.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 5 次 |
-| [任务扩展实验：工具辅助与独立理解分开看](wiki/pdf-source-docs-iza-org-dp18999.md) | Hanna Brosch等、IZA讨论论文 | 把任务辅助表现与岗位独立责任分开，能比单看成品更具体地发现带教需要。 | L2；旧研究，非普遍成效 | 导论、实验设计、主要结果及限制；106页含附录未逐页精读，引用 2 次 |
+| [任务扩展实验：工具辅助与独立理解分开看](wiki/pdf-source-docs-iza-org-dp18999.md) | Hanna Brosch等、IZA讨论论文 | 把任务辅助表现与岗位独立责任分开，能比单看成品更具体地发现带教需要。 | L2；旧研究，非普遍成效 | 导论、实验设计、主要结果及限制；106页含附录未逐页精读，引用 8 次 |
 | [Mercer and Eightfold Pay for Skills](wiki/pdf-source-eightfold-ai-mercer-and-eightfold-pay-for-skills.md) | eightfold.ai | AI组织设计、绩效管理、人才发展 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [new skill price](wiki/pdf-source-elmerli-github-io-new-skill-price.md) | elmerli.github.io | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 3 次 |
 | [12713325](wiki/pdf-source-file-finance-sina-com-cn-12713325.md) | file.finance.sina.com.cn | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
@@ -276,7 +277,7 @@
 | [Founder Reports：AI核验劳动与调查分母](wiki/pdf-source-founderreports-com-botsitting-report-2026-fr.md) | Founder Reports | 核验容量与题项分母 | L2自报观察，非净收益或裁员效果 | 缓存20页，核指定段及第10页图像，非全文精读；引用 6 次 |
 | [AIGW：AI 企业劳动力架构九案例](wiki/pdf-source-gaeedu-public-files-s3-us-east-2-amazonaws-com-workforce-architecture-for-enterprise-9-cases.md) | AIGW Policy Observatory | AI组织设计、人才发展、决策权、人员流动 | 强相关：九域劳动力架构与员工净收益诊断 | 已核读关键章节，引用 1 次 |
 | [ai index report 2026 chapter 4 economy](wiki/pdf-source-hai-stanford-edu-ai-index-report-2026-chapter-4-economy.md) | hai.stanford.edu | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
-| [晋升研究：合同工时与绩效比较口径](wiki/pdf-source-higginsbrian-github-io-higgins-reinmuththeleakypipeline.md) | Kate Reinmuth、Brian E. Higgins | 同一个指标不一定给不同约定工时的人相同机会；需同时考虑贡献、质量和下一岗位责任。 | L2；旧研究，非普遍成效 | 数据、晋升构造、分解、反事实与限制；92页未逐页精读，引用 2 次 |
+| [晋升研究：合同工时与绩效比较口径](wiki/pdf-source-higginsbrian-github-io-higgins-reinmuththeleakypipeline.md) | Kate Reinmuth、Brian E. Higgins | 同一个指标不一定给不同约定工时的人相同机会；需同时考虑贡献、质量和下一岗位责任。 | L2；旧研究，非普遍成效 | 数据、晋升构造、分解、反事实与限制；92页未逐页精读，引用 6 次 |
 | [Q326 Results Call Management Speech](wiki/pdf-source-home-barclays-q326-results-call-management-speech.md) | home.barclays | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [GitLab：2026 SEC 8-K Filing](wiki/pdf-source-gitlab-gitlab-2026-sec-8-k-filing.md) | GitLab | 官方披露、组织压缩、AI 智能体优先（AI-agent-first） 待核验 | 中高相关：公司案例核验 | 已索引待重试，引用 12 次 |
 | [netflix culture](wiki/pdf-source-jobs-netflix-com-netflix-culture.md) | jobs.netflix.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
@@ -350,7 +351,8 @@
 | [Artificial intelligence adoption in Chinese enterprises CH](wiki/pdf-source-ilo-org-artificial-intelligence-adoption-in-chinese-enterprises-ch.md) | ilo.org | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 8 次 |
 | [0000050863 26 000011](wiki/pdf-source-intc-com-0000050863-26-000011.md) | intc.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [2Q26 earnings transcript](wiki/pdf-source-jpmorganchase-com-2q26-earnings-transcript.md) | jpmorganchase.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 9 次 |
-| [可乐丽：客户导向与商业化职能承接](wiki/pdf-source-kuraray-com-20261125-1en.md) | Kuraray | 从技术导向转向客户导向，不只是改事业名称，还要说明业务开发由谁负责。 | L2；披露事实，非普遍成效 | 三页公告及组织图文字全文，引用 2 次 |
+| [20251126 1en](wiki/pdf-source-kuraray-com-20251126-1en.md) | kuraray.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 4 次 |
+| [可乐丽：客户导向与商业化职能承接](wiki/pdf-source-kuraray-com-20261125-1en.md) | Kuraray | 从技术导向转向客户导向，不只是改事业名称，还要说明业务开发由谁负责。 | L2；披露事实，非普遍成效 | 三页公告及组织图文字全文，引用 10 次 |
 | [McKinsey：The State of Organizations 2026](wiki/pdf-source-mckinsey-company-mckinsey-the-state-of-organizations-2026.md) | McKinsey & Company | AI组织设计、人才发展、变革管理 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
 | [DWN.jsp](wiki/pdf-source-molit-go-kr-dwn-jsp.md) | molit.go.kr | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
 | [DWN.jsp](wiki/pdf-source-molit-go-kr-dwn-jsp.md) | molit.go.kr | AI组织设计 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |
@@ -369,6 +371,7 @@
 | [2026 global ai jobs barometer full report](wiki/pdf-source-pwc-com-2026-global-ai-jobs-barometer-full-report.md) | pwc.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 1 次 |
 | [2026 global ai jobs barometer global findings](wiki/pdf-source-pwc-com-2026-global-ai-jobs-barometer-global-findings.md) | pwc.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [monitoring early effects of ai on the labour market](wiki/pdf-source-rba-gov-au-monitoring-early-effects-of-ai-on-the-labour-market.md) | rba.gov.au | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 10 次 |
+| [press release rws establishes symbiosis ai living lab to accelerate technology adoption and workfor](wiki/pdf-source-rwsentosa-com-press-release-rws-establishes-symbiosis-ai-living-lab-to-accelerate-technology-ado.md) | rwsentosa.com | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 2 次 |
 | [20260828](wiki/pdf-source-scsk-jp-20260828.md) | scsk.jp | AI组织设计 | 待评估：需精读后确定 | 已下载原文，引用 9 次 |
 | [SKT智能体治理：真人责任、停止与退出](wiki/pdf-source-sktelecom-com-skt-ai-governance-report.md) | SK Telecom | 智能体治理与评价用途 | L2公司披露，非后效 | 40页缓存，25—30页已核，引用 16 次 |
 | [it job family career ladder matrix software engineer](wiki/pdf-source-umassmed-edu-it-job-family-career-ladder-matrix-software-engineer.md) | umassmed.edu | AI组织设计、绩效管理 | 待评估：需精读后确定 | 已索引待重试，引用 1 次 |

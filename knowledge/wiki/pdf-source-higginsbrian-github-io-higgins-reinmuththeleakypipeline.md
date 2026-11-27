@@ -48,3 +48,7 @@ status: 已下载，已核读指定范围，完整精读状态另列
 
 - `daily/2026-11-27.md:46`：作者原文，数据与反事实章节
 - `daily-report/2026-11-27.md:41`：92页原件
+- `specials/ai-org-talent-mechanism/2026-11-27/00-overview.md:18`：律所研究原件
+- `specials/ai-org-talent-mechanism/2026-11-27/04-promotion-system.md:35`：Higgins 与 Reinmuth 论文
+- `specials/ai-org-talent-mechanism/2026-11-27/04-promotion-system.md:78`：美国律所研究｜The Leaky Pipeline
+- `specials/ai-org-talent-mechanism/2026-11-27/research-audit.md:16`：律所研究
