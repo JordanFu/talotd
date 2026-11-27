@@ -58,6 +58,10 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 - `specials/ai-org-talent-mechanism/2026-11-23/04-promotion-system.md:236`：思特威上交所公告
 - `specials/ai-org-talent-mechanism/2026-11-23/information-candidates.md:16`：上交所公告 PDF
 - `specials/ai-org-talent-mechanism/2026-11-23/research-audit.md:27`：思特威上交所公告
+- `specials/ai-org-talent-mechanism/weekly/2026-W48-detailed.md:249`：思特威上交所公告
+- `specials/ai-org-talent-mechanism/weekly/2026-W48.md:249`：思特威上交所公告
+- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:249`：思特威上交所公告
+- `specials/ai-org-talent-mechanism/weekly/latest.md:249`：思特威上交所公告
 
 ## 后续精读任务
 

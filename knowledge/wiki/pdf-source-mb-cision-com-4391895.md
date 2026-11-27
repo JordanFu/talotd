@@ -46,5 +46,6 @@ OD与经营负责人可分别核业务职责、支持服务和财务口径，明
 
 ## 被引用位置
 
-- `daily/2026-11-27.md`：F1127-03。
-- `daily-report/2026-11-27.md`：阅读范围及限制。
+- `daily/2026-11-27.md:63`：公司发行原件
+- `specials/ai-org-talent-mechanism/2026-11-26/information-candidates.md:7`：同源发行 PDF
+- `specials/ai-org-talent-mechanism/2026-11-26/research-audit.md:11`：Fortum 交易所公告

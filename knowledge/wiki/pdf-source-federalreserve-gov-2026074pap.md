@@ -46,8 +46,6 @@ status: 摘要及第6至7节已读；其余宏观章节未逐页精读
 - `specials/ai-org-talent-mechanism/2026-11-14/research-audit.md:41`：[美联储工作论文](#page=14)综述既有研究；16%不是本论文新测全美降幅，也不能排除利率、疫情后招聘回调等解释。
 - `specials/ai-org-talent-mechanism/weekly/2026-W47-detailed.md:272`：7. [美联储 Jefferson 演讲](https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm)、[美联储工作论文](#page=14)、[RBA 研究](https://www.rba.gov.au/publications/insights/australian-
 - `specials/ai-org-talent-mechanism/weekly/2026-W47.md:272`：7. [美联储 Jefferson 演讲](https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm)、[美联储工作论文](#page=14)、[RBA 研究](https://www.rba.gov.au/publications/insights/australian-
-- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:272`：7. [美联储 Jefferson 演讲](https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm)、[美联储工作论文](#page=14)、[RBA 研究](https://www.rba.gov.au/publications/insights/australian-
-- `specials/ai-org-talent-mechanism/weekly/latest.md:272`：7. [美联储 Jefferson 演讲](https://www.federalreserve.gov/newsevents/speech/jefferson20261113a.htm)、[美联储工作论文](#page=14)、[RBA 研究](https://www.rba.gov.au/publications/insights/australian-
 
 ## 后续验证
 

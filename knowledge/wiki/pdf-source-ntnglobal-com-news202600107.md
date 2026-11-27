@@ -55,6 +55,10 @@ news202600107 已作为日报/周报 PDF 证据源入库，当前需要完成结
 - `specials/ai-org-talent-mechanism/2026-11-21/01-flat-organization.md:235`：《关于通过共同股份转移设立共同控股公司之最终协议的公告》
 - `specials/ai-org-talent-mechanism/2026-11-21/03-job-family-career-architecture.md:241`：Notice Concerning Execution of Definitive Agreement Regarding Establishment of a Joint Holding Company
 - `specials/ai-org-talent-mechanism/2026-11-21/information-candidates.md:10`：双方正式协议 PDF
+- `specials/ai-org-talent-mechanism/weekly/2026-W48-detailed.md:244`：联合公告 PDF
+- `specials/ai-org-talent-mechanism/weekly/2026-W48.md:244`：联合公告 PDF
+- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:244`：联合公告 PDF
+- `specials/ai-org-talent-mechanism/weekly/latest.md:244`：联合公告 PDF
 
 ## 后续精读任务
 

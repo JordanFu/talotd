@@ -59,6 +59,10 @@ status: 已下载原始PDF，已生成结构化初筛卡片
 - `specials/ai-org-talent-mechanism/2026-11-25/research-audit.md:13`：Integrated Research 股东会讲话
 - `specials/ai-org-talent-mechanism/2026-11-26/01-flat-organization.md:19`：Integrated Research（IRI）股东会原件
 - `specials/ai-org-talent-mechanism/2026-11-26/01-flat-organization.md:84`：IRI 股东会公司演讲
+- `specials/ai-org-talent-mechanism/weekly/2026-W48-detailed.md:246`：11/25 董事长讲话
+- `specials/ai-org-talent-mechanism/weekly/2026-W48.md:246`：11/25 董事长讲话
+- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:246`：11/25 董事长讲话
+- `specials/ai-org-talent-mechanism/weekly/latest.md:246`：11/25 董事长讲话
 
 ## 后续精读任务
 

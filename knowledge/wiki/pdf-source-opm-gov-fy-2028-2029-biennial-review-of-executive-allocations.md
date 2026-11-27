@@ -50,3 +50,7 @@ SES、SL、ST等特定名额；先核现有容量与预算，再按行动类型�
 - `specials/ai-org-talent-mechanism/2026-11-26/04-promotion-system.md:20`：FY 2028–2029 双年复核备忘录
 - `specials/ai-org-talent-mechanism/2026-11-26/04-promotion-system.md:81`：备忘录原件
 - `specials/ai-org-talent-mechanism/2026-11-26/information-candidates.md:11`：备忘录
+- `specials/ai-org-talent-mechanism/weekly/2026-W48-detailed.md:251`：OPM FY2028—2029 高级职位名额复核备忘录 PDF
+- `specials/ai-org-talent-mechanism/weekly/2026-W48.md:251`：OPM FY2028—2029 高级职位名额复核备忘录 PDF
+- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:251`：OPM FY2028—2029 高级职位名额复核备忘录 PDF
+- `specials/ai-org-talent-mechanism/weekly/latest.md:251`：OPM FY2028—2029 高级职位名额复核备忘录 PDF

@@ -67,8 +67,6 @@ investor day presentation 2026 已作为日报/周报 PDF 证据源入库，当�
 - `specials/ai-org-talent-mechanism/2026-11-18/research-audit.md:26`：[Zurich投资者日材料](#page=36)只标11月17日。可核约5,500件已结案英国车险案件、系统初筛和专家验证；2小时与20分钟是不同任务，缺未标记抽检、误漏检、全部总工时、积压和员工／客户后效。
 - `specials/ai-org-talent-mechanism/weekly/2026-W47-detailed.md:270`：5. [Zurich 投资者日材料](#page=36)：L2 公司自报任务拆分；非净节时。
 - `specials/ai-org-talent-mechanism/weekly/2026-W47.md:270`：5. [Zurich 投资者日材料](#page=36)：L2 公司自报任务拆分；非净节时。
-- `specials/ai-org-talent-mechanism/weekly/latest-detailed.md:270`：5. [Zurich 投资者日材料](#page=36)：L2 公司自报任务拆分；非净节时。
-- `specials/ai-org-talent-mechanism/weekly/latest.md:270`：5. [Zurich 投资者日材料](#page=36)：L2 公司自报任务拆分；非净节时。
 
 ## 后续精读任务
 
