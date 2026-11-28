@@ -46,5 +46,12 @@ status: 已下载，已核读指定范围，非全部精读
 
 ## 被引用位置
 
-- `daily/2026-11-28.md`：F1128-02。
-- `daily-report/2026-11-28.md`：阅读范围及限制。
+- `daily/2026-11-28.md:80`：交易所38页原件
+- `specials/ai-org-talent-mechanism/2026-11-27/00-overview.md:16`：上交所公告原件
+- `specials/ai-org-talent-mechanism/2026-11-27/02-talent-density.md:82`：上交所原件入口
+- `specials/ai-org-talent-mechanism/2026-11-27/03-job-family-career-architecture.md:14`：上交所公告原件
+- `specials/ai-org-talent-mechanism/2026-11-27/03-job-family-career-architecture.md:81`：上交所：赛微微电 2026 年限制性股票激励计划（草案）
+- `specials/ai-org-talent-mechanism/2026-11-27/04-promotion-system.md:13`：上交所公告
+- `specials/ai-org-talent-mechanism/2026-11-27/04-promotion-system.md:76`：赛微微电草案｜上交所原件
+- `specials/ai-org-talent-mechanism/2026-11-27/information-candidates.md:8`：上交所原件
+- `specials/ai-org-talent-mechanism/2026-11-27/research-audit.md:14`：上交所原件

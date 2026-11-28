@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T01:48:30.030Z",
+  "generatedAt": "2026-11-28T09:05:41.820Z",
   "module": "info-feed",
   "qualityStatus": "warn",
   "latestDate": "2026-11-28",
@@ -991,14 +991,15 @@
   },
   "warnings": [
     "最新日期“新增事实”少于 5 条：当前 4 条；已有缺口记录，首页应诚实显示可信新增不足。",
-    "最新日期疑似旧线复核被标为新增事实：F1128-03。"
+    "最新日期疑似旧线复核被标为新增事实：F1128-03。",
+    "external link not hard-checked in Phase 1"
   ],
   "criticalIssues": [],
   "brokenLinks": [],
   "links": {
-    "checkedAt": "2026-11-28T01:43:16.817Z",
+    "checkedAt": "2026-11-28T09:06:42.214Z",
     "qualityStatus": "warn",
-    "firstPartyChecked": 6031,
+    "firstPartyChecked": 6047,
     "externalWarnings": 32,
     "brokenCount": 0,
     "publicScanBridge": [
