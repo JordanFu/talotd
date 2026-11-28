@@ -8104,25 +8104,26 @@
     },
     {
       "id": "p167",
-      "title": "688325 20261127 C5DO",
-      "originalTitle": "688325 20261127 C5DO",
-      "author": "big5.sse.com.cn",
-      "publisher": "big5.sse.com.cn",
-      "sourceType": "media",
+      "title": "赛微微电：骨干覆盖与权益归属条件",
+      "originalTitle": "赛微微电：骨干覆盖与权益归属条件",
+      "author": "赛微微电、上海证券交易所",
+      "publisher": "赛微微电、上海证券交易所",
+      "sourceType": "company-primary",
       "topics": [
         "AI组织设计"
       ],
-      "date": "",
+      "date": "2026-11-27",
       "uploadDate": "2026-11-28",
-      "description": "688325 20261127 C5DO 已作为日报/周报 PDF 证据源入库，当前需要完成结构化精读后再进入结论层。 关注重点：AI组织设计。相关性：待评估：需精读后确定。",
+      "description": "F1128-02，L2。拟覆盖128人，相对2026年6月30日217人58.99%；123名其他骨干拟获91.80%权益，不是人数比例。40/30/30归属须公司及个人条件；未满足个人条件的对应份额不递延。草案须股东会特别决议，未证实授予或实际收益。 阅读范围：38页中参与、分配、归属、考核及实施批准相关条款，非逐页精读。",
       "summaryFile": "./knowledge/wiki/pdf-source-big5-sse-com-cn-688325-20261127-c5do.md",
       "rawFile": "./knowledge/raw/big5-sse-com-cn-688325-20261127-c5do.pdf",
       "fileName": "big5-sse-com-cn-688325-20261127-c5do.pdf",
       "fileSize": "273736 bytes",
       "tags": [
         "PDF自动入库",
-        "AI组织设计",
-        "big5.sse.com.cn"
+        "证据边界",
+        "指定范围已读",
+        "新披露"
       ],
       "originalUrl": "https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-11-27/688325_20261127_C5DO.pdf"
     },
@@ -8173,6 +8174,160 @@
         "rwsentosa.com"
       ],
       "originalUrl": "https://www.rwsentosa.com/-/jssmedia/project/non-gaming/rwsentosa/press-release/pdf/en/2026/press-release--rws-establishes-symbiosis-ai-living-lab-to-accelerate-technology-adoption-and-workfor.pdf?hash=A164C04AB8DFA1932E44B89ADD8F0343&rev=2c0d5e6f969b4d3ca383ec405ab38ae4&sc_lang=en"
+    },
+    {
+      "id": "p170",
+      "title": "人才流动：现任主管的放行与补位激励",
+      "originalTitle": "人才流动：现任主管的放行与补位激励",
+      "author": "Ingrid Haegele",
+      "publisher": "Ingrid Haegele",
+      "sourceType": "academic",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2025-07-21",
+      "uploadDate": "2026-11-28",
+      "description": "C1128-01，L2。某大型制造企业德国约3万人记录，利用1359次主管轮换及评价可见性分析。不是随机轮岗或奖金试验；识别依赖近似外生和替代机制检验。个人绩效高而潜力低不自动证明藏人，不能用问卷比例推广全球。 阅读范围：开放v3的HTML方法、结果及稳健性相关章节；111页PDF未逐页精读，未取得期刊全文。",
+      "summaryFile": "./knowledge/wiki/pdf-source-arxiv-org-2206-15098v3.md",
+      "rawFile": "./knowledge/raw/arxiv-org-2206-15098v3.pdf",
+      "fileName": "arxiv-org-2206-15098v3.pdf",
+      "fileSize": "1825187 bytes",
+      "tags": [
+        "PDF自动入库",
+        "证据边界",
+        "指定范围已读",
+        "旧材料补读"
+      ],
+      "originalUrl": "https://arxiv.org/pdf/2206.15098v3.pdf"
+    },
+    {
+      "id": "p171",
+      "title": "主管与岗位匹配：现有人才的长期配置",
+      "originalTitle": "主管与岗位匹配：现有人才的长期配置",
+      "author": "Virginia Minni、Quarterly Journal of Economics",
+      "publisher": "Virginia Minni、Quarterly Journal of Economics",
+      "sourceType": "academic",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2026-03-23",
+      "uploadDate": "2026-11-28",
+      "description": "C1128-02，L2。单一跨国企业2011—2021年约22.4万人，以主管过去晋升速度为研究代理。七年横向流动估计高约40%；15国销售子样本三年估计0.347个标准差，p=0.052，统计证据边缘，不作确定的普遍提效。类型非随机，不能按晋升速度机械选主管。CC BY 4.0正式期刊开放版，与旧工作稿分开。 阅读范围：51页正式开放期刊文中的数据、轮换识别、主要结果及竞争解释，未逐页精读。",
+      "summaryFile": "./knowledge/wiki/pdf-source-virginiaminni-github-io-minni-jmp.md",
+      "rawFile": "./knowledge/raw/virginiaminni-github-io-minni-jmp.pdf",
+      "fileName": "virginiaminni-github-io-minni-jmp.pdf",
+      "fileSize": "1991121 bytes",
+      "tags": [
+        "PDF自动入库",
+        "证据边界",
+        "指定范围已读",
+        "旧材料补读"
+      ],
+      "originalUrl": "https://virginiaminni.github.io/assets/files/Minni_JMP.pdf"
+    },
+    {
+      "id": "p172",
+      "title": "ENEOS：跨法人经营与战略资源权",
+      "originalTitle": "ENEOS：跨法人经营与战略资源权",
+      "author": "ENEOS Holdings",
+      "publisher": "ENEOS Holdings",
+      "sourceType": "company-primary",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2026-11-27",
+      "uploadDate": "2026-11-28",
+      "description": "F1128-01，L2。经营责任由业务单元承担，总部决定政策与战略资源。燃料供应交易组织与跨法人协作相连，烯烃整合晚至2027年4月；2024财年已有高管机制，不当首次新设。未来决定不是实施后效。 阅读范围：三页原件仅前两页正文；第三页组织图未核。",
+      "summaryFile": "./knowledge/wiki/pdf-source-hd-eneos-co-jp-20261127-03-01-mr02.md",
+      "rawFile": "./knowledge/raw/hd-eneos-co-jp-20261127-03-01-mr02.pdf",
+      "fileName": "hd-eneos-co-jp-20261127-03-01-mr02.pdf",
+      "fileSize": "422104 bytes",
+      "tags": [
+        "PDF自动入库",
+        "证据边界",
+        "指定范围已读",
+        "新披露"
+      ],
+      "originalUrl": "https://www.hd.eneos.co.jp/english/news/release_information/upload/20261127_03_01_mr02.pdf"
+    },
+    {
+      "id": "p173",
+      "title": "美团2026年第三季度业绩公告：未精读来源索引",
+      "originalTitle": "Announcement of the Results for the Three Months Ended September 30, 2026",
+      "author": "美团",
+      "publisher": "美团、香港交易所",
+      "sourceType": "company-primary",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2026-11-27",
+      "uploadDate": "2026-11-28",
+      "description": "仅读首页核文件身份，正文未精读，不提炼组织效果。www和www1两个域名的27页PDF哈希相同，只算一份材料，不构成独立互证。",
+      "summaryFile": "./knowledge/wiki/pdf-source-hkexnews-hk-2026112700341.md",
+      "rawFile": "./knowledge/raw/hkexnews-hk-2026112700341.pdf",
+      "fileName": "hkexnews-hk-2026112700341.pdf",
+      "fileSize": "130366 bytes",
+      "tags": [
+        "PDF自动入库",
+        "原件待精读",
+        "镜像去重"
+      ],
+      "originalUrl": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/1127/2026112700341.pdf",
+      "canonicalSourceUrl": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1127/2026112700341.pdf",
+      "contentSha256": "2c41b6f244781e03208fa0f3fab1f0780989a02790cf8e172544f3d815880da3",
+      "isMirror": false
+    },
+    {
+      "id": "p174",
+      "title": "航空工作文件：有效人工监督的实际条件",
+      "originalTitle": "航空工作文件：有效人工监督的实际条件",
+      "author": "阿曼、ITF、IFALPA、IFATCA；ICAO会议文件库",
+      "publisher": "阿曼、ITF、IFALPA、IFATCA；ICAO会议文件库",
+      "sourceType": "official-primary",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2026-10-09",
+      "uploadDate": "2026-11-28",
+      "description": "C1128-03，L2。向2026年11月16—20日会议提交的建议，非ICAO已采纳统一规定。监督须有信息、技能、负荷保障及干预权；劳动者参与从设计开始。未逐篇核底层引用，不能将担忧当事故或治理失败结果。 阅读范围：已读公开解析的四页工作文件；本地下载未成功，最终采纳结果未核。",
+      "summaryFile": "./knowledge/wiki/pdf-source-icao-int-atconf7-2026-wp-112-en.md",
+      "rawFile": "",
+      "fileName": "icao-int-atconf7-2026-wp-112-en.pdf",
+      "fileSize": "download pending",
+      "tags": [
+        "PDF自动入库",
+        "证据边界",
+        "下载待重试",
+        "旧材料补读"
+      ],
+      "originalUrl": "https://www.icao.int/sites/default/files/Meetings/2026/ATconf7/WPs/ATCONF7.2026.WP.112.EN.pdf"
+    },
+    {
+      "id": "p175",
+      "title": "美团2026年第三季度业绩公告：同内容镜像，未精读",
+      "originalTitle": "Announcement of the Results for the Three Months Ended September 30, 2026",
+      "author": "美团",
+      "publisher": "美团、香港交易所",
+      "sourceType": "company-primary",
+      "topics": [
+        "AI组织设计"
+      ],
+      "date": "2026-11-27",
+      "uploadDate": "2026-11-28",
+      "description": "仅读首页核文件身份，正文未精读，不提炼组织效果。www和www1两个域名的27页PDF哈希相同，只算一份材料，不构成独立互证。",
+      "summaryFile": "./knowledge/wiki/pdf-source-www1-hkexnews-hk-2026112700341.md",
+      "rawFile": "./knowledge/raw/www1-hkexnews-hk-2026112700341.pdf",
+      "fileName": "www1-hkexnews-hk-2026112700341.pdf",
+      "fileSize": "130366 bytes",
+      "tags": [
+        "PDF自动入库",
+        "原件待精读",
+        "镜像去重"
+      ],
+      "originalUrl": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1127/2026112700341.pdf",
+      "canonicalSourceUrl": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1127/2026112700341.pdf",
+      "contentSha256": "2c41b6f244781e03208fa0f3fab1f0780989a02790cf8e172544f3d815880da3",
+      "isMirror": true
     }
   ]
 }
